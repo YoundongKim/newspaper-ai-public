@@ -2,9 +2,10 @@
 
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
-Data cutoff: 2026-09-26
-Generated: 2026-09-27T02:48:41+00:00
+Collection period: 2026-06-01 ~ 2026-09-26
+Generated: 2026-09-27T03:02:03+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
+Verified articles exported for collection period: 5767
 
 Policy: 기사 전문·사진·그래프는 저장하거나 공개하지 않습니다. Fact Summary는 기사 사실·수치·논점을 독립적으로 재작성한 요약입니다.
 Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 보도량 지표이며 중요도 또는 투자 점수가 아닙니다.
@@ -14,9 +15,36 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - Themes: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/themes.json
 - Candidates: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/candidates.json
 - Narratives: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/narrative.json
-- Recent articles: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/articles.json
+- All verified articles in collection period: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/articles.json
 - llms.txt: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/llms.txt
 - Interactive dashboard: private / authentication required
+
+## Collection-period Theme observations
+- T003 · AI 연산·전력 인프라 수요 | period articles=208 | period dates=69 | first=2026-06-01 | last=2026-09-23
+- T089 · 국내 정치 지지율·여권 갈등 | period articles=190 | period dates=76 | first=2026-06-03 | last=2026-09-24
+- T092 · 상장제도·자본시장 구조·투자자보호 개편 | period articles=105 | period dates=47 | first=2026-06-01 | last=2026-09-25
+- T055 · 도심 주택공급·용도규제 완화 | period articles=104 | period dates=47 | first=2026-06-05 | last=2026-09-23
+- T064 · 종부세·보유세 제도 변화 | period articles=88 | period dates=40 | first=2026-06-05 | last=2026-09-14
+- T065 · 국가 재정지출·기금 편성 | period articles=87 | period dates=46 | first=2026-06-01 | last=2026-09-19
+- T037 · 고위공직자 인사검증·청문회 | period articles=87 | period dates=31 | first=2026-06-08 | last=2026-09-22
+- T052 · 검찰·사법제도 개편 | period articles=85 | period dates=45 | first=2026-06-09 | last=2026-09-24
+- T019 · 대미 투자·통상 협상 | period articles=76 | period dates=36 | first=2026-06-01 | last=2026-09-24
+- T046 · 중동 분쟁 대응·국제공조 | period articles=75 | period dates=45 | first=2026-06-01 | last=2026-09-24
+- T004 · 중동발 에너지·금융시장 충격 | period articles=71 | period dates=36 | first=2026-06-03 | last=2026-09-23
+- T083 · 정당·여권 인사·연대 재편 | period articles=66 | period dates=45 | first=2026-06-01 | last=2026-09-22
+- T077 · 원화·엔화 환율 변동과 기관 헤지 | period articles=63 | period dates=36 | first=2026-06-03 | last=2026-09-21
+- T091 · 트럼프 행정부 통상·환율·금리 압박 | period articles=62 | period dates=40 | first=2026-06-01 | last=2026-09-25
+- T002 · AI 안전·거버넌스 | period articles=58 | period dates=33 | first=2026-06-15 | last=2026-09-26
+- T048 · 북한 핵·미사일 위협 및 대북억지 | period articles=57 | period dates=34 | first=2026-06-05 | last=2026-09-24
+- T062 · 기업 사업재편·지배구조 변화 | period articles=57 | period dates=30 | first=2026-06-02 | last=2026-09-24
+- T042 · 정당 인사·정책조직 재편 | period articles=56 | period dates=38 | first=2026-06-08 | last=2026-09-24
+- T026 · 은행권 대출금리 조정 | period articles=56 | period dates=34 | first=2026-06-08 | last=2026-09-22
+- T047 · 중동 분쟁과 해상운송 안전 | period articles=54 | period dates=37 | first=2026-06-13 | last=2026-09-21
+- T009 · 미국 인플레이션·Fed 긴축 | period articles=54 | period dates=27 | first=2026-06-02 | last=2026-09-18
+- T021 · 반도체 중심 수출 증가 | period articles=53 | period dates=33 | first=2026-06-02 | last=2026-09-21
+- T045 · 중동 군사충돌 확산 | period articles=52 | period dates=36 | first=2026-06-02 | last=2026-09-21
+- T049 · 한미·한일 안보협력 강화 | period articles=51 | period dates=29 | first=2026-06-01 | last=2026-09-23
+- T079 · 경제안보·공급망 연대 강화 | period articles=44 | period dates=25 | first=2026-06-03 | last=2026-09-17
 
 ## Recent 7-day Theme observations
 - T019 · 대미 투자·통상 협상 | 7d articles=18 | 7d dates=4 | cross-media days=2 | 28d articles=46
@@ -94,7 +122,8 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T074 · 상속·신탁 시장 확대 | 2026-08-30~2026-09-26 | Previous 기간에는 가업상속공제 제도 개편 내용과 상속예금 미지급 잔액 집계가 중심이었다. Current 기간에는 상속 분쟁·상속신탁 시장 확대와 금융·로펌업계의 서비스 경쟁, 가업상속공제 개편안의 국회 논의·여야 공방, 요건 강화에 따른 승계 포기·회사 매각 현상, 은행 신탁 보수 급증 실적, 국민연금 신탁사업 부진으로 논점이 확장됐다. 제도 개편 논의에서 시장 확대·업계 대응·사업 실적으로 보도 초점이 이동한 것으로 확인된다.
 - T073 · 글로벌 원자재 가격 상승·인플레 압력 | 2026-08-30~2026-09-26 | 이전 기간에는 폭염발 농산물 가격과 중동 리스크발 유가 상승이 소비자물가 3%대 복귀 전망으로 이어지고, 구리·코발트 등 핵심광물 공급 불안에 대응한 비축·자원개발 정책이 논점이었다. 이번 기간에는 원자재 전방위 랠리(CRB지수 42% 급등)와 석유제품 정제마진 사상 최고치가 부각되고, 논점이 소비자물가 전망에서 생산자물가 반등과 정부의 유류비 부담 완화 대책, 각국의 에너지 지원금 확대와 재정 건전성 경고로 확장됐다.
 
-## Recent verified articles (14 days)
+## Latest verified articles (showing 60 of 5767 in collection period)
+Full collection: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/articles.json
 - [2026-09-26 · 매일경제 · A1면 · T087] 習, 트럼프 면전서 '대만 레드라인' 압박
   Summary: 2025년 10월 24일 워싱턴 백악관에서 열린 미중 정상회담에서 시진핑 중국 국가주석은 트럼프 대통령에게 '대만 독립' 반대 입장을 견지하고 대만 문제를 신중히 처리할 것을 요구했으나 트럼프는 대만 관련 언급을 피했다. 이란 전쟁에서 트럼프는 중국의 역할과 경제적 압박 동참을 촉구한 반면, 시진핑은 이슬라마바드 양해각서 복귀와 대화·협상을 통한 핵 문제 포함 전면 합의를 지지한다는 원론적 입장을 밝혔다. AI와 관련해 트럼프는 안보·기술·슈퍼지능을 회담 의제로 언급했고, 시진핑은 미중이 AI를 발전시키고 규제할 능력과 책임이 있다고 강조해 시각차를 보였다.
   Source: https://n.news.naver.com/article/newspaper/009/0005740004?date=20260926
