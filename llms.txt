@@ -1,0 +1,20 @@
+# Korea Economic Narrative Intelligence
+
+This site publishes a read-only, machine-readable projection of economic and industrial narrative data derived from the print editions of Maeil Business Newspaper and Korea Economic Daily.
+
+Coverage:
+- Publishers: 매일경제, 한국경제
+- Print scope: A1-A10
+- Data cutoff: 2026-09-26
+- Full article text is not stored or redistributed.
+- Article summaries are independently rewritten factual summaries.
+- Theme/Candidate counts describe observed media coverage; they are not investment scores or importance rankings.
+
+Primary resources:
+- Latest text: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/latest.txt
+- Latest compact JSON: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/latest.json
+- Themes: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/themes.json
+- Emerging Candidate signals: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/candidates.json
+- Narrative changes: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/narrative.json
+- Recent verified article metadata and factual summaries: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/articles.json
+- Interactive dashboard: private / authentication required

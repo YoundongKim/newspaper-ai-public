@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/sitemap.xml
