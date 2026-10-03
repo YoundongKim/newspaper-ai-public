@@ -7,4 +7,8 @@
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/narrative.json</loc></url>
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/articles.json</loc></url>
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/llms.txt</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/theme_timeline.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/events.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/event_theme.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/weekly_analysis.json</loc></url>
 </urlset>

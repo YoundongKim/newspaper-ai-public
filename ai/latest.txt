@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-05-01 ~ 2026-10-03
-Generated: 2026-10-03T01:09:52+00:00
+Generated: 2026-10-03T04:46:41+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 7610
 
@@ -16,6 +16,10 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - Candidates: https://youndongkim.github.io/newspaper-ai-public/ai/candidates.json
 - Narratives: https://youndongkim.github.io/newspaper-ai-public/ai/narrative.json
 - All verified articles in collection period: https://youndongkim.github.io/newspaper-ai-public/ai/articles.json
+- Theme weekly timeline: https://youndongkim.github.io/newspaper-ai-public/ai/theme_timeline.json
+- Events: https://youndongkim.github.io/newspaper-ai-public/ai/events.json
+- Event-Theme relations: https://youndongkim.github.io/newspaper-ai-public/ai/event_theme.json
+- Weekly analysis: https://youndongkim.github.io/newspaper-ai-public/ai/weekly_analysis.json
 - llms.txt: https://youndongkim.github.io/newspaper-ai-public/llms.txt
 - Interactive dashboard: private / authentication required
 

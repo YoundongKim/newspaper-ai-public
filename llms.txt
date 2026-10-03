@@ -17,4 +17,8 @@ Primary resources:
 - Emerging Candidate signals: https://youndongkim.github.io/newspaper-ai-public/ai/candidates.json
 - Narrative changes: https://youndongkim.github.io/newspaper-ai-public/ai/narrative.json
 - All verified article metadata and factual summaries in the collection period: https://youndongkim.github.io/newspaper-ai-public/ai/articles.json
+- Theme weekly timeline: https://youndongkim.github.io/newspaper-ai-public/ai/theme_timeline.json
+- Events: https://youndongkim.github.io/newspaper-ai-public/ai/events.json
+- Event-Theme relations: https://youndongkim.github.io/newspaper-ai-public/ai/event_theme.json
+- Weekly analysis: https://youndongkim.github.io/newspaper-ai-public/ai/weekly_analysis.json
 - Interactive dashboard: private / authentication required
