@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/latest.txt</loc></url>
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/latest.json</loc></url>
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/themes.json</loc></url>
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/candidates.json</loc></url>
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/narrative.json</loc></url>
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/ai/articles.json</loc></url>
-  <url><loc>https://raw.githubusercontent.com/YoundongKim/newspaper-ai-public/main/llms.txt</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/latest.txt</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/latest.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/themes.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/candidates.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/narrative.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/articles.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/llms.txt</loc></url>
 </urlset>
