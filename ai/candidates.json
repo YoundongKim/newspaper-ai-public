@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-04T08:00:20+00:00",
+  "generated_at": "2026-10-04T09:33:17+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-03",
   "coverage": {
@@ -215,7 +215,7 @@
     },
     {
       "candidate_id": "C0473",
-      "proposed_theme": "토지거래허가구역 실거주 유예 확대",
+      "proposed_theme": "토지거래허가구역·실거주 규제 변화",
       "article_count": 5,
       "distinct_dates": 4,
       "publisher_count": 2,
@@ -224,9 +224,9 @@
       "review_ready": true,
       "first_seen": "2026-05-12",
       "last_seen": "2026-09-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T102",
+      "next_action": "Merged → T102"
     },
     {
       "candidate_id": "C0758",
@@ -590,7 +590,7 @@
     },
     {
       "candidate_id": "C2024",
-      "proposed_theme": "K방산 수출 확대·생산능력 증설",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 3,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -599,9 +599,9 @@
       "review_ready": true,
       "first_seen": "2026-06-15",
       "last_seen": "2026-09-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C3325",
@@ -680,7 +680,7 @@
     },
     {
       "candidate_id": "C0106",
-      "proposed_theme": "한국은행 기준금리 인상 전망",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -689,9 +689,9 @@
       "review_ready": true,
       "first_seen": "2026-07-13",
       "last_seen": "2026-08-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C0126",
@@ -950,7 +950,7 @@
     },
     {
       "candidate_id": "C1151",
-      "proposed_theme": "한국 방산 수출·나토 협력 확대",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -959,9 +959,9 @@
       "review_ready": true,
       "first_seen": "2026-07-08",
       "last_seen": "2026-07-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C1168",
@@ -980,7 +980,7 @@
     },
     {
       "candidate_id": "C1172",
-      "proposed_theme": "한국은행 기준금리 인상 전환",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -989,9 +989,9 @@
       "review_ready": true,
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C1232",
@@ -1055,7 +1055,7 @@
     },
     {
       "candidate_id": "C1531",
-      "proposed_theme": "한국은행 기준금리 인상 기조",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -1064,9 +1064,9 @@
       "review_ready": true,
       "first_seen": "2026-06-13",
       "last_seen": "2026-07-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C1840",
@@ -1115,7 +1115,7 @@
     },
     {
       "candidate_id": "C2252",
-      "proposed_theme": "K방산 해외 현지생산·공급망 협력 확대",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -1124,9 +1124,9 @@
       "review_ready": true,
       "first_seen": "2026-06-26",
       "last_seen": "2026-06-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C2410",
@@ -1355,7 +1355,7 @@
     },
     {
       "candidate_id": "C0204",
-      "proposed_theme": "한국은행 기준금리 인상·긴축 전환",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 4,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -1364,9 +1364,9 @@
       "review_ready": true,
       "first_seen": "2026-08-28",
       "last_seen": "2026-08-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C1300",
@@ -1520,7 +1520,7 @@
     },
     {
       "candidate_id": "C2976",
-      "proposed_theme": "한국은행 금리인상 기조 전환",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -1529,9 +1529,9 @@
       "review_ready": true,
       "first_seen": "2026-05-29",
       "last_seen": "2026-05-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C0016",
@@ -46160,7 +46160,7 @@
     },
     {
       "candidate_id": "C3095",
-      "proposed_theme": "방산 수출의 현지 생태계 이식형 전환",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -46169,9 +46169,9 @@
       "review_ready": false,
       "first_seen": "2026-10-01",
       "last_seen": "2026-10-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C3096",
@@ -46445,7 +46445,7 @@
     },
     {
       "candidate_id": "C3116",
-      "proposed_theme": "K방산 수출 확대·미국 공급망 진출",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -46454,9 +46454,9 @@
       "review_ready": false,
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C3117",

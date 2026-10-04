@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-04-01 ~ 2026-10-03
-Generated: 2026-10-04T08:00:20+00:00
+Generated: 2026-10-04T09:33:17+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 9175
 
@@ -65,6 +65,7 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T087 · 글로벌 질서·지정학 리스크 재편 | 7d articles=5 | 7d dates=3 | cross-media days=0 | 28d articles=11
 - T065 · 국가 재정지출·기금 편성 | 7d articles=5 | 7d dates=2 | cross-media days=1 | 28d articles=14
 - T062 · 기업 사업재편·지배구조 변화 | 7d articles=4 | 7d dates=3 | cross-media days=0 | 28d articles=12
+- T101 · K방산 수출·현지생산·공급망 협력 | 7d articles=4 | 7d dates=3 | cross-media days=0 | 28d articles=4
 - T034 · 플랫폼 개인정보보호 규제 | 7d articles=4 | 7d dates=2 | cross-media days=1 | 28d articles=9
 - T040 · 부동산 투자정보·산업 행사 | 7d articles=4 | 7d dates=2 | cross-media days=0 | 28d articles=5
 - T004 · 중동발 에너지·금융시장 충격 | 7d articles=4 | 7d dates=1 | cross-media days=1 | 28d articles=19
@@ -75,7 +76,6 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T073 · 글로벌 원자재 가격 상승·인플레 압력 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=9
 - T089 · 국내 정치 지지율·여권 갈등 | 7d articles=3 | 7d dates=2 | cross-media days=0 | 28d articles=23
 - T021 · 반도체 중심 수출 증가 | 7d articles=3 | 7d dates=1 | cross-media days=1 | 28d articles=11
-- T009 · 미국 인플레이션·Fed 긴축 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=14
 
 ## Review-ready Candidate Signals
 - C1425 · 지정학 관련 이슈 | signal=PERSISTENT_CROSS_MEDIA | articles=15 | dates=8 | cross-media days=1
@@ -88,7 +88,6 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - C1315 · AI 관련 이슈 | signal=PERSISTENT | articles=6 | dates=5 | cross-media days=0
 - C1884 · 국회 원구성·상임위 배분 갈등 | signal=PERSISTENT | articles=5 | dates=5 | cross-media days=0
 - C0663 · 국내 증시 급락·개인투자자 손실 | signal=PERSISTENT | articles=7 | dates=4 | cross-media days=0
-- C0473 · 토지거래허가구역 실거주 유예 확대 | signal=PERSISTENT | articles=5 | dates=4 | cross-media days=0
 - C0758 · 기업규제 관련 이슈 | signal=PERSISTENT | articles=4 | dates=4 | cross-media days=0
 - C1576 · 지방교육재정교부금·목적세 배분 개편 | signal=PERSISTENT | articles=4 | dates=4 | cross-media days=0
 - C0658 · 글로벌 지식포럼·국제 컨퍼런스 개최 | signal=PERSISTENT | articles=7 | dates=3 | cross-media days=0
@@ -103,6 +102,7 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - C2626 · 성과급 임금성·퇴직금 산정 분쟁 | signal=PERSISTENT | articles=5 | dates=2 | cross-media days=0
 - C1316 · 벤처투자 관련 이슈 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
 - C2872 · 지방선거 유세·후보 지원 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
+- C0038 · 퇴직 경제관료 재취업 심사 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 
 ## Latest Narrative Changes
 - T096 · 원전 수출·국제 원전산업 협력 | 2026-09-06~2026-10-03 | 비교 데이터 부족

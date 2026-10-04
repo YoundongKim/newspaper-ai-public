@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-04T08:00:20+00:00",
+  "generated_at": "2026-10-04T09:33:17+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-03",
   "coverage": {
@@ -3694,6 +3694,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W20",
+      "theme_id": "T102",
+      "theme": "토지거래허가구역·실거주 규제 변화",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W21",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -4627,6 +4638,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W22",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W23",
@@ -5630,6 +5652,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W24",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W25",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -6200,6 +6233,28 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W25",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W25",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W26",
@@ -6793,6 +6848,17 @@
       "distinct_dates": 1,
       "cross_media_days": 0,
       "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W26",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
       "hankyung_count": 1
     },
     {
@@ -7863,6 +7929,28 @@
       "hankyung_count": 1
     },
     {
+      "week_id": "2026-W28",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W28",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W29",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -8391,6 +8479,17 @@
       "hankyung_count": 1
     },
     {
+      "week_id": "2026-W29",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W30",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -8905,6 +9004,17 @@
       "distinct_dates": 1,
       "cross_media_days": 1,
       "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W30",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
       "hankyung_count": 1
     },
     {
@@ -11680,6 +11790,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W35",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 5,
+      "daily_average": 0.833333,
+      "distinct_dates": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 2,
+      "hankyung_count": 3
+    },
+    {
       "week_id": "2026-W36",
       "theme_id": "T001",
       "theme": "금융지주 지배구조·CEO 승계",
@@ -13462,6 +13583,17 @@
       "hankyung_count": 4
     },
     {
+      "week_id": "2026-W38",
+      "theme_id": "T102",
+      "theme": "토지거래허가구역·실거주 규제 변화",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 3
+    },
+    {
       "week_id": "2026-W39",
       "theme_id": "T001",
       "theme": "금융지주 지배구조·CEO 승계",
@@ -14626,6 +14758,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W40",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 4,
+      "daily_average": 0.666667,
+      "distinct_dates": 3,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 4
     }
   ]
 }
