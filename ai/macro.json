@@ -1,0 +1,367 @@
+{
+  "schema_version": "ai_public_export_v1",
+  "generated_at": "2026-10-05T07:17:34+00:00",
+  "data_start": "2026-04-01",
+  "data_cutoff": "2026-10-05",
+  "coverage": {
+    "publishers": [
+      "매일경제",
+      "한국경제"
+    ],
+    "print_pages": "A1-A10",
+    "source_policy": "actual print-published articles only"
+  },
+  "copyright_policy": {
+    "full_article_text_exported": false,
+    "images_exported": false,
+    "charts_exported": false,
+    "fact_summaries_are_independently_rewritten": true
+  },
+  "macro_layer_status": {
+    "semantic_audit_status": "PASS",
+    "metric_count": 28,
+    "verified_metric_count": 28,
+    "review_required_count": 0,
+    "fact_values_publicly_exported": false,
+    "source_of_truth": "Private Fact_DB / Metric_Master; public export contains definitions and linkage policy only."
+  },
+  "metrics": [
+    {
+      "metric_id": "MACRO_GDP_REAL_SA",
+      "metric_name": "Real GDP - Seasonally Adjusted",
+      "definition": "Quarterly real GDP, expenditure-side total, seasonally adjusted, as reported by Bank of Korea ECOS.",
+      "scope": "KOREA_TOTAL_SA",
+      "unit": "KRW_BN",
+      "frequency": "QUARTERLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_IPI_SA",
+      "metric_name": "Industrial Production Index - SA",
+      "definition": "Nationwide total mining and manufacturing production index, seasonally adjusted, 2020=100.",
+      "scope": "KOREA_TOTAL_SA",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_SERVICE_PROD_SA",
+      "metric_name": "Service Production Index - SA",
+      "definition": "Total service production index, seasonally adjusted, 2020=100.",
+      "scope": "KOREA_TOTAL_SA",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_RETAIL_SALES_SA",
+      "metric_name": "Retail Sales Index - SA",
+      "definition": "Total retail sales index, seasonally adjusted, 2020=100.",
+      "scope": "KOREA_TOTAL_SA",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_FACILITY_INVEST_SA",
+      "metric_name": "Facility Investment Index - SA",
+      "definition": "Total facility investment index, seasonally adjusted, 2020=100.",
+      "scope": "KOREA_TOTAL_SA",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_LEADING_CYCLE",
+      "metric_name": "Leading Composite Index - Cyclical Component",
+      "definition": "Official leading composite index cyclical component, calculated by removing the trend component from the leading composite index.",
+      "scope": "KOREA_NATIONAL",
+      "unit": "INDEX",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_COINCIDENT_CYCLE",
+      "metric_name": "Coincident Composite Index - Cyclical Component",
+      "definition": "Official coincident composite index cyclical component, calculated by removing the trend component from the coincident composite index and used to assess the current business-cycle phase and turning points.",
+      "scope": "KOREA_NATIONAL",
+      "unit": "INDEX",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_CPI_TOTAL",
+      "metric_name": "Consumer Price Index - Total",
+      "definition": "Nationwide consumer price index total, 2020=100.",
+      "scope": "KOREA_TOTAL_NSA",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_CORE_CPI_FE",
+      "metric_name": "Core CPI - Excluding Food and Energy",
+      "definition": "Consumer price index excluding food and energy, 2020=100.",
+      "scope": "KOREA_FOOD_ENERGY_EXCLUDED_NSA",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_PPI_TOTAL",
+      "metric_name": "Producer Price Index - Total",
+      "definition": "Producer price index total under the basic classification, 2020=100.",
+      "scope": "KOREA_TOTAL",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_IMPORT_PRICE_KRW",
+      "metric_name": "Import Price Index - KRW Basis",
+      "definition": "Import price index total on a Korean-won basis, 2020=100.",
+      "scope": "KOREA_TOTAL_KRW_BASIS",
+      "unit": "INDEX_2020_100",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_BOK_BASE_RATE",
+      "metric_name": "Bank of Korea Base Rate",
+      "definition": "Official Bank of Korea base rate.",
+      "scope": "KOREA_POLICY_RATE",
+      "unit": "PCT",
+      "frequency": "DAILY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_KTB_3Y",
+      "metric_name": "Korea Treasury Bond Yield - 3Y",
+      "definition": "Official daily 3-year Korea Treasury Bond market yield.",
+      "scope": "KOREA_MARKET",
+      "unit": "PCT",
+      "frequency": "DAILY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_KTB_10Y",
+      "metric_name": "Korea Treasury Bond Yield - 10Y",
+      "definition": "Official daily 10-year Korea Treasury Bond market yield.",
+      "scope": "KOREA_MARKET",
+      "unit": "PCT",
+      "frequency": "DAILY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_CORP_AA_3Y",
+      "metric_name": "Corporate Bond Yield - AA- 3Y",
+      "definition": "Official daily 3-year AA- corporate bond market yield.",
+      "scope": "KOREA_MARKET_AA_MINUS",
+      "unit": "PCT",
+      "frequency": "DAILY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_M2_SA_AVG",
+      "metric_name": "M2 Average Balance - SA",
+      "definition": "M2 average balance, seasonally adjusted series.",
+      "scope": "KOREA_TOTAL_SA_AVG",
+      "unit": "KRW_BN",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_M2_NSA_AVG",
+      "metric_name": "M2 Average Balance - NSA",
+      "definition": "M2 average balance, original non-seasonally-adjusted series.",
+      "scope": "KOREA_TOTAL_NSA_AVG",
+      "unit": "KRW_BN",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_HH_CREDIT",
+      "metric_name": "Household Credit",
+      "definition": "Quarter-end total household credit as reported by Bank of Korea.",
+      "scope": "KOREA_TOTAL",
+      "unit": "KRW_BN",
+      "frequency": "QUARTERLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_CURRENT_ACCOUNT",
+      "metric_name": "Current Account Balance",
+      "definition": "Monthly current account balance.",
+      "scope": "KOREA_TOTAL",
+      "unit": "USD_MN",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_USDKRW_CLOSE",
+      "metric_name": "USD/KRW Market Close",
+      "definition": "Daily Seoul interbank USD/KRW market closing rate.",
+      "scope": "SEOUL_INTERBANK_MARKET_CLOSE",
+      "unit": "KRW_PER_USD",
+      "frequency": "DAILY",
+      "canonical_source_id": "SRC_BOK_ECOS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_EMPLOYED",
+      "metric_name": "Employed Persons",
+      "definition": "Headline employed persons, sex total.",
+      "scope": "KOREA_TOTAL_SEX_ALL_NSA",
+      "unit": "THOUSAND_PERSONS",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_EMP_RATE",
+      "metric_name": "Employment Rate",
+      "definition": "Headline employment-to-population ratio, sex total.",
+      "scope": "KOREA_TOTAL_SEX_ALL_NSA",
+      "unit": "PCT",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_UNEMP_RATE",
+      "metric_name": "Unemployment Rate",
+      "definition": "Headline unemployment rate, sex total, original series.",
+      "scope": "KOREA_TOTAL_SEX_ALL_NSA",
+      "unit": "PCT",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KOSIS",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_EXPORT_TOTAL_USD",
+      "metric_name": "Total Exports",
+      "definition": "Monthly total export value for the Korea customs territory on an FOB basis.",
+      "scope": "KOREA_CUSTOMS_TOTAL",
+      "unit": "USD",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KCS_TRADE",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_IMPORT_TOTAL_USD",
+      "metric_name": "Total Imports",
+      "definition": "Monthly total import value for the Korea customs territory on a CIF basis.",
+      "scope": "KOREA_CUSTOMS_TOTAL",
+      "unit": "USD",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KCS_TRADE",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_TRADE_BALANCE_USD",
+      "metric_name": "Trade Balance",
+      "definition": "Monthly merchandise trade balance from Korea Customs Service total trade statistics.",
+      "scope": "KOREA_CUSTOMS_TOTAL",
+      "unit": "USD",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_KCS_TRADE",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_APT_SALE_PRICE_INDEX",
+      "metric_name": "Apartment Actual Transaction Price Index",
+      "definition": "Nationwide monthly apartment actual transaction price index from the Korea Real Estate Board, based on reported actual apartment sale transaction prices.",
+      "scope": "KOREA_APARTMENT_NATIONAL",
+      "unit": "INDEX",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_RONE",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    },
+    {
+      "metric_id": "MACRO_APT_SALE_TXN_COUNT",
+      "metric_name": "Apartment Sale Transactions",
+      "definition": "Nationwide monthly count of apartment units whose building type is apartment and transaction cause is sale.",
+      "scope": "KOREA_APARTMENT_NATIONAL",
+      "unit": "HOUSEHOLDS",
+      "frequency": "MONTHLY",
+      "canonical_source_id": "SRC_RONE",
+      "collection_status": "VERIFIED",
+      "definition_version": "macro_metric_v1"
+    }
+  ],
+  "theme_macro_link_policy": {
+    "current_status": "DESIGNED_NOT_YET_POPULATED",
+    "link_types": {
+      "EXPLICIT": "Article text explicitly mentions the macro indicator or directly equivalent official statistic.",
+      "DIRECT_CONCEPT": "Theme definition directly corresponds to the official macro metric even if the exact statistic name is not quoted.",
+      "CONTEXT": "Economically related context only; excluded from automatic narrative-macro state classification unless separately verified."
+    },
+    "automatic_analysis_eligible_link_types": [
+      "EXPLICIT",
+      "DIRECT_CONCEPT"
+    ],
+    "automatic_analysis_requires_link_status": "VERIFIED",
+    "as_of_rule": "Use only facts whose Public_Available_At is on or before the analysis date; never use later releases when reconstructing past narratives.",
+    "causality_rule": "Co-movement or timing overlap must not be described as causation unless supported by the underlying articles or an explicit analytical design.",
+    "definition_rule": "Do not merge or splice metrics with different official definitions."
+  },
+  "planned_analysis_layers": [
+    "Theme_Macro_Link_DB",
+    "AsOf_Macro_View",
+    "Macro_Feature_DB",
+    "Narrative_Macro_DB"
+  ],
+  "planned_narrative_macro_states": [
+    "ALIGNED",
+    "NARRATIVE_ONLY",
+    "DATA_ONLY",
+    "STABLE"
+  ],
+  "interpretation": "The macro layer is a verified official-data context layer for media narratives. It does not turn media coverage into an investment score and does not infer causality from correlation."
+}

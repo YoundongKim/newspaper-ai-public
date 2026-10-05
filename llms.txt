@@ -5,7 +5,7 @@ This site publishes a read-only, machine-readable projection of economic and ind
 Coverage:
 - Publishers: 매일경제, 한국경제
 - Print scope: A1-A10
-- Collection period: 2026-04-01 ~ 2026-10-03
+- Collection period: 2026-04-01 ~ 2026-10-05
 - Full article text is not stored or redistributed.
 - Article summaries are independently rewritten factual summaries.
 - Theme/Candidate counts describe observed media coverage; they are not investment scores or importance rankings.
@@ -21,4 +21,5 @@ Primary resources:
 - Events: https://youndongkim.github.io/newspaper-ai-public/ai/events.json
 - Event-Theme relations: https://youndongkim.github.io/newspaper-ai-public/ai/event_theme.json
 - Weekly analysis: https://youndongkim.github.io/newspaper-ai-public/ai/weekly_analysis.json
+- Macro definitions and linkage policy: https://youndongkim.github.io/newspaper-ai-public/ai/macro.json
 - Interactive dashboard: private / authentication required
