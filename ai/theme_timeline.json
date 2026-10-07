@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-07T00:11:33+00:00",
+  "generated_at": "2026-10-07T13:20:03+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-07",
   "coverage": {
@@ -1179,6 +1179,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W15",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W16",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -1771,6 +1782,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W16",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W17",
@@ -2706,6 +2728,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W18",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W19",
@@ -3709,6 +3742,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W20",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W21",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -4191,6 +4235,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W21",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 3,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W22",
@@ -7361,6 +7416,17 @@
       "hankyung_count": 3
     },
     {
+      "week_id": "2026-W27",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 3
+    },
+    {
       "week_id": "2026-W28",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -9570,6 +9636,17 @@
       "cross_media_days": 1,
       "maekyung_count": 1,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W31",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W32",
@@ -12375,6 +12452,17 @@
       "cross_media_days": 1,
       "maekyung_count": 1,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W36",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W37",
@@ -15477,6 +15565,17 @@
       "cross_media_days": 0,
       "maekyung_count": 2,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W41",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 4,
+      "daily_average": 1.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 4
     }
   ]
 }

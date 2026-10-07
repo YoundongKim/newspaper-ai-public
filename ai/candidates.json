@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-07T00:11:33+00:00",
+  "generated_at": "2026-10-07T13:20:03+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-07",
   "coverage": {
@@ -3245,7 +3245,7 @@
     },
     {
       "candidate_id": "C1007",
-      "proposed_theme": "글로벌 컨소시엄 스테이블코인 경쟁",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3254,9 +3254,9 @@
       "review_ready": false,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C1022",
@@ -4565,7 +4565,7 @@
     },
     {
       "candidate_id": "C0371",
-      "proposed_theme": "글로벌 금융사 스테이블코인 결제망 구축",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -4574,9 +4574,9 @@
       "review_ready": false,
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C0390",
@@ -5735,7 +5735,7 @@
     },
     {
       "candidate_id": "C1593",
-      "proposed_theme": "원화 스테이블코인 사업화·제도화 경쟁",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -5744,9 +5744,9 @@
       "review_ready": false,
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C1594",
@@ -7865,7 +7865,7 @@
     },
     {
       "candidate_id": "C3772",
-      "proposed_theme": "AI 에이전트 결제·스테이블코인 결제 인프라",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -7874,9 +7874,9 @@
       "review_ready": false,
       "first_seen": "2026-04-29",
       "last_seen": "2026-04-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C3774",
@@ -7910,7 +7910,7 @@
     },
     {
       "candidate_id": "C3862",
-      "proposed_theme": "스테이블코인 기업결제·은행망 연계 확산",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -7919,9 +7919,9 @@
       "review_ready": false,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C3869",
@@ -12530,7 +12530,7 @@
     },
     {
       "candidate_id": "C0360",
-      "proposed_theme": "은행권 스테이블코인 발행 경쟁",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -12539,9 +12539,9 @@
       "review_ready": false,
       "first_seen": "2026-09-03",
       "last_seen": "2026-09-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C0361",
@@ -40865,7 +40865,7 @@
     },
     {
       "candidate_id": "C2664",
-      "proposed_theme": "은행권 디지털자산·스테이블코인 사업 진출",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -40874,9 +40874,9 @@
       "review_ready": false,
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C2667",
@@ -41390,7 +41390,7 @@
     },
     {
       "candidate_id": "C2703",
-      "proposed_theme": "원화 스테이블코인·토큰화 금융 인프라 경쟁",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -41399,13 +41399,13 @@
       "review_ready": false,
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C2706",
-      "proposed_theme": "스테이블코인 일상결제·웹3 인프라 확산",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -41414,13 +41414,13 @@
       "review_ready": false,
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C2707",
-      "proposed_theme": "스테이블코인 규제 정합성·국제공조",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -41429,9 +41429,9 @@
       "review_ready": false,
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C2708",
@@ -48575,7 +48575,7 @@
     },
     {
       "candidate_id": "C3254",
-      "proposed_theme": "금융사 가상자산·스테이블코인 사업 진출 경쟁",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48584,9 +48584,9 @@
       "review_ready": false,
       "first_seen": "2026-04-06",
       "last_seen": "2026-04-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C3255",
@@ -51740,7 +51740,7 @@
     },
     {
       "candidate_id": "C3490",
-      "proposed_theme": "가상자산·스테이블코인 제도화",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -51749,9 +51749,9 @@
       "review_ready": false,
       "first_seen": "2026-04-17",
       "last_seen": "2026-04-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C3491",
@@ -56540,7 +56540,7 @@
     },
     {
       "candidate_id": "C3857",
-      "proposed_theme": "스테이블코인 기업결제·급여 확산",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56549,9 +56549,9 @@
       "review_ready": false,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C3858",
@@ -56600,7 +56600,7 @@
     },
     {
       "candidate_id": "C3861",
-      "proposed_theme": "스테이블코인 무역결제·은행망 연계 실증",
+      "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56609,9 +56609,9 @@
       "review_ready": false,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T103",
+      "next_action": "Merged → T103"
     },
     {
       "candidate_id": "C3863",

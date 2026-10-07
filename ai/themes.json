@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-07T00:11:33+00:00",
+  "generated_at": "2026-10-07T13:20:03+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-07",
   "coverage": {
@@ -377,6 +377,26 @@
       "distinct_dates_28d": 10,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 2
+    },
+    {
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "status": "Active",
+      "article_count_total": 20,
+      "distinct_dates_total": 9,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-06",
+      "last_seen": "2026-10-06",
+      "article_count_7d": 4,
+      "distinct_dates_7d": 1,
+      "publisher_count_7d": 1,
+      "cross_media_days_7d": 0,
+      "maekyung_count_7d": 0,
+      "hankyung_count_7d": 4,
+      "article_count_28d": 4,
+      "distinct_dates_28d": 1,
+      "publisher_count_28d": 1,
+      "cross_media_days_28d": 0
     },
     {
       "theme_id": "T031",

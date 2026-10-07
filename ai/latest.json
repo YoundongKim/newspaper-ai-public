@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-07T00:11:33+00:00",
+  "generated_at": "2026-10-07T13:20:03+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-07",
   "coverage": {
@@ -18,8 +18,8 @@
     "fact_summaries_are_independently_rewritten": true
   },
   "counts": {
-    "themes": 102,
-    "open_candidates": 3785,
+    "themes": 103,
+    "open_candidates": 3771,
     "review_ready_candidates": 127,
     "latest_narratives": 83,
     "verified_articles_in_collection_period": 9429
@@ -1188,6 +1188,26 @@
       "cross_media_days_28d": 2
     },
     {
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "status": "Active",
+      "article_count_total": 20,
+      "distinct_dates_total": 9,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-06",
+      "last_seen": "2026-10-06",
+      "article_count_7d": 4,
+      "distinct_dates_7d": 1,
+      "publisher_count_7d": 1,
+      "cross_media_days_7d": 0,
+      "maekyung_count_7d": 0,
+      "hankyung_count_7d": 4,
+      "article_count_28d": 4,
+      "distinct_dates_28d": 1,
+      "publisher_count_28d": 1,
+      "cross_media_days_28d": 0
+    },
+    {
       "theme_id": "T031",
       "theme": "중국 제조업 과잉공급·출혈경쟁 규제",
       "status": "Active",
@@ -1606,26 +1626,6 @@
       "distinct_dates_28d": 2,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 1
-    },
-    {
-      "theme_id": "T014",
-      "theme": "LNG 공급차질·석탄 대체수요",
-      "status": "Active",
-      "article_count_total": 8,
-      "distinct_dates_total": 7,
-      "publisher_count_total": 2,
-      "first_seen": "2026-04-03",
-      "last_seen": "2026-10-03",
-      "article_count_7d": 1,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 1,
-      "hankyung_count_7d": 0,
-      "article_count_28d": 4,
-      "distinct_dates_28d": 4,
-      "publisher_count_28d": 2,
-      "cross_media_days_28d": 0
     }
   ],
   "review_ready_candidate_signals": [
@@ -6219,10 +6219,10 @@
       "headline": "[단독] \"월급도 코인으로 준다고?\"…기업들 결제 방식 확 바뀌었다",
       "url": "https://n.news.naver.com/article/newspaper/015/0005339231?date=20261006",
       "fact_summary": "알바레즈앤마살 보고서에 따르면 올해 1~8월 스테이블코인 결제 추정액은 최소 4010억달러(약 540조원)로 전년 동기 대비 42% 급증했으며, 결제액의 58~64%는 기업이 수취한 것으로 분석됐다. 기업 간 이전 규모는 1370억~1530억달러로 추산됐고, 비자 지원 스테이블코인 연계 카드 결제액은 전년 동기보다 약 200% 증가했다. 미국 인력채용 업체가 중남미 프리랜서 80~100명에게 매달 10만달러 이상을 테더로 지급하는 등 급여·용역대금 결제로 확산되고 있다.",
-      "theme_id": "",
-      "theme": "",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
       "candidate_id": "C3857",
-      "candidate": "스테이블코인 기업결제·급여 확산"
+      "candidate": "스테이블코인 제도화·결제 인프라 확산"
     },
     {
       "article_id": "ART-015-0005339235",
@@ -6310,10 +6310,10 @@
       "headline": "[단독] 판매대금 정산·월급 지급…기업, 스테이블코인 결제 확 늘었다",
       "url": "https://n.news.naver.com/article/newspaper/015/0005339230?date=20261006",
       "fact_summary": "알바레즈앤마살(A&M) 분석에 따르면 올해 1~8월 스테이블코인 전체 결제 추정액의 절반 이상인 2300억~3400억달러가 기업으로 향했고, 기업 간 거래 이전 규모는 1370억~1530억달러로 추산됐다. 용도별로는 서비스 수수료가 560억달러로 가장 많았고 급여·보수 430억달러, 해외송금 370억달러, 서비스 대금 320억달러, 공급업체 대금 280억달러 순이었다. 수취 국가 기준으로는 태국이 108억달러로 가장 많았고 튀르키예 78억달러, 인도네시아 63억달러, 멕시코 61억달러, 미국 57억달러였으며 한국은 주요 시장 중 하나로 언급됐다.",
-      "theme_id": "",
-      "theme": "",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
       "candidate_id": "C3862",
-      "candidate": "스테이블코인 기업결제·은행망 연계 확산"
+      "candidate": "스테이블코인 제도화·결제 인프라 확산"
     },
     {
       "article_id": "ART-015-0005339267",
@@ -6323,10 +6323,10 @@
       "headline": "美 은행, 결제망에 스테이블코인 심는다",
       "url": "https://n.news.naver.com/article/newspaper/015/0005339267?date=20261006",
       "fact_summary": "씨티그룹과 코인베이스가 기업 결제 협력을 확대해 씨티의 결제 플랫폼 '스프링 바이 씨티'에 코인베이스의 스테이블코인 결제 기능을 연결하기로 했다. 소파이은행과 마스터카드는 지난달 22일부터 카드 거래를 자체 스테이블코인 '소파이USD'로 정산하기 시작했으며 연 환산 처리 규모는 250억달러를 웃돌 것으로 예상된다. 샌프란시스코연방은행 보고서에 따르면 최근 5년간 스테이블코인 발행사의 미 국채 보유액이 약 2000억달러 증가했고, 현재 추세가 이어지면 2030년 말 4000억달러 규모로 늘어날 전망이다.",
-      "theme_id": "",
-      "theme": "",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
       "candidate_id": "C3862",
-      "candidate": "스테이블코인 기업결제·은행망 연계 확산"
+      "candidate": "스테이블코인 제도화·결제 인프라 확산"
     },
     {
       "article_id": "ART-015-0005339268",
@@ -6336,10 +6336,10 @@
       "headline": "일본의 '무역결제 실험' 통할까",
       "url": "https://n.news.naver.com/article/newspaper/015/0005339268?date=20261006",
       "fact_summary": "미즈호은행, 미쓰비시UFJ은행, 미쓰이스미토모은행 등 6개사가 무역 디지털 플랫폼 트레이드왈츠와 스테이블코인 결제 시스템을 연계해 수출기업 대금 지급을 검증하는 실증실험에 참여한다. 은행이 수출채권 매입을 승인하면 그 정보를 스테이블코인 결제 시스템에 전달해 대금을 지급하는 방식으로, 기존 은행 결제망을 거치는 절차와 시간을 줄이는 것이 핵심이다. 일본 금융청은 실험 종료 후 준법·감독 및 법령 해석상 쟁점을 포함한 결과를 공개할 예정이다.",
-      "theme_id": "",
-      "theme": "",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
       "candidate_id": "C3861",
-      "candidate": "스테이블코인 무역결제·은행망 연계 실증"
+      "candidate": "스테이블코인 제도화·결제 인프라 확산"
     },
     {
       "article_id": "ART-015-0005339232",
