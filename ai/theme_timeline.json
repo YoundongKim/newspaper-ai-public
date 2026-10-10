@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-10T00:24:51+00:00",
+  "generated_at": "2026-10-10T13:28:42+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-10",
   "coverage": {
@@ -830,23 +830,23 @@
       "week_id": "2026-W15",
       "theme_id": "T045",
       "theme": "중동 군사충돌 확산",
-      "article_count": 16,
-      "daily_average": 2.666667,
+      "article_count": 17,
+      "daily_average": 2.833333,
       "distinct_dates": 6,
       "cross_media_days": 5,
       "maekyung_count": 8,
-      "hankyung_count": 8
+      "hankyung_count": 9
     },
     {
       "week_id": "2026-W15",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 10,
-      "daily_average": 1.666667,
+      "article_count": 12,
+      "daily_average": 2.0,
       "distinct_dates": 6,
-      "cross_media_days": 1,
+      "cross_media_days": 2,
       "maekyung_count": 6,
-      "hankyung_count": 4
+      "hankyung_count": 6
     },
     {
       "week_id": "2026-W15",
@@ -1424,12 +1424,12 @@
       "week_id": "2026-W16",
       "theme_id": "T047",
       "theme": "중동 분쟁과 해상운송 안전",
-      "article_count": 12,
-      "daily_average": 2.0,
+      "article_count": 14,
+      "daily_average": 2.333333,
       "distinct_dates": 5,
-      "cross_media_days": 3,
+      "cross_media_days": 4,
       "maekyung_count": 6,
-      "hankyung_count": 6
+      "hankyung_count": 8
     },
     {
       "week_id": "2026-W16",
@@ -1485,6 +1485,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W16",
+      "theme_id": "T059",
+      "theme": "노동감독체계·노동행정 개편",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W16",
@@ -1710,11 +1721,11 @@
       "week_id": "2026-W16",
       "theme_id": "T090",
       "theme": "AI와 인간·사회 관계 변화",
-      "article_count": 1,
-      "daily_average": 0.166667,
+      "article_count": 2,
+      "daily_average": 0.333333,
       "distinct_dates": 1,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -1743,11 +1754,11 @@
       "week_id": "2026-W16",
       "theme_id": "T093",
       "theme": "노동쟁의 범위·원청 사용자성 제도 변화",
-      "article_count": 5,
-      "daily_average": 0.833333,
+      "article_count": 6,
+      "daily_average": 1.0,
       "distinct_dates": 3,
-      "cross_media_days": 1,
-      "maekyung_count": 1,
+      "cross_media_days": 2,
+      "maekyung_count": 2,
       "hankyung_count": 4
     },
     {
@@ -2359,11 +2370,11 @@
       "week_id": "2026-W18",
       "theme_id": "T034",
       "theme": "플랫폼 개인정보보호 규제",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -2414,11 +2425,11 @@
       "week_id": "2026-W18",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 6,
-      "daily_average": 1.0,
-      "distinct_dates": 4,
+      "article_count": 7,
+      "daily_average": 1.166667,
+      "distinct_dates": 5,
       "cross_media_days": 1,
-      "maekyung_count": 5,
+      "maekyung_count": 6,
       "hankyung_count": 1
     },
     {
@@ -3239,12 +3250,12 @@
       "week_id": "2026-W20",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
-      "article_count": 4,
-      "daily_average": 0.666667,
-      "distinct_dates": 4,
+      "article_count": 5,
+      "daily_average": 0.833333,
+      "distinct_dates": 5,
       "cross_media_days": 0,
       "maekyung_count": 2,
-      "hankyung_count": 2
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W20",
@@ -3448,11 +3459,11 @@
       "week_id": "2026-W20",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 3,
       "cross_media_days": 0,
-      "maekyung_count": 3,
+      "maekyung_count": 4,
       "hankyung_count": 0
     },
     {
@@ -3514,6 +3525,28 @@
       "week_id": "2026-W20",
       "theme_id": "T056",
       "theme": "반도체 인력·교육 수요 확대",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W20",
+      "theme_id": "T058",
+      "theme": "직업교육·재교육·리스킬링",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W20",
+      "theme_id": "T059",
+      "theme": "노동감독체계·노동행정 개편",
       "article_count": 1,
       "daily_average": 0.166667,
       "distinct_dates": 1,
@@ -3668,12 +3701,12 @@
       "week_id": "2026-W20",
       "theme_id": "T087",
       "theme": "글로벌 질서·지정학 리스크 재편",
-      "article_count": 22,
-      "daily_average": 3.666667,
+      "article_count": 23,
+      "daily_average": 3.833333,
       "distinct_dates": 6,
       "cross_media_days": 1,
       "maekyung_count": 18,
-      "hankyung_count": 4
+      "hankyung_count": 5
     },
     {
       "week_id": "2026-W20",
@@ -4405,28 +4438,39 @@
       "week_id": "2026-W22",
       "theme_id": "T045",
       "theme": "중동 군사충돌 확산",
-      "article_count": 4,
-      "daily_average": 0.666667,
+      "article_count": 5,
+      "daily_average": 0.833333,
       "distinct_dates": 3,
-      "cross_media_days": 1,
-      "maekyung_count": 2,
+      "cross_media_days": 2,
+      "maekyung_count": 3,
       "hankyung_count": 2
     },
     {
       "week_id": "2026-W22",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 10,
-      "daily_average": 1.666667,
-      "distinct_dates": 4,
+      "article_count": 11,
+      "daily_average": 1.833333,
+      "distinct_dates": 5,
       "cross_media_days": 2,
-      "maekyung_count": 6,
+      "maekyung_count": 7,
       "hankyung_count": 4
     },
     {
       "week_id": "2026-W22",
       "theme_id": "T048",
       "theme": "북한 핵·미사일 위협 및 대북억지",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W22",
+      "theme_id": "T049",
+      "theme": "한미·한일 안보협력 강화",
       "article_count": 1,
       "daily_average": 0.166667,
       "distinct_dates": 1,
@@ -4658,11 +4702,11 @@
       "week_id": "2026-W22",
       "theme_id": "T092",
       "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "article_count": 3,
-      "daily_average": 0.5,
-      "distinct_dates": 3,
+      "article_count": 5,
+      "daily_average": 0.833333,
+      "distinct_dates": 4,
       "cross_media_days": 0,
-      "maekyung_count": 2,
+      "maekyung_count": 4,
       "hankyung_count": 1
     },
     {
@@ -4713,11 +4757,11 @@
       "week_id": "2026-W23",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
-      "article_count": 23,
-      "daily_average": 3.833333,
+      "article_count": 24,
+      "daily_average": 4.0,
       "distinct_dates": 5,
       "cross_media_days": 4,
-      "maekyung_count": 15,
+      "maekyung_count": 16,
       "hankyung_count": 8
     },
     {
@@ -4834,12 +4878,12 @@
       "week_id": "2026-W23",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 2,
-      "cross_media_days": 1,
+      "cross_media_days": 2,
       "maekyung_count": 2,
-      "hankyung_count": 1
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W23",
@@ -4856,12 +4900,12 @@
       "week_id": "2026-W23",
       "theme_id": "T049",
       "theme": "한미·한일 안보협력 강화",
-      "article_count": 1,
-      "daily_average": 0.166667,
+      "article_count": 2,
+      "daily_average": 0.333333,
       "distinct_dates": 1,
-      "cross_media_days": 0,
+      "cross_media_days": 1,
       "maekyung_count": 1,
-      "hankyung_count": 0
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W23",
@@ -5153,11 +5197,11 @@
       "week_id": "2026-W23",
       "theme_id": "T093",
       "theme": "노동쟁의 범위·원청 사용자성 제도 변화",
-      "article_count": 4,
-      "daily_average": 0.666667,
+      "article_count": 5,
+      "daily_average": 0.833333,
       "distinct_dates": 3,
       "cross_media_days": 1,
-      "maekyung_count": 2,
+      "maekyung_count": 3,
       "hankyung_count": 2
     },
     {
@@ -8013,12 +8057,12 @@
       "week_id": "2026-W28",
       "theme_id": "T101",
       "theme": "K방산 수출·현지생산·공급망 협력",
-      "article_count": 2,
-      "daily_average": 0.333333,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 2,
-      "cross_media_days": 0,
+      "cross_media_days": 1,
       "maekyung_count": 1,
-      "hankyung_count": 1
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W29",
@@ -8057,12 +8101,12 @@
       "week_id": "2026-W29",
       "theme_id": "T005",
       "theme": "AI 자동화·업무재설계·생산성 전환",
-      "article_count": 2,
-      "daily_average": 0.333333,
-      "distinct_dates": 2,
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 3,
       "cross_media_days": 0,
       "maekyung_count": 1,
-      "hankyung_count": 1
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W29",
@@ -8266,12 +8310,12 @@
       "week_id": "2026-W29",
       "theme_id": "T052",
       "theme": "검찰·사법제도 개편",
-      "article_count": 9,
-      "daily_average": 1.5,
+      "article_count": 10,
+      "daily_average": 1.666667,
       "distinct_dates": 6,
-      "cross_media_days": 2,
+      "cross_media_days": 3,
       "maekyung_count": 5,
-      "hankyung_count": 4
+      "hankyung_count": 5
     },
     {
       "week_id": "2026-W29",
@@ -8321,12 +8365,12 @@
       "week_id": "2026-W29",
       "theme_id": "T059",
       "theme": "노동감독체계·노동행정 개편",
-      "article_count": 5,
-      "daily_average": 0.833333,
+      "article_count": 7,
+      "daily_average": 1.166667,
       "distinct_dates": 3,
-      "cross_media_days": 1,
-      "maekyung_count": 4,
-      "hankyung_count": 1
+      "cross_media_days": 2,
+      "maekyung_count": 5,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W29",
@@ -8519,12 +8563,12 @@
       "week_id": "2026-W29",
       "theme_id": "T092",
       "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "article_count": 11,
-      "daily_average": 1.833333,
-      "distinct_dates": 4,
+      "article_count": 12,
+      "daily_average": 2.0,
+      "distinct_dates": 5,
       "cross_media_days": 2,
       "maekyung_count": 5,
-      "hankyung_count": 6
+      "hankyung_count": 7
     },
     {
       "week_id": "2026-W29",
@@ -8552,12 +8596,12 @@
       "week_id": "2026-W29",
       "theme_id": "T100",
       "theme": "한국은행 기준금리·통화정책 기조 변화",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
-      "hankyung_count": 1
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 2,
+      "hankyung_count": 4
     },
     {
       "week_id": "2026-W30",
@@ -8750,11 +8794,11 @@
       "week_id": "2026-W30",
       "theme_id": "T045",
       "theme": "중동 군사충돌 확산",
-      "article_count": 6,
-      "daily_average": 1.0,
+      "article_count": 7,
+      "daily_average": 1.166667,
       "distinct_dates": 4,
       "cross_media_days": 1,
-      "maekyung_count": 5,
+      "maekyung_count": 6,
       "hankyung_count": 1
     },
     {
@@ -8794,11 +8838,11 @@
       "week_id": "2026-W30",
       "theme_id": "T052",
       "theme": "검찰·사법제도 개편",
-      "article_count": 10,
-      "daily_average": 1.666667,
+      "article_count": 11,
+      "daily_average": 1.833333,
       "distinct_dates": 5,
-      "cross_media_days": 3,
-      "maekyung_count": 4,
+      "cross_media_days": 4,
+      "maekyung_count": 5,
       "hankyung_count": 6
     },
     {
@@ -8959,11 +9003,11 @@
       "week_id": "2026-W30",
       "theme_id": "T076",
       "theme": "중국 반도체 굴기·소부장 자립",
-      "article_count": 4,
-      "daily_average": 0.666667,
-      "distinct_dates": 4,
+      "article_count": 5,
+      "daily_average": 0.833333,
+      "distinct_dates": 5,
       "cross_media_days": 0,
-      "maekyung_count": 4,
+      "maekyung_count": 5,
       "hankyung_count": 0
     },
     {
@@ -9850,12 +9894,12 @@
       "week_id": "2026-W32",
       "theme_id": "T042",
       "theme": "정당 인사·정책조직 재편",
-      "article_count": 2,
-      "daily_average": 0.333333,
-      "distinct_dates": 2,
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 3,
       "cross_media_days": 0,
       "maekyung_count": 0,
-      "hankyung_count": 2
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W32",
@@ -11330,6 +11374,17 @@
       "cross_media_days": 0,
       "maekyung_count": 2,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W34",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W35",
@@ -14778,11 +14833,11 @@
       "week_id": "2026-W40",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -15416,11 +15471,11 @@
       "week_id": "2026-W41",
       "theme_id": "T045",
       "theme": "중동 군사충돌 확산",
-      "article_count": 5,
-      "daily_average": 0.833333,
-      "distinct_dates": 3,
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 4,
       "cross_media_days": 1,
-      "maekyung_count": 4,
+      "maekyung_count": 5,
       "hankyung_count": 1
     },
     {

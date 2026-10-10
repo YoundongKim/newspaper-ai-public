@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-10T00:24:51+00:00",
+  "generated_at": "2026-10-10T13:28:42+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-10",
   "coverage": {
@@ -20,7 +20,7 @@
   "candidates": [
     {
       "candidate_id": "C1425",
-      "proposed_theme": "지정학 관련 이슈",
+      "proposed_theme": "중동 분쟁 대응·국제공조",
       "article_count": 16,
       "distinct_dates": 9,
       "publisher_count": 2,
@@ -29,9 +29,9 @@
       "review_ready": true,
       "first_seen": "2026-04-10",
       "last_seen": "2026-10-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T045",
+      "next_action": "Merged → T045"
     },
     {
       "candidate_id": "C2585",
@@ -155,7 +155,7 @@
     },
     {
       "candidate_id": "C1314",
-      "proposed_theme": "노동정책 관련 이슈",
+      "proposed_theme": "노동감독체계·노동행정 개편",
       "article_count": 6,
       "distinct_dates": 5,
       "publisher_count": 2,
@@ -164,13 +164,13 @@
       "review_ready": true,
       "first_seen": "2026-04-14",
       "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T059",
+      "next_action": "Merged → T059"
     },
     {
       "candidate_id": "C1315",
-      "proposed_theme": "AI 관련 이슈",
+      "proposed_theme": "AI 연산·전력 인프라 수요",
       "article_count": 6,
       "distinct_dates": 5,
       "publisher_count": 2,
@@ -179,9 +179,9 @@
       "review_ready": true,
       "first_seen": "2026-04-14",
       "last_seen": "2026-07-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T005",
+      "next_action": "Merged → T005"
     },
     {
       "candidate_id": "C1884",
@@ -230,7 +230,7 @@
     },
     {
       "candidate_id": "C0758",
-      "proposed_theme": "기업규제 관련 이슈",
+      "proposed_theme": "검찰·사법제도 개편",
       "article_count": 4,
       "distinct_dates": 4,
       "publisher_count": 2,
@@ -239,9 +239,9 @@
       "review_ready": true,
       "first_seen": "2026-04-28",
       "last_seen": "2026-08-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T042",
+      "next_action": "Merged → T042"
     },
     {
       "candidate_id": "C1576",
@@ -530,7 +530,7 @@
     },
     {
       "candidate_id": "C1307",
-      "proposed_theme": "ETF 관련 이슈",
+      "proposed_theme": "상장제도·자본시장 구조·투자자보호 개편",
       "article_count": 3,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -539,9 +539,9 @@
       "review_ready": true,
       "first_seen": "2026-05-28",
       "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T092",
+      "next_action": "Merged → T092"
     },
     {
       "candidate_id": "C1348",
@@ -3080,7 +3080,7 @@
     },
     {
       "candidate_id": "C0590",
-      "proposed_theme": "K방산 미국 시장 진출·수출 확대",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3089,9 +3089,9 @@
       "review_ready": false,
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C0620",
@@ -3440,7 +3440,7 @@
     },
     {
       "candidate_id": "C1370",
-      "proposed_theme": "한국은행 긴축 전환·기준금리 인상",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3449,9 +3449,9 @@
       "review_ready": false,
       "first_seen": "2026-07-17",
       "last_seen": "2026-07-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C1388",
@@ -5465,7 +5465,7 @@
     },
     {
       "candidate_id": "C1174",
-      "proposed_theme": "나토 조달시장 진출·K방산 수출 확대",
+      "proposed_theme": "K방산 수출·현지생산·공급망 협력",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -5474,9 +5474,9 @@
       "review_ready": false,
       "first_seen": "2026-07-09",
       "last_seen": "2026-07-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T101",
+      "next_action": "Merged → T101"
     },
     {
       "candidate_id": "C1180",
@@ -5675,7 +5675,7 @@
     },
     {
       "candidate_id": "C1357",
-      "proposed_theme": "한국은행 기준금리 긴축 전환",
+      "proposed_theme": "한국은행 기준금리·통화정책 기조 변화",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -5684,9 +5684,9 @@
       "review_ready": false,
       "first_seen": "2026-07-17",
       "last_seen": "2026-07-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T100",
+      "next_action": "Merged → T100"
     },
     {
       "candidate_id": "C1412",
