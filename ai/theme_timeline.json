@@ -1,8 +1,8 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-10T13:28:42+00:00",
+  "generated_at": "2026-10-12T00:01:39+00:00",
   "data_start": "2026-04-01",
-  "data_cutoff": "2026-10-10",
+  "data_cutoff": "2026-10-12",
   "coverage": {
     "publishers": [
       "매일경제",
@@ -130,6 +130,10 @@
     {
       "week_id": "2026-W41",
       "observed_days": 6
+    },
+    {
+      "week_id": "2026-W42",
+      "observed_days": 1
     }
   ],
   "rows": [
@@ -15774,6 +15778,193 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T005",
+      "theme": "AI 자동화·업무재설계·생산성 전환",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T034",
+      "theme": "플랫폼 개인정보보호 규제",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T037",
+      "theme": "고위공직자 인사검증·청문회",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T039",
+      "theme": "미국 정치 지형 변화",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T045",
+      "theme": "중동 군사충돌 확산",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T047",
+      "theme": "중동 분쟁과 해상운송 안전",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T049",
+      "theme": "한미·한일 안보협력 강화",
+      "article_count": 4,
+      "daily_average": 4.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 3,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T052",
+      "theme": "검찰·사법제도 개편",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T054",
+      "theme": "공공임대·청년주택 확대",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T061",
+      "theme": "중국 자동차 글로벌 진출·한국 영향",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T070",
+      "theme": "국민연금 운용·제도 변화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T078",
+      "theme": "반도체 종사자 자산형성·금융상품 경쟁",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T089",
+      "theme": "국내 정치 지지율·여권 갈등",
+      "article_count": 3,
+      "daily_average": 3.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T091",
+      "theme": "트럼프 행정부 통상·환율·금리 압박",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T092",
+      "theme": "상장제도·자본시장 구조·투자자보호 개편",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T093",
+      "theme": "노동쟁의 범위·원청 사용자성 제도 변화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     }
   ]
 }
