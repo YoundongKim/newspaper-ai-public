@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-14T00:04:21+00:00",
+  "generated_at": "2026-10-14T03:28:43+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-14",
   "coverage": {
@@ -999,11 +999,11 @@
       "week_id": "2026-W15",
       "theme_id": "T065",
       "theme": "국가 재정지출·기금 편성",
-      "article_count": 19,
-      "daily_average": 3.166667,
+      "article_count": 20,
+      "daily_average": 3.333333,
       "distinct_dates": 6,
       "cross_media_days": 5,
-      "maekyung_count": 10,
+      "maekyung_count": 11,
       "hankyung_count": 9
     },
     {
@@ -1184,6 +1184,28 @@
     },
     {
       "week_id": "2026-W15",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W15",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W15",
       "theme_id": "T103",
       "theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
@@ -1192,6 +1214,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W15",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W16",
@@ -1800,6 +1833,28 @@
     },
     {
       "week_id": "2026-W16",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W16",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W16",
       "theme_id": "T103",
       "theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
@@ -1808,6 +1863,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W16",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 4,
+      "daily_average": 0.666667,
+      "distinct_dates": 3,
+      "cross_media_days": 1,
+      "maekyung_count": 2,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W17",
@@ -2259,6 +2325,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W17",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 4,
+      "daily_average": 0.666667,
+      "distinct_dates": 3,
+      "cross_media_days": 0,
+      "maekyung_count": 3,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W18",
@@ -2756,6 +2833,17 @@
       "hankyung_count": 2
     },
     {
+      "week_id": "2026-W18",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 8,
+      "daily_average": 1.333333,
+      "distinct_dates": 3,
+      "cross_media_days": 3,
+      "maekyung_count": 4,
+      "hankyung_count": 4
+    },
+    {
       "week_id": "2026-W19",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -3251,6 +3339,39 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W19",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W19",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 8,
+      "daily_average": 1.333333,
+      "distinct_dates": 3,
+      "cross_media_days": 2,
+      "maekyung_count": 5,
+      "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W20",
+      "theme_id": "T002",
+      "theme": "AI 안전·거버넌스",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W20",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -3595,11 +3716,11 @@
       "week_id": "2026-W20",
       "theme_id": "T065",
       "theme": "국가 재정지출·기금 편성",
-      "article_count": 6,
-      "daily_average": 1.0,
-      "distinct_dates": 4,
+      "article_count": 8,
+      "daily_average": 1.333333,
+      "distinct_dates": 5,
       "cross_media_days": 1,
-      "maekyung_count": 2,
+      "maekyung_count": 4,
       "hankyung_count": 4
     },
     {
@@ -3788,6 +3909,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W20",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 14,
+      "daily_average": 2.333333,
+      "distinct_dates": 5,
+      "cross_media_days": 2,
+      "maekyung_count": 10,
+      "hankyung_count": 4
     },
     {
       "week_id": "2026-W21",
@@ -4285,6 +4417,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W21",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 25,
+      "daily_average": 4.166667,
+      "distinct_dates": 5,
+      "cross_media_days": 3,
+      "maekyung_count": 15,
+      "hankyung_count": 10
+    },
+    {
       "week_id": "2026-W22",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -4750,12 +4893,23 @@
       "week_id": "2026-W22",
       "theme_id": "T100",
       "theme": "한국은행 기준금리·통화정책 기조 변화",
-      "article_count": 3,
-      "daily_average": 0.5,
-      "distinct_dates": 1,
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 2,
       "cross_media_days": 1,
-      "maekyung_count": 1,
-      "hankyung_count": 2
+      "maekyung_count": 2,
+      "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W22",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 11,
+      "daily_average": 1.833333,
+      "distinct_dates": 4,
+      "cross_media_days": 0,
+      "maekyung_count": 10,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W23",
@@ -5762,11 +5916,11 @@
       "week_id": "2026-W24",
       "theme_id": "T100",
       "theme": "한국은행 기준금리·통화정책 기조 변화",
-      "article_count": 1,
-      "daily_average": 0.166667,
+      "article_count": 2,
+      "daily_average": 0.333333,
       "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
       "hankyung_count": 1
     },
     {
@@ -6362,6 +6516,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W25",
+      "theme_id": "T105",
+      "theme": "공공기관 통폐합·기능개혁",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W26",
@@ -6969,6 +7134,17 @@
       "hankyung_count": 1
     },
     {
+      "week_id": "2026-W26",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W27",
       "theme_id": "T001",
       "theme": "금융지주 지배구조·CEO 승계",
@@ -7071,11 +7247,11 @@
       "week_id": "2026-W27",
       "theme_id": "T020",
       "theme": "반도체 용수 재이용·수자원 인프라",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -7423,12 +7599,12 @@
       "week_id": "2026-W27",
       "theme_id": "T090",
       "theme": "AI와 인간·사회 관계 변화",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 2,
       "cross_media_days": 0,
       "maekyung_count": 1,
-      "hankyung_count": 2
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W27",
@@ -7465,6 +7641,17 @@
     },
     {
       "week_id": "2026-W27",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W27",
       "theme_id": "T103",
       "theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 3,
@@ -7473,6 +7660,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W27",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W28",
@@ -8050,11 +8248,11 @@
       "week_id": "2026-W28",
       "theme_id": "T100",
       "theme": "한국은행 기준금리·통화정책 기조 변화",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -8067,6 +8265,17 @@
       "cross_media_days": 1,
       "maekyung_count": 1,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W28",
+      "theme_id": "T106",
+      "theme": "지방교육재정교부금·교육재정 배분 개편",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W29",
@@ -8105,12 +8314,12 @@
       "week_id": "2026-W29",
       "theme_id": "T005",
       "theme": "AI 자동화·업무재설계·생산성 전환",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 3,
       "cross_media_days": 0,
       "maekyung_count": 1,
-      "hankyung_count": 2
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W29",
@@ -8171,12 +8380,12 @@
       "week_id": "2026-W29",
       "theme_id": "T024",
       "theme": "스타트업 투자 양극화",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 5,
+      "daily_average": 0.833333,
       "distinct_dates": 3,
       "cross_media_days": 0,
       "maekyung_count": 1,
-      "hankyung_count": 2
+      "hankyung_count": 4
     },
     {
       "week_id": "2026-W29",
@@ -8556,12 +8765,12 @@
       "week_id": "2026-W29",
       "theme_id": "T090",
       "theme": "AI와 인간·사회 관계 변화",
-      "article_count": 2,
-      "daily_average": 0.333333,
-      "distinct_dates": 1,
+      "article_count": 8,
+      "daily_average": 1.333333,
+      "distinct_dates": 3,
       "cross_media_days": 0,
       "maekyung_count": 0,
-      "hankyung_count": 2
+      "hankyung_count": 8
     },
     {
       "week_id": "2026-W29",
@@ -8600,33 +8809,44 @@
       "week_id": "2026-W29",
       "theme_id": "T100",
       "theme": "한국은행 기준금리·통화정책 기조 변화",
-      "article_count": 6,
-      "daily_average": 1.0,
-      "distinct_dates": 2,
+      "article_count": 7,
+      "daily_average": 1.166667,
+      "distinct_dates": 3,
       "cross_media_days": 1,
-      "maekyung_count": 2,
+      "maekyung_count": 3,
       "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W29",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W30",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 6,
+      "daily_average": 1.0,
       "distinct_dates": 2,
       "cross_media_days": 1,
-      "maekyung_count": 1,
+      "maekyung_count": 4,
       "hankyung_count": 2
     },
     {
       "week_id": "2026-W30",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
-      "article_count": 13,
-      "daily_average": 2.166667,
+      "article_count": 14,
+      "daily_average": 2.333333,
       "distinct_dates": 5,
       "cross_media_days": 2,
-      "maekyung_count": 9,
+      "maekyung_count": 10,
       "hankyung_count": 4
     },
     {
@@ -8974,11 +9194,11 @@
       "week_id": "2026-W30",
       "theme_id": "T068",
       "theme": "청년고용 부진·고용 양극화",
-      "article_count": 2,
-      "daily_average": 0.333333,
-      "distinct_dates": 2,
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 3,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 1
     },
     {
@@ -9090,6 +9310,17 @@
       "cross_media_days": 3,
       "maekyung_count": 5,
       "hankyung_count": 6
+    },
+    {
+      "week_id": "2026-W30",
+      "theme_id": "T090",
+      "theme": "AI와 인간·사회 관계 변화",
+      "article_count": 12,
+      "daily_average": 2.0,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 12
     },
     {
       "week_id": "2026-W30",
@@ -9687,6 +9918,17 @@
     },
     {
       "week_id": "2026-W31",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W31",
       "theme_id": "T103",
       "theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 2,
@@ -9695,6 +9937,28 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W31",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W31",
+      "theme_id": "T106",
+      "theme": "지방교육재정교부금·교육재정 배분 개편",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W32",
@@ -9711,12 +9975,12 @@
       "week_id": "2026-W32",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
-      "article_count": 9,
-      "daily_average": 1.5,
+      "article_count": 10,
+      "daily_average": 1.666667,
       "distinct_dates": 5,
       "cross_media_days": 2,
       "maekyung_count": 6,
-      "hankyung_count": 3
+      "hankyung_count": 4
     },
     {
       "week_id": "2026-W32",
@@ -9804,6 +10068,17 @@
       "distinct_dates": 1,
       "cross_media_days": 1,
       "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W32",
+      "theme_id": "T020",
+      "theme": "반도체 용수 재이용·수자원 인프라",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
       "hankyung_count": 1
     },
     {
@@ -10085,12 +10360,12 @@
       "week_id": "2026-W32",
       "theme_id": "T068",
       "theme": "청년고용 부진·고용 양극화",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
       "maekyung_count": 1,
-      "hankyung_count": 0
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W32",
@@ -10863,6 +11138,28 @@
       "hankyung_count": 2
     },
     {
+      "week_id": "2026-W33",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W33",
+      "theme_id": "T106",
+      "theme": "지방교육재정교부금·교육재정 배분 개편",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W34",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -11383,11 +11680,11 @@
       "week_id": "2026-W34",
       "theme_id": "T101",
       "theme": "K방산 수출·현지생산·공급망 협력",
-      "article_count": 3,
-      "daily_average": 0.5,
-      "distinct_dates": 1,
+      "article_count": 4,
+      "daily_average": 0.666667,
+      "distinct_dates": 2,
       "cross_media_days": 0,
-      "maekyung_count": 0,
+      "maekyung_count": 1,
       "hankyung_count": 3
     },
     {
@@ -11933,12 +12230,34 @@
       "week_id": "2026-W35",
       "theme_id": "T100",
       "theme": "한국은행 기준금리·통화정책 기조 변화",
-      "article_count": 5,
-      "daily_average": 0.833333,
-      "distinct_dates": 2,
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 3,
       "cross_media_days": 1,
-      "maekyung_count": 2,
+      "maekyung_count": 3,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W35",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W35",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 3,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W36",
@@ -12494,11 +12813,11 @@
       "week_id": "2026-W36",
       "theme_id": "T092",
       "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "article_count": 5,
-      "daily_average": 0.833333,
+      "article_count": 6,
+      "daily_average": 1.0,
       "distinct_dates": 1,
       "cross_media_days": 1,
-      "maekyung_count": 3,
+      "maekyung_count": 4,
       "hankyung_count": 2
     },
     {
@@ -12514,6 +12833,17 @@
     },
     {
       "week_id": "2026-W36",
+      "theme_id": "T101",
+      "theme": "K방산 수출·현지생산·공급망 협력",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W36",
       "theme_id": "T103",
       "theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 3,
@@ -12522,6 +12852,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W36",
+      "theme_id": "T105",
+      "theme": "공공기관 통폐합·기능개혁",
+      "article_count": 7,
+      "daily_average": 1.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 5,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W37",
@@ -14034,12 +14375,12 @@
       "week_id": "2026-W38",
       "theme_id": "T092",
       "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "article_count": 5,
-      "daily_average": 0.833333,
+      "article_count": 6,
+      "daily_average": 1.0,
       "distinct_dates": 3,
       "cross_media_days": 1,
       "maekyung_count": 1,
-      "hankyung_count": 4
+      "hankyung_count": 5
     },
     {
       "week_id": "2026-W38",
@@ -15222,23 +15563,23 @@
       "week_id": "2026-W40",
       "theme_id": "T101",
       "theme": "K방산 수출·현지생산·공급망 협력",
-      "article_count": 4,
-      "daily_average": 0.666667,
+      "article_count": 6,
+      "daily_average": 1.0,
       "distinct_dates": 3,
       "cross_media_days": 0,
       "maekyung_count": 0,
-      "hankyung_count": 4
+      "hankyung_count": 6
     },
     {
       "week_id": "2026-W41",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
-      "article_count": 8,
-      "daily_average": 1.333333,
-      "distinct_dates": 3,
-      "cross_media_days": 0,
-      "maekyung_count": 5,
-      "hankyung_count": 3
+      "article_count": 27,
+      "daily_average": 4.5,
+      "distinct_dates": 6,
+      "cross_media_days": 4,
+      "maekyung_count": 16,
+      "hankyung_count": 11
     },
     {
       "week_id": "2026-W41",
@@ -15778,6 +16119,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T002",
+      "theme": "AI 안전·거버넌스",
+      "article_count": 2,
+      "daily_average": 0.666667,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W42",

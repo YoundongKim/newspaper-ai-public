@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-04-01 ~ 2026-10-14
-Generated: 2026-10-14T00:04:21+00:00
+Generated: 2026-10-14T03:28:43+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 9801
 
@@ -25,16 +25,17 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - Interactive dashboard: private / authentication required
 
 ## Collection-period Theme observations
-- T003 · AI 연산·전력 인프라 수요 | period articles=304 | period dates=110 | first=2026-04-01 | last=2026-10-12
+- T003 · AI 연산·전력 인프라 수요 | period articles=306 | period dates=110 | first=2026-04-01 | last=2026-10-12
 - T089 · 국내 정치 지지율·여권 갈등 | period articles=252 | period dates=112 | first=2026-04-02 | last=2026-10-14
 - T004 · 중동발 에너지·금융시장 충격 | period articles=206 | period dates=82 | first=2026-04-01 | last=2026-10-10
 - T046 · 중동 분쟁 대응·국제공조 | period articles=169 | period dates=88 | first=2026-04-01 | last=2026-10-14
-- T092 · 상장제도·자본시장 구조·투자자보호 개편 | period articles=152 | period dates=78 | first=2026-04-01 | last=2026-10-14
-- T065 · 국가 재정지출·기금 편성 | period articles=151 | period dates=75 | first=2026-04-01 | last=2026-10-09
+- T092 · 상장제도·자본시장 구조·투자자보호 개편 | period articles=154 | period dates=78 | first=2026-04-01 | last=2026-10-14
+- T065 · 국가 재정지출·기금 편성 | period articles=154 | period dates=76 | first=2026-04-01 | last=2026-10-09
 - T055 · 도심 주택공급·용도규제 완화 | period articles=147 | period dates=66 | first=2026-04-04 | last=2026-10-10
 - T047 · 중동 분쟁과 해상운송 안전 | period articles=128 | period dates=73 | first=2026-04-01 | last=2026-10-13
 - T045 · 중동 군사충돌 확산 | period articles=121 | period dates=72 | first=2026-04-01 | last=2026-10-12
 - T052 · 검찰·사법제도 개편 | period articles=115 | period dates=65 | first=2026-04-01 | last=2026-10-14
+- T002 · AI 안전·거버넌스 | period articles=108 | period dates=54 | first=2026-04-01 | last=2026-10-14
 - T019 · 대미 투자·통상 협상 | period articles=107 | period dates=50 | first=2026-04-02 | last=2026-10-10
 - T091 · 트럼프 행정부 통상·환율·금리 압박 | period articles=106 | period dates=68 | first=2026-04-01 | last=2026-10-12
 - T048 · 북한 핵·미사일 위협 및 대북억지 | period articles=101 | period dates=57 | first=2026-04-07 | last=2026-10-14
@@ -45,19 +46,19 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T064 · 종부세·보유세 제도 변화 | period articles=95 | period dates=45 | first=2026-04-06 | last=2026-10-13
 - T042 · 정당 인사·정책조직 재편 | period articles=87 | period dates=57 | first=2026-04-01 | last=2026-10-10
 - T093 · 노동쟁의 범위·원청 사용자성 제도 변화 | period articles=85 | period dates=42 | first=2026-04-01 | last=2026-10-12
-- T002 · AI 안전·거버넌스 | period articles=83 | period dates=48 | first=2026-04-01 | last=2026-10-09
 - T009 · 미국 인플레이션·Fed 긴축 | period articles=83 | period dates=43 | first=2026-04-01 | last=2026-10-03
 - T077 · 원화·엔화 환율 변동과 기관 헤지 | period articles=82 | period dates=51 | first=2026-04-01 | last=2026-10-13
+- T104 · 반도체 성과급·노사갈등·파업 리스크 | period articles=81 | period dates=31 | first=2026-04-08 | last=2026-08-26
 - T049 · 한미·한일 안보협력 강화 | period articles=80 | period dates=43 | first=2026-04-09 | last=2026-10-14
-- T053 · 공정거래·기업제재 강화 | period articles=77 | period dates=46 | first=2026-04-01 | last=2026-10-13
 
 ## Recent 7-day Theme observations
 - T003 · AI 연산·전력 인프라 수요 | 7d articles=13 | 7d dates=3 | cross-media days=1 | 28d articles=37
+- T002 · AI 안전·거버넌스 | 7d articles=12 | 7d dates=5 | cross-media days=1 | 28d articles=45
 - T049 · 한미·한일 안보협력 강화 | 7d articles=9 | 7d dates=4 | cross-media days=2 | 28d articles=16
 - T089 · 국내 정치 지지율·여권 갈등 | 7d articles=9 | 7d dates=4 | cross-media days=2 | 28d articles=30
 - T021 · 반도체 중심 수출 증가 | 7d articles=8 | 7d dates=5 | cross-media days=1 | 28d articles=13
 - T048 · 북한 핵·미사일 위협 및 대북억지 | 7d articles=7 | 7d dates=4 | cross-media days=2 | 28d articles=37
-- T092 · 상장제도·자본시장 구조·투자자보호 개편 | 7d articles=7 | 7d dates=3 | cross-media days=0 | 28d articles=19
+- T092 · 상장제도·자본시장 구조·투자자보호 개편 | 7d articles=7 | 7d dates=3 | cross-media days=0 | 28d articles=20
 - T084 · 핀셋 증세·산업별 세제 재편 | 7d articles=5 | 7d dates=2 | cross-media days=1 | 28d articles=8
 - T052 · 검찰·사법제도 개편 | 7d articles=4 | 7d dates=4 | cross-media days=0 | 28d articles=21
 - T039 · 미국 정치 지형 변화 | 7d articles=4 | 7d dates=3 | cross-media days=0 | 28d articles=8
@@ -74,36 +75,35 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T005 · AI 자동화·업무재설계·생산성 전환 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=4
 - T037 · 고위공직자 인사검증·청문회 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=22
 - T091 · 트럼프 행정부 통상·환율·금리 압박 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=18
-- T002 · AI 안전·거버넌스 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=24
 - T007 · 국민연금 스튜어드십 코드 강화 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=2
 - T010 · 부동산 양도세·장기보유공제 개편 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=4
 
 ## Review-ready Candidate Signals
 - C2585 · 고유가 피해지원금 지급 | signal=PERSISTENT_CROSS_MEDIA | articles=4 | dates=3 | cross-media days=1
-- C0373 · 공공기관 통폐합·기능개혁 | signal=PERSISTENT_CROSS_MEDIA | articles=8 | dates=2 | cross-media days=1
 - C3530 · 한-인도 정상외교·산업협력 확대 | signal=PERSISTENT_CROSS_MEDIA | articles=6 | dates=2 | cross-media days=1
-- C2645 · 반도체 대기업 파업·긴급조정권 | signal=PERSISTENT_CROSS_MEDIA | articles=5 | dates=2 | cross-media days=1
 - C0182 · 청년 생애최초 주택 취득세 감면 확대 | signal=PERSISTENT_CROSS_MEDIA | articles=3 | dates=2 | cross-media days=1
 - C1884 · 국회 원구성·상임위 배분 갈등 | signal=PERSISTENT | articles=5 | dates=5 | cross-media days=0
 - C0663 · 국내 증시 급락·개인투자자 손실 | signal=PERSISTENT | articles=7 | dates=4 | cross-media days=0
-- C1576 · 지방교육재정교부금·목적세 배분 개편 | signal=PERSISTENT | articles=4 | dates=4 | cross-media days=0
 - C0658 · 글로벌 지식포럼·국제 컨퍼런스 개최 | signal=PERSISTENT | articles=7 | dates=3 | cross-media days=0
-- C2582 · 반도체 대기업 노사 임단협·성과급 갈등 | signal=PERSISTENT | articles=5 | dates=3 | cross-media days=0
 - C0217 · 빅테크 AI 투자 재원 위한 글로벌 회사채 발행 확대 | signal=PERSISTENT | articles=4 | dates=3 | cross-media days=0
-- C1318 · 재정정책 관련 이슈 | signal=PERSISTENT | articles=4 | dates=3 | cross-media days=0
 - C0585 · 중국 휴머노이드 로봇 기업 상장·자본시장 자금조달 확대 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
-- C0751 · 고용 관련 이슈 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C1450 · 대통령 사적 부동산 거래·근저당 논란 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C2492 · 지방선거 서울시장 후보 공약 경쟁 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C1827 · 지방선거 광역단체장 판세·당선 결과 | signal=PERSISTENT | articles=9 | dates=2 | cross-media days=0
 - C2626 · 성과급 임금성·퇴직금 산정 분쟁 | signal=PERSISTENT | articles=5 | dates=2 | cross-media days=0
-- C1316 · 벤처투자 관련 이슈 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
 - C2872 · 지방선거 유세·후보 지원 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
 - C0038 · 퇴직 경제관료 재취업 심사 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C0348 · 한국기업 ADR 프리미엄·본주 괴리 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C0674 · 첨단기술 연구보안·산업기술 유출 대응 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
-- C0748 · 반도체 관련 이슈 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C1348 · 최저임금 인상·업종별 차등 논의 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C1615 · 일본 지진 등 자연재해로 인한 반도체 공급망 차질 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C1971 · 한-이탈리아 정상외교·첨단산업 협력 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C3325 · 지방선거 후보 경선·공천 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C3379 · 비거주 1주택자 전세대출 규제 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C0026 · 정당 윤리위 징계·당원권 분쟁 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
+- C0053 · 신문사 구독 이벤트·독자 확보 마케팅 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
+- C0088 · RE100 산업단지·재생에너지 전력 공급 모델 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
+- C0126 · 중앙은행 외환보유 자산구조 재편·금 투자 확대 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
 
 ## Latest Narrative Changes
 - T102 · 토지거래허가구역·실거주 규제 변화 | 2026-09-13~2026-10-10 | 비교 데이터 부족
@@ -174,7 +174,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-10-14 · 매일경제 · A4면 · T103] [단독] 중국선 QR결제, 미국선 코인 송금…갤럭시 하나로 세계 누빈다
   Summary: 삼성전자가 중국 텐센트·우리은행과 손잡고 삼성월렛머니 기반 QR 결제를 추진하고, 이달 마지막 주부터 미국 내 약 8200만대 갤럭시 기기를 대상으로 서클의 USDC 스테이블코인 송금 기능을 지원한다. 글로벌 QR 결제 거래 규모는 올해 5조4900억달러에서 2031년 9조1700억달러로 성장할 전망이다.
   Source: https://n.news.naver.com/article/newspaper/009/0005748041?date=20261014
-- [2026-10-14 · 매일경제 · A4면 · C4062] "AI 해킹 막아야 월렛시장 잡는다"…빅테크 '철통보안' 전쟁
+- [2026-10-14 · 매일경제 · A4면 · T002] "AI 해킹 막아야 월렛시장 잡는다"…빅테크 '철통보안' 전쟁
   Summary: AI 자동화 해킹이 잇따르자 삼성전자·애플·구글이 온디바이스 AI 기반 디지털 지갑 보안 강화에 나섰다. 삼성전자는 갤럭시 S26과 Z 폴드8·플립8 등에 안드로이드 취약점과 SVE를 보완하는 긴급 보안 업데이트를 단행하고 결제·신분증 보안 금고를 일반 앱과 격리하는 WSM을 강화했다. 애플은 메인 프로세서와 격리된 시큐어 인클레이브로 결제·생체 정보를 보관하고, 구글은 하드웨어 보안칩 타이탄 M2와 월간 픽셀 업데이트로 대응한다.
   Source: https://n.news.naver.com/article/newspaper/009/0005748042?date=20261014
 - [2026-10-14 · 매일경제 · A5면 · T049] 자주파 감싼 李대통령 … 강경화는 "美와 소통 안돼 답답"

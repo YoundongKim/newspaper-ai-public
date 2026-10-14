@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-14T00:04:21+00:00",
+  "generated_at": "2026-10-14T03:28:43+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-14",
   "coverage": {
@@ -59,9 +59,9 @@
       "review_ready": true,
       "first_seen": "2026-06-19",
       "last_seen": "2026-09-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T105",
+      "next_action": "Merged → T105"
     },
     {
       "candidate_id": "C3530",
@@ -80,7 +80,7 @@
     },
     {
       "candidate_id": "C2645",
-      "proposed_theme": "반도체 대기업 파업·긴급조정권",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 5,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -89,9 +89,9 @@
       "review_ready": true,
       "first_seen": "2026-05-14",
       "last_seen": "2026-05-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C0182",
@@ -245,7 +245,7 @@
     },
     {
       "candidate_id": "C1576",
-      "proposed_theme": "지방교육재정교부금·목적세 배분 개편",
+      "proposed_theme": "지방교육재정교부금·교육재정 배분 개편",
       "article_count": 4,
       "distinct_dates": 4,
       "publisher_count": 2,
@@ -254,9 +254,9 @@
       "review_ready": true,
       "first_seen": "2026-07-09",
       "last_seen": "2026-08-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T106",
+      "next_action": "Merged → T106"
     },
     {
       "candidate_id": "C0658",
@@ -275,7 +275,7 @@
     },
     {
       "candidate_id": "C2582",
-      "proposed_theme": "반도체 대기업 노사 임단협·성과급 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 5,
       "distinct_dates": 3,
       "publisher_count": 2,
@@ -284,9 +284,9 @@
       "review_ready": true,
       "first_seen": "2026-05-12",
       "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C0217",
@@ -319,21 +319,6 @@
       "next_action": "Merged → T097"
     },
     {
-      "candidate_id": "C1318",
-      "proposed_theme": "재정정책 관련 이슈",
-      "article_count": 4,
-      "distinct_dates": 3,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-04-11",
-      "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
       "candidate_id": "C0585",
       "proposed_theme": "중국 휴머노이드 로봇 기업 상장·자본시장 자금조달 확대",
       "article_count": 3,
@@ -344,21 +329,6 @@
       "review_ready": true,
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C0751",
-      "proposed_theme": "고용 관련 이슈",
-      "article_count": 3,
-      "distinct_dates": 3,
-      "publisher_count": 2,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-08-07",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -424,21 +394,6 @@
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
-      "candidate_id": "C1316",
-      "proposed_theme": "벤처투자 관련 이슈",
-      "article_count": 4,
-      "distinct_dates": 2,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-05-15",
-      "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
       "candidate_id": "C2872",
       "proposed_theme": "지방선거 유세·후보 지원",
       "article_count": 4,
@@ -493,21 +448,6 @@
       "signal_type": "PERSISTENT",
       "review_ready": true,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C0748",
-      "proposed_theme": "반도체 관련 이슈",
-      "article_count": 3,
-      "distinct_dates": 2,
-      "publisher_count": 2,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-07-20",
       "last_seen": "2026-08-07",
       "status": "Open",
       "canonical_theme_id": "",
@@ -784,21 +724,6 @@
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
-      "candidate_id": "C0397",
-      "proposed_theme": "단일종목 레버리지 ETF 규제·책임 논쟁",
-      "article_count": 2,
-      "distinct_dates": 2,
-      "publisher_count": 2,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
       "candidate_id": "C0423",
       "proposed_theme": "글로벌 완성차 구조조정·감원",
       "article_count": 2,
@@ -904,21 +829,6 @@
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
-      "candidate_id": "C0970",
-      "proposed_theme": "반도체 산단 용수·전력 인프라 확보",
-      "article_count": 2,
-      "distinct_dates": 2,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-07-01",
-      "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
       "candidate_id": "C0983",
       "proposed_theme": "외환보유액 적정성·시장개입 여력",
       "article_count": 2,
@@ -1004,6 +914,21 @@
       "review_ready": true,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-13",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+    },
+    {
+      "candidate_id": "C1316",
+      "proposed_theme": "벤처투자 관련 이슈",
+      "article_count": 2,
+      "distinct_dates": 2,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "PERSISTENT",
+      "review_ready": true,
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-07-14",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -1235,7 +1160,7 @@
     },
     {
       "candidate_id": "C2933",
-      "proposed_theme": "삼성전자 성과급 갈등과 노사·주주 분쟁",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -1244,9 +1169,9 @@
       "review_ready": true,
       "first_seen": "2026-05-27",
       "last_seen": "2026-05-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3243",
@@ -1280,7 +1205,7 @@
     },
     {
       "candidate_id": "C3514",
-      "proposed_theme": "반도체 대기업 노사갈등·파업 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -1289,13 +1214,13 @@
       "review_ready": true,
       "first_seen": "2026-04-18",
       "last_seen": "2026-04-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3616",
-      "proposed_theme": "반도체 성과급·노사갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -1304,9 +1229,9 @@
       "review_ready": true,
       "first_seen": "2026-04-24",
       "last_seen": "2026-04-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3833",
@@ -2225,7 +2150,7 @@
     },
     {
       "candidate_id": "C3718",
-      "proposed_theme": "반도체 대기업 파업 리스크·산업 생태계 우려",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2234,9 +2159,9 @@
       "review_ready": true,
       "first_seen": "2026-04-28",
       "last_seen": "2026-04-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3789",
@@ -2324,21 +2249,6 @@
       "review_ready": false,
       "first_seen": "2026-06-04",
       "last_seen": "2026-06-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1480",
-      "proposed_theme": "인간 대 AI 바둑 대국",
-      "article_count": 6,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -2449,36 +2359,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1400",
-      "proposed_theme": "바둑 AI와 인간 최정상 대국",
-      "article_count": 5,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1434",
-      "proposed_theme": "인간-AI 바둑 대결·AI 한계 도전",
-      "article_count": 5,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-20",
-      "last_seen": "2026-07-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C1810",
       "proposed_theme": "선거관리 부실·투표용지 부족 사태",
       "article_count": 5,
@@ -2495,7 +2375,7 @@
     },
     {
       "candidate_id": "C2772",
-      "proposed_theme": "반도체 기업 성과급·노사협상",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 5,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -2504,9 +2384,9 @@
       "review_ready": false,
       "first_seen": "2026-05-21",
       "last_seen": "2026-05-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2796",
@@ -2570,7 +2450,7 @@
     },
     {
       "candidate_id": "C2937",
-      "proposed_theme": "반도체 대기업 성과급·이익배분 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 5,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -2579,9 +2459,9 @@
       "review_ready": false,
       "first_seen": "2026-05-28",
       "last_seen": "2026-05-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3537",
@@ -2855,7 +2735,7 @@
     },
     {
       "candidate_id": "C2734",
-      "proposed_theme": "반도체 대기업 총파업·긴급조정권",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 4,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -2864,9 +2744,9 @@
       "review_ready": false,
       "first_seen": "2026-05-19",
       "last_seen": "2026-05-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2875",
@@ -2944,38 +2824,8 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3806",
-      "proposed_theme": "AI 기반 사이버공격·금융보안 위협",
-      "article_count": 4,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3911",
-      "proposed_theme": "금융권 AI 해킹·고객정보 유출 리스크",
-      "article_count": 4,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0142",
-      "proposed_theme": "반도체 성과급 갈등·소부장 노사 리스크 확산",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -2984,9 +2834,9 @@
       "review_ready": false,
       "first_seen": "2026-08-26",
       "last_seen": "2026-08-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C0145",
@@ -3559,21 +3409,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1540",
-      "proposed_theme": "AI 해킹 위협과 금융권 사이버보안 대응",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C1560",
       "proposed_theme": "가계대출 총량규제와 입주 잔금대출 차질",
       "article_count": 3,
@@ -3950,7 +3785,7 @@
     },
     {
       "candidate_id": "C2705",
-      "proposed_theme": "반도체 대기업 성과급·임단협 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3959,13 +3794,13 @@
       "review_ready": false,
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2716",
-      "proposed_theme": "삼성전자 노사 임단협·총파업 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3974,13 +3809,13 @@
       "review_ready": false,
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2726",
-      "proposed_theme": "반도체 대형사업장 파업·긴급조정권 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3989,9 +3824,9 @@
       "review_ready": false,
       "first_seen": "2026-05-19",
       "last_seen": "2026-05-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2765",
@@ -4010,7 +3845,7 @@
     },
     {
       "candidate_id": "C2852",
-      "proposed_theme": "반도체 성과급 재원배분·노노갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -4019,9 +3854,9 @@
       "review_ready": false,
       "first_seen": "2026-05-25",
       "last_seen": "2026-05-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2874",
@@ -4399,21 +4234,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3827",
-      "proposed_theme": "AI 기반 사이버공격·금융권 보안 리스크",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C3880",
       "proposed_theme": "금융기관 해킹·수사체계 혼선",
       "article_count": 3,
@@ -4424,36 +4244,6 @@
       "review_ready": false,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3955",
-      "proposed_theme": "AI 활용 금융권 사이버공격 급증",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3975",
-      "proposed_theme": "AI 해킹 도구·자율 공격 에이전트 확산",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -6695,7 +6485,7 @@
     },
     {
       "candidate_id": "C2356",
-      "proposed_theme": "반도체 대기업 노조 파업·성과급 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6704,9 +6494,9 @@
       "review_ready": false,
       "first_seen": "2026-05-01",
       "last_seen": "2026-05-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2396",
@@ -6785,7 +6575,7 @@
     },
     {
       "candidate_id": "C2413",
-      "proposed_theme": "삼성전자 부문 간 성과급 갈등·노조 분열",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6794,9 +6584,9 @@
       "review_ready": false,
       "first_seen": "2026-05-04",
       "last_seen": "2026-05-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2414",
@@ -6980,7 +6770,7 @@
     },
     {
       "candidate_id": "C2614",
-      "proposed_theme": "반도체 호황과 성과급·보상체계 비교",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6989,9 +6779,9 @@
       "review_ready": false,
       "first_seen": "2026-05-13",
       "last_seen": "2026-05-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2648",
@@ -7025,7 +6815,7 @@
     },
     {
       "candidate_id": "C2665",
-      "proposed_theme": "반도체 노사갈등·총파업 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -7034,9 +6824,9 @@
       "review_ready": false,
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2681",
@@ -8074,21 +7864,6 @@
       "next_action": "Merged → T103"
     },
     {
-      "candidate_id": "C3869",
-      "proposed_theme": "AI 해커 공격·공급망 취약점 보안",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C3870",
       "proposed_theme": "국내 체류 중국인 증가·정착 확대",
       "article_count": 2,
@@ -8134,23 +7909,23 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3879",
-      "proposed_theme": "AI 기반 사이버공격·보안 위협",
+      "candidate_id": "C3905",
+      "proposed_theme": "스마트홈 생태계 제휴·가전-플랫폼 협력",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
       "cross_media_days": 0,
       "signal_type": "ONE_OFF",
       "review_ready": false,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3905",
-      "proposed_theme": "스마트홈 생태계 제휴·가전-플랫폼 협력",
+      "candidate_id": "C3911",
+      "proposed_theme": "금융권 AI 해킹·고객정보 유출 리스크",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -9769,21 +9544,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0113",
-      "proposed_theme": "한국은행 기준금리 인상·동결 갈림길과 잭슨홀 통화정책 신호",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0114",
       "proposed_theme": "여야 대표 회담·정책 협의 정례화 논의",
       "article_count": 1,
@@ -10026,21 +9786,6 @@
     {
       "candidate_id": "C0133",
       "proposed_theme": "농업 ODA 기반 K농기계·종자 수출 확대",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C0134",
-      "proposed_theme": "K방산 나토 표준 확보·유럽 수출 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -13324,21 +13069,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0405",
-      "proposed_theme": "K방산 유럽 수출 확대",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0406",
       "proposed_theme": "이커머스 멤버십 전용 배송·물류 경쟁",
       "article_count": 1,
@@ -15621,21 +15351,6 @@
     {
       "candidate_id": "C0606",
       "proposed_theme": "미국 AI 반도체 대중 원격접근 통제",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C0607",
-      "proposed_theme": "국방 R&D 민간주도 전환·방산 공급망 생태계",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18874,21 +18589,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0863",
-      "proposed_theme": "한국은행 기준금리 추가 인상 기조",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0864",
       "proposed_theme": "중국 전략산업 대출금리 시장금리 연동",
       "article_count": 1,
@@ -20119,6 +19819,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C0970",
+      "proposed_theme": "반도체 산단 용수·전력 인프라 확보",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C0971",
       "proposed_theme": "국회 상임위 구성·원 구성 갈등",
       "article_count": 1,
@@ -20256,21 +19971,6 @@
     {
       "candidate_id": "C0980",
       "proposed_theme": "반도체 생산조정·메모리가격 반등",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-01",
-      "last_seen": "2026-07-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C0981",
-      "proposed_theme": "인간-AI 바둑 대결·기술 상징 행사",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20586,21 +20286,6 @@
     {
       "candidate_id": "C1010",
       "proposed_theme": "K뷰티·K푸드 등 소비재 수출 확대",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-02",
-      "last_seen": "2026-07-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1011",
-      "proposed_theme": "K방산 수요구조 성장·공급망 병목",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -22654,21 +22339,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1189",
-      "proposed_theme": "한국은행 고물가 대응·금리인상 시사",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-10",
-      "last_seen": "2026-07-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C1190",
       "proposed_theme": "국내 증시 조정·투자자금 이탈",
       "article_count": 1,
@@ -23854,21 +23524,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1293",
-      "proposed_theme": "방산 품질인증·NATO 조달기준 획득",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C1294",
       "proposed_theme": "감사원 정기감사·공공기관 예산 점검",
       "article_count": 1,
@@ -23916,21 +23571,6 @@
     {
       "candidate_id": "C1297",
       "proposed_theme": "유럽 폭염·기후재난 사망 리스크",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1298",
-      "proposed_theme": "한국은행 금리 인상 신호·통화정책 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24094,6 +23734,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C1318",
+      "proposed_theme": "재정정책 관련 이슈",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C1320",
       "proposed_theme": "최저임금 인상·임금 결정 구조",
       "article_count": 1,
@@ -24231,21 +23886,6 @@
     {
       "candidate_id": "C1331",
       "proposed_theme": "차세대 민항기 공동개발·항공산업 협력",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1333",
-      "proposed_theme": "인간-AI 바둑 대국·AI 대결 이벤트",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -25836,21 +25476,6 @@
     {
       "candidate_id": "C1473",
       "proposed_theme": "퇴직연금 국채투자 허용·세제혜택",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1474",
-      "proposed_theme": "인간-AI 바둑 대결·AI 한계 검증",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27920,7 +27545,7 @@
     },
     {
       "candidate_id": "C1660",
-      "proposed_theme": "반도체 성과급·임금체계 노사갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27929,9 +27554,9 @@
       "review_ready": false,
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C1661",
@@ -28011,21 +27636,6 @@
     {
       "candidate_id": "C1666",
       "proposed_theme": "메모리 가격 급등에 따른 스마트폰 부품 수요 위축",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-08-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1667",
-      "proposed_theme": "K-방산 수출 확대와 실적 호조",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -32194,21 +31804,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1985",
-      "proposed_theme": "한국은행 금리 인상 기조와 물가·고용 변수",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-06-13",
-      "last_seen": "2026-06-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C1986",
       "proposed_theme": "휴머노이드 로봇용 배터리 공급 경쟁",
       "article_count": 1,
@@ -35135,7 +34730,7 @@
     },
     {
       "candidate_id": "C2196",
-      "proposed_theme": "반도체 사업부문별 성과급 격차·인재이탈",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -35144,9 +34739,9 @@
       "review_ready": false,
       "first_seen": "2026-06-24",
       "last_seen": "2026-06-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2199",
@@ -36755,7 +36350,7 @@
     },
     {
       "candidate_id": "C2326",
-      "proposed_theme": "반도체 인재 확보 경쟁·성과급 보상체계 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -36764,9 +36359,9 @@
       "review_ready": false,
       "first_seen": "2026-06-30",
       "last_seen": "2026-06-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2327",
@@ -37460,7 +37055,7 @@
     },
     {
       "candidate_id": "C2378",
-      "proposed_theme": "반도체 기업 노조 파업·쟁의행위 가처분",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37469,9 +37064,9 @@
       "review_ready": false,
       "first_seen": "2026-05-01",
       "last_seen": "2026-05-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2379",
@@ -37895,7 +37490,7 @@
     },
     {
       "candidate_id": "C2416",
-      "proposed_theme": "삼성전자 노조 리스크와 증권가 실적 추정 하향",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37904,9 +37499,9 @@
       "review_ready": false,
       "first_seen": "2026-05-04",
       "last_seen": "2026-05-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2417",
@@ -38120,7 +37715,7 @@
     },
     {
       "candidate_id": "C2432",
-      "proposed_theme": "삼성전자 노조 이탈·성과급 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38129,9 +37724,9 @@
       "review_ready": false,
       "first_seen": "2026-05-04",
       "last_seen": "2026-05-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2433",
@@ -38180,7 +37775,7 @@
     },
     {
       "candidate_id": "C2438",
-      "proposed_theme": "반도체 성과급·부문별 노사갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38189,9 +37784,9 @@
       "review_ready": false,
       "first_seen": "2026-05-04",
       "last_seen": "2026-05-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2439",
@@ -38346,21 +37941,6 @@
     {
       "candidate_id": "C2449",
       "proposed_theme": "국회의장 경선·의회 지도부 선출",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2450",
-      "proposed_theme": "한국은행 기준금리 인상 전환 논의",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38541,21 +38121,6 @@
     {
       "candidate_id": "C2462",
       "proposed_theme": "반도체 대형주 주도 코스피 급등",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-05",
-      "last_seen": "2026-05-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2463",
-      "proposed_theme": "한국은행 금리 인상 전환 논의",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -39124,23 +38689,8 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C2507",
-      "proposed_theme": "중동발 물가 급등과 한국은행 긴축 전환",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-07",
-      "last_seen": "2026-05-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C2508",
-      "proposed_theme": "반도체 기업 성과급·임금 교섭 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -39149,9 +38699,9 @@
       "review_ready": false,
       "first_seen": "2026-05-08",
       "last_seen": "2026-05-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2509",
@@ -39440,7 +38990,7 @@
     },
     {
       "candidate_id": "C2531",
-      "proposed_theme": "삼성전자 노사 임단협·정부 중재 조정",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -39449,9 +38999,9 @@
       "review_ready": false,
       "first_seen": "2026-05-09",
       "last_seen": "2026-05-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2532",
@@ -39635,7 +39185,7 @@
     },
     {
       "candidate_id": "C2544",
-      "proposed_theme": "삼성전자 노사협상·총파업 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -39644,9 +39194,9 @@
       "review_ready": false,
       "first_seen": "2026-05-09",
       "last_seen": "2026-05-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2545",
@@ -40535,7 +40085,7 @@
     },
     {
       "candidate_id": "C2615",
-      "proposed_theme": "반도체 기업 성과급·노사갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -40544,9 +40094,9 @@
       "review_ready": false,
       "first_seen": "2026-05-13",
       "last_seen": "2026-05-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2616",
@@ -41331,21 +40881,6 @@
     {
       "candidate_id": "C2676",
       "proposed_theme": "K푸드 수출 확대와 식품기업 승진 인사",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-16",
-      "last_seen": "2026-05-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2677",
-      "proposed_theme": "AI 모델 활용 보안 취약점 발견·대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -42185,7 +41720,7 @@
     },
     {
       "candidate_id": "C2747",
-      "proposed_theme": "반도체 대기업 성과급·총파업 노사갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -42194,9 +41729,9 @@
       "review_ready": false,
       "first_seen": "2026-05-20",
       "last_seen": "2026-05-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2748",
@@ -42245,7 +41780,7 @@
     },
     {
       "candidate_id": "C2751",
-      "proposed_theme": "반도체 기업 성과급·이익배분 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -42254,13 +41789,13 @@
       "review_ready": false,
       "first_seen": "2026-05-20",
       "last_seen": "2026-05-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2752",
-      "proposed_theme": "반도체 생산라인 파업·공급망 차질",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -42269,9 +41804,9 @@
       "review_ready": false,
       "first_seen": "2026-05-20",
       "last_seen": "2026-05-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2754",
@@ -42695,7 +42230,7 @@
     },
     {
       "candidate_id": "C2786",
-      "proposed_theme": "삼성전자 노사 성과급 협상",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -42704,9 +42239,9 @@
       "review_ready": false,
       "first_seen": "2026-05-21",
       "last_seen": "2026-05-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2787",
@@ -43220,7 +42755,7 @@
     },
     {
       "candidate_id": "C2832",
-      "proposed_theme": "반도체 성과급 격차와 노조 분열",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -43229,9 +42764,9 @@
       "review_ready": false,
       "first_seen": "2026-05-23",
       "last_seen": "2026-05-23",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2833",
@@ -43295,7 +42830,7 @@
     },
     {
       "candidate_id": "C2837",
-      "proposed_theme": "반도체 성과급 격차·노조 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -43304,9 +42839,9 @@
       "review_ready": false,
       "first_seen": "2026-05-23",
       "last_seen": "2026-05-23",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2838",
@@ -43760,7 +43295,7 @@
     },
     {
       "candidate_id": "C2877",
-      "proposed_theme": "반도체 성과급 확대·계열사 보상 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -43769,9 +43304,9 @@
       "review_ready": false,
       "first_seen": "2026-05-26",
       "last_seen": "2026-05-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C2878",
@@ -43954,21 +43489,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C2890",
-      "proposed_theme": "한국은행 기준금리 인상 전환 전망",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C2891",
       "proposed_theme": "라이프스타일 취향 콘텐츠 플랫폼 확장",
       "article_count": 1,
@@ -44121,21 +43641,6 @@
     {
       "candidate_id": "C2902",
       "proposed_theme": "증권사 성과급 배분 갈등",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2903",
-      "proposed_theme": "한국은행 기준금리 인상 전망과 한미 금리차",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -44834,21 +44339,6 @@
       "review_ready": false,
       "first_seen": "2026-05-28",
       "last_seen": "2026-05-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2963",
-      "proposed_theme": "한국은행 매파적 동결·금리인상 시사",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-29",
-      "last_seen": "2026-05-29",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -46341,36 +45831,6 @@
     {
       "candidate_id": "C3072",
       "proposed_theme": "ISA 가입 확대·생산적금융 계좌 개편",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3073",
-      "proposed_theme": "K방산 생산기지·공급망 지역 확산",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3074",
-      "proposed_theme": "군용차 방산 플랫폼 전환·수출 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48874,21 +48334,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3253",
-      "proposed_theme": "한국은행 기준금리 동결·통화정책 성향 전망",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-04-06",
-      "last_seen": "2026-04-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C3254",
       "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 1,
@@ -49250,7 +48695,7 @@
     },
     {
       "candidate_id": "C3280",
-      "proposed_theme": "반도체 대기업 성과급·노조 파업 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -49259,9 +48704,9 @@
       "review_ready": false,
       "first_seen": "2026-04-08",
       "last_seen": "2026-04-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3281",
@@ -49341,21 +48786,6 @@
     {
       "candidate_id": "C3287",
       "proposed_theme": "KF-21 개발·방산 수출 협력",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3288",
-      "proposed_theme": "한국은행 기준금리 동결·통화정책 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -49866,21 +49296,6 @@
     {
       "candidate_id": "C3327",
       "proposed_theme": "지방선거 공약·생활규제 완화",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-04-10",
-      "last_seen": "2026-04-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3328",
-      "proposed_theme": "K방산 수출 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -50555,7 +49970,7 @@
     },
     {
       "candidate_id": "C3378",
-      "proposed_theme": "반도체 대기업 파업·공급망 충격",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -50564,9 +49979,9 @@
       "review_ready": false,
       "first_seen": "2026-04-13",
       "last_seen": "2026-04-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3380",
@@ -51154,21 +50569,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3421",
-      "proposed_theme": "한국은행 통화정책 기조·물가 안정 우선",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C3422",
       "proposed_theme": "증권거래세·초과세수 확대",
       "article_count": 1,
@@ -51306,21 +50706,6 @@
     {
       "candidate_id": "C3431",
       "proposed_theme": "6·3 지방선거·보궐선거 출마 지형",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C3432",
-      "proposed_theme": "한국 방산 수출·정상외교 협력",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -52040,7 +51425,7 @@
     },
     {
       "candidate_id": "C3489",
-      "proposed_theme": "반도체 기업 노조 파업·쟁의행위 법적 대응",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -52049,9 +51434,9 @@
       "review_ready": false,
       "first_seen": "2026-04-17",
       "last_seen": "2026-04-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3490",
@@ -52325,7 +51710,7 @@
     },
     {
       "candidate_id": "C3509",
-      "proposed_theme": "반도체 대기업 노조 파업·생산차질 리스크",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -52334,9 +51719,9 @@
       "review_ready": false,
       "first_seen": "2026-04-18",
       "last_seen": "2026-04-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3510",
@@ -53540,7 +52925,7 @@
     },
     {
       "candidate_id": "C3609",
-      "proposed_theme": "반도체 대규모 R&D 투자와 성과급 부담",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -53549,9 +52934,9 @@
       "review_ready": false,
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3610",
@@ -53660,7 +53045,7 @@
     },
     {
       "candidate_id": "C3618",
-      "proposed_theme": "반도체 대기업 노조 성과급·파업 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -53669,9 +53054,9 @@
       "review_ready": false,
       "first_seen": "2026-04-24",
       "last_seen": "2026-04-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3619",
@@ -55220,7 +54605,7 @@
     },
     {
       "candidate_id": "C3735",
-      "proposed_theme": "반도체 대기업 성과급·노사 갈등",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -55229,9 +54614,9 @@
       "review_ready": false,
       "first_seen": "2026-04-28",
       "last_seen": "2026-04-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3736",
@@ -55775,7 +55160,7 @@
     },
     {
       "candidate_id": "C3780",
-      "proposed_theme": "반도체 대기업 총파업 리스크·쟁의행위 금지 가처분",
+      "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -55784,9 +55169,9 @@
       "review_ready": false,
       "first_seen": "2026-04-30",
       "last_seen": "2026-04-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T104",
+      "next_action": "Merged → T104"
     },
     {
       "candidate_id": "C3781",
@@ -56569,21 +55954,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3839",
-      "proposed_theme": "금융권 AI 해킹·정보보호 투자 확대",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C3840",
       "proposed_theme": "한국 로봇산업 생태계 취약·기술격차",
       "article_count": 1,
@@ -57081,6 +56451,21 @@
     {
       "candidate_id": "C3878",
       "proposed_theme": "국가채무 비율 상승·재정건전성 우려",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C3879",
+      "proposed_theme": "AI 기반 사이버공격·보안 위협",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -57949,21 +57334,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C3944",
-      "proposed_theme": "금융권 AI 해킹 대응·망분리 규제 완화",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C3945",
       "proposed_theme": "플랫폼·위탁 종사자 근로자성 인정 확대",
       "article_count": 1,
@@ -58364,6 +57734,21 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C3975",
+      "proposed_theme": "AI 해킹 도구·자율 공격 에이전트 확산",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -58866,21 +58251,6 @@
     {
       "candidate_id": "C4011",
       "proposed_theme": "항만장비 국산화·중국산 의존 리스크",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4012",
-      "proposed_theme": "AI 사이버공격과 금융안정 감독체계 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -59496,21 +58866,6 @@
     {
       "candidate_id": "C4061",
       "proposed_theme": "지역 순회 투자설명회·재테크 세미나",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4062",
-      "proposed_theme": "AI 해킹 대응 디지털 지갑 보안 강화",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
