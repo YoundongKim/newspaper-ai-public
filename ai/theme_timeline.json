@@ -1,8 +1,8 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-16T23:21:55+00:00",
+  "generated_at": "2026-10-18T22:49:22+00:00",
   "data_start": "2026-04-01",
-  "data_cutoff": "2026-10-17",
+  "data_cutoff": "2026-10-19",
   "coverage": {
     "publishers": [
       "매일경제",
@@ -134,6 +134,10 @@
     {
       "week_id": "2026-W42",
       "observed_days": 6
+    },
+    {
+      "week_id": "2026-W43",
+      "observed_days": 1
     }
   ],
   "rows": [
@@ -16135,12 +16139,12 @@
       "week_id": "2026-W42",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
-      "article_count": 6,
-      "daily_average": 1.0,
+      "article_count": 7,
+      "daily_average": 1.166667,
       "distinct_dates": 3,
       "cross_media_days": 1,
       "maekyung_count": 4,
-      "hankyung_count": 2
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W42",
@@ -16441,6 +16445,17 @@
     },
     {
       "week_id": "2026-W42",
+      "theme_id": "T060",
+      "theme": "자동차 자율주행·AI 전환",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W42",
       "theme_id": "T061",
       "theme": "중국 자동차 글로벌 진출·한국 영향",
       "article_count": 2,
@@ -16630,12 +16645,12 @@
       "week_id": "2026-W42",
       "theme_id": "T093",
       "theme": "노동쟁의 범위·원청 사용자성 제도 변화",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
       "maekyung_count": 1,
-      "hankyung_count": 0
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W42",
@@ -16680,6 +16695,138 @@
       "cross_media_days": 0,
       "maekyung_count": 2,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T012",
+      "theme": "서울 월세 상승·전세의 월세화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T019",
+      "theme": "대미 투자·통상 협상",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T032",
+      "theme": "지방재정·교부세 배분",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T049",
+      "theme": "한미·한일 안보협력 강화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T061",
+      "theme": "중국 자동차 글로벌 진출·한국 영향",
+      "article_count": 3,
+      "daily_average": 3.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T062",
+      "theme": "기업 사업재편·지배구조 변화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T065",
+      "theme": "국가 재정지출·기금 편성",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T068",
+      "theme": "청년고용 부진·고용 양극화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T089",
+      "theme": "국내 정치 지지율·여권 갈등",
+      "article_count": 3,
+      "daily_average": 3.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 2,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T092",
+      "theme": "상장제도·자본시장 구조·투자자보호 개편",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T103",
+      "theme": "스테이블코인 제도화·결제 인프라 확산",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     }
   ]
 }
