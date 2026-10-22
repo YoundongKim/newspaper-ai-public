@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-04-01 ~ 2026-10-22
-Generated: 2026-10-21T23:47:55+00:00
+Generated: 2026-10-22T07:09:51+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 10208
 
@@ -34,56 +34,57 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T055 · 도심 주택공급·용도규제 완화 | period articles=154 | period dates=70 | first=2026-04-04 | last=2026-10-21
 - T047 · 중동 분쟁과 해상운송 안전 | period articles=130 | period dates=75 | first=2026-04-01 | last=2026-10-17
 - T045 · 중동 군사충돌 확산 | period articles=121 | period dates=72 | first=2026-04-01 | last=2026-10-12
-- T052 · 검찰·사법제도 개편 | period articles=120 | period dates=68 | first=2026-04-01 | last=2026-10-22
+- T052 · 검찰·사법제도 개편 | period articles=121 | period dates=68 | first=2026-04-01 | last=2026-10-22
+- T062 · 기업 사업재편·지배구조 변화 | period articles=114 | period dates=57 | first=2026-04-04 | last=2026-10-22
 - T019 · 대미 투자·통상 협상 | period articles=114 | period dates=54 | first=2026-04-02 | last=2026-10-21
-- T062 · 기업 사업재편·지배구조 변화 | period articles=112 | period dates=57 | first=2026-04-04 | last=2026-10-22
 - T091 · 트럼프 행정부 통상·환율·금리 압박 | period articles=108 | period dates=70 | first=2026-04-01 | last=2026-10-16
 - T002 · AI 안전·거버넌스 | period articles=108 | period dates=54 | first=2026-04-01 | last=2026-10-14
 - T048 · 북한 핵·미사일 위협 및 대북억지 | period articles=107 | period dates=62 | first=2026-04-07 | last=2026-10-22
 - T037 · 고위공직자 인사검증·청문회 | period articles=103 | period dates=43 | first=2026-04-06 | last=2026-10-20
 - T083 · 정당·여권 인사·연대 재편 | period articles=99 | period dates=70 | first=2026-04-02 | last=2026-10-21
-- T021 · 반도체 중심 수출 증가 | period articles=98 | period dates=56 | first=2026-04-02 | last=2026-10-20
+- T021 · 반도체 중심 수출 증가 | period articles=97 | period dates=55 | first=2026-04-02 | last=2026-10-14
 - T064 · 종부세·보유세 제도 변화 | period articles=95 | period dates=45 | first=2026-04-06 | last=2026-10-13
 - T009 · 미국 인플레이션·Fed 긴축 | period articles=88 | period dates=46 | first=2026-04-01 | last=2026-10-17
 - T042 · 정당 인사·정책조직 재편 | period articles=87 | period dates=57 | first=2026-04-01 | last=2026-10-10
-- T049 · 한미·한일 안보협력 강화 | period articles=86 | period dates=48 | first=2026-04-09 | last=2026-10-20
+- T049 · 한미·한일 안보협력 강화 | period articles=87 | period dates=49 | first=2026-04-09 | last=2026-10-22
 - T093 · 노동쟁의 범위·원청 사용자성 제도 변화 | period articles=86 | period dates=43 | first=2026-04-01 | last=2026-10-17
 - T077 · 원화·엔화 환율 변동과 기관 헤지 | period articles=83 | period dates=52 | first=2026-04-01 | last=2026-10-21
 - T104 · 반도체 성과급·노사갈등·파업 리스크 | period articles=82 | period dates=32 | first=2026-04-08 | last=2026-10-22
 
 ## Recent 7-day Theme observations
+- T062 · 기업 사업재편·지배구조 변화 | 7d articles=13 | 7d dates=5 | cross-media days=3 | 28d articles=22
 - T061 · 중국 자동차 글로벌 진출·한국 영향 | 7d articles=12 | 7d dates=4 | cross-media days=1 | 28d articles=14
-- T062 · 기업 사업재편·지배구조 변화 | 7d articles=11 | 7d dates=5 | cross-media days=2 | 28d articles=20
 - T003 · AI 연산·전력 인프라 수요 | 7d articles=10 | 7d dates=4 | cross-media days=2 | 28d articles=41
 - T089 · 국내 정치 지지율·여권 갈등 | 7d articles=9 | 7d dates=5 | cross-media days=3 | 28d articles=29
+- T049 · 한미·한일 안보협력 강화 | 7d articles=6 | 7d dates=5 | cross-media days=0 | 28d articles=16
 - T019 · 대미 투자·통상 협상 | 7d articles=6 | 7d dates=3 | cross-media days=0 | 28d articles=24
+- T052 · 검찰·사법제도 개편 | 7d articles=6 | 7d dates=3 | cross-media days=1 | 28d articles=18
 - T055 · 도심 주택공급·용도규제 완화 | 7d articles=6 | 7d dates=3 | cross-media days=1 | 28d articles=22
 - T092 · 상장제도·자본시장 구조·투자자보호 개편 | 7d articles=6 | 7d dates=3 | cross-media days=2 | 28d articles=21
 - T048 · 북한 핵·미사일 위협 및 대북억지 | 7d articles=5 | 7d dates=4 | cross-media days=1 | 28d articles=31
-- T049 · 한미·한일 안보협력 강화 | 7d articles=5 | 7d dates=4 | cross-media days=0 | 28d articles=15
-- T052 · 검찰·사법제도 개편 | 7d articles=5 | 7d dates=3 | cross-media days=0 | 28d articles=17
 - T012 · 서울 월세 상승·전세의 월세화 | 7d articles=4 | 7d dates=3 | cross-media days=0 | 28d articles=5
 - T039 · 미국 정치 지형 변화 | 7d articles=4 | 7d dates=3 | cross-media days=0 | 28d articles=10
 - T070 · 국민연금 운용·제도 변화 | 7d articles=4 | 7d dates=3 | cross-media days=0 | 28d articles=10
 - T009 · 미국 인플레이션·Fed 긴축 | 7d articles=4 | 7d dates=2 | cross-media days=0 | 28d articles=7
+- T032 · 지방재정·교부세 배분 | 7d articles=3 | 7d dates=3 | cross-media days=0 | 28d articles=5
 - T068 · 청년고용 부진·고용 양극화 | 7d articles=3 | 7d dates=3 | cross-media days=0 | 28d articles=4
 - T037 · 고위공직자 인사검증·청문회 | 7d articles=3 | 7d dates=2 | cross-media days=0 | 28d articles=9
 - T029 · 자영업자 부채·금리 부담 | 7d articles=3 | 7d dates=1 | cross-media days=0 | 28d articles=4
+- T084 · 핀셋 증세·산업별 세제 재편 | 7d articles=3 | 7d dates=1 | cross-media days=1 | 28d articles=11
 - T011 · 산업특화 로봇·현장 자동화 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=10
 - T026 · 은행권 대출금리 조정 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=4
-- T032 · 지방재정·교부세 배분 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=4
 - T065 · 국가 재정지출·기금 편성 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=11
 - T073 · 글로벌 원자재 가격 상승·인플레 압력 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=5
 - T080 · 신흥국 투자유치·한국 기업 협력 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=6
-- T084 · 핀셋 증세·산업별 세제 재편 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=10
 - T087 · 글로벌 질서·지정학 리스크 재편 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=9
 
 ## Review-ready Candidate Signals
 - C2585 · 고유가 피해지원금 지급 | signal=PERSISTENT_CROSS_MEDIA | articles=4 | dates=3 | cross-media days=1
 - C3530 · 한-인도 정상외교·산업협력 확대 | signal=PERSISTENT_CROSS_MEDIA | articles=6 | dates=2 | cross-media days=1
+- C1328 · 정부 성장률 전망 상향·잠재성장률 목표 | signal=PERSISTENT_CROSS_MEDIA | articles=5 | dates=2 | cross-media days=2
+- C4257 · 유럽 재정불안·국채금리 급등 | signal=PERSISTENT_CROSS_MEDIA | articles=4 | dates=2 | cross-media days=1
 - C0182 · 청년 생애최초 주택 취득세 감면 확대 | signal=PERSISTENT_CROSS_MEDIA | articles=3 | dates=2 | cross-media days=1
 - C1884 · 국회 원구성·상임위 배분 갈등 | signal=PERSISTENT | articles=5 | dates=5 | cross-media days=0
-- C0663 · 국내 증시 급락·개인투자자 손실 | signal=PERSISTENT | articles=7 | dates=4 | cross-media days=0
 - C0658 · 글로벌 지식포럼·국제 컨퍼런스 개최 | signal=PERSISTENT | articles=7 | dates=3 | cross-media days=0
 - C0217 · 빅테크 AI 투자 재원 위한 글로벌 회사채 발행 확대 | signal=PERSISTENT | articles=4 | dates=3 | cross-media days=0
 - C1316 · 벤처투자 관련 이슈 | signal=PERSISTENT | articles=4 | dates=3 | cross-media days=0
@@ -103,7 +104,6 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - C3379 · 비거주 1주택자 전세대출 규제 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C0026 · 정당 윤리위 징계·당원권 분쟁 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
 - C0053 · 신문사 구독 이벤트·독자 확보 마케팅 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
-- C0088 · RE100 산업단지·재생에너지 전력 공급 모델 | signal=PERSISTENT | articles=2 | dates=2 | cross-media days=0
 
 ## Latest Narrative Changes
 - T103 · 스테이블코인 제도화·결제 인프라 확산 | 2026-09-20~2026-10-17 | 비교 데이터 부족
@@ -150,7 +150,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-10-22 · 매일경제 · A1면 · C4272] [알립니다] AI전환기 큰손들의 투자전략…대체투자 콘퍼런스 개최
   Summary: 매일경제신문이 주한유럽상공회의소와 공동으로 11월 19일 더그랜드롯데 서울에서 '글로벌 대체투자 콘퍼런스 2026(GAII 2026)'을 개최한다. 'AI 전환기 대체투자 패러다임 격변'을 주제로 퍼미라 마이클 제코스 테크부문 공동대표와 칼라일 맷 앤더슨 최고디지털책임자가 기조연설자로 나선다.
   Source: https://n.news.naver.com/article/newspaper/009/0005752072?date=20261022
-- [2026-10-22 · 매일경제 · A1면 · C4271] 속도내는 테슬라·스페이스X 합병
+- [2026-10-22 · 매일경제 · A1면 · T062] 속도내는 테슬라·스페이스X 합병
   Summary: 일론 머스크가 테슬라와 스페이스X의 합병 검토를 공식화하며 양사 이사회에 합병 검토 특별위원회를 각각 구성했다고 밝혔다. 두 회사 시가총액 합계는 3조5000억달러(약 4638조원)로, 성사 시 사상 최대 규모 기업결합이 된다. 스페이스X는 3분기 순이익 44억달러로 상장 이후 첫 분기 흑자를 냈으며 구체적 합병 비율 등 조건은 정해지지 않았다.
   Source: https://n.news.naver.com/article/newspaper/009/0005752073?date=20261022
 - [2026-10-22 · 매일경제 · A1면 · T052] "수사권한 커진 警, 민주적 통제 확립해야"
@@ -177,7 +177,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-10-22 · 매일경제 · A4면 · T052] 계좌추적·압수수색 권한 없는 공소청 검사  … 은닉 재산 찾는 것도 '난항'
   Summary: 형사소송법 개정으로 검사의 직접수사와 압수수색 영장 청구 근거(제196조, 제215조 제1항)가 삭제되면서 공소청 검사가 계좌추적이나 압수수색 없이 범죄수익 환수에 나서야 하는 제약이 생겼다. 법무부는 검찰청 폐지 이후 범죄수익 환수를 공소청 주요 기능으로 내세워 전담 조직을 3곳으로 확대했지만, 숨긴 재산 확인은 경찰이나 중대범죄수사청 수사에 의존해야 해 환수 절차가 지연될 수 있다는 우려가 나온다.
   Source: https://n.news.naver.com/article/newspaper/009/0005752030?date=20261022
-- [2026-10-22 · 매일경제 · A5면 · C4271] 로봇·데이터센터·우주 '올인원…' 머스크 'AI제국' 승부수 던졌다
+- [2026-10-22 · 매일경제 · A5면 · T062] 로봇·데이터센터·우주 '올인원…' 머스크 'AI제국' 승부수 던졌다
   Summary: 일론 머스크가 테슬라와 스페이스X 이사회가 합병을 검토할 특별위원회를 각각 구성했다고 공식화했다. 스페이스X는 xAI 흡수 후 3분기 AI 부문 매출이 전년 동기보다 830% 급증한 75억6000만달러로 전체 매출의 52%를 차지했으나, AI 부문 영업이익은 4억3100만달러로 매출의 5.7%에 그쳤다. 머스크는 반도체·데이터센터·로봇·통신을 하나의 계획 아래 통합하는 AI 생태계 구축을 합병 효과로 기대하고 있다.
   Source: https://n.news.naver.com/article/newspaper/009/0005752000?date=20261022
 - [2026-10-22 · 매일경제 · A5면 · T003] 머스크, AI반도체 생산도 속도 … 삼전닉스는 불똥 튈까봐 걱정
@@ -261,10 +261,10 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-10-22 · 한국경제 · A5면 · C4291] 올 서울 빌라 전세 4.7%↑…15년 만에 최고 상승률
   Summary: 올해 1~9월 서울 연립·다세대주택 전셋값이 4.7% 상승해 2011년 이후 15년 만에 최고 상승률을 기록했다. 9월 전세가격지수는 102.01로 2003년 통계 작성 이후 최고치이며, 같은 기간 서울 아파트 전셋값은 8.2% 올라 아파트 전세난이 빌라 시장으로 확산했다. 함영진 우리은행 부동산리서치랩장은 아파트 수요가 빌라로 옮겨오는 가운데 빌라도 공급 감소를 겪고 있다고 말했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005345074?date=20261022
-- [2026-10-22 · 한국경제 · A6면 · C4292] 李대통령, AI 인용해 "중수청장 배석 불가론은 억지"
+- [2026-10-22 · 한국경제 · A6면 · T052] 李대통령, AI 인용해 "중수청장 배석 불가론은 억지"
   Summary: 이재명 대통령은 21일 제미나이의 답변을 인용해 공소청장·중대범죄수사청장의 국무회의 배석 불가론이 위헌적 억지라는 글을 X에 올렸다. 이 대통령은 산림청장·소방청장 등 모든 청장이 참석해 논의한다며 수사권한 기관을 특별 취급하는 관행을 바로잡는 것이 비정상의 정상화라고 밝혔다. 김지용 중수청장은 취임 당일인 전날 대통령 지시에 따라 국무회의에 참석했으며, 법조계와 야권에서는 수사 독립성 훼손 우려를 제기했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005345060?date=20261022
-- [2026-10-22 · 한국경제 · A6면 · C4295] 브런슨 "한미훈련, 연중 상시해야…진영승 의장과 FS 연습계획 논의"
+- [2026-10-22 · 한국경제 · A6면 · T049] 브런슨 "한미훈련, 연중 상시해야…진영승 의장과 FS 연습계획 논의"
   Summary: 제이비어 브런슨 주한미군사령관은 한미연합훈련을 연중 상시 실시해야 한다고 제안하고, 진영승 합참의장과 '자유의 방패'(FS) 연습 계획을 논의했다고 밝혔다. 그는 동북아 정비·군수지원 거점으로서 한반도의 중요성을 강조하며, 미 해군 함정이 한국 조선소에서 신속히 정비받는 것이 작전상 억제력으로 이어진다고 말했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005345063?date=20261022
 - [2026-10-22 · 한국경제 · A6면 · C4296] 金, 또 구조적 다수론…'주52시간 예외' 처리가 시험대
@@ -276,10 +276,10 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-10-22 · 한국경제 · A6면 · C4294] 고성으로 얼룩진 국회 운영위…강훈식·김용범 국감증인 제외
   Summary: 국회 운영위원회는 21일 전체회의에서 29일 대통령비서실 국정감사 증인 채택의 건을 재석 20명 중 찬성 15명, 반대 5명으로 의결했으나, 야당이 요구한 강훈식 전 비서실장, 김용범 전 정책실장, 김현지 제1부속실장 등 일반증인은 제외됐다. 더불어민주당은 전임자들의 공무상 비밀 유지 의무 등을 이유로 반대했고, 국민의힘은 이재명 대통령과 김혜경 여사 증인 채택을 요구하며 고성이 오갔다.
   Source: https://n.news.naver.com/article/newspaper/015/0005345076?date=20261022
-- [2026-10-22 · 한국경제 · A6면 · C4293] 여야, 中 전기차 공세에 '세액공제 카드' 꺼냈다
+- [2026-10-22 · 한국경제 · A6면 · T084] 여야, 中 전기차 공세에 '세액공제 카드' 꺼냈다
   Summary: 여야 의원 19명이 국내에서 전기차·2차전지·반도체 등 7대 핵심 전략품목을 생산·판매하는 기업에 소득세·법인세를 공제하는 조세특례제한법 개정안을 공동 발의했다. 공제 한도를 투자누계액의 100%로 확대하고 비수도권 공장 생산 시 최대 150%까지 가산하며, 2027년 시행·2036년 말까지 한시 적용이 목표다. 올해 상반기 국내 신규 등록 전기차 중 중국산 비중이 35%에 달하자 대응 차원에서 추진됐다.
   Source: https://n.news.naver.com/article/newspaper/015/0005345140?date=20261022
-- [2026-10-22 · 한국경제 · A6면 · C4295] 김여정 "이달 중 대남확성기 전 국경선서 가동 들어갈 것"
+- [2026-10-22 · 한국경제 · A6면 · C4277] 김여정 "이달 중 대남확성기 전 국경선서 가동 들어갈 것"
   Summary: 김여정 북한 노동당 중앙위원회 부장이 10월 중 대남 심리전 확성기를 전 국경선에서 가동 상태에 들어갈 것이라고 조선중앙통신 담화를 통해 예고했다. 제이비어 브런슨 주한미군사령관은 한미연합훈련을 연례 두 차례 주요 연습에 의존하지 않고 연중 상시 실시해야 한다고 제안했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005345174?date=20261022
 - [2026-10-22 · 한국경제 · A8면 · C4300] 사전예약만 수십건…1대1 미팅 요청 쇄도

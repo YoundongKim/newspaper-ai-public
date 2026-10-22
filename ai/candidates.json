@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-21T23:47:55+00:00",
+  "generated_at": "2026-10-22T07:09:51+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-22",
   "coverage": {
@@ -79,6 +79,21 @@
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
+      "candidate_id": "C1328",
+      "proposed_theme": "정부 성장률 전망 상향·잠재성장률 목표",
+      "article_count": 5,
+      "distinct_dates": 2,
+      "publisher_count": 2,
+      "cross_media_days": 2,
+      "signal_type": "PERSISTENT_CROSS_MEDIA",
+      "review_ready": true,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-10-20",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+    },
+    {
       "candidate_id": "C2645",
       "proposed_theme": "반도체 성과급·노사갈등·파업 리스크",
       "article_count": 5,
@@ -92,6 +107,21 @@
       "status": "Merged",
       "canonical_theme_id": "T104",
       "next_action": "Merged → T104"
+    },
+    {
+      "candidate_id": "C4257",
+      "proposed_theme": "유럽 재정불안·국채금리 급등",
+      "article_count": 4,
+      "distinct_dates": 2,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "signal_type": "PERSISTENT_CROSS_MEDIA",
+      "review_ready": true,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
       "candidate_id": "C0182",
@@ -200,7 +230,7 @@
     },
     {
       "candidate_id": "C0663",
-      "proposed_theme": "국내 증시 급락·개인투자자 손실",
+      "proposed_theme": "증시 급락·개인투자자 손실 및 투자자금 이동",
       "article_count": 7,
       "distinct_dates": 4,
       "publisher_count": 2,
@@ -209,9 +239,9 @@
       "review_ready": true,
       "first_seen": "2026-07-09",
       "last_seen": "2026-08-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T107",
+      "next_action": "Merged → T107"
     },
     {
       "candidate_id": "C0473",
@@ -1459,21 +1489,6 @@
       "next_action": "Merged → T094"
     },
     {
-      "candidate_id": "C1328",
-      "proposed_theme": "정부 성장률 전망 상향·잠재성장률 목표",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "signal_type": "CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
       "candidate_id": "C1499",
       "proposed_theme": "광역단체장 사법리스크·직위상실",
       "article_count": 3,
@@ -1544,21 +1559,6 @@
       "review_ready": true,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C4257",
-      "proposed_theme": "유럽 재정불안·국채금리 급등",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "signal_type": "CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -2294,6 +2294,36 @@
       "review_ready": true,
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+    },
+    {
+      "candidate_id": "C4238",
+      "proposed_theme": "첨단산업 기술유출 규제·수사 강화",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "signal_type": "CROSS_MEDIA",
+      "review_ready": true,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+    },
+    {
+      "candidate_id": "C4277",
+      "proposed_theme": "남북 대남 심리전·확성기 긴장",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "signal_type": "CROSS_MEDIA",
+      "review_ready": true,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -8389,6 +8419,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C4251",
+      "proposed_theme": "가계 주식자산 비중 확대와 증시 급락발 소비 위축",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C4260",
       "proposed_theme": "부동산 경매물량 급증·낙찰률 하락",
       "article_count": 2,
@@ -8406,36 +8451,6 @@
     {
       "candidate_id": "C4270",
       "proposed_theme": "주가조작 범죄수익 추징 미흡·환수 제도",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4271",
-      "proposed_theme": "대형 테크기업 합병·AI 생태계 통합",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4295",
-      "proposed_theme": "지정학 관련 이슈",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -61429,21 +61444,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C4224",
-      "proposed_theme": "유럽 재정불안·국채금리 급등과 유로화 약세",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C4225",
       "proposed_theme": "유럽식 장기 저성장과 한국의 구조개혁 과제",
       "article_count": 1,
@@ -61639,21 +61639,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C4238",
-      "proposed_theme": "첨단산업 기술유출 규제·수사 강화",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C4240",
       "proposed_theme": "맞벌이 가사·돌봄 분담 격차",
       "article_count": 1,
@@ -61759,51 +61744,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C4249",
-      "proposed_theme": "한국 경제성장률·잠재성장률 전망",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4250",
-      "proposed_theme": "산업기술 유출 수사·처벌 강화",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4251",
-      "proposed_theme": "가계 주식자산 비중 확대와 증시 급락발 소비 위축",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C4252",
       "proposed_theme": "상장사 정보보호 공시·ISMS 인증 의무 확대",
       "article_count": 1,
@@ -61820,7 +61760,7 @@
     },
     {
       "candidate_id": "C4253",
-      "proposed_theme": "개인투자자 반도체주 집중 매수와 손실 확대",
+      "proposed_theme": "증시 급락·개인투자자 손실 및 투자자금 이동",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -61829,28 +61769,13 @@
       "review_ready": false,
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T107",
+      "next_action": "Merged → T107"
     },
     {
       "candidate_id": "C4254",
       "proposed_theme": "기업 AI 전환(AX) 우수사례 발굴·인증 공모",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4255",
-      "proposed_theme": "증시 급락에 따른 가계 금융자산 충격",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -62104,21 +62029,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C4277",
-      "proposed_theme": "남북 대남 심리전·확성기 긴장",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C4278",
       "proposed_theme": "가상자산 과세 유예 논의",
       "article_count": 1,
@@ -62316,36 +62226,6 @@
     {
       "candidate_id": "C4291",
       "proposed_theme": "서울 빌라 전세난·전세가격 급등",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4292",
-      "proposed_theme": "수사기관 국무회의 배석·수사 독립성 논쟁",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4293",
-      "proposed_theme": "중국산 전기차 대응 전략품목 세액공제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
