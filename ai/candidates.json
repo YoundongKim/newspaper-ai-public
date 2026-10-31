@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-30T21:24:20+00:00",
+  "generated_at": "2026-10-31T03:26:55+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-31",
   "coverage": {
@@ -74,21 +74,6 @@
       "review_ready": true,
       "first_seen": "2026-04-20",
       "last_seen": "2026-04-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C1328",
-      "proposed_theme": "정부 성장률 전망 상향·잠재성장률 목표",
-      "article_count": 5,
-      "distinct_dates": 2,
-      "publisher_count": 2,
-      "cross_media_days": 2,
-      "signal_type": "PERSISTENT_CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-10-20",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -335,7 +320,7 @@
     },
     {
       "candidate_id": "C0217",
-      "proposed_theme": "빅테크 AI 투자 재원 위한 글로벌 회사채 발행 확대",
+      "proposed_theme": "빅테크 AI 투자 자금조달·현금흐름",
       "article_count": 4,
       "distinct_dates": 3,
       "publisher_count": 1,
@@ -344,9 +329,9 @@
       "review_ready": true,
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T110",
+      "next_action": "Merged → T110"
     },
     {
       "candidate_id": "C0909",
@@ -545,7 +530,7 @@
     },
     {
       "candidate_id": "C0674",
-      "proposed_theme": "첨단기술 연구보안·산업기술 유출 대응",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 3,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -554,9 +539,9 @@
       "review_ready": true,
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C0749",
@@ -2135,7 +2120,7 @@
     },
     {
       "candidate_id": "C1709",
-      "proposed_theme": "국제기구 한국 성장률 전망 상향",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2144,9 +2129,9 @@
       "review_ready": true,
       "first_seen": "2026-09-24",
       "last_seen": "2026-09-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C1787",
@@ -2420,7 +2405,7 @@
     },
     {
       "candidate_id": "C4040",
-      "proposed_theme": "한국 잠재성장률 하락·장기성장 전략",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2429,13 +2414,13 @@
       "review_ready": true,
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C4238",
-      "proposed_theme": "첨단산업 기술유출 규제·수사 강화",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2444,9 +2429,9 @@
       "review_ready": true,
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C4277",
@@ -3305,7 +3290,7 @@
     },
     {
       "candidate_id": "C0792",
-      "proposed_theme": "국가 R&D 연구보안 규제 강화",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3314,9 +3299,9 @@
       "review_ready": false,
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C0818",
@@ -8825,7 +8810,7 @@
     },
     {
       "candidate_id": "C4474",
-      "proposed_theme": "퇴직연금 제도개편·수익률 제고",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -8834,9 +8819,9 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C4509",
@@ -10445,7 +10430,7 @@
     },
     {
       "candidate_id": "C0122",
-      "proposed_theme": "AI 인프라 대규모 자금조달 경쟁",
+      "proposed_theme": "빅테크 AI 투자 자금조달·현금흐름",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -10454,9 +10439,9 @@
       "review_ready": false,
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T110",
+      "next_action": "Merged → T110"
     },
     {
       "candidate_id": "C0123",
@@ -12845,7 +12830,7 @@
     },
     {
       "candidate_id": "C0315",
-      "proposed_theme": "한국 장기 저성장 대응 R&D·아이디어 제도 개편",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -12854,9 +12839,9 @@
       "review_ready": false,
       "first_seen": "2026-09-01",
       "last_seen": "2026-09-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C0316",
@@ -16940,7 +16925,7 @@
     },
     {
       "candidate_id": "C0670",
-      "proposed_theme": "대학·연구소 산업기술 해외유출·연구보안 강화",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -16949,9 +16934,9 @@
       "review_ready": false,
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C0672",
@@ -18050,7 +18035,7 @@
     },
     {
       "candidate_id": "C0762",
-      "proposed_theme": "중대범죄수사청 출범과 기술유출 수사 공백",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18059,13 +18044,13 @@
       "review_ready": false,
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C0763",
-      "proposed_theme": "연구보안·기술유출 방지 체계 강화",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18074,9 +18059,9 @@
       "review_ready": false,
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C0765",
@@ -24140,7 +24125,7 @@
     },
     {
       "candidate_id": "C1281",
-      "proposed_theme": "반도체 호황 활용 노동·금융 구조개혁 논의",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24149,9 +24134,9 @@
       "review_ready": false,
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C1283",
@@ -24546,6 +24531,21 @@
     {
       "candidate_id": "C1327",
       "proposed_theme": "미국 상원의원 보궐 임명·정치 인사",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C1328",
+      "proposed_theme": "정부 성장률 전망 상향·잠재성장률 목표",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27425,7 +27425,7 @@
     },
     {
       "candidate_id": "C1587",
-      "proposed_theme": "퇴직연금 기금화·수탁자 책임 강화",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27434,9 +27434,9 @@
       "review_ready": false,
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C1588",
@@ -27590,7 +27590,7 @@
     },
     {
       "candidate_id": "C1600",
-      "proposed_theme": "빅테크 AI 자본지출 확대와 잉여현금흐름 악화",
+      "proposed_theme": "빅테크 AI 투자 자금조달·현금흐름",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27599,9 +27599,9 @@
       "review_ready": false,
       "first_seen": "2026-07-29",
       "last_seen": "2026-07-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T110",
+      "next_action": "Merged → T110"
     },
     {
       "candidate_id": "C1601",
@@ -27740,7 +27740,7 @@
     },
     {
       "candidate_id": "C1610",
-      "proposed_theme": "국가 핵심기술 연구기관 보안·기술유출 리스크",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27749,9 +27749,9 @@
       "review_ready": false,
       "first_seen": "2026-07-29",
       "last_seen": "2026-07-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C1612",
@@ -32840,7 +32840,7 @@
     },
     {
       "candidate_id": "C2009",
-      "proposed_theme": "산업기술유출 수사체계 정비",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -32849,9 +32849,9 @@
       "review_ready": false,
       "first_seen": "2026-06-15",
       "last_seen": "2026-06-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C2010",
@@ -47405,7 +47405,7 @@
     },
     {
       "candidate_id": "C3138",
-      "proposed_theme": "산업기술 해외유출·처벌 실효성 논란",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -47414,9 +47414,9 @@
       "review_ready": false,
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C3139",
@@ -56045,7 +56045,7 @@
     },
     {
       "candidate_id": "C3795",
-      "proposed_theme": "퇴직연금 기금형 제도 도입·사업자 경쟁 확대",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56054,9 +56054,9 @@
       "review_ready": false,
       "first_seen": "2026-04-30",
       "last_seen": "2026-04-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C3796",
@@ -56210,7 +56210,7 @@
     },
     {
       "candidate_id": "C3807",
-      "proposed_theme": "국가핵심기술 유출·산업기술 보호 강화",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56219,9 +56219,9 @@
       "review_ready": false,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C3809",
@@ -56330,7 +56330,7 @@
     },
     {
       "candidate_id": "C3816",
-      "proposed_theme": "국가핵심기술 해외유출·산업스파이 리스크",
+      "proposed_theme": "첨단기술 유출·연구보안 대응",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56339,9 +56339,9 @@
       "review_ready": false,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T109",
+      "next_action": "Merged → T109"
     },
     {
       "candidate_id": "C3817",
@@ -59960,7 +59960,7 @@
     },
     {
       "candidate_id": "C4092",
-      "proposed_theme": "IMF 한국 성장률 전망 상향·AI 반도체 수요",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -59969,9 +59969,9 @@
       "review_ready": false,
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C4093",
@@ -60515,7 +60515,7 @@
     },
     {
       "candidate_id": "C4133",
-      "proposed_theme": "AI 투자 자금조달 리스크·빅테크 신용경계",
+      "proposed_theme": "빅테크 AI 투자 자금조달·현금흐름",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -60524,9 +60524,9 @@
       "review_ready": false,
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T110",
+      "next_action": "Merged → T110"
     },
     {
       "candidate_id": "C4134",
@@ -61340,7 +61340,7 @@
     },
     {
       "candidate_id": "C4194",
-      "proposed_theme": "AI·반도체 호황과 잠재성장률·세수 리스크",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -61349,9 +61349,9 @@
       "review_ready": false,
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C4195",
@@ -61730,7 +61730,7 @@
     },
     {
       "candidate_id": "C4221",
-      "proposed_theme": "AI 투자발 한국 잠재성장률 반등",
+      "proposed_theme": "한국 경제성장 전망·장기 성장 진단",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -61739,9 +61739,9 @@
       "review_ready": false,
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T111",
+      "next_action": "Merged → T111"
     },
     {
       "candidate_id": "C4222",
@@ -64355,7 +64355,7 @@
     },
     {
       "candidate_id": "C4431",
-      "proposed_theme": "퇴직급여 사외적립 의무화·퇴직연금 제도 강화",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64364,9 +64364,9 @@
       "review_ready": false,
       "first_seen": "2026-10-29",
       "last_seen": "2026-10-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C4432",
@@ -64985,7 +64985,7 @@
     },
     {
       "candidate_id": "C4475",
-      "proposed_theme": "퇴직급여 사외적립 의무화 확대",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64994,9 +64994,9 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C4476",
@@ -65195,7 +65195,7 @@
     },
     {
       "candidate_id": "C4490",
-      "proposed_theme": "퇴직연금 제도개편·기금형 퇴직연금 도입",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65204,13 +65204,13 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C4491",
-      "proposed_theme": "퇴직연금 위험자산 투자한도·운용상품 확대",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65219,13 +65219,13 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C4492",
-      "proposed_theme": "중소기업 퇴직연금기금 가입확대·운용인프라",
+      "proposed_theme": "퇴직연금 제도 개편·기금형 전환",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65234,9 +65234,9 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T108",
+      "next_action": "Merged → T108"
     },
     {
       "candidate_id": "C4493",
@@ -65480,7 +65480,7 @@
     },
     {
       "candidate_id": "C4511",
-      "proposed_theme": "빅테크 AI 설비투자 확대에 따른 현금흐름 악화·주가 급락",
+      "proposed_theme": "빅테크 AI 투자 자금조달·현금흐름",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65489,9 +65489,9 @@
       "review_ready": false,
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T110",
+      "next_action": "Merged → T110"
     },
     {
       "candidate_id": "C4512",

@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-10-30T21:24:20+00:00",
+  "generated_at": "2026-10-31T03:26:55+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-10-31",
   "coverage": {
@@ -2852,6 +2852,17 @@
       "hankyung_count": 4
     },
     {
+      "week_id": "2026-W18",
+      "theme_id": "T108",
+      "theme": "퇴직연금 제도 개편·기금형 전환",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W19",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -3152,12 +3163,12 @@
       "week_id": "2026-W19",
       "theme_id": "T070",
       "theme": "국민연금 운용·제도 변화",
-      "article_count": 5,
-      "daily_average": 0.833333,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 2,
       "cross_media_days": 0,
       "maekyung_count": 2,
-      "hankyung_count": 3
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W19",
@@ -3367,6 +3378,17 @@
       "cross_media_days": 2,
       "maekyung_count": 5,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W19",
+      "theme_id": "T108",
+      "theme": "퇴직연금 제도 개편·기금형 전환",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W20",
@@ -6537,6 +6559,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W25",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W26",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -8858,6 +8891,17 @@
       "hankyung_count": 2
     },
     {
+      "week_id": "2026-W29",
+      "theme_id": "T111",
+      "theme": "한국 경제성장 전망·장기 성장 진단",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 2
+    },
+    {
       "week_id": "2026-W30",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -10002,6 +10046,39 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W31",
+      "theme_id": "T108",
+      "theme": "퇴직연금 제도 개편·기금형 전환",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W31",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W31",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W32",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -10410,17 +10487,6 @@
     },
     {
       "week_id": "2026-W32",
-      "theme_id": "T070",
-      "theme": "국민연금 운용·제도 변화",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 1,
-      "hankyung_count": 0
-    },
-    {
-      "week_id": "2026-W32",
       "theme_id": "T071",
       "theme": "중국 경기부양·인프라 투자",
       "article_count": 1,
@@ -10594,6 +10660,39 @@
       "cross_media_days": 0,
       "maekyung_count": 2,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W32",
+      "theme_id": "T108",
+      "theme": "퇴직연금 제도 개편·기금형 전환",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W32",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 9,
+      "daily_average": 1.5,
+      "distinct_dates": 3,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 9
+    },
+    {
+      "week_id": "2026-W32",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W33",
@@ -11212,6 +11311,17 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W33",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W34",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -11620,17 +11730,6 @@
     },
     {
       "week_id": "2026-W34",
-      "theme_id": "T076",
-      "theme": "중국 반도체 굴기·소부장 자립",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 1,
-      "hankyung_count": 0
-    },
-    {
-      "week_id": "2026-W34",
       "theme_id": "T077",
       "theme": "원화·엔화 환율 변동과 기관 헤지",
       "article_count": 3,
@@ -11644,11 +11743,11 @@
       "week_id": "2026-W34",
       "theme_id": "T079",
       "theme": "경제안보·공급망 연대 강화",
-      "article_count": 4,
-      "daily_average": 0.666667,
+      "article_count": 3,
+      "daily_average": 0.5,
       "distinct_dates": 2,
       "cross_media_days": 1,
-      "maekyung_count": 3,
+      "maekyung_count": 2,
       "hankyung_count": 1
     },
     {
@@ -11738,6 +11837,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W34",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W35",
@@ -12310,6 +12420,17 @@
       "cross_media_days": 0,
       "maekyung_count": 3,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W35",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W36",
@@ -12915,6 +13036,17 @@
       "cross_media_days": 1,
       "maekyung_count": 5,
       "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W36",
+      "theme_id": "T111",
+      "theme": "한국 경제성장 전망·장기 성장 진단",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W37",
@@ -14974,6 +15106,17 @@
       "hankyung_count": 1
     },
     {
+      "week_id": "2026-W39",
+      "theme_id": "T111",
+      "theme": "한국 경제성장 전망·장기 성장 진단",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W40",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -15623,6 +15766,17 @@
       "hankyung_count": 6
     },
     {
+      "week_id": "2026-W40",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W41",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -15736,11 +15890,11 @@
       "week_id": "2026-W41",
       "theme_id": "T021",
       "theme": "반도체 중심 수출 증가",
-      "article_count": 7,
-      "daily_average": 1.166667,
-      "distinct_dates": 4,
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 3,
       "cross_media_days": 1,
-      "maekyung_count": 2,
+      "maekyung_count": 1,
       "hankyung_count": 5
     },
     {
@@ -16173,6 +16327,28 @@
       "hankyung_count": 4
     },
     {
+      "week_id": "2026-W41",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W41",
+      "theme_id": "T111",
+      "theme": "한국 경제성장 전망·장기 성장 진단",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W42",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -16275,11 +16451,11 @@
       "week_id": "2026-W42",
       "theme_id": "T021",
       "theme": "반도체 중심 수출 증가",
-      "article_count": 2,
-      "daily_average": 0.333333,
-      "distinct_dates": 2,
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 0,
       "hankyung_count": 1
     },
     {
@@ -16743,6 +16919,28 @@
       "cross_media_days": 0,
       "maekyung_count": 2,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W42",
+      "theme_id": "T111",
+      "theme": "한국 경제성장 전망·장기 성장 진단",
+      "article_count": 4,
+      "daily_average": 0.666667,
+      "distinct_dates": 2,
+      "cross_media_days": 2,
+      "maekyung_count": 2,
+      "hankyung_count": 2
     },
     {
       "week_id": "2026-W43",
@@ -17248,6 +17446,28 @@
       "distinct_dates": 2,
       "cross_media_days": 0,
       "maekyung_count": 1,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T109",
+      "theme": "첨단기술 유출·연구보안 대응",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T111",
+      "theme": "한국 경제성장 전망·장기 성장 진단",
+      "article_count": 4,
+      "daily_average": 0.666667,
+      "distinct_dates": 2,
+      "cross_media_days": 2,
+      "maekyung_count": 2,
       "hankyung_count": 2
     },
     {
@@ -17777,6 +17997,28 @@
       "cross_media_days": 1,
       "maekyung_count": 1,
       "hankyung_count": 5
+    },
+    {
+      "week_id": "2026-W44",
+      "theme_id": "T108",
+      "theme": "퇴직연금 제도 개편·기금형 전환",
+      "article_count": 7,
+      "daily_average": 1.166667,
+      "distinct_dates": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 4,
+      "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W44",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     }
   ]
 }
