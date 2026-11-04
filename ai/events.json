@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-03T21:18:54+00:00",
+  "generated_at": "2026-11-04T01:50:57+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-04",
   "coverage": {
@@ -471,6 +471,20 @@
       "event_name": "고유가 장기화에 따른 중고 전기차·하이브리드차 시세 상승 및 거래량 급증 현상",
       "event_type": "PHENOMENON",
       "event_summary": "고유가 지속과 충전 인프라 확충, 배터리 정보 공개 등으로 중고차 시장 전반이 약세인 가운데 중고 전기차·하이브리드차 가격이 상승하고 전기차 중고 거래량이 전년 동기 대비 42.8% 증가한 시장 현상.",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "event_id": "EVT-4588fa04e75b4ed3",
+      "event_name": "한국경제신문 '2027 부동산 대전망' 무크 발간",
+      "event_type": "EVENT",
+      "event_summary": "한국경제신문 건설부동산부 기자들이 내년 부동산 시장 쟁점과 투자 전략을 정리한 무크 책자 '2027 부동산 대전망'을 발간한 사건으로, 세제·정책금융·경매·NPL·재건축·시니어 주거 등을 다루고 전문가 22명 전망과 100명 설문 결과를 수록했다.",
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
       "article_count": 1,

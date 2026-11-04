@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-03T21:18:54+00:00",
+  "generated_at": "2026-11-04T01:50:57+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-04",
   "coverage": {
@@ -379,6 +379,26 @@
       "cross_media_days_28d": 1
     },
     {
+      "theme_id": "T040",
+      "theme": "부동산 투자정보·산업 행사",
+      "status": "Active",
+      "article_count_total": 17,
+      "distinct_dates_total": 13,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-06",
+      "last_seen": "2026-11-04",
+      "article_count_7d": 3,
+      "distinct_dates_7d": 2,
+      "publisher_count_7d": 2,
+      "cross_media_days_7d": 0,
+      "maekyung_count_7d": 2,
+      "hankyung_count_7d": 1,
+      "article_count_28d": 4,
+      "distinct_dates_28d": 3,
+      "publisher_count_28d": 2,
+      "cross_media_days_28d": 0
+    },
+    {
       "theme_id": "T034",
       "theme": "플랫폼 개인정보보호 규제",
       "status": "Active",
@@ -497,26 +517,6 @@
       "distinct_dates_28d": 1,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 1
-    },
-    {
-      "theme_id": "T040",
-      "theme": "부동산 투자정보·산업 행사",
-      "status": "Active",
-      "article_count_total": 16,
-      "distinct_dates_total": 12,
-      "publisher_count_total": 2,
-      "first_seen": "2026-04-06",
-      "last_seen": "2026-11-02",
-      "article_count_7d": 2,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 2,
-      "hankyung_count_7d": 0,
-      "article_count_28d": 3,
-      "distinct_dates_28d": 2,
-      "publisher_count_28d": 2,
-      "cross_media_days_28d": 0
     },
     {
       "theme_id": "T002",

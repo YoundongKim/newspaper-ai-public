@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-03T21:18:54+00:00",
+  "generated_at": "2026-11-04T01:50:57+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-04",
   "coverage": {
@@ -22,7 +22,7 @@
     "open_candidates": 4324,
     "review_ready_candidates": 123,
     "latest_narratives": 93,
-    "verified_articles_in_collection_period": 10837
+    "verified_articles_in_collection_period": 10838
   },
   "collection_themes": [
     {
@@ -1188,6 +1188,26 @@
       "cross_media_days_28d": 1
     },
     {
+      "theme_id": "T040",
+      "theme": "부동산 투자정보·산업 행사",
+      "status": "Active",
+      "article_count_total": 17,
+      "distinct_dates_total": 13,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-06",
+      "last_seen": "2026-11-04",
+      "article_count_7d": 3,
+      "distinct_dates_7d": 2,
+      "publisher_count_7d": 2,
+      "cross_media_days_7d": 0,
+      "maekyung_count_7d": 2,
+      "hankyung_count_7d": 1,
+      "article_count_28d": 4,
+      "distinct_dates_28d": 3,
+      "publisher_count_28d": 2,
+      "cross_media_days_28d": 0
+    },
+    {
       "theme_id": "T034",
       "theme": "플랫폼 개인정보보호 규제",
       "status": "Active",
@@ -1306,26 +1326,6 @@
       "distinct_dates_28d": 1,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 1
-    },
-    {
-      "theme_id": "T040",
-      "theme": "부동산 투자정보·산업 행사",
-      "status": "Active",
-      "article_count_total": 16,
-      "distinct_dates_total": 12,
-      "publisher_count_total": 2,
-      "first_seen": "2026-04-06",
-      "last_seen": "2026-11-02",
-      "article_count_7d": 2,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 2,
-      "hankyung_count_7d": 0,
-      "article_count_28d": 3,
-      "distinct_dates_28d": 2,
-      "publisher_count_28d": 2,
-      "cross_media_days_28d": 0
     },
     {
       "theme_id": "T002",
@@ -5350,6 +5350,19 @@
       "candidate": "중고차 수출 부진·국내 중고차 가격 급락"
     },
     {
+      "article_id": "ART-015-0005349802",
+      "date": "2026-11-04",
+      "publisher": "한국경제",
+      "section": "A2면",
+      "headline": "집값·세금·대출…혼돈의 부동산 시장 읽어줄 '한경 MOOK' 나왔다",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005349802?date=20261104",
+      "fact_summary": "한국경제신문 건설부동산부 기자들이 내년 부동산 시장 쟁점과 투자 전략을 정리한 무크 책자 '2027 부동산 대전망'을 3일 발간했다. 세제 개편안과 정책금융 활용법, 경매·부실채권(NPL) 투자, 재건축·재개발 사업성, 시니어 주거 모델 등을 담았으며 부동산 전문가 22명의 시장 전망과 전문가 100명 설문조사 결과도 포함했다.",
+      "theme_id": "T040",
+      "theme": "부동산 투자정보·산업 행사",
+      "candidate_id": "",
+      "candidate": ""
+    },
+    {
       "article_id": "ART-015-0005349820",
       "date": "2026-11-04",
       "publisher": "한국경제",
@@ -6817,19 +6830,6 @@
       "theme": "AI 연산·전력 인프라 수요",
       "candidate_id": "",
       "candidate": ""
-    },
-    {
-      "article_id": "ART-015-0005348923",
-      "date": "2026-11-02",
-      "publisher": "한국경제",
-      "section": "A2면",
-      "headline": "[단독] \"현대차에선 처음 있는 일\"…티맵 '24년 독주' 깨지나",
-      "url": "https://n.news.naver.com/article/newspaper/015/0005348923?date=20261102",
-      "fact_summary": "현대차그룹이 신차 인포테인먼트 시스템 '플레오스 커넥트' 앱마켓에 네이버지도, 카카오내비, 왓쓰리워즈 등 내비게이션 앱 3종을 입점시켜 현대차·기아 차주가 순정 내비게이션 외 앱을 설치할 수 있게 됐다. 외부 내비게이션 개방은 이번이 처음으로, 시장 1위 티맵은 초기 입점에서 빠졌다. 지난해 국내 자동차 판매 168만110대 중 현대차·기아가 75%(126만1163대)를 차지했으며, 지난해 내비게이션 앱 이용률은 티맵 74%, 카카오맵 12%, 네이버지도 7%였다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4539",
-      "candidate": "차량 인포테인먼트 앱마켓 개방·내비게이션 경쟁"
     }
   ]
 }

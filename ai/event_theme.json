@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-03T21:18:54+00:00",
+  "generated_at": "2026-11-04T01:50:57+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-04",
   "coverage": {
@@ -31631,6 +31631,28 @@
       "sequence_order": 14,
       "previous_event_id": "EVT-c7b6eb61aca046a8",
       "days_from_previous_event_end": 0
+    },
+    {
+      "event_id": "EVT-4588fa04e75b4ed3",
+      "event_name": "한국경제신문 '2027 부동산 대전망' 무크 발간",
+      "event_type": "EVENT",
+      "theme_id": "T040",
+      "theme": "부동산 투자정보·산업 행사",
+      "association_type": "PRIMARY",
+      "primary_tie": false,
+      "association_article_count": 1,
+      "association_publisher_count": 1,
+      "association_distinct_dates": 1,
+      "event_article_count": 1,
+      "theme_mapped_article_count": 1,
+      "event_theme_count": 1,
+      "theme_share_within_mapped_event": 1.0,
+      "theme_coverage_ratio": 1.0,
+      "first_seen_in_theme": "2026-11-04",
+      "last_seen_in_theme": "2026-11-04",
+      "sequence_order": 15,
+      "previous_event_id": "EVT-f11968a593184b3f",
+      "days_from_previous_event_end": 2
     },
     {
       "event_id": "EVT-ff10c6ca913a404e",

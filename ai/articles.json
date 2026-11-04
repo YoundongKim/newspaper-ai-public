@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-03T21:18:54+00:00",
+  "generated_at": "2026-11-04T01:50:57+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-04",
   "coverage": {
@@ -487,6 +487,19 @@
       "theme": "",
       "candidate_id": "C4587",
       "candidate": "중고차 수출 부진·국내 중고차 가격 급락"
+    },
+    {
+      "article_id": "ART-015-0005349802",
+      "date": "2026-11-04",
+      "publisher": "한국경제",
+      "section": "A2면",
+      "headline": "집값·세금·대출…혼돈의 부동산 시장 읽어줄 '한경 MOOK' 나왔다",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005349802?date=20261104",
+      "fact_summary": "한국경제신문 건설부동산부 기자들이 내년 부동산 시장 쟁점과 투자 전략을 정리한 무크 책자 '2027 부동산 대전망'을 3일 발간했다. 세제 개편안과 정책금융 활용법, 경매·부실채권(NPL) 투자, 재건축·재개발 사업성, 시니어 주거 모델 등을 담았으며 부동산 전문가 22명의 시장 전망과 전문가 100명 설문조사 결과도 포함했다.",
+      "theme_id": "T040",
+      "theme": "부동산 투자정보·산업 행사",
+      "candidate_id": "",
+      "candidate": ""
     },
     {
       "article_id": "ART-015-0005349820",
