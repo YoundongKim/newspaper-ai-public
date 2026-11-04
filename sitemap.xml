@@ -11,5 +11,6 @@
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/events.json</loc></url>
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/event_theme.json</loc></url>
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/weekly_analysis.json</loc></url>
+  <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/theme_weekly_summaries.json</loc></url>
   <url><loc>https://youndongkim.github.io/newspaper-ai-public/ai/macro.json</loc></url>
 </urlset>

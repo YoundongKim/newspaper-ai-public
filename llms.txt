@@ -21,5 +21,6 @@ Primary resources:
 - Events: https://youndongkim.github.io/newspaper-ai-public/ai/events.json
 - Event-Theme relations: https://youndongkim.github.io/newspaper-ai-public/ai/event_theme.json
 - Weekly analysis: https://youndongkim.github.io/newspaper-ai-public/ai/weekly_analysis.json
+- Theme weekly summary history: https://youndongkim.github.io/newspaper-ai-public/ai/theme_weekly_summaries.json
 - Macro definitions and linkage policy: https://youndongkim.github.io/newspaper-ai-public/ai/macro.json
 - Interactive dashboard: private / authentication required
