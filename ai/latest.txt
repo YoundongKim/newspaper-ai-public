@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-04-01 ~ 2026-11-04
-Generated: 2026-11-04T14:33:45+00:00
+Generated: 2026-11-04T14:37:32+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 10838
 

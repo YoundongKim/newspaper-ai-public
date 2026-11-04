@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-04T14:33:45+00:00",
+  "generated_at": "2026-11-04T14:37:32+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-04",
   "coverage": {
@@ -21,7 +21,7 @@
     "fact_summaries_are_independently_rewritten": true
   },
   "interpretation": "완료된 주의 관측 기사 기반 요약이며 투자 판단이 아닙니다. 현재 테마 분류를 과거에 적용한 결과로, 당시 분류를 복원한 기록이 아닙니다. 기사나 출처가 없는 테마·주차는 생성하지 않습니다.",
-  "summary_history_updated_at": "2026-11-04T14:33:36+00:00",
+  "summary_history_updated_at": "2026-11-04T14:37:23+00:00",
   "summary_source_data_cutoff": "2026-11-04",
   "mapping_basis": "current_theme_mapping_at_generation_not_historical_as_of",
   "rows": [
