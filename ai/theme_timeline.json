@@ -1,8 +1,8 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-06T21:22:47+00:00",
+  "generated_at": "2026-11-08T21:24:50+00:00",
   "data_start": "2026-04-01",
-  "data_cutoff": "2026-11-07",
+  "data_cutoff": "2026-11-09",
   "coverage": {
     "publishers": [
       "매일경제",
@@ -146,6 +146,10 @@
     {
       "week_id": "2026-W45",
       "observed_days": 6
+    },
+    {
+      "week_id": "2026-W46",
+      "observed_days": 1
     }
   ],
   "rows": [
@@ -18595,6 +18599,182 @@
       "cross_media_days": 1,
       "maekyung_count": 2,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "article_count": 6,
+      "daily_average": 6.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 2,
+      "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T032",
+      "theme": "지방재정·교부세 배분",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T039",
+      "theme": "미국 정치 지형 변화",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T045",
+      "theme": "중동 군사충돌 확산",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T049",
+      "theme": "한미·한일 안보협력 강화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T054",
+      "theme": "공공임대·청년주택 확대",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T055",
+      "theme": "도심 주택공급·용도규제 완화",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T062",
+      "theme": "기업 사업재편·지배구조 변화",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T064",
+      "theme": "종부세·보유세 제도 변화",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T065",
+      "theme": "국가 재정지출·기금 편성",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T072",
+      "theme": "복지·저출생 정책 재편",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T083",
+      "theme": "정당·여권 인사·연대 재편",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T084",
+      "theme": "핀셋 증세·산업별 세제 재편",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T089",
+      "theme": "국내 정치 지지율·여권 갈등",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T093",
+      "theme": "노동쟁의 범위·원청 사용자성 제도 변화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T104",
+      "theme": "반도체 성과급·노사갈등·파업 리스크",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     }
   ]
 }
