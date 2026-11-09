@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-08T21:24:50+00:00",
+  "generated_at": "2026-11-09T01:30:53+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-09",
   "coverage": {
@@ -345,6 +345,20 @@
       "event_name": "2026년 11월 유럽 16개국 '스톱 더티 데이터센터' 동시다발 데이터센터 건설 반대 시위",
       "event_type": "EVENT",
       "event_summary": "영국·프랑스·네덜란드 등 유럽 16개국 100여 개 단체가 참여해 이틀간 데이터센터 건설 반대 시위를 동시다발적으로 벌인 사건. 네덜란드 암스테르담 마이크로소프트 건설현장 난입과 아일랜드 더블린 대규모 유예 촉구 집회로 전력·용수 소모와 환경오염, 주거난 우려를 표출했다.",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "event_id": "EVT-908d4faa3b424b44",
+      "event_name": "카이스트 실패연구소 2024년 10월 세대별 실패 인식 조사 결과",
+      "event_type": "EVENT",
+      "event_summary": "카이스트 실패연구소가 2024년 10월 성인 1500명을 대상으로 조사해 Z세대·Y세대가 베이비부머보다 '한 번 실패하면 낙오자'라는 인식과 재기 기회에 대한 부정 응답이 높다는 세대별 실패 인식 격차를 발표한 조사 결과.",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
       "article_count": 1,

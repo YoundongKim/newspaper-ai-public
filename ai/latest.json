@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-08T21:24:50+00:00",
+  "generated_at": "2026-11-09T01:30:53+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-09",
   "coverage": {
@@ -19,10 +19,10 @@
   },
   "counts": {
     "themes": 111,
-    "open_candidates": 4413,
+    "open_candidates": 4414,
     "review_ready_candidates": 127,
     "latest_narratives": 96,
-    "verified_articles_in_collection_period": 11082
+    "verified_articles_in_collection_period": 11083
   },
   "collection_themes": [
     {
@@ -4993,6 +4993,19 @@
       "candidate": "파운드리·메모리 경계 붕괴와 반도체 경쟁구도 재편"
     },
     {
+      "article_id": "ART-009-0005760655",
+      "date": "2026-11-09",
+      "publisher": "매일경제",
+      "section": "A2면",
+      "headline": "\"첫 직장이 미래 좌우하는 사회 … 청년세대 실패 부담 키워\"",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005760655?date=20261109",
+      "fact_summary": "카이스트 실패연구소가 2024년 10월 성인 1500명을 대상으로 조사한 결과 Z세대 62.3%, Y세대 65.3%가 '한 번 실패하면 낙오자로 인식된다'고 답해 베이비부머보다 약 10%포인트 높았다. '다시 일어설 기회가 있다'는 응답은 Z세대가 55.7%로 1차 베이비부머(66.0%)보다 낮았으며, 안혜정 연구조교수는 개별 성적이 진학·취업에 영향을 미치는 경쟁 구조와 '처음'을 중시하는 사회 분위기를 원인으로 분석했다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4686",
+      "candidate": "청년세대 실패 부담·사회적 낙인 인식"
+    },
+    {
       "article_id": "ART-009-0005760656",
       "date": "2026-11-09",
       "publisher": "매일경제",
@@ -6811,19 +6824,6 @@
       "theme": "",
       "candidate_id": "C4626",
       "candidate": "이스라엘 정치연합 재편·연정 리스크"
-    },
-    {
-      "article_id": "ART-009-0005759743",
-      "date": "2026-11-06",
-      "publisher": "매일경제",
-      "section": "A8면",
-      "headline": "美·中 압박에 … 오라클·텐센트 9조원대 빅딜 깨져",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005759743?date=20261106",
-      "fact_summary": "미국과 중국 당국의 압박으로 오라클이 텐센트에 70억달러(약 9조4000억원) 규모 AI 칩을 임대하려던 계약이 취소됐다. 미국 당국은 오라클에 계약 우려를 제기했고, 중국 광둥성 당국자들은 텐센트에 자국산 AI 칩 사용을 요청했다. 블룸버그는 텐센트·바이트댄스·알리바바가 엔비디아 RTX 프로 5500 약 600만개를 주문했으나 향후 4개월 공급량이 주문량의 1%에 그칠 것으로 보도했다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4627",
-      "candidate": "미중 기술규제로 인한 AI칩 거래·공급망 차질"
     }
   ]
 }

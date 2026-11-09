@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-08T21:24:50+00:00",
+  "generated_at": "2026-11-09T01:30:53+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-09",
   "coverage": {
@@ -68076,6 +68076,21 @@
     {
       "candidate_id": "C4685",
       "proposed_theme": "한국 제조업 경쟁력 약화·주력산업 위기 진단",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4686",
+      "proposed_theme": "청년세대 실패 부담·사회적 낙인 인식",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
