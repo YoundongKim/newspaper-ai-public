@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T02:54:32+00:00",
+  "generated_at": "2026-11-09T14:25:47+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-09",
   "coverage": {
@@ -1241,6 +1241,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W15",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W16",
@@ -2869,6 +2880,17 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W18",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W19",
@@ -4948,6 +4970,17 @@
       "cross_media_days": 0,
       "maekyung_count": 10,
       "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W22",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 3,
+      "hankyung_count": 0
     },
     {
       "week_id": "2026-W23",
@@ -8583,12 +8616,12 @@
       "week_id": "2026-W29",
       "theme_id": "T052",
       "theme": "검찰·사법제도 개편",
-      "article_count": 10,
-      "daily_average": 1.666667,
+      "article_count": 11,
+      "daily_average": 1.833333,
       "distinct_dates": 6,
-      "cross_media_days": 3,
+      "cross_media_days": 4,
       "maekyung_count": 5,
-      "hankyung_count": 5
+      "hankyung_count": 6
     },
     {
       "week_id": "2026-W29",
@@ -8770,12 +8803,12 @@
       "week_id": "2026-W29",
       "theme_id": "T083",
       "theme": "정당·여권 인사·연대 재편",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 2,
-      "cross_media_days": 0,
+      "cross_media_days": 1,
       "maekyung_count": 3,
-      "hankyung_count": 0
+      "hankyung_count": 1
     },
     {
       "week_id": "2026-W29",
@@ -9419,11 +9452,11 @@
       "week_id": "2026-W30",
       "theme_id": "T092",
       "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "article_count": 8,
-      "daily_average": 1.333333,
+      "article_count": 9,
+      "daily_average": 1.5,
       "distinct_dates": 4,
       "cross_media_days": 2,
-      "maekyung_count": 3,
+      "maekyung_count": 4,
       "hankyung_count": 5
     },
     {
@@ -12441,6 +12474,17 @@
       "hankyung_count": 2
     },
     {
+      "week_id": "2026-W35",
+      "theme_id": "T112",
+      "theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W36",
       "theme_id": "T001",
       "theme": "금융지주 지배구조·CEO 승계",
@@ -15125,6 +15169,17 @@
       "hankyung_count": 1
     },
     {
+      "week_id": "2026-W39",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W40",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -15785,6 +15840,17 @@
       "hankyung_count": 1
     },
     {
+      "week_id": "2026-W40",
+      "theme_id": "T114",
+      "theme": "유럽 재정불안·국채금리·재정정책 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W41",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -16354,6 +16420,17 @@
       "distinct_dates": 1,
       "cross_media_days": 0,
       "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W41",
+      "theme_id": "T114",
+      "theme": "유럽 재정불안·국채금리·재정정책 리스크",
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -17479,6 +17556,28 @@
       "hankyung_count": 2
     },
     {
+      "week_id": "2026-W43",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 3,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W43",
+      "theme_id": "T114",
+      "theme": "유럽 재정불안·국채금리·재정정책 리스크",
+      "article_count": 5,
+      "daily_average": 0.833333,
+      "distinct_dates": 2,
+      "cross_media_days": 2,
+      "maekyung_count": 2,
+      "hankyung_count": 3
+    },
+    {
       "week_id": "2026-W44",
       "theme_id": "T002",
       "theme": "AI 안전·거버넌스",
@@ -17645,6 +17744,28 @@
     },
     {
       "week_id": "2026-W44",
+      "theme_id": "T040",
+      "theme": "부동산 투자정보·산업 행사",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W44",
+      "theme_id": "T045",
+      "theme": "중동 군사충돌 확산",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W44",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
       "article_count": 1,
@@ -17680,11 +17801,11 @@
       "week_id": "2026-W44",
       "theme_id": "T049",
       "theme": "한미·한일 안보협력 강화",
-      "article_count": 4,
-      "daily_average": 0.666667,
+      "article_count": 5,
+      "daily_average": 0.833333,
       "distinct_dates": 3,
-      "cross_media_days": 1,
-      "maekyung_count": 2,
+      "cross_media_days": 2,
+      "maekyung_count": 3,
       "hankyung_count": 2
     },
     {
@@ -18029,6 +18150,28 @@
       "hankyung_count": 0
     },
     {
+      "week_id": "2026-W44",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 3,
+      "cross_media_days": 2,
+      "maekyung_count": 2,
+      "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W44",
+      "theme_id": "T114",
+      "theme": "유럽 재정불안·국채금리·재정정책 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
       "week_id": "2026-W45",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -18043,11 +18186,11 @@
       "week_id": "2026-W45",
       "theme_id": "T004",
       "theme": "중동발 에너지·금융시장 충격",
-      "article_count": 2,
-      "daily_average": 0.333333,
+      "article_count": 3,
+      "daily_average": 0.5,
       "distinct_dates": 2,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
       "hankyung_count": 2
     },
     {
@@ -18175,11 +18318,11 @@
       "week_id": "2026-W45",
       "theme_id": "T039",
       "theme": "미국 정치 지형 변화",
-      "article_count": 23,
-      "daily_average": 3.833333,
+      "article_count": 26,
+      "daily_average": 4.333333,
       "distinct_dates": 6,
-      "cross_media_days": 2,
-      "maekyung_count": 12,
+      "cross_media_days": 3,
+      "maekyung_count": 15,
       "hankyung_count": 11
     },
     {
@@ -18219,22 +18362,22 @@
       "week_id": "2026-W45",
       "theme_id": "T046",
       "theme": "중동 분쟁 대응·국제공조",
-      "article_count": 1,
-      "daily_average": 0.166667,
+      "article_count": 2,
+      "daily_average": 0.333333,
       "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
       "hankyung_count": 1
     },
     {
       "week_id": "2026-W45",
       "theme_id": "T047",
       "theme": "중동 분쟁과 해상운송 안전",
-      "article_count": 1,
-      "daily_average": 0.166667,
-      "distinct_dates": 1,
+      "article_count": 2,
+      "daily_average": 0.333333,
+      "distinct_dates": 2,
       "cross_media_days": 0,
-      "maekyung_count": 1,
+      "maekyung_count": 2,
       "hankyung_count": 0
     },
     {
@@ -18252,11 +18395,11 @@
       "week_id": "2026-W45",
       "theme_id": "T049",
       "theme": "한미·한일 안보협력 강화",
-      "article_count": 4,
-      "daily_average": 0.666667,
-      "distinct_dates": 3,
+      "article_count": 5,
+      "daily_average": 0.833333,
+      "distinct_dates": 4,
       "cross_media_days": 1,
-      "maekyung_count": 3,
+      "maekyung_count": 4,
       "hankyung_count": 1
     },
     {
@@ -18285,11 +18428,11 @@
       "week_id": "2026-W45",
       "theme_id": "T052",
       "theme": "검찰·사법제도 개편",
-      "article_count": 7,
-      "daily_average": 1.166667,
+      "article_count": 8,
+      "daily_average": 1.333333,
       "distinct_dates": 5,
-      "cross_media_days": 1,
-      "maekyung_count": 2,
+      "cross_media_days": 2,
+      "maekyung_count": 3,
       "hankyung_count": 5
     },
     {
@@ -18571,12 +18714,12 @@
       "week_id": "2026-W45",
       "theme_id": "T107",
       "theme": "증시 급락·개인투자자 손실 및 투자자금 이동",
-      "article_count": 7,
-      "daily_average": 1.166667,
-      "distinct_dates": 3,
+      "article_count": 8,
+      "daily_average": 1.333333,
+      "distinct_dates": 4,
       "cross_media_days": 0,
       "maekyung_count": 2,
-      "hankyung_count": 5
+      "hankyung_count": 6
     },
     {
       "week_id": "2026-W45",
@@ -18601,6 +18744,39 @@
       "hankyung_count": 3
     },
     {
+      "week_id": "2026-W45",
+      "theme_id": "T112",
+      "theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
+      "article_count": 3,
+      "daily_average": 0.5,
+      "distinct_dates": 2,
+      "cross_media_days": 0,
+      "maekyung_count": 3,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W45",
+      "theme_id": "T113",
+      "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
+      "article_count": 6,
+      "daily_average": 1.0,
+      "distinct_dates": 3,
+      "cross_media_days": 2,
+      "maekyung_count": 4,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W45",
+      "theme_id": "T114",
+      "theme": "유럽 재정불안·국채금리·재정정책 리스크",
+      "article_count": 1,
+      "daily_average": 0.166667,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "week_id": "2026-W46",
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
@@ -18615,11 +18791,11 @@
       "week_id": "2026-W46",
       "theme_id": "T032",
       "theme": "지방재정·교부세 배분",
-      "article_count": 1,
-      "daily_average": 1.0,
+      "article_count": 2,
+      "daily_average": 2.0,
       "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
       "hankyung_count": 1
     },
     {
@@ -18703,11 +18879,11 @@
       "week_id": "2026-W46",
       "theme_id": "T065",
       "theme": "국가 재정지출·기금 편성",
-      "article_count": 2,
-      "daily_average": 2.0,
+      "article_count": 1,
+      "daily_average": 1.0,
       "distinct_dates": 1,
       "cross_media_days": 0,
-      "maekyung_count": 2,
+      "maekyung_count": 1,
       "hankyung_count": 0
     },
     {
@@ -18775,6 +18951,17 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W46",
+      "theme_id": "T112",
+      "theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
+      "article_count": 4,
+      "daily_average": 4.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 4
     }
   ]
 }

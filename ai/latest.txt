@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-04-01 ~ 2026-11-09
-Generated: 2026-11-09T02:54:32+00:00
+Generated: 2026-11-09T14:25:47+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 11083
 
@@ -28,24 +28,24 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 ## Collection-period Theme observations
 - T003 · AI 연산·전력 인프라 수요 | period articles=345 | period dates=124 | first=2026-04-01 | last=2026-11-09
 - T089 · 국내 정치 지지율·여권 갈등 | period articles=288 | period dates=130 | first=2026-04-02 | last=2026-11-09
-- T004 · 중동발 에너지·금융시장 충격 | period articles=211 | period dates=87 | first=2026-04-01 | last=2026-11-06
-- T065 · 국가 재정지출·기금 편성 | period articles=174 | period dates=87 | first=2026-04-01 | last=2026-11-09
+- T004 · 중동발 에너지·금융시장 충격 | period articles=212 | period dates=87 | first=2026-04-01 | last=2026-11-06
 - T055 · 도심 주택공급·용도규제 완화 | period articles=174 | period dates=80 | first=2026-04-04 | last=2026-11-09
-- T092 · 상장제도·자본시장 구조·투자자보호 개편 | period articles=172 | period dates=86 | first=2026-04-01 | last=2026-11-02
-- T046 · 중동 분쟁 대응·국제공조 | period articles=171 | period dates=90 | first=2026-04-01 | last=2026-11-06
-- T052 · 검찰·사법제도 개편 | period articles=136 | period dates=77 | first=2026-04-01 | last=2026-11-07
-- T047 · 중동 분쟁과 해상운송 안전 | period articles=132 | period dates=77 | first=2026-04-01 | last=2026-11-04
-- T045 · 중동 군사충돌 확산 | period articles=122 | period dates=73 | first=2026-04-01 | last=2026-11-09
+- T065 · 국가 재정지출·기금 편성 | period articles=173 | period dates=87 | first=2026-04-01 | last=2026-11-09
+- T092 · 상장제도·자본시장 구조·투자자보호 개편 | period articles=173 | period dates=86 | first=2026-04-01 | last=2026-11-02
+- T046 · 중동 분쟁 대응·국제공조 | period articles=172 | period dates=90 | first=2026-04-01 | last=2026-11-06
+- T052 · 검찰·사법제도 개편 | period articles=138 | period dates=77 | first=2026-04-01 | last=2026-11-07
+- T047 · 중동 분쟁과 해상운송 안전 | period articles=133 | period dates=78 | first=2026-04-01 | last=2026-11-06
+- T045 · 중동 군사충돌 확산 | period articles=123 | period dates=74 | first=2026-04-01 | last=2026-11-09
 - T062 · 기업 사업재편·지배구조 변화 | period articles=118 | period dates=60 | first=2026-04-04 | last=2026-11-09
 - T048 · 북한 핵·미사일 위협 및 대북억지 | period articles=117 | period dates=69 | first=2026-04-07 | last=2026-11-05
 - T091 · 트럼프 행정부 통상·환율·금리 압박 | period articles=116 | period dates=75 | first=2026-04-01 | last=2026-11-07
 - T019 · 대미 투자·통상 협상 | period articles=116 | period dates=56 | first=2026-04-02 | last=2026-11-05
 - T002 · AI 안전·거버넌스 | period articles=114 | period dates=57 | first=2026-04-01 | last=2026-10-31
 - T037 · 고위공직자 인사검증·청문회 | period articles=114 | period dates=48 | first=2026-04-06 | last=2026-11-07
-- T083 · 정당·여권 인사·연대 재편 | period articles=111 | period dates=77 | first=2026-04-02 | last=2026-11-09
+- T083 · 정당·여권 인사·연대 재편 | period articles=112 | period dates=77 | first=2026-04-02 | last=2026-11-09
 - T021 · 반도체 중심 수출 증가 | period articles=107 | period dates=58 | first=2026-04-02 | last=2026-11-02
 - T064 · 종부세·보유세 제도 변화 | period articles=101 | period dates=49 | first=2026-04-06 | last=2026-11-09
-- T049 · 한미·한일 안보협력 강화 | period articles=97 | period dates=57 | first=2026-04-09 | last=2026-11-09
+- T049 · 한미·한일 안보협력 강화 | period articles=99 | period dates=58 | first=2026-04-09 | last=2026-11-09
 - T009 · 미국 인플레이션·Fed 긴축 | period articles=93 | period dates=50 | first=2026-04-01 | last=2026-11-07
 - T005 · AI 자동화·업무재설계·생산성 전환 | period articles=90 | period dates=60 | first=2026-04-02 | last=2026-11-07
 - T042 · 정당 인사·정책조직 재편 | period articles=88 | period dates=58 | first=2026-04-01 | last=2026-11-03
@@ -53,51 +53,47 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T077 · 원화·엔화 환율 변동과 기관 헤지 | period articles=85 | period dates=54 | first=2026-04-01 | last=2026-11-05
 
 ## Recent 7-day Theme observations
-- T039 · 미국 정치 지형 변화 | 7d articles=23 | 7d dates=6 | cross-media days=2 | 28d articles=34
-- T065 · 국가 재정지출·기금 편성 | 7d articles=15 | 7d dates=6 | cross-media days=1 | 28d articles=20
+- T039 · 미국 정치 지형 변화 | 7d articles=26 | 7d dates=6 | cross-media days=3 | 28d articles=37
+- T065 · 국가 재정지출·기금 편성 | 7d articles=14 | 7d dates=6 | cross-media days=1 | 28d articles=19
 - T003 · AI 연산·전력 인프라 수요 | 7d articles=12 | 7d dates=4 | cross-media days=2 | 28d articles=39
 - T089 · 국내 정치 지지율·여권 갈등 | 7d articles=11 | 7d dates=5 | cross-media days=5 | 28d articles=38
 - T083 · 정당·여권 인사·연대 재편 | 7d articles=10 | 7d dates=5 | cross-media days=2 | 28d articles=13
 - T005 · AI 자동화·업무재설계·생산성 전환 | 7d articles=10 | 7d dates=4 | cross-media days=0 | 28d articles=17
-- T052 · 검찰·사법제도 개편 | 7d articles=7 | 7d dates=5 | cross-media days=1 | 28d articles=23
+- T052 · 검찰·사법제도 개편 | 7d articles=8 | 7d dates=5 | cross-media days=2 | 28d articles=24
+- T112 · 재건축초과이익환수 부담금 부과·정비사업 영향 | 7d articles=7 | 7d dates=3 | cross-media days=0 | 28d articles=7
 - T091 · 트럼프 행정부 통상·환율·금리 압박 | 7d articles=6 | 7d dates=3 | cross-media days=1 | 28d articles=10
+- T107 · 증시 급락·개인투자자 손실 및 투자자금 이동 | 7d articles=6 | 7d dates=3 | cross-media days=0 | 28d articles=17
+- T113 · 가상자산 소득과세 시행·유예·과세체계 개편 | 7d articles=6 | 7d dates=3 | cross-media days=2 | 28d articles=15
 - T037 · 고위공직자 인사검증·청문회 | 7d articles=6 | 7d dates=1 | cross-media days=1 | 28d articles=16
 - T055 · 도심 주택공급·용도규제 완화 | 7d articles=5 | 7d dates=2 | cross-media days=1 | 28d articles=27
-- T107 · 증시 급락·개인투자자 손실 및 투자자금 이동 | 7d articles=5 | 7d dates=2 | cross-media days=0 | 28d articles=16
+- T049 · 한미·한일 안보협력 강화 | 7d articles=4 | 7d dates=4 | cross-media days=0 | 28d articles=23
 - T064 · 종부세·보유세 제도 변화 | 7d articles=4 | 7d dates=3 | cross-media days=1 | 28d articles=9
 - T011 · 산업특화 로봇·현장 자동화 | 7d articles=4 | 7d dates=2 | cross-media days=0 | 28d articles=13
 - T081 · 서울 주택가격 양극화·청년 주거부담 | 7d articles=4 | 7d dates=2 | cross-media days=1 | 28d articles=10
-- T049 · 한미·한일 안보협력 강화 | 7d articles=3 | 7d dates=3 | cross-media days=0 | 28d articles=21
+- T004 · 중동발 에너지·금융시장 충격 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=6
+- T032 · 지방재정·교부세 배분 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=7
 - T048 · 북한 핵·미사일 위협 및 대북억지 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=19
 - T053 · 공정거래·기업제재 강화 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=9
 - T110 · 빅테크 AI 투자 자금조달·현금흐름 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=7
 - T067 · 미국 현지생산·제조 공급망 투자 | 7d articles=3 | 7d dates=1 | cross-media days=0 | 28d articles=4
 - T108 · 퇴직연금 제도 개편·기금형 전환 | 7d articles=3 | 7d dates=1 | cross-media days=0 | 28d articles=10
-- T004 · 중동발 에너지·금융시장 충격 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=5
 - T009 · 미국 인플레이션·Fed 긴축 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=10
-- T032 · 지방재정·교부세 배분 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=6
-- T061 · 중국 자동차 글로벌 진출·한국 영향 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=15
-- T084 · 핀셋 증세·산업별 세제 재편 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=9
 
 ## Review-ready Candidate Signals
-- C1421 · 주식 관련 이슈 | signal=PERSISTENT_CROSS_MEDIA | articles=7 | dates=4 | cross-media days=1
-- C2659 · 미국경제 관련 이슈 | signal=PERSISTENT_CROSS_MEDIA | articles=7 | dates=3 | cross-media days=1
 - C2585 · 고유가 피해지원금 지급 | signal=PERSISTENT_CROSS_MEDIA | articles=4 | dates=3 | cross-media days=1
 - C3530 · 한-인도 정상외교·산업협력 확대 | signal=PERSISTENT_CROSS_MEDIA | articles=6 | dates=2 | cross-media days=1
-- C4257 · 유럽 재정불안·국채금리 급등 | signal=PERSISTENT_CROSS_MEDIA | articles=4 | dates=2 | cross-media days=1
 - C0182 · 청년 생애최초 주택 취득세 감면 확대 | signal=PERSISTENT_CROSS_MEDIA | articles=3 | dates=2 | cross-media days=1
 - C0750 · 경기 관련 이슈 | signal=PERSISTENT_CROSS_MEDIA | articles=3 | dates=2 | cross-media days=1
 - C1884 · 국회 원구성·상임위 배분 갈등 | signal=PERSISTENT | articles=5 | dates=5 | cross-media days=0
 - C1316 · 벤처투자 관련 이슈 | signal=PERSISTENT | articles=5 | dates=4 | cross-media days=0
+- C4430 · 이스라엘 총선·연정 구성 불확실성 | signal=PERSISTENT | articles=4 | dates=4 | cross-media days=0
 - C0658 · 글로벌 지식포럼·국제 컨퍼런스 개최 | signal=PERSISTENT | articles=7 | dates=3 | cross-media days=0
-- C4370 · 지정학 관련 이슈 | signal=PERSISTENT | articles=5 | dates=3 | cross-media days=0
-- C1309 · 정책/규제 관련 이슈 | signal=PERSISTENT | articles=4 | dates=3 | cross-media days=0
+- C1421 · 주식 관련 이슈 | signal=PERSISTENT | articles=4 | dates=3 | cross-media days=0
 - C0585 · 중국 휴머노이드 로봇 기업 상장·자본시장 자금조달 확대 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C1450 · 대통령 사적 부동산 거래·근저당 논란 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C2347 · 자동차 관련 이슈 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C2492 · 지방선거 서울시장 후보 공약 경쟁 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
-- C4314 · 가상자산 과세 시행·유예 논의 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
-- C4430 · 이스라엘 총선·연정 구성 불확실성 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
+- C2659 · 미국경제 관련 이슈 | signal=PERSISTENT | articles=3 | dates=3 | cross-media days=0
 - C1827 · 지방선거 광역단체장 판세·당선 결과 | signal=PERSISTENT | articles=9 | dates=2 | cross-media days=0
 - C2626 · 성과급 임금성·퇴직금 산정 분쟁 | signal=PERSISTENT | articles=5 | dates=2 | cross-media days=0
 - C0759 · 주택공급 관련 이슈 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
@@ -105,6 +101,10 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - C0038 · 퇴직 경제관료 재취업 심사 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C0348 · 한국기업 ADR 프리미엄·본주 괴리 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C1348 · 최저임금 인상·업종별 차등 논의 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C1615 · 일본 지진 등 자연재해로 인한 반도체 공급망 차질 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C1971 · 한-이탈리아 정상외교·첨단산업 협력 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C3325 · 지방선거 후보 경선·공천 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C3379 · 비거주 1주택자 전세대출 규제 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 
 ## Latest Narrative Changes
 - T111 · 한국 경제성장 전망·장기 성장 진단 | 2026-10-11~2026-11-07 | Previous가 국제기구의 성장률 전망 상향과 물가 부담 병기 중심이었다면, Current는 성장률 상향 논점이 유지되는 가운데 잠재성장률의 반등·상승 진단(IMF·정부)과 함께 장기 성장 정체·제조업 경쟁력 약화 및 AI 호황 급반전 리스크라는 상반된 진단이 함께 부각되는 방향으로 초점이 확장됨.
@@ -139,7 +139,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-11-09 · 매일경제 · A10면 · C4305] [알립니다] 대한민국 정책상 주인공 찾습니다
   Summary: 매일경제신문사가 한국경제인협회 후원으로 '2026 대한민국 올해의 정책상' 후보를 공모한다. 경세상, 혁신상, 목민상, 제민상 4개 부문에서 국가 발전과 국민 행복 증진에 기여한 정책을 발굴해 시상하며, 2015년 시작돼 12회째를 맞는다. 모든 행정기관과 공무원이 참여할 수 있고 접수는 11월 16일까지다.
   Source: https://n.news.naver.com/article/newspaper/009/0005760636?date=20261109
-- [2026-11-09 · 매일경제 · A10면 · T065] 당정, 소방예산 2조+α 지원… 미래기금 재원 활용도 검토
+- [2026-11-09 · 매일경제 · A10면 · T032] 당정, 소방예산 2조+α 지원… 미래기금 재원 활용도 검토
   Summary: 정부와 더불어민주당은 고위당정협의회에서 소방 분야에 2조원 수준의 재정을 지원해 지방정부의 소방재정 부담을 완화하는 방안을 검토하기로 했다. 화재 진압 장비·훈련시설·소방 특화 의료체계 확충 예산은 내년 예산 심의에 반영하고, 담뱃세 외에 미래대응기금을 재원으로 활용하는 안도 논의했다. 국민의힘 배준영 의원은 초과세수가 불투명한 미래기금으로 소방관을 지원하는 것은 땜빵식이라며 담뱃세 연동 구조 개선을 요구했다.
   Source: https://n.news.naver.com/article/newspaper/009/0005760637?date=20261109
 - [2026-11-09 · 매일경제 · A10면 · T065] [단독] 지방에 떼주는 미래기금 보조사업비, 남아도 반납 안한다
@@ -190,7 +190,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-11-09 · 매일경제 · A6면 · T045] 밴스, 이란과 물밑협상 주도 트럼프는 호르무즈 또 공습
   Summary: J.D. 밴스 미국 부통령이 카타르·파키스탄 등 중재국과 매일 통화하며 미국과 이란 간 신규 휴전 및 핵 협상 재개를 위한 간접 협상을 물밑에서 주도하고 있다. 협상이 진행되는 가운데 트럼프 대통령은 호르무즈 해협 요충지인 게슘섬의 이란 방공시설을 겨냥한 제한적 공습을 단행했으며, 참모들은 종전 협상과 대규모 군사작전 재개, 경제적 압박 유지를 놓고 대립하고 있다.
   Source: https://n.news.naver.com/article/newspaper/009/0005760669?date=20261109
-- [2026-11-09 · 매일경제 · A6면 · C4671] 이스라엘 야권에 연정 구성권 … 네타냐후 실각 위기
+- [2026-11-09 · 매일경제 · A6면 · C4430] 이스라엘 야권에 연정 구성권 … 네타냐후 실각 위기
   Summary: 이스라엘 총선에서 과반 확보 세력이 없자 아랍계 정당들의 지지로 야당 야샤르당 가디 아이젠코트 대표가 차기 연립정부 구성권을 부여받았다. 아이젠코트는 구성권 부여일로부터 28일, 최대 14일 연장 가능한 기한 내 연정을 조직해야 하며, 실패 시 다른 의원에게 구성권이 넘어가거나 재선거 가능성이 있다. 이로써 베냐민 네타냐후 총리의 실각 가능성이 커졌다.
   Source: https://n.news.naver.com/article/newspaper/009/0005760670?date=20261109
 - [2026-11-09 · 매일경제 · A6면 · C4672] "은퇴 60세 복원·나토 탈퇴" 佛대선 흔드는 극좌 공약
@@ -223,7 +223,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-11-09 · 한국경제 · A1면 · C4674] 경제지표와 체감경기 괴리 '사상 최대'
   Summary: 반도체 수출 호황으로 1인당 국민총소득(GNI)이 4만달러를 넘어설 전망이지만 고용 악화와 고물가로 체감경기와의 괴리가 커지고 있다. 지난 3분기 국내총소득(GDI) 증가율(18.8%)과 민간소비 증가율(1.1%) 간 격차는 17.7%포인트로 종전 최대치를 넘어섰다. 올해 1~9월 월평균 취업자는 전년 동기 대비 11만7000명 증가에 그쳤고, 지난 2분기 월평균 실질임금은 전년 동기 대비 0.8% 감소했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351541?date=20261109
-- [2026-11-09 · 한국경제 · A1면 · C4675] 재건축했더니 "7억 내세요"…5조3000억 청구서 날아든다
+- [2026-11-09 · 한국경제 · A1면 · T112] 재건축했더니 "7억 내세요"…5조3000억 청구서 날아든다
   Summary: 지난 8월 말 기준 부담금 예정액이 통보된 전국 재건축 사업장은 79곳으로 예상 부담금은 총 5조3336억원이며, 서울이 53곳 4조3595억원으로 가장 많다. 강남3구와 용산구 27개 사업장에 3조5822억원이 예상돼 서울 전체의 82.2%를 차지하고, 용산구 한강맨션은 조합원 1인당 7억2210만원, 강남구 은마아파트는 4억6334만원의 부담금이 예상된다. 서초구는 반포현대에 9일께 부담금을 사전 통지할 예정이며, 윤수민 농협은행 부동산전문위원은 수익의 상당액을 부담금으로 환수해 재건축의 주택 공급 효과가 반감될 수 있다고 지적했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351546?date=20261109
 - [2026-11-09 · 한국경제 · A1면 · T003] '反데이터센터'의 역습…AI 판 흔든다
@@ -244,13 +244,13 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-11-09 · 한국경제 · A3면 · C4678] "투자보다 생존" 월급 줄 돈 빌리는 기업 급증
   Summary: 2025년 8월 말 국내 은행 원화대출 연체율은 0.69%로 2016년 8월 이후 가장 높았고, 중소기업 연체율은 1.0%, 대기업은 0.39%를 기록했다. 올 상반기 전산업 운전자금 대출 증가액은 45조2000억원으로 시설자금(16조3000억원)의 약 2.8배였으며, 2분기 제조업 대출 증가분의 83.7%가 운전자금이었다. 한국은행 기준 1분기 이자보상배율 1 미만 기업 비중은 46.3%, 3년 연속 1 미만 한계기업 비중은 지난해 19.1%로 통계 작성 이후 최고치였다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351586?date=20261109
-- [2026-11-09 · 한국경제 · A4면 · C4675] 구청은 "연내 부과"한다는데…국토부는 "2029년까지 검토"
+- [2026-11-09 · 한국경제 · A4면 · T112] 구청은 "연내 부과"한다는데…국토부는 "2029년까지 검토"
   Summary: 서울 서초구 반포현대(반포센트레빌아스테리움)의 재건축초과이익환수제 부담금 부과 시점을 두고 서초구는 준공일 2021년 7월 30일과 시효 5년을 근거로 연내 부과하겠다며 9일 사전 통지에 나설 예정이나, 국토부는 2024년 4월 시행된 개정법 특례 적용 여부를 검토해 2029년까지 부과 가능한지 따져봐야 한다는 입장이다. 국토부 관계자는 특례 적용 여지는 있지만 추가 검토가 필요하고 실질적 판단은 지자체가 해야 한다고 밝혔다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351528?date=20261109
-- [2026-11-09 · 한국경제 · A4면 · C4675] 대구도 1억…미분양 허덕이는 지방까지 '날벼락'
+- [2026-11-09 · 한국경제 · A4면 · T112] 대구도 1억…미분양 허덕이는 지방까지 '날벼락'
   Summary: 재건축초과이익환수제가 지방 정비사업에 적용되며 대구 범어아이파크1차는 조합원 1인당 평균 약 1억원, 대전 둔산 더샵 엘리프는 최대 2억7600만원의 부담금이 예상된다. 부산 32곳 등 지방 재건축 단지에도 부담금이 부과될 예정이며, 미분양 우려와 겹쳐 지방 정비사업 사업성 악화 우려가 제기된다. 전국재건축정비사업조합연대는 시세가 제대로 반영되지 않아 부과액이 과도하다며 국토교통부에 제도 개선을 건의했다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351529?date=20261109
-- [2026-11-09 · 한국경제 · A4면 · C4675] 수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나
+- [2026-11-09 · 한국경제 · A4면 · T112] 수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나
   Summary: 서울 53개 재건축 사업장의 조합원 1인당 평균 재건축 부담금이 1억925만원으로 추산되며, 용산구 한강맨션 7억2210만원, 강남구 은마아파트 4억6334만원 등이 예상된다. 강남 3구 부담금은 3조745억원으로 서울 전체 예상액의 70%를 웃돌고, 서초구는 반포현대에 9일께 부담금을 사전 통지할 예정이다. 부담금 부과가 본격화하면 조합원 부담 증가와 사업 지연으로 도심 주택 공급 차질이 우려된다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351530?date=20261109
 - [2026-11-09 · 한국경제 · A5면 · T003] "이러다 전기 다 빨린다"…국가전력 30% 먹는 '흡혈귀' 정체
@@ -268,7 +268,7 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-11-09 · 한국경제 · A6면 · C4680] 北 김성남도 중국行…정상 외교 넘어 고위급 교류 확대
   Summary: 북한 노동당 국제비서 김성남이 3일부터 닷새간 중국을 공식 방문해 왕이 외교부장, 차이치 중앙정치국 상무위원 등과 회동하고 상하이 도시계획시설과 칭다오 하이얼그룹을 참관했다. 이는 6월 평양 정상회담 합의사항 구체화와 당 조직·경제 분야 협력 확대 흐름의 일환으로, 앞서 김정은의 단둥 방문과 신압록강대교 개통, 중국 중앙당교 대표단 방북도 이어졌다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351584?date=20261109
-- [2026-11-09 · 한국경제 · A6면 · C4682] 靑 국정상황실장에 시민운동가 출신 김태근
+- [2026-11-09 · 한국경제 · A6면 · C4673] 靑 국정상황실장에 시민운동가 출신 김태근
   Summary: 김태근 청와대 자치발전비서관이 8일부터 국정상황실장으로 보직을 이동해 직무를 수행 중이다. 국정감사 종료 이후 정무수석, 국가AI정책비서관 등이 교체된 데 이어 정정옥 성평등가족비서관 사직, 조한상 홍보기획비서관 사의로 연말까지 청와대 참모진 교체가 이어질 전망이다.
   Source: https://n.news.naver.com/article/newspaper/015/0005351585?date=20261109
 - [2026-11-09 · 한국경제 · A6면 · T089] "李대통령 흔드는게 反개혁"…與 위기에 기강잡는 친명계

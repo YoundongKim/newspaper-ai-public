@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T02:54:32+00:00",
+  "generated_at": "2026-11-09T14:25:47+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-09",
   "coverage": {
@@ -32,36 +32,6 @@
       "status": "Merged",
       "canonical_theme_id": "T045",
       "next_action": "Merged → T045"
-    },
-    {
-      "candidate_id": "C1421",
-      "proposed_theme": "주식 관련 이슈",
-      "article_count": 7,
-      "distinct_dates": 4,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "signal_type": "PERSISTENT_CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-04-10",
-      "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C2659",
-      "proposed_theme": "미국경제 관련 이슈",
-      "article_count": 7,
-      "distinct_dates": 3,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "signal_type": "PERSISTENT_CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-04-14",
-      "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
       "candidate_id": "C2585",
@@ -125,7 +95,7 @@
     },
     {
       "candidate_id": "C4257",
-      "proposed_theme": "유럽 재정불안·국채금리 급등",
+      "proposed_theme": "유럽 재정불안·국채금리·재정정책 리스크",
       "article_count": 4,
       "distinct_dates": 2,
       "publisher_count": 2,
@@ -134,9 +104,9 @@
       "review_ready": true,
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T114",
+      "next_action": "Merged → T114"
     },
     {
       "candidate_id": "C0182",
@@ -334,6 +304,21 @@
       "next_action": "Merged → T106"
     },
     {
+      "candidate_id": "C4430",
+      "proposed_theme": "이스라엘 총선·연정 구성 불확실성",
+      "article_count": 4,
+      "distinct_dates": 4,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "PERSISTENT",
+      "review_ready": true,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-11-09",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+    },
+    {
       "candidate_id": "C0658",
       "proposed_theme": "글로벌 지식포럼·국제 컨퍼런스 개최",
       "article_count": 7,
@@ -362,21 +347,6 @@
       "status": "Merged",
       "canonical_theme_id": "T104",
       "next_action": "Merged → T104"
-    },
-    {
-      "candidate_id": "C4370",
-      "proposed_theme": "지정학 관련 이슈",
-      "article_count": 5,
-      "distinct_dates": 3,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
       "candidate_id": "C0217",
@@ -409,15 +379,15 @@
       "next_action": "Merged → T097"
     },
     {
-      "candidate_id": "C1309",
-      "proposed_theme": "정책/규제 관련 이슈",
+      "candidate_id": "C1421",
+      "proposed_theme": "주식 관련 이슈",
       "article_count": 4,
       "distinct_dates": 3,
       "publisher_count": 2,
       "cross_media_days": 0,
       "signal_type": "PERSISTENT",
       "review_ready": true,
-      "first_seen": "2026-07-14",
+      "first_seen": "2026-04-10",
       "last_seen": "2026-11-06",
       "status": "Open",
       "canonical_theme_id": "",
@@ -484,8 +454,23 @@
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
     },
     {
+      "candidate_id": "C2659",
+      "proposed_theme": "미국경제 관련 이슈",
+      "article_count": 3,
+      "distinct_dates": 3,
+      "publisher_count": 2,
+      "cross_media_days": 0,
+      "signal_type": "PERSISTENT",
+      "review_ready": true,
+      "first_seen": "2026-04-14",
+      "last_seen": "2026-11-06",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+    },
+    {
       "candidate_id": "C4314",
-      "proposed_theme": "가상자산 과세 시행·유예 논의",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 3,
       "distinct_dates": 3,
       "publisher_count": 2,
@@ -494,24 +479,9 @@
       "review_ready": true,
       "first_seen": "2026-10-23",
       "last_seen": "2026-11-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C4430",
-      "proposed_theme": "이스라엘 총선·연정 구성 불확실성",
-      "article_count": 3,
-      "distinct_dates": 3,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C1827",
@@ -740,7 +710,7 @@
     },
     {
       "candidate_id": "C3872",
-      "proposed_theme": "유럽 재정위기·국채금리 급등",
+      "proposed_theme": "유럽 재정불안·국채금리·재정정책 리스크",
       "article_count": 3,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -749,9 +719,9 @@
       "review_ready": true,
       "first_seen": "2026-10-07",
       "last_seen": "2026-11-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T114",
+      "next_action": "Merged → T114"
     },
     {
       "candidate_id": "C0026",
@@ -1730,7 +1700,7 @@
     },
     {
       "candidate_id": "C4371",
-      "proposed_theme": "가상자산 소득과세 유예·시행 연기",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -1739,9 +1709,9 @@
       "review_ready": true,
       "first_seen": "2026-10-26",
       "last_seen": "2026-10-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C0016",
@@ -2510,7 +2480,7 @@
     },
     {
       "candidate_id": "C4606",
-      "proposed_theme": "가상자산 소득과세 시행 유예·제도 정비",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2519,6 +2489,21 @@
       "review_ready": true,
       "first_seen": "2026-11-05",
       "last_seen": "2026-11-05",
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
+    },
+    {
+      "candidate_id": "C4673",
+      "proposed_theme": "대통령실 참모진 인사 개편",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "signal_type": "CROSS_MEDIA",
+      "review_ready": true,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -3170,7 +3155,7 @@
     },
     {
       "candidate_id": "C4675",
-      "proposed_theme": "재건축초과이익환수 부담금 부과",
+      "proposed_theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
       "article_count": 4,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3179,9 +3164,9 @@
       "review_ready": false,
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T112",
+      "next_action": "Merged → T112"
     },
     {
       "candidate_id": "C0142",
@@ -5045,7 +5030,7 @@
     },
     {
       "candidate_id": "C0227",
-      "proposed_theme": "재건축초과이익환수 부담금 매물가 전가",
+      "proposed_theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -5054,9 +5039,9 @@
       "review_ready": false,
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T112",
+      "next_action": "Merged → T112"
     },
     {
       "candidate_id": "C0245",
@@ -7760,7 +7745,7 @@
     },
     {
       "candidate_id": "C2961",
-      "proposed_theme": "가상자산 과세 기준·시행 체계 구체화",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -7769,9 +7754,9 @@
       "review_ready": false,
       "first_seen": "2026-05-29",
       "last_seen": "2026-05-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C2986",
@@ -9125,7 +9110,7 @@
     },
     {
       "candidate_id": "C4644",
-      "proposed_theme": "재건축초과이익환수 부담금 부과와 재건축 사업 차질",
+      "proposed_theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -9134,9 +9119,9 @@
       "review_ready": false,
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T112",
+      "next_action": "Merged → T112"
     },
     {
       "candidate_id": "C4648",
@@ -24679,6 +24664,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C1309",
+      "proposed_theme": "정책/규제 관련 이슈",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C1310",
       "proposed_theme": "산업정책 관련 이슈",
       "article_count": 1,
@@ -28820,7 +28820,7 @@
     },
     {
       "candidate_id": "C1682",
-      "proposed_theme": "가상자산 과세 시행·폐지 논쟁",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -28829,9 +28829,9 @@
       "review_ready": false,
       "first_seen": "2026-09-22",
       "last_seen": "2026-09-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C1683",
@@ -38210,7 +38210,7 @@
     },
     {
       "candidate_id": "C2389",
-      "proposed_theme": "가상자산 과세·제도 시행",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38219,9 +38219,9 @@
       "review_ready": false,
       "first_seen": "2026-05-02",
       "last_seen": "2026-05-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C2390",
@@ -45350,7 +45350,7 @@
     },
     {
       "candidate_id": "C2965",
-      "proposed_theme": "가상자산 과세 형평성 논란·폐지 요구",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -45359,9 +45359,9 @@
       "review_ready": false,
       "first_seen": "2026-05-29",
       "last_seen": "2026-05-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C2966",
@@ -47600,7 +47600,7 @@
     },
     {
       "candidate_id": "C3131",
-      "proposed_theme": "프랑스 재정·정치 불안과 유럽 국채 투매",
+      "proposed_theme": "유럽 재정불안·국채금리·재정정책 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -47609,9 +47609,9 @@
       "review_ready": false,
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T114",
+      "next_action": "Merged → T114"
     },
     {
       "candidate_id": "C3132",
@@ -50855,7 +50855,7 @@
     },
     {
       "candidate_id": "C3372",
-      "proposed_theme": "가상자산 소득세 과세·해외정보 사각지대",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -50864,9 +50864,9 @@
       "review_ready": false,
       "first_seen": "2026-04-11",
       "last_seen": "2026-04-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C3373",
@@ -61775,7 +61775,7 @@
     },
     {
       "candidate_id": "C4204",
-      "proposed_theme": "가상자산 과세 시행·업계 인프라 준비",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -61784,9 +61784,9 @@
       "review_ready": false,
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4205",
@@ -62300,7 +62300,7 @@
     },
     {
       "candidate_id": "C4244",
-      "proposed_theme": "유럽 재정적자·부채 확대와 재정여력 고갈",
+      "proposed_theme": "유럽 재정불안·국채금리·재정정책 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -62309,9 +62309,9 @@
       "review_ready": false,
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T114",
+      "next_action": "Merged → T114"
     },
     {
       "candidate_id": "C4245",
@@ -62645,7 +62645,7 @@
     },
     {
       "candidate_id": "C4278",
-      "proposed_theme": "가상자산 과세 유예 논의",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -62654,9 +62654,9 @@
       "review_ready": false,
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4279",
@@ -64265,7 +64265,7 @@
     },
     {
       "candidate_id": "C4405",
-      "proposed_theme": "프랑스 국채금리 급등과 재정 지속성 우려",
+      "proposed_theme": "유럽 재정불안·국채금리·재정정책 리스크",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64274,9 +64274,9 @@
       "review_ready": false,
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T114",
+      "next_action": "Merged → T114"
     },
     {
       "candidate_id": "C4406",
@@ -65015,7 +65015,7 @@
     },
     {
       "candidate_id": "C4458",
-      "proposed_theme": "가상자산 과세 유예·디지털자산 기본법 제정",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65024,9 +65024,9 @@
       "review_ready": false,
       "first_seen": "2026-10-29",
       "last_seen": "2026-10-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4459",
@@ -65945,7 +65945,7 @@
     },
     {
       "candidate_id": "C4525",
-      "proposed_theme": "가상자산 과세 유예·산업 육성 요구",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65954,9 +65954,9 @@
       "review_ready": false,
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4526",
@@ -67190,7 +67190,7 @@
     },
     {
       "candidate_id": "C4618",
-      "proposed_theme": "가상자산 소득과세 시행 유예",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67199,13 +67199,13 @@
       "review_ready": false,
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4620",
-      "proposed_theme": "재건축초과이익환수제 부과 본격화",
+      "proposed_theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67214,9 +67214,9 @@
       "review_ready": false,
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T112",
+      "next_action": "Merged → T112"
     },
     {
       "candidate_id": "C4621",
@@ -67355,7 +67355,7 @@
     },
     {
       "candidate_id": "C4630",
-      "proposed_theme": "가상자산 소득과세 시행·손익통산 제도 설계",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67364,9 +67364,9 @@
       "review_ready": false,
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4631",
@@ -67520,7 +67520,7 @@
     },
     {
       "candidate_id": "C4642",
-      "proposed_theme": "가상자산 과세 유예·시행 연기",
+      "proposed_theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67529,9 +67529,9 @@
       "review_ready": false,
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T113",
+      "next_action": "Merged → T113"
     },
     {
       "candidate_id": "C4645",
@@ -67894,38 +67894,8 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C4671",
-      "proposed_theme": "이스라엘 연정 구성·정권 교체 리스크",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C4672",
       "proposed_theme": "프랑스 대선·극좌 공약과 사회갈등",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4673",
-      "proposed_theme": "대통령실 참모진 인사 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -68016,21 +67986,6 @@
     {
       "candidate_id": "C4681",
       "proposed_theme": "특검법·거부권 갈등",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C4682",
-      "proposed_theme": "청와대 참모진 인사 교체",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
