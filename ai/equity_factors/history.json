@@ -15,18 +15,26 @@
         "session": "regular_close",
         "currency": "KRW",
         "previous_close": 1136000,
-        "open": null,
+        "open": 1214000,
         "close": 1212000,
         "return_pct": 6.69,
-        "gap_return_pct": null,
-        "intraday_return_pct": null,
+        "gap_return_pct": 6.866197,
+        "intraday_return_pct": -0.164745,
         "source_ids": [
           "S1",
           "S2",
-          "S5"
-        ]
+          "S5",
+          "MK_SK",
+          "Q_KR_000660"
+        ],
+        "excess_vs_kospi_pct": 2.3,
+        "volume_shares": null,
+        "volume_missing_reason": "Yahoo 응답 거래량 0은 결측 placeholder로 제외. 매체별 거래량 집계가 달라 최종 KRX 단일값 검증 전까지 null.",
+        "open_verification": "시초가는 11월10일15:33 표기의 매일경제 마켓. 종가는 동일한 날짜의 Yahoo KRX quote와 대조.",
+        "high": 1242000,
+        "low": 1190000
       },
-      "summary": "미국 반도체 동반 강세와 위험선호 회복이 우선 설명 후보다. 외국인 순매수는 같은 방향의 사후 확인 지표다.",
+      "summary": "미국 반도체 동반 강세와 위험선호 회복이 우선 설명 후보다. 외국인 순매수는 같은 방향의 사후 확인 지표다. 종가는 전일보다 상승했지만 시초가보다 낮았다. 관측상 반등은 개장 갭에 집중됐으며 이를 특정 뉴스의 수익 기여율로 해석하지 않는다.",
       "top_driver_ids": [
         "F01_US_SEMI",
         "F02_GLOBAL_RISK"
@@ -40,8 +48,8 @@
           "evidence_type": "reported_interpretation",
           "event_window": "before_kr_open",
           "event_at": "2026-11-10T06:00:00+09:00",
-          "new_or_repeated": "new_session_observation",
-          "reason": "국내 개장 전에 확인된 미국 반도체 업종 반등은 두 종목의 동반 상승을 설명하는 우선 후보다. 특정 한 미국 종목의 방향만으로 해석하지 않는다.",
+          "new_or_repeated": "same_kr_session_reassessment",
+          "reason": "선행 미국 반도체 반등과 개장 갭 상승이 같은 방향이어서 동반 반등의 우선 설명 후보로 유지했다. 이후 장중에는 시초가를 지키지 못했다.",
           "counterevidence": "엔비디아는 같은 세션에 하락했다. 동조화 관측만으로 개별 주가 상승의 기여율을 추정할 수 없다.",
           "source_ids": [
             "S1",
@@ -56,7 +64,7 @@
           "evidence_type": "reported_interpretation",
           "event_window": "before_kr_open",
           "event_at": null,
-          "new_or_repeated": "new_session_observation",
+          "new_or_repeated": "same_kr_session_reassessment",
           "reason": "미국 주식 전반의 반등과 유가 하락이 위험자산 심리 회복에 연결됐다는 보도가 있다. 국내 시장 전반 상승과도 방향이 일치한다.",
           "counterevidence": "반도체 요인과 상당 부분 중복된다. HBM 수익 전망 개선을 직접 확인한 관측은 아니며 별도 기여율을 더하지 않는다.",
           "source_ids": [
@@ -69,15 +77,50 @@
           "factor_id": "F05_FOREIGN_FLOW",
           "relation": "confirmation",
           "direction": "positive",
-          "confidence": "high",
+          "confidence": "medium",
           "evidence_type": "observed",
           "event_window": "during_kr",
           "event_at": "2026-11-10T15:30:00+09:00",
-          "new_or_repeated": "new_session_observation",
+          "new_or_repeated": "same_kr_session_reassessment",
           "reason": "종목별 정규장 외국인 순매수는 +1069.7억원으로 상승 방향과 일치했다.",
           "counterevidence": "수급은 거래 결과이기도 하다. 시장 전체 외국인 순매수나 다른 종목 수급을 이 종목의 직접 원인으로 대입하지 않는다.",
           "source_ids": [
             "S3"
+          ],
+          "source_recheck_note": "초기 보고서의 15:30 KRX·연합인포맥스 전재 표를 보존. 이번 실행에서 해당 표 원문은 일시적 접근 오류로 재검증하지 못했으므로 잠정 관측으로 취급."
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "relation": "countervailing",
+          "direction": "negative",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "newly_verified_in_same_session_review",
+          "reason": "11월10일11:30 보도는 모건스탠리가 장기 공급 확대·수익성 정상화 우려로 목표가를 낮췄다고 전한다. 이 부정적 전망에도 당일 두 종목은 상승했다.",
+          "counterevidence": "이는 회사의 확정 실적·생산 계획이 아닌 증권사의 장기 전망이다. 같은 보고서가 내년 이익 추정치를 높이고 비중확대 의견을 유지해 단순 악재로만 해석하기 어렵다. 원 보고서의 최초 배포시각은 미확인.",
+          "source_ids": [
+            "MS_REPORT"
+          ],
+          "related_factor_ids": [
+            "F10_EARNINGS"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "relation": "background",
+          "direction": "positive",
+          "confidence": "low",
+          "evidence_type": "hypothesis",
+          "event_window": "during_kr",
+          "event_at": "2026-11-10T14:42:00+09:00",
+          "new_or_repeated": "new_industry_release",
+          "reason": "TSMC 10월 매출이 전년 대비 59.7% 늘었다는 실제 산업 지표를 보완했다. 반도체 수요의 배경 관측으로만 두고 AI 메모리 주문 증가로 확정하지 않았다.",
+          "counterevidence": "매출은 여러 제품·고객을 포함하며 HBM 매출도 아니다. 공개시각은 장중 후반으로 이미 발생한 시초가 갭을 설명할 수 없고 두 국내 종목의 반응 시각도 확인하지 못했다.",
+          "source_ids": [
+            "TSMC_REVENUE",
+            "CNA_TSMC"
           ]
         }
       ],
@@ -89,11 +132,12 @@
           "session_date": "2026-11-10",
           "observed_at": "2026-11-10T15:30:00+09:00",
           "available_at": "2026-11-10T15:45:46+09:00",
-          "status": "final",
+          "status": "retained_provisional",
           "source_ids": [
             "S3"
           ],
-          "predetermined": false
+          "predetermined": false,
+          "source_recheck_note": "이전 실행의 원문 확인값 보존. 이번 실행 원문 재접근은 실패해 신규 확정 수급으로 표시하지 않음."
         },
         {
           "id": "INSTITUTION_NET_BUY_KRW",
@@ -109,15 +153,17 @@
         }
       ],
       "next_checks": [
-        "다음 미국장의 SOX·MU·NVDA 방향이 계속 엇갈리는지",
-        "삼성/하이닉스 종목별 외국인·기관 수급의 반복 여부",
-        "공식 HBM·실적·AI 고객 투자 발표가 새로 있는지"
+        "11월11일 국내장: 미국 CPI·국채금리 재평가 뒤 KRX 시초가 갭과 장중 수익률을 분리 확인",
+        "선행 미국장 마감까지 SOX·MU 약세가 이어지는지, NVDA와 AVGO·TSM의 차이가 유지되는지",
+        "CoreWeave 11월11일07:00 KST 실적 컨퍼런스콜의 실제 투자·자금조달 정보를 확인; 현재는 미개최",
+        "종목별 외국인·기관 정규장 수급의 확정 집계를 원출처와 다시 대조"
       ],
       "unassessed_factors": [
-        "이번 시범 조사에서는 신규 HBM 인증·DRAM 계약가격·금리 변화를 검증하지 못해 원인으로 채택하지 않음"
+        "새로운 공식 HBM 인증/공급계약의 당일 직접 주가 효과는 검증하지 못함",
+        "장기 공급 전망은 증권사 시나리오이며 실제 공급 실현·시장 점유율 확정 사실이 아님"
       ],
-      "report_date": "2026-11-10",
-      "research_as_of": "2026-11-10T18:09:49+09:00",
+      "report_date": "2026-11-11",
+      "research_as_of": "2026-11-11T03:15:16+09:00",
       "market_context": [
         {
           "id": "US_SOX_RETURN",
@@ -261,6 +307,74 @@
           "source_ids": [],
           "predetermined": false,
           "missing_reason": "당일 신규 계약 가격 관측치를 확보하지 못함; 매일 새 가격이 나오는 지표로 취급하지 않음"
+        },
+        {
+          "id": "TSMC_OCT_REVENUE_YOY",
+          "value": 59.7,
+          "unit": "percent",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T14:42:00+09:00",
+          "available_at": "2026-11-10T14:42:00+09:00",
+          "source_ids": [
+            "TSMC_REVENUE",
+            "CNA_TSMC"
+          ],
+          "predetermined": false,
+          "status": "released",
+          "reference_period": "2026-10",
+          "timing_basis": "CNA 최초 보도로 확인한 공개시각; 기업 일정의 예정시각과 구분"
+        },
+        {
+          "id": "DRAM_DDR5_16GBIT_4800_5600_SPOT_SESSION_CHANGE",
+          "value": 0.0,
+          "unit": "percent",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T19:10:00+09:00",
+          "available_at": "2026-11-10T19:10:00+09:00",
+          "source_ids": [
+            "DX_SPOT"
+          ],
+          "predetermined": false,
+          "status": "published_snapshot",
+          "measurement_scope": "단일 DDR5 현물 규격의 session change. 계약가격·HBM 가격·메모리 전체 가격 지표가 아님; KRX 마감 뒤 갱신."
+        },
+        {
+          "id": "US_TSM_ADR_RETURN",
+          "value": null,
+          "unit": "percent",
+          "session_date": "2026-11-09",
+          "observed_at": "2026-11-10T06:00:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": false,
+          "missing_reason": "선행 완료 미국장 TSM ADR 등락률은 이번 실행에서 동일 거래일 원자료 대조를 마치지 못했다. 현재 진행 세션의 ADR 수치로 대체하지 않음."
+        },
+        {
+          "id": "WTI_FRONT_FUTURE_CLOSE",
+          "value": 86.85,
+          "unit": "USD_per_barrel",
+          "session_date": "2026-11-09",
+          "observed_at": "2026-11-10T06:00:00+09:00",
+          "available_at": "2026-11-10T07:57:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "S1"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "WTI_FRONT_FUTURE_RETURN",
+          "value": -4.38,
+          "unit": "percent",
+          "session_date": "2026-11-09",
+          "observed_at": "2026-11-10T06:00:00+09:00",
+          "available_at": "2026-11-10T07:57:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "S1"
+          ],
+          "predetermined": true
         }
       ],
       "sources": [
@@ -319,6 +433,206 @@
           "url": "https://www.newspim.com/news/view/20261110001216",
           "published_at": "2026-11-10T16:17:00+09:00",
           "source_type": "news_reporting"
+        },
+        {
+          "id": "BLS_CPI",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "title": "Consumer Price Index Summary — October 2026",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+          "published_at": "2026-11-10T22:30:00+09:00",
+          "source_type": "official_statistics"
+        },
+        {
+          "id": "FED_WALLER",
+          "publisher": "Federal Reserve Board",
+          "title": "Speech by Governor Waller on the economic outlook",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+          "published_at": null,
+          "source_type": "official_speech"
+        },
+        {
+          "id": "US_OPEN",
+          "publisher": "연합뉴스/연합인포맥스",
+          "title": "뉴욕증시, CPI·월러 발언 소화하며 하락 출발",
+          "url": "https://www.yna.co.kr/view/AKR20261110181000009",
+          "published_at": "2026-11-10T23:51:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "MS_REPORT",
+          "publisher": "연합뉴스",
+          "title": "모건스탠리 '반도체 저승사자', 삼전닉스 30만9천원·160만원으로 하향",
+          "url": "https://www.yna.co.kr/view/AKR20261110080700008",
+          "published_at": "2026-11-10T11:30:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "MK_SS",
+          "publisher": "매일경제 마켓",
+          "title": "삼성전자(005930) 현재가·정규장 체결시각",
+          "url": "https://stock.mk.co.kr/price/home/KR7005930003",
+          "published_at": null,
+          "source_type": "market_data_republished"
+        },
+        {
+          "id": "MK_SK",
+          "publisher": "매일경제 마켓",
+          "title": "SK하이닉스(000660) 시가·종가·거래량 표시",
+          "url": "https://stock.mk.co.kr/price/news/KR7000660001?day=2026-09-10&page=17&stock_code=KR7000660001",
+          "published_at": null,
+          "source_type": "market_data_republished"
+        },
+        {
+          "id": "TSMC_REVENUE",
+          "publisher": "TSMC",
+          "title": "TSMC October 2026 Revenue Report",
+          "url": "https://pr.tsmc.com/english/news/3349",
+          "published_at": null,
+          "source_type": "official_company_release"
+        },
+        {
+          "id": "CNA_TSMC",
+          "publisher": "中央社 CNA",
+          "title": "台積電10月營收衝5868.9億元 創下歷史新高",
+          "url": "https://www.cna.com.tw/news/afe/202611100129.aspx",
+          "published_at": "2026-11-10T13:42:00+08:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "DX_SPOT",
+          "publisher": "TrendForce / DRAMeXchange",
+          "title": "DRAM Spot Price — DDR5 16Gb 4800/5600, Nov.10 18:10 GMT+8",
+          "url": "https://www.dramexchange.com/",
+          "published_at": "2026-11-10T18:10:00+08:00",
+          "source_type": "industry_public_price_snapshot"
+        },
+        {
+          "id": "CRWV_CALL",
+          "publisher": "CoreWeave Investor Relations",
+          "title": "CoreWeave Announces Date of Third Quarter 2026 Financial Results and Conference Call",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/",
+          "published_at": null,
+          "source_type": "official_event_notice"
+        },
+        {
+          "id": "NASDAQ_CAL",
+          "publisher": "Nasdaq",
+          "title": "2026 U.S. Stock Market Holiday Schedule and Trading Hours",
+          "url": "https://www.nasdaq.com/market-activity/stock-market-holiday-schedule",
+          "published_at": null,
+          "source_type": "official_exchange_calendar"
+        },
+        {
+          "id": "Q_SOX",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^SOX timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_NASDAQ_COMPOSITE",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^IXIC timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_SP500",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^GSPC timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_NVDA",
+          "publisher": "Yahoo Finance chart API",
+          "title": "NVDA timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_MU",
+          "publisher": "Yahoo Finance chart API",
+          "title": "MU timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/MU?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AMD",
+          "publisher": "Yahoo Finance chart API",
+          "title": "AMD timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AVGO",
+          "publisher": "Yahoo Finance chart API",
+          "title": "AVGO timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/AVGO?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_TSM_ADR",
+          "publisher": "Yahoo Finance chart API",
+          "title": "TSM timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_SOXX_ETF",
+          "publisher": "Yahoo Finance chart API",
+          "title": "SOXX timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_US10Y_YIELD",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^TNX timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_DXY",
+          "publisher": "Yahoo Finance chart API",
+          "title": "DX-Y.NYB timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_WTI_FRONT_FUTURE",
+          "publisher": "Yahoo Finance chart API",
+          "title": "CL=F timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_KR_005930",
+          "publisher": "Yahoo Finance chart API",
+          "title": "005930.KS KRX regularMarketPrice snapshot",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_KR_000660",
+          "publisher": "Yahoo Finance chart API",
+          "title": "000660.KS KRX regularMarketPrice snapshot",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
         }
       ]
     },
@@ -331,18 +645,26 @@
         "session": "regular_close",
         "currency": "KRW",
         "previous_close": 189900,
-        "open": null,
+        "open": 199400,
         "close": 198900,
         "return_pct": 4.74,
-        "gap_return_pct": null,
-        "intraday_return_pct": null,
+        "gap_return_pct": 5.002633,
+        "intraday_return_pct": -0.250752,
         "source_ids": [
           "S1",
           "S2",
-          "S5"
-        ]
+          "S5",
+          "MK_SS",
+          "Q_KR_005930"
+        ],
+        "excess_vs_kospi_pct": 0.35,
+        "volume_shares": null,
+        "volume_missing_reason": "Yahoo 응답 거래량 0은 결측 placeholder로 제외. 매체별 거래량 집계가 달라 최종 KRX 단일값 검증 전까지 null.",
+        "open_verification": "시초가는 11월10일15:33 표기의 매일경제 마켓. 종가는 동일한 날짜의 Yahoo KRX quote와 대조.",
+        "high": 201500,
+        "low": 196400
       },
-      "summary": "미국 반도체·시장 전반 반등이 우선 설명 후보다. 외국인은 순매도였지만 기관은 순매수여서 단일 수급 설명이 성립하지 않는다.",
+      "summary": "미국 반도체·시장 전반 반등이 우선 설명 후보다. 외국인은 순매도였지만 기관은 순매수여서 단일 수급 설명이 성립하지 않는다. 종가는 전일보다 상승했지만 시초가보다 낮았다. 관측상 반등은 개장 갭에 집중됐으며 이를 특정 뉴스의 수익 기여율로 해석하지 않는다.",
       "top_driver_ids": [
         "F01_US_SEMI",
         "F02_GLOBAL_RISK"
@@ -356,8 +678,8 @@
           "evidence_type": "reported_interpretation",
           "event_window": "before_kr_open",
           "event_at": "2026-11-10T06:00:00+09:00",
-          "new_or_repeated": "new_session_observation",
-          "reason": "국내 개장 전에 확인된 미국 반도체 업종 반등은 두 종목의 동반 상승을 설명하는 우선 후보다. 특정 한 미국 종목의 방향만으로 해석하지 않는다.",
+          "new_or_repeated": "same_kr_session_reassessment",
+          "reason": "선행 미국 반도체 반등과 개장 갭 상승이 같은 방향이어서 동반 반등의 우선 설명 후보로 유지했다. 이후 장중에는 시초가를 지키지 못했다.",
           "counterevidence": "엔비디아는 같은 세션에 하락했다. 동조화 관측만으로 개별 주가 상승의 기여율을 추정할 수 없다.",
           "source_ids": [
             "S1",
@@ -372,7 +694,7 @@
           "evidence_type": "reported_interpretation",
           "event_window": "before_kr_open",
           "event_at": null,
-          "new_or_repeated": "new_session_observation",
+          "new_or_repeated": "same_kr_session_reassessment",
           "reason": "미국 주식 전반의 반등과 유가 하락이 위험자산 심리 회복에 연결됐다는 보도가 있다. 국내 시장 전반 상승과도 방향이 일치한다.",
           "counterevidence": "반도체 요인과 상당 부분 중복된다. HBM 수익 전망 개선을 직접 확인한 관측은 아니며 별도 기여율을 더하지 않는다.",
           "source_ids": [
@@ -385,30 +707,66 @@
           "factor_id": "F05_FOREIGN_FLOW",
           "relation": "countervailing",
           "direction": "negative",
-          "confidence": "high",
+          "confidence": "medium",
           "evidence_type": "observed",
           "event_window": "during_kr",
           "event_at": "2026-11-10T15:30:00+09:00",
-          "new_or_repeated": "new_session_observation",
+          "new_or_repeated": "same_kr_session_reassessment",
           "reason": "종목별 정규장 외국인 순매수는 -449.2억원으로 가격 상승과 반대였다.",
           "counterevidence": "수급은 거래 결과이기도 하다. 시장 전체 외국인 순매수나 다른 종목 수급을 이 종목의 직접 원인으로 대입하지 않는다.",
           "source_ids": [
             "S3"
-          ]
+          ],
+          "source_recheck_note": "초기 보고서의 15:30 KRX·연합인포맥스 전재 표를 보존. 이번 실행에서 해당 표 원문은 일시적 접근 오류로 재검증하지 못했으므로 잠정 관측으로 취급."
         },
         {
           "factor_id": "F06_INSTITUTION_FLOW",
           "relation": "confirmation",
           "direction": "positive",
-          "confidence": "high",
+          "confidence": "medium",
           "evidence_type": "observed",
           "event_window": "during_kr",
           "event_at": "2026-11-10T15:30:00+09:00",
-          "new_or_repeated": "new_session_observation",
+          "new_or_repeated": "same_kr_session_reassessment",
           "reason": "기관은 삼성전자를 1749.2억원 순매수했다. 외국인 매도와 다른 방향의 수급이 동시에 관측됐다.",
           "counterevidence": "이 표만으로 기관 매수가 가격을 몇 퍼센트 움직였는지, 매수가 신규 유입인지 리밸런싱인지 알 수 없다.",
           "source_ids": [
             "S4"
+          ],
+          "source_recheck_note": "초기 보고서의 15:30 KRX·연합인포맥스 전재 표를 보존. 이번 실행에서 해당 표 원문은 일시적 접근 오류로 재검증하지 못했으므로 잠정 관측으로 취급."
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "relation": "countervailing",
+          "direction": "negative",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "newly_verified_in_same_session_review",
+          "reason": "11월10일11:30 보도는 모건스탠리가 장기 공급 확대·수익성 정상화 우려로 목표가를 낮췄다고 전한다. 이 부정적 전망에도 당일 두 종목은 상승했다.",
+          "counterevidence": "이는 회사의 확정 실적·생산 계획이 아닌 증권사의 장기 전망이다. 같은 보고서가 내년 이익 추정치를 높이고 비중확대 의견을 유지해 단순 악재로만 해석하기 어렵다. 원 보고서의 최초 배포시각은 미확인.",
+          "source_ids": [
+            "MS_REPORT"
+          ],
+          "related_factor_ids": [
+            "F10_EARNINGS"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "relation": "background",
+          "direction": "positive",
+          "confidence": "low",
+          "evidence_type": "hypothesis",
+          "event_window": "during_kr",
+          "event_at": "2026-11-10T14:42:00+09:00",
+          "new_or_repeated": "new_industry_release",
+          "reason": "TSMC 10월 매출이 전년 대비 59.7% 늘었다는 실제 산업 지표를 보완했다. 반도체 수요의 배경 관측으로만 두고 AI 메모리 주문 증가로 확정하지 않았다.",
+          "counterevidence": "매출은 여러 제품·고객을 포함하며 HBM 매출도 아니다. 공개시각은 장중 후반으로 이미 발생한 시초가 갭을 설명할 수 없고 두 국내 종목의 반응 시각도 확인하지 못했다.",
+          "source_ids": [
+            "TSMC_REVENUE",
+            "CNA_TSMC"
           ]
         }
       ],
@@ -420,11 +778,12 @@
           "session_date": "2026-11-10",
           "observed_at": "2026-11-10T15:30:00+09:00",
           "available_at": "2026-11-10T15:45:46+09:00",
-          "status": "final",
+          "status": "retained_provisional",
           "source_ids": [
             "S3"
           ],
-          "predetermined": false
+          "predetermined": false,
+          "source_recheck_note": "이전 실행의 원문 확인값 보존. 이번 실행 원문 재접근은 실패해 신규 확정 수급으로 표시하지 않음."
         },
         {
           "id": "INSTITUTION_NET_BUY_KRW",
@@ -433,23 +792,26 @@
           "session_date": "2026-11-10",
           "observed_at": "2026-11-10T15:30:00+09:00",
           "available_at": "2026-11-10T15:45:29+09:00",
-          "status": "final",
+          "status": "retained_provisional",
           "source_ids": [
             "S4"
           ],
-          "predetermined": false
+          "predetermined": false,
+          "source_recheck_note": "이전 실행의 원문 확인값 보존. 이번 실행 원문 재접근은 실패해 신규 확정 수급으로 표시하지 않음."
         }
       ],
       "next_checks": [
-        "다음 미국장의 SOX·MU·NVDA 방향이 계속 엇갈리는지",
-        "삼성/하이닉스 종목별 외국인·기관 수급의 반복 여부",
-        "공식 HBM·실적·AI 고객 투자 발표가 새로 있는지"
+        "11월11일 국내장: 미국 CPI·국채금리 재평가 뒤 KRX 시초가 갭과 장중 수익률을 분리 확인",
+        "선행 미국장 마감까지 SOX·MU 약세가 이어지는지, NVDA와 AVGO·TSM의 차이가 유지되는지",
+        "CoreWeave 11월11일07:00 KST 실적 컨퍼런스콜의 실제 투자·자금조달 정보를 확인; 현재는 미개최",
+        "종목별 외국인·기관 정규장 수급의 확정 집계를 원출처와 다시 대조"
       ],
       "unassessed_factors": [
-        "이번 시범 조사에서는 신규 HBM 인증·DRAM 계약가격·금리 변화를 검증하지 못해 원인으로 채택하지 않음"
+        "새로운 공식 HBM 인증/공급계약의 당일 직접 주가 효과는 검증하지 못함",
+        "장기 공급 전망은 증권사 시나리오이며 실제 공급 실현·시장 점유율 확정 사실이 아님"
       ],
-      "report_date": "2026-11-10",
-      "research_as_of": "2026-11-10T18:09:49+09:00",
+      "report_date": "2026-11-11",
+      "research_as_of": "2026-11-11T03:15:16+09:00",
       "market_context": [
         {
           "id": "US_SOX_RETURN",
@@ -593,6 +955,74 @@
           "source_ids": [],
           "predetermined": false,
           "missing_reason": "당일 신규 계약 가격 관측치를 확보하지 못함; 매일 새 가격이 나오는 지표로 취급하지 않음"
+        },
+        {
+          "id": "TSMC_OCT_REVENUE_YOY",
+          "value": 59.7,
+          "unit": "percent",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T14:42:00+09:00",
+          "available_at": "2026-11-10T14:42:00+09:00",
+          "source_ids": [
+            "TSMC_REVENUE",
+            "CNA_TSMC"
+          ],
+          "predetermined": false,
+          "status": "released",
+          "reference_period": "2026-10",
+          "timing_basis": "CNA 최초 보도로 확인한 공개시각; 기업 일정의 예정시각과 구분"
+        },
+        {
+          "id": "DRAM_DDR5_16GBIT_4800_5600_SPOT_SESSION_CHANGE",
+          "value": 0.0,
+          "unit": "percent",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T19:10:00+09:00",
+          "available_at": "2026-11-10T19:10:00+09:00",
+          "source_ids": [
+            "DX_SPOT"
+          ],
+          "predetermined": false,
+          "status": "published_snapshot",
+          "measurement_scope": "단일 DDR5 현물 규격의 session change. 계약가격·HBM 가격·메모리 전체 가격 지표가 아님; KRX 마감 뒤 갱신."
+        },
+        {
+          "id": "US_TSM_ADR_RETURN",
+          "value": null,
+          "unit": "percent",
+          "session_date": "2026-11-09",
+          "observed_at": "2026-11-10T06:00:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": false,
+          "missing_reason": "선행 완료 미국장 TSM ADR 등락률은 이번 실행에서 동일 거래일 원자료 대조를 마치지 못했다. 현재 진행 세션의 ADR 수치로 대체하지 않음."
+        },
+        {
+          "id": "WTI_FRONT_FUTURE_CLOSE",
+          "value": 86.85,
+          "unit": "USD_per_barrel",
+          "session_date": "2026-11-09",
+          "observed_at": "2026-11-10T06:00:00+09:00",
+          "available_at": "2026-11-10T07:57:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "S1"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "WTI_FRONT_FUTURE_RETURN",
+          "value": -4.38,
+          "unit": "percent",
+          "session_date": "2026-11-09",
+          "observed_at": "2026-11-10T06:00:00+09:00",
+          "available_at": "2026-11-10T07:57:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "S1"
+          ],
+          "predetermined": true
         }
       ],
       "sources": [
@@ -651,6 +1081,206 @@
           "url": "https://www.newspim.com/news/view/20261110001216",
           "published_at": "2026-11-10T16:17:00+09:00",
           "source_type": "news_reporting"
+        },
+        {
+          "id": "BLS_CPI",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "title": "Consumer Price Index Summary — October 2026",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+          "published_at": "2026-11-10T22:30:00+09:00",
+          "source_type": "official_statistics"
+        },
+        {
+          "id": "FED_WALLER",
+          "publisher": "Federal Reserve Board",
+          "title": "Speech by Governor Waller on the economic outlook",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+          "published_at": null,
+          "source_type": "official_speech"
+        },
+        {
+          "id": "US_OPEN",
+          "publisher": "연합뉴스/연합인포맥스",
+          "title": "뉴욕증시, CPI·월러 발언 소화하며 하락 출발",
+          "url": "https://www.yna.co.kr/view/AKR20261110181000009",
+          "published_at": "2026-11-10T23:51:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "MS_REPORT",
+          "publisher": "연합뉴스",
+          "title": "모건스탠리 '반도체 저승사자', 삼전닉스 30만9천원·160만원으로 하향",
+          "url": "https://www.yna.co.kr/view/AKR20261110080700008",
+          "published_at": "2026-11-10T11:30:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "MK_SS",
+          "publisher": "매일경제 마켓",
+          "title": "삼성전자(005930) 현재가·정규장 체결시각",
+          "url": "https://stock.mk.co.kr/price/home/KR7005930003",
+          "published_at": null,
+          "source_type": "market_data_republished"
+        },
+        {
+          "id": "MK_SK",
+          "publisher": "매일경제 마켓",
+          "title": "SK하이닉스(000660) 시가·종가·거래량 표시",
+          "url": "https://stock.mk.co.kr/price/news/KR7000660001?day=2026-09-10&page=17&stock_code=KR7000660001",
+          "published_at": null,
+          "source_type": "market_data_republished"
+        },
+        {
+          "id": "TSMC_REVENUE",
+          "publisher": "TSMC",
+          "title": "TSMC October 2026 Revenue Report",
+          "url": "https://pr.tsmc.com/english/news/3349",
+          "published_at": null,
+          "source_type": "official_company_release"
+        },
+        {
+          "id": "CNA_TSMC",
+          "publisher": "中央社 CNA",
+          "title": "台積電10月營收衝5868.9億元 創下歷史新高",
+          "url": "https://www.cna.com.tw/news/afe/202611100129.aspx",
+          "published_at": "2026-11-10T13:42:00+08:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "DX_SPOT",
+          "publisher": "TrendForce / DRAMeXchange",
+          "title": "DRAM Spot Price — DDR5 16Gb 4800/5600, Nov.10 18:10 GMT+8",
+          "url": "https://www.dramexchange.com/",
+          "published_at": "2026-11-10T18:10:00+08:00",
+          "source_type": "industry_public_price_snapshot"
+        },
+        {
+          "id": "CRWV_CALL",
+          "publisher": "CoreWeave Investor Relations",
+          "title": "CoreWeave Announces Date of Third Quarter 2026 Financial Results and Conference Call",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/",
+          "published_at": null,
+          "source_type": "official_event_notice"
+        },
+        {
+          "id": "NASDAQ_CAL",
+          "publisher": "Nasdaq",
+          "title": "2026 U.S. Stock Market Holiday Schedule and Trading Hours",
+          "url": "https://www.nasdaq.com/market-activity/stock-market-holiday-schedule",
+          "published_at": null,
+          "source_type": "official_exchange_calendar"
+        },
+        {
+          "id": "Q_SOX",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^SOX timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_NASDAQ_COMPOSITE",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^IXIC timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_SP500",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^GSPC timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_NVDA",
+          "publisher": "Yahoo Finance chart API",
+          "title": "NVDA timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_MU",
+          "publisher": "Yahoo Finance chart API",
+          "title": "MU timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/MU?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AMD",
+          "publisher": "Yahoo Finance chart API",
+          "title": "AMD timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AVGO",
+          "publisher": "Yahoo Finance chart API",
+          "title": "AVGO timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/AVGO?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_TSM_ADR",
+          "publisher": "Yahoo Finance chart API",
+          "title": "TSM timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_SOXX_ETF",
+          "publisher": "Yahoo Finance chart API",
+          "title": "SOXX timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_US10Y_YIELD",
+          "publisher": "Yahoo Finance chart API",
+          "title": "^TNX timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_DXY",
+          "publisher": "Yahoo Finance chart API",
+          "title": "DX-Y.NYB timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_WTI_FRONT_FUTURE",
+          "publisher": "Yahoo Finance chart API",
+          "title": "CL=F timestamped market quote",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_KR_005930",
+          "publisher": "Yahoo Finance chart API",
+          "title": "005930.KS KRX regularMarketPrice snapshot",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_KR_000660",
+          "publisher": "Yahoo Finance chart API",
+          "title": "000660.KS KRX regularMarketPrice snapshot",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?interval=5m&range=1d",
+          "published_at": null,
+          "source_type": "market_data_api"
         }
       ]
     }

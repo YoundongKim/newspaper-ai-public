@@ -4,7 +4,7 @@
     "full_article_text_exported": false,
     "summaries_independently_written": true
   },
-  "as_of": "2026-11-10T18:09:49+09:00",
+  "as_of": "2026-11-11T03:15:16+09:00",
   "method": "최근 5/20/60 국내 거래일의 관측·편집 판단 빈도. 언급 빈도는 중요도/인과효과 아님. 상관계수는 선행 측정치 20쌍 이상, 5개 이상 서로 다른 값이 있을 때만 표시. 통계적 유의성·외부 검증·통제변수 보정 없음.",
   "windows": [
     {
@@ -41,6 +41,20 @@
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
@@ -82,6 +96,18 @@
         },
         {
           "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_CLOSE",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_RETURN",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
@@ -122,6 +148,20 @@
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
@@ -163,6 +203,18 @@
         },
         {
           "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_CLOSE",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_RETURN",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
@@ -203,6 +255,20 @@
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
@@ -244,6 +310,18 @@
         },
         {
           "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_CLOSE",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_RETURN",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
@@ -277,6 +355,20 @@
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
@@ -318,6 +410,18 @@
         },
         {
           "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_CLOSE",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_RETURN",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
@@ -351,6 +455,20 @@
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
@@ -392,6 +510,18 @@
         },
         {
           "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_CLOSE",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_RETURN",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
@@ -425,6 +555,20 @@
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
@@ -466,6 +610,18 @@
         },
         {
           "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_CLOSE",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_FRONT_FUTURE_RETURN",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
