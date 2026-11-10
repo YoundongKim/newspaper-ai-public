@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T21:21:22+00:00",
+  "generated_at": "2026-11-10T04:07:10+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-10",
   "coverage": {
@@ -187,6 +187,20 @@
       "hankyung_count": 1
     },
     {
+      "event_id": "EVT-319786b2ce044728",
+      "event_name": "2026 한국메세나대회 개최 및 제27회 메세나대상 시상식",
+      "event_type": "EVENT",
+      "event_summary": "매일경제신문과 한국메세나협회가 2026년 11월 10일 웨스틴 조선 서울에서 개최한 한국메세나대회로, 문화예술후원 인증식·기업과 예술의 만남 결연식과 함께 제27회 메세나대상 시상식이 진행되어 롯데문화재단이 대상을 수상했다.",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-11-10",
+      "article_count": 2,
+      "distinct_dates": 2,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 2,
+      "hankyung_count": 0
+    },
+    {
       "event_id": "EVT-2860516c4e4e4aeb",
       "event_name": "2026년 3분기 5대 은행 가계대출 중도상환 31.3% 감소 및 대출규제 학습효과로 인한 상환 미루기 현상",
       "event_type": "PHENOMENON",
@@ -325,6 +339,20 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "event_id": "EVT-c8a2e559633a4be3",
+      "event_name": "엔비디아, 2026년 11월 9일 AI 스타트업 파트너십 포럼에서 한국 AI 스타트업 투자 및 국내 기업 협력 확대 발표",
+      "event_type": "EVENT",
+      "event_summary": "엔비디아가 2026년 11월 9일 서울 코엑스 'AI 스타트업 파트너십 포럼'에서 포인트투테크놀로지 신규 투자와 모티프테크놀로지스·업스테이지·리얼월드 추가 투자를 발표하고, SK텔레콤·리벨리온과 GPU·NPU 결합 AI 데이터센터 인프라 MOU 및 삼성전자·LG전자 등과 기술 협력을 확대하기로 한 사건.",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "event_id": "EVT-c42e4a1619b446f6",
@@ -7563,20 +7591,6 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
-    },
-    {
-      "event_id": "EVT-319786b2ce044728",
-      "event_name": "2026 한국메세나대회 개최 (11월 10일)",
-      "event_type": "EVENT",
-      "event_summary": "매경미디어와 한국메세나협회가 2026년 11월 10일 웨스틴 조선 서울에서 개최하는 한국메세나대회로, 문화예술후원 인증식·기업과 예술의 만남 결연식·제27회 메세나대상 시상식이 함께 진행되는 행사.",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "article_count": 1,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 1,
-      "hankyung_count": 0
     },
     {
       "event_id": "EVT-2e9605cd6cc64b52",

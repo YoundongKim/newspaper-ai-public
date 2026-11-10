@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T21:21:22+00:00",
+  "generated_at": "2026-11-10T04:07:10+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-10",
   "coverage": {
@@ -136,6 +136,19 @@
       "theme": "",
       "candidate_id": "C4687",
       "candidate": "빅테크 CEO 리스크·경영권 집중 취약성"
+    },
+    {
+      "article_id": "ART-009-0005761302",
+      "date": "2026-11-10",
+      "publisher": "매일경제",
+      "section": "A1면",
+      "headline": "메세나대상에 롯데문화재단",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005761302?date=20261110",
+      "fact_summary": "롯데문화재단이 제27회 메세나대상 수상자로 선정됐다. 롯데콘서트홀과 롯데뮤지엄을 중심으로 공연·전시, 창작 지원, 인재 육성, 장애인 예술 지원 등 문화예술 후원 공로를 인정받았다. 메세나인상은 최윤정 파라다이스그룹 부회장에게 돌아갔으며, 매일경제신문과 한국메세나협회가 10일 웨스틴 조선 서울에서 시상식을 열었다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4710",
+      "candidate": "기업 문화예술 후원·메세나 활동"
     },
     {
       "article_id": "ART-009-0005761160",
@@ -487,6 +500,19 @@
       "theme": "",
       "candidate_id": "C4700",
       "candidate": "대출규제 장기화에 따른 차주 상환 지연·대출 포모"
+    },
+    {
+      "article_id": "ART-015-0005351917",
+      "date": "2026-11-10",
+      "publisher": "한국경제",
+      "section": "A2면",
+      "headline": "엔비디아, 韓 AI 스타트업에 대규모 투자",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005351917?date=20261110",
+      "fact_summary": "엔비디아가 9일 서울 코엑스에서 열린 'AI 스타트업 파트너십 포럼'에서 포인트투테크놀로지에 신규 투자하고 모티프테크놀로지스, 업스테이지, 리얼월드 등에 추가 투자한다고 밝혔다. 엔비디아는 SK텔레콤, 리벨리온과 GPU와 NPU를 결합한 AI 데이터센터 인프라 구축 MOU를 맺었으며, 삼성전자·LG전자·LG AI연구원·카카오모빌리티 등 국내 대기업과도 기술 협력을 확대한다.",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "candidate_id": "",
+      "candidate": ""
     },
     {
       "article_id": "ART-015-0005351918",

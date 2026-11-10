@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T21:21:22+00:00",
+  "generated_at": "2026-11-10T04:07:10+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-10",
   "coverage": {
@@ -68391,6 +68391,21 @@
     {
       "candidate_id": "C4709",
       "proposed_theme": "미국 정치변화에 따른 대형 M&A 규제 리스크",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4710",
+      "proposed_theme": "기업 문화예술 후원·메세나 활동",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,

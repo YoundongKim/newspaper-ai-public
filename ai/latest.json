@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T21:21:22+00:00",
+  "generated_at": "2026-11-10T04:07:10+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-10",
   "coverage": {
@@ -19,28 +19,28 @@
   },
   "counts": {
     "themes": 114,
-    "open_candidates": 4410,
+    "open_candidates": 4411,
     "review_ready_candidates": 121,
     "latest_narratives": 96,
-    "verified_articles_in_collection_period": 11139
+    "verified_articles_in_collection_period": 11141
   },
   "collection_themes": [
     {
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
       "status": "Active",
-      "article_count_total": 350,
+      "article_count_total": 351,
       "distinct_dates_total": 125,
       "publisher_count_total": 2,
       "first_seen": "2026-04-01",
       "last_seen": "2026-11-10",
-      "article_count_7d": 17,
+      "article_count_7d": 18,
       "distinct_dates_7d": 5,
       "publisher_count_7d": 2,
       "cross_media_days_7d": 3,
       "maekyung_count_7d": 4,
-      "hankyung_count_7d": 13,
-      "article_count_28d": 44,
+      "hankyung_count_7d": 14,
+      "article_count_28d": 45,
       "distinct_dates_28d": 15,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 6
@@ -851,18 +851,18 @@
       "theme_id": "T003",
       "theme": "AI 연산·전력 인프라 수요",
       "status": "Active",
-      "article_count_total": 350,
+      "article_count_total": 351,
       "distinct_dates_total": 125,
       "publisher_count_total": 2,
       "first_seen": "2026-04-01",
       "last_seen": "2026-11-10",
-      "article_count_7d": 17,
+      "article_count_7d": 18,
       "distinct_dates_7d": 5,
       "publisher_count_7d": 2,
       "cross_media_days_7d": 3,
       "maekyung_count_7d": 4,
-      "hankyung_count_7d": 13,
-      "article_count_28d": 44,
+      "hankyung_count_7d": 14,
+      "article_count_28d": 45,
       "distinct_dates_28d": 15,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 6
@@ -4993,6 +4993,19 @@
       "candidate": "빅테크 CEO 리스크·경영권 집중 취약성"
     },
     {
+      "article_id": "ART-009-0005761302",
+      "date": "2026-11-10",
+      "publisher": "매일경제",
+      "section": "A1면",
+      "headline": "메세나대상에 롯데문화재단",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005761302?date=20261110",
+      "fact_summary": "롯데문화재단이 제27회 메세나대상 수상자로 선정됐다. 롯데콘서트홀과 롯데뮤지엄을 중심으로 공연·전시, 창작 지원, 인재 육성, 장애인 예술 지원 등 문화예술 후원 공로를 인정받았다. 메세나인상은 최윤정 파라다이스그룹 부회장에게 돌아갔으며, 매일경제신문과 한국메세나협회가 10일 웨스틴 조선 서울에서 시상식을 열었다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4710",
+      "candidate": "기업 문화예술 후원·메세나 활동"
+    },
+    {
       "article_id": "ART-009-0005761160",
       "date": "2026-11-10",
       "publisher": "매일경제",
@@ -5342,6 +5355,19 @@
       "theme": "",
       "candidate_id": "C4700",
       "candidate": "대출규제 장기화에 따른 차주 상환 지연·대출 포모"
+    },
+    {
+      "article_id": "ART-015-0005351917",
+      "date": "2026-11-10",
+      "publisher": "한국경제",
+      "section": "A2면",
+      "headline": "엔비디아, 韓 AI 스타트업에 대규모 투자",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005351917?date=20261110",
+      "fact_summary": "엔비디아가 9일 서울 코엑스에서 열린 'AI 스타트업 파트너십 포럼'에서 포인트투테크놀로지에 신규 투자하고 모티프테크놀로지스, 업스테이지, 리얼월드 등에 추가 투자한다고 밝혔다. 엔비디아는 SK텔레콤, 리벨리온과 GPU와 NPU를 결합한 AI 데이터센터 인프라 구축 MOU를 맺었으며, 삼성전자·LG전자·LG AI연구원·카카오모빌리티 등 국내 대기업과도 기술 협력을 확대한다.",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "candidate_id": "",
+      "candidate": ""
     },
     {
       "article_id": "ART-015-0005351918",
@@ -6798,32 +6824,6 @@
       "theme": "",
       "candidate_id": "C4652",
       "candidate": "금융사 사회공헌·ESG 활동"
-    },
-    {
-      "article_id": "ART-009-0005760224",
-      "date": "2026-11-07",
-      "publisher": "매일경제",
-      "section": "A9면",
-      "headline": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005760224?date=20261107",
-      "fact_summary": "60세 이상 고령 1인 가구의 월평균 보험료 지출이 2022년 상반기 2만9500원에서 올해 상반기 4만7300원으로 60.3% 증가해 같은 기간 소득 증가율 22.4%의 2.7배에 달했다. 보험료 지출 가구 비중은 67.0%에서 78.6%로, 월 10만원 이상 지출 가구 비중은 8.4%에서 16.3%로 늘었으며, 손해보험사 치매·장기간병보험 초회보험료도 2023년 8월 456억원에서 올해 8월 901억원으로 증가했다. 금융권 관계자는 노후 보장 수요 증가로 보험료 지출이 늘고 있다며 은퇴 후에는 필요한 보장과 납부 여력을 함께 고려해야 한다고 말했다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4656",
-      "candidate": "고령 1인 가구 보험료 부담·노후 보장 수요"
-    },
-    {
-      "article_id": "ART-015-0005351254",
-      "date": "2026-11-07",
-      "publisher": "한국경제",
-      "section": "A10면",
-      "headline": "AI 시대, 업무 혁신만큼 청년 성장도 고민해야",
-      "url": "https://n.news.naver.com/article/newspaper/015/0005351254?date=20261107",
-      "fact_summary": "글로벌인재포럼 2026에서 니나 요르덴 케임브리지대 교수는 AI가 신입 업무를 대체하면 선배 의사결정을 관찰하며 노하우를 익힐 기회가 줄어 미래 리더 양성 토대가 약화될 수 있다고 경고했다. 김준환 신한금융지주 파트장과 맹성현 KAIST 명예교수는 실행 경험 없이는 판단력과 자기주도 학습 능력을 기르기 어렵다고 지적했으며, 라파엘 레이프 MIT 명예총장은 성공과 실패 경험을 통한 직관·판단력·창의력 교육이 필요하다고 강조했다.",
-      "theme_id": "T005",
-      "theme": "AI 자동화·업무재설계·생산성 전환",
-      "candidate_id": "",
-      "candidate": ""
     }
   ]
 }

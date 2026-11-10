@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-09T21:21:22+00:00",
+  "generated_at": "2026-11-10T04:07:10+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-10",
   "coverage": {
@@ -8621,6 +8621,28 @@
       "days_from_previous_event_end": 0
     },
     {
+      "event_id": "EVT-c8a2e559633a4be3",
+      "event_name": "엔비디아, 2026년 11월 9일 AI 스타트업 파트너십 포럼에서 한국 AI 스타트업 투자 및 국내 기업 협력 확대 발표",
+      "event_type": "EVENT",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "association_type": "PRIMARY",
+      "primary_tie": false,
+      "association_article_count": 1,
+      "association_publisher_count": 1,
+      "association_distinct_dates": 1,
+      "event_article_count": 1,
+      "theme_mapped_article_count": 1,
+      "event_theme_count": 1,
+      "theme_share_within_mapped_event": 1.0,
+      "theme_coverage_ratio": 1.0,
+      "first_seen_in_theme": "2026-11-10",
+      "last_seen_in_theme": "2026-11-10",
+      "sequence_order": 282,
+      "previous_event_id": "EVT-43d744d905a544bb",
+      "days_from_previous_event_end": 0
+    },
+    {
       "event_id": "EVT-d6ddf24f4c89479c",
       "event_name": "구미 1.3GW AI 데이터센터 클러스터 1단계(300㎿) 앤트로픽 임차 계약 불발로 사업 무산",
       "event_type": "EVENT",
@@ -8638,8 +8660,8 @@
       "theme_coverage_ratio": 1.0,
       "first_seen_in_theme": "2026-11-10",
       "last_seen_in_theme": "2026-11-10",
-      "sequence_order": 282,
-      "previous_event_id": "EVT-43d744d905a544bb",
+      "sequence_order": 283,
+      "previous_event_id": "EVT-c8a2e559633a4be3",
       "days_from_previous_event_end": 0
     },
     {
