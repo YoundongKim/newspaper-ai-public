@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.0",
+  "copyright_policy": {
+    "full_article_text_exported": false,
+    "summaries_independently_written": true
+  },
+  "report_date": "2026-11-10",
+  "as_of": "2026-11-10T18:09:49+09:00",
+  "scheduled_cutoff": null,
+  "run_kind": "bootstrap",
+  "status": "partial",
+  "kr_trade_date": "2026-11-10",
+  "us_previous_completed_trade_date": "2026-11-09",
+  "us_current": {
+    "session_date": "2026-11-10",
+    "status": "not_open",
+    "as_of": "2026-11-10T18:09:49+09:00",
+    "metrics": []
+  },
+  "summary": "초기 적재용 사후 조사. 국내 정규장 동반 상승에 대해 미국 반도체·위험선호 반등을 우선 설명 후보로 기록했다. 삼성전자 상승 중 외국인 순매도가 관측돼, 수급 하나로 원인을 단정하는 설명의 반례도 함께 보존했다.",
+  "market_context": [
+    {
+      "id": "US_SOX_RETURN",
+      "value": 6.86,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "US_NASDAQ_RETURN",
+      "value": 2.74,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "US_SP500_RETURN",
+      "value": 2.35,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "US_NVDA_RETURN",
+      "value": -4.27,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "US_MU_RETURN",
+      "value": 6.25,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "US_AMD_RETURN",
+      "value": 13.26,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "US_AVGO_RETURN",
+      "value": 8.78,
+      "unit": "percent",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": "2026-11-10T07:57:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S1"
+      ],
+      "predetermined": true
+    },
+    {
+      "id": "KOSPI_RETURN",
+      "value": 4.39,
+      "unit": "percent",
+      "session_date": "2026-11-10",
+      "observed_at": "2026-11-10T15:30:00+09:00",
+      "available_at": "2026-11-10T15:40:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S2",
+        "S5"
+      ],
+      "predetermined": false
+    },
+    {
+      "id": "USDKRW_DAY_CLOSE",
+      "value": 1337.5,
+      "unit": "KRW_per_USD",
+      "session_date": "2026-11-10",
+      "observed_at": "2026-11-10T15:30:00+09:00",
+      "available_at": "2026-11-10T16:03:00+09:00",
+      "status": "final",
+      "source_ids": [
+        "S2",
+        "S7"
+      ],
+      "predetermined": false
+    },
+    {
+      "id": "US10Y_CHANGE",
+      "value": null,
+      "unit": "basis_points",
+      "session_date": "2026-11-09",
+      "observed_at": "2026-11-10T06:00:00+09:00",
+      "available_at": null,
+      "status": "unavailable",
+      "source_ids": [],
+      "predetermined": false,
+      "missing_reason": "이번 시범 조사에서 신뢰할 만한 동일 시각 수치를 검증하지 못함"
+    },
+    {
+      "id": "DRAM_CONTRACT_CHANGE",
+      "value": null,
+      "unit": "percent",
+      "session_date": null,
+      "observed_at": "2026-11-10T18:09:49+09:00",
+      "available_at": null,
+      "status": "unavailable",
+      "source_ids": [],
+      "predetermined": false,
+      "missing_reason": "당일 신규 계약 가격 관측치를 확보하지 못함; 매일 새 가격이 나오는 지표로 취급하지 않음"
+    }
+  ],
+  "equities": [
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "kr_trade_date": "2026-11-10",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 189900,
+        "open": null,
+        "close": 198900,
+        "return_pct": 4.74,
+        "gap_return_pct": null,
+        "intraday_return_pct": null,
+        "source_ids": [
+          "S1",
+          "S2",
+          "S5"
+        ]
+      },
+      "summary": "미국 반도체·시장 전반 반등이 우선 설명 후보다. 외국인은 순매도였지만 기관은 순매수여서 단일 수급 설명이 성립하지 않는다.",
+      "top_driver_ids": [
+        "F01_US_SEMI",
+        "F02_GLOBAL_RISK"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "relation": "candidate_driver",
+          "direction": "positive",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-10T06:00:00+09:00",
+          "new_or_repeated": "new_session_observation",
+          "reason": "국내 개장 전에 확인된 미국 반도체 업종 반등은 두 종목의 동반 상승을 설명하는 우선 후보다. 특정 한 미국 종목의 방향만으로 해석하지 않는다.",
+          "counterevidence": "엔비디아는 같은 세션에 하락했다. 동조화 관측만으로 개별 주가 상승의 기여율을 추정할 수 없다.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "relation": "candidate_driver",
+          "direction": "positive",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "new_session_observation",
+          "reason": "미국 주식 전반의 반등과 유가 하락이 위험자산 심리 회복에 연결됐다는 보도가 있다. 국내 시장 전반 상승과도 방향이 일치한다.",
+          "counterevidence": "반도체 요인과 상당 부분 중복된다. HBM 수익 전망 개선을 직접 확인한 관측은 아니며 별도 기여율을 더하지 않는다.",
+          "source_ids": [
+            "S1",
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "relation": "countervailing",
+          "direction": "negative",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-10T15:30:00+09:00",
+          "new_or_repeated": "new_session_observation",
+          "reason": "종목별 정규장 외국인 순매수는 -449.2억원으로 가격 상승과 반대였다.",
+          "counterevidence": "수급은 거래 결과이기도 하다. 시장 전체 외국인 순매수나 다른 종목 수급을 이 종목의 직접 원인으로 대입하지 않는다.",
+          "source_ids": [
+            "S3"
+          ]
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "relation": "confirmation",
+          "direction": "positive",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-10T15:30:00+09:00",
+          "new_or_repeated": "new_session_observation",
+          "reason": "기관은 삼성전자를 1749.2억원 순매수했다. 외국인 매도와 다른 방향의 수급이 동시에 관측됐다.",
+          "counterevidence": "이 표만으로 기관 매수가 가격을 몇 퍼센트 움직였는지, 매수가 신규 유입인지 리밸런싱인지 알 수 없다.",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "FOREIGN_NET_BUY_KRW",
+          "value": -44920000000,
+          "unit": "KRW",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T15:30:00+09:00",
+          "available_at": "2026-11-10T15:45:46+09:00",
+          "status": "final",
+          "source_ids": [
+            "S3"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "INSTITUTION_NET_BUY_KRW",
+          "value": 174920000000,
+          "unit": "KRW",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T15:30:00+09:00",
+          "available_at": "2026-11-10T15:45:29+09:00",
+          "status": "final",
+          "source_ids": [
+            "S4"
+          ],
+          "predetermined": false
+        }
+      ],
+      "next_checks": [
+        "다음 미국장의 SOX·MU·NVDA 방향이 계속 엇갈리는지",
+        "삼성/하이닉스 종목별 외국인·기관 수급의 반복 여부",
+        "공식 HBM·실적·AI 고객 투자 발표가 새로 있는지"
+      ],
+      "unassessed_factors": [
+        "이번 시범 조사에서는 신규 HBM 인증·DRAM 계약가격·금리 변화를 검증하지 못해 원인으로 채택하지 않음"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "kr_trade_date": "2026-11-10",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 1136000,
+        "open": null,
+        "close": 1212000,
+        "return_pct": 6.69,
+        "gap_return_pct": null,
+        "intraday_return_pct": null,
+        "source_ids": [
+          "S1",
+          "S2",
+          "S5"
+        ]
+      },
+      "summary": "미국 반도체 동반 강세와 위험선호 회복이 우선 설명 후보다. 외국인 순매수는 같은 방향의 사후 확인 지표다.",
+      "top_driver_ids": [
+        "F01_US_SEMI",
+        "F02_GLOBAL_RISK"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "relation": "candidate_driver",
+          "direction": "positive",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-10T06:00:00+09:00",
+          "new_or_repeated": "new_session_observation",
+          "reason": "국내 개장 전에 확인된 미국 반도체 업종 반등은 두 종목의 동반 상승을 설명하는 우선 후보다. 특정 한 미국 종목의 방향만으로 해석하지 않는다.",
+          "counterevidence": "엔비디아는 같은 세션에 하락했다. 동조화 관측만으로 개별 주가 상승의 기여율을 추정할 수 없다.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "relation": "candidate_driver",
+          "direction": "positive",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "new_session_observation",
+          "reason": "미국 주식 전반의 반등과 유가 하락이 위험자산 심리 회복에 연결됐다는 보도가 있다. 국내 시장 전반 상승과도 방향이 일치한다.",
+          "counterevidence": "반도체 요인과 상당 부분 중복된다. HBM 수익 전망 개선을 직접 확인한 관측은 아니며 별도 기여율을 더하지 않는다.",
+          "source_ids": [
+            "S1",
+            "S6",
+            "S7"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "relation": "confirmation",
+          "direction": "positive",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-10T15:30:00+09:00",
+          "new_or_repeated": "new_session_observation",
+          "reason": "종목별 정규장 외국인 순매수는 +1069.7억원으로 상승 방향과 일치했다.",
+          "counterevidence": "수급은 거래 결과이기도 하다. 시장 전체 외국인 순매수나 다른 종목 수급을 이 종목의 직접 원인으로 대입하지 않는다.",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "FOREIGN_NET_BUY_KRW",
+          "value": 106970000000,
+          "unit": "KRW",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T15:30:00+09:00",
+          "available_at": "2026-11-10T15:45:46+09:00",
+          "status": "final",
+          "source_ids": [
+            "S3"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "INSTITUTION_NET_BUY_KRW",
+          "value": null,
+          "unit": "KRW",
+          "session_date": "2026-11-10",
+          "observed_at": "2026-11-10T15:30:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": false,
+          "missing_reason": "기관 상위종목 표에 없다는 이유로 순매수 0으로 처리하지 않음; 종목 전체 집계 미확인"
+        }
+      ],
+      "next_checks": [
+        "다음 미국장의 SOX·MU·NVDA 방향이 계속 엇갈리는지",
+        "삼성/하이닉스 종목별 외국인·기관 수급의 반복 여부",
+        "공식 HBM·실적·AI 고객 투자 발표가 새로 있는지"
+      ],
+      "unassessed_factors": [
+        "이번 시범 조사에서는 신규 HBM 인증·DRAM 계약가격·금리 변화를 검증하지 못해 원인으로 채택하지 않음"
+      ]
+    }
+  ],
+  "cross_stock_comparison": "같은 날 하이닉스의 상승률이 삼성전자보다 컸고 외국인 수급 방향도 달랐다. 이 차이가 HBM 경쟁력 때문이라고 단정할 신규 기업 증거는 이번 조사에서 확보하지 못했다. 삼성전자에서 기관 매수와 외국인 매도가 동시에 관측됐다는 사실을 분리해 남긴다.",
+  "next_kr_signals": [
+    "현재 미국 세션은 아직 시작 전이므로 다음 국내장에 미칠 진행 중 신호는 이번 초기 보고서에서 제공하지 않음"
+  ],
+  "shorts_candidates": [
+    {
+      "hook": "외국인이 삼성전자를 팔았는데, 주가는 왜 올랐을까?",
+      "why_surprising": "시장 전체 외국인 순매수와 개별 종목의 순매수가 같다고 생각하기 쉽지만, 삼성전자와 하이닉스는 방향이 달랐다.",
+      "verified_facts": "삼성전자는 4.74%, 하이닉스는 6.69% 상승했다. 정규장 외국인은 삼성전자 449.2억원 순매도, 하이닉스 1069.7억원 순매수였다. 삼성전자 기관 순매수는 1749.2억원이었다.",
+      "caveat": "외국인 매도에도 상승했다는 관측이 외국인의 영향이 없다는 증거는 아니다. 기관만이 올렸다고도 단정할 수 없다.",
+      "next_check": "이후 5거래일에도 같은 수급 차이가 반복되는지와 미국 반도체 업종의 공통 움직임",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "publisher": "연합뉴스",
+      "title": "[마켓뷰] 美 기술주 급반등·유가 급락…코스피, 급락 딛고 반등할까",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261110019400008",
+      "published_at": "2026-11-10T07:57:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "S2",
+      "publisher": "연합뉴스",
+      "title": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261110131951008?section=economy/all",
+      "published_at": "2026-11-10T16:03:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "S3",
+      "publisher": "매일경제/연합뉴스, 자료 KRX·연합인포맥스",
+      "title": "[표] 거래소 외국인 순매수도 상위종목(10일)",
+      "url": "https://stock.mk.co.kr/news/view/1194976",
+      "published_at": "2026-11-10T15:45:46+09:00",
+      "source_type": "exchange_data_republished"
+    },
+    {
+      "id": "S4",
+      "publisher": "매일경제/연합뉴스, 자료 KRX·연합인포맥스",
+      "title": "[표] 거래소 기관 순매수도 상위종목(10일)",
+      "url": "https://stock.mk.co.kr/news/view/1194977",
+      "published_at": "2026-11-10T15:45:29+09:00",
+      "source_type": "exchange_data_republished"
+    },
+    {
+      "id": "S5",
+      "publisher": "한국경제",
+      "title": "코스피·코스닥, 4%대 급등 마감…4거래일 만에 반등",
+      "url": "https://www.hankyung.com/article/2026111079216",
+      "published_at": "2026-11-10T15:40:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "S6",
+      "publisher": "AP News",
+      "title": "How major US stock indexes fared Monday 11/9/2026",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-f7ec9680fc858e3c2505913e7b3a54e2",
+      "published_at": null,
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "S7",
+      "publisher": "뉴스핌",
+      "title": "[마감시황] 외국인·기관 매수에 코스피·코스닥 동반 상승…5200선 탈환",
+      "url": "https://www.newspim.com/news/view/20261110001216",
+      "published_at": "2026-11-10T16:17:00+09:00",
+      "source_type": "news_reporting"
+    }
+  ],
+  "limitations": [
+    "실제 작성 시각의 사후 초기 보고서이며 03시에 작성한 자료가 아니다. 다음 정기 조사부터 실제 03시 기준/지연 여부를 명시한다.",
+    "KRX 원본 API를 직접 내려받지 못해 거래소 수치를 인용한 기사·표를 대조했다. 수급 두 표의 원출처가 같으므로 독립 검증 두 건으로 세지 않는다.",
+    "시초가·장중 전환 시각·NXT 종가는 검증하지 못해 갭/장중 수익률을 계산하지 않았다.",
+    "시장 전체 수급이 보도별로 달라 정규장/통합 집계가 불명확한 숫자는 raw metric으로 채택하지 않았다.",
+    "현재 표본은 국내 거래일 1개뿐이므로 요인 중요도의 시계열 변화·상관계수·예측력을 판단할 수 없다.",
+    "HBM 인증·메모리 가격·미 국채 금리 등은 이번 초기 표본에서 결측이다. 새 뉴스가 없었다고 단정하지 않는다."
+  ]
+}

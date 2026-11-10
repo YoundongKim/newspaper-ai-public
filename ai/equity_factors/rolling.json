@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0",
+  "copyright_policy": {
+    "full_article_text_exported": false,
+    "summaries_independently_written": true
+  },
+  "as_of": "2026-11-10T18:09:49+09:00",
+  "method": "최근 5/20/60 국내 거래일의 관측·편집 판단 빈도. 언급 빈도는 중요도/인과효과 아님. 상관계수는 선행 측정치 20쌍 이상, 5개 이상 서로 다른 값이 있을 때만 표시. 통계적 유의성·외부 검증·통제변수 보정 없음.",
+  "windows": [
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "window_trading_days": 5,
+      "actual_trading_days": 1,
+      "sample_status": "insufficient",
+      "factor_counts": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        }
+      ],
+      "exploratory_correlations": [
+        {
+          "metric_id": "US_AMD_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_AVGO_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_MU_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NASDAQ_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SOX_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "window_trading_days": 20,
+      "actual_trading_days": 1,
+      "sample_status": "insufficient",
+      "factor_counts": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        }
+      ],
+      "exploratory_correlations": [
+        {
+          "metric_id": "US_AMD_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_AVGO_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_MU_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NASDAQ_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SOX_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "window_trading_days": 60,
+      "actual_trading_days": 1,
+      "sample_status": "insufficient",
+      "factor_counts": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 1,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        }
+      ],
+      "exploratory_correlations": [
+        {
+          "metric_id": "US_AMD_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_AVGO_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_MU_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NASDAQ_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SOX_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        }
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "window_trading_days": 5,
+      "actual_trading_days": 1,
+      "sample_status": "insufficient",
+      "factor_counts": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        }
+      ],
+      "exploratory_correlations": [
+        {
+          "metric_id": "US_AMD_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_AVGO_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_MU_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NASDAQ_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SOX_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        }
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "window_trading_days": 20,
+      "actual_trading_days": 1,
+      "sample_status": "insufficient",
+      "factor_counts": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        }
+      ],
+      "exploratory_correlations": [
+        {
+          "metric_id": "US_AMD_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_AVGO_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_MU_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NASDAQ_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SOX_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        }
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "window_trading_days": 60,
+      "actual_trading_days": 1,
+      "sample_status": "insufficient",
+      "factor_counts": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        }
+      ],
+      "exploratory_correlations": [
+        {
+          "metric_id": "US_AMD_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_AVGO_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_MU_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NASDAQ_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SOX_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_SP500_RETURN",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        }
+      ]
+    }
+  ]
+}

@@ -310,3 +310,13 @@ Full collection: https://youndongkim.github.io/newspaper-ai-public/ai/articles.j
 - [2026-11-09 · 매일경제 · A10면 · T104] 'N% 성과급' 파업에 … 근로손실일수 45% 급증
   Summary: 한국경영자총협회에 따르면 올해 1~9월 제조업 노사분규는 88건으로 전년 동기 99건보다 줄었으나 근로손실일수는 33만6800일에서 48만9190일로 45.2% 증가했다. 삼성전자·SK하이닉스에서 촉발된 'N%' 성과배분 요구가 현대자동차(순이익 30%), 현대중공업(영업이익 30%), HL만도 등으로 확산한 것이 원인으로 꼽힌다. 자동차·조선 등 핵심 사업장 파업이 협력업체 생산·납기에 연쇄 영향을 줄 우려가 제기됐다.
   Source: https://n.news.naver.com/article/newspaper/009/0005760634?date=20261109
+
+
+Equity-factor research (separate coverage from newspaper A1-A10):
+- 삼성전자·SK하이닉스 latest: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/latest.json
+- Readable research: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/latest.md
+- Unique KR session history: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/history.json
+- Rolling 5/20/60-session comparisons: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/rolling.json
+- Factor definitions: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/factor_registry.json
+- Method and limitations: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/README.md
+- US intraday at 03:00 KST is not a US close. Driver rankings are editorial judgments, not causal contribution percentages.

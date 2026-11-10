@@ -24,3 +24,13 @@ Primary resources:
 - Theme weekly summary history: https://youndongkim.github.io/newspaper-ai-public/ai/theme_weekly_summaries.json
 - Macro definitions and linkage policy: https://youndongkim.github.io/newspaper-ai-public/ai/macro.json
 - Interactive dashboard: private / authentication required
+
+
+Equity-factor research (separate coverage from newspaper A1-A10):
+- 삼성전자·SK하이닉스 latest: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/latest.json
+- Readable research: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/latest.md
+- Unique KR session history: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/history.json
+- Rolling 5/20/60-session comparisons: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/rolling.json
+- Factor definitions: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/factor_registry.json
+- Method and limitations: https://youndongkim.github.io/newspaper-ai-public/ai/equity_factors/README.md
+- US intraday at 03:00 KST is not a US close. Driver rankings are editorial judgments, not causal contribution percentages.
