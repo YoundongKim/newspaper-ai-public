@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-10T21:29:13+00:00",
+  "generated_at": "2026-11-11T01:46:38+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-11",
   "coverage": {
@@ -33,6 +33,20 @@
       "hankyung_count": 2
     },
     {
+      "event_id": "EVT-5088caed229d4982",
+      "event_name": "유럽 슈퍼마켓 냉장·냉동 설비 원격 해킹 공격 사건",
+      "event_type": "EVENT",
+      "event_summary": "덴마크 댄포스의 냉장 설비 관리 소프트웨어 취약점을 악용한 해커들이 프랑스에서 시작해 벨기에·네덜란드 등 유럽 각국 슈퍼마켓의 냉장·냉동 설비 온도를 원격 조작해 식품 대량 폐기와 일부 매장 화재를 유발한 사이버 공격 사건. 프랑스 정부는 배후로 이란혁명수비대 관련 조직을 지목했다.",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-11-11",
+      "article_count": 4,
+      "distinct_dates": 3,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 3,
+      "hankyung_count": 1
+    },
+    {
       "event_id": "EVT-b6e3519819424af5",
       "event_name": "2026년 하반기 국회 연금개혁특별위원회 재가동 및 기초연금 수급기준 개편 논의",
       "event_type": "EVENT",
@@ -45,20 +59,6 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 3
-    },
-    {
-      "event_id": "EVT-5088caed229d4982",
-      "event_name": "유럽 슈퍼마켓 냉장·냉동 설비 원격 해킹 공격 사건",
-      "event_type": "EVENT",
-      "event_summary": "덴마크 댄포스의 냉장 설비 관리 소프트웨어 취약점을 악용한 해커들이 프랑스에서 시작해 벨기에·네덜란드 등 유럽 각국 슈퍼마켓의 냉장·냉동 설비 온도를 원격 조작해 식품 대량 폐기와 일부 매장 화재를 유발한 사이버 공격 사건. 프랑스 정부는 배후로 이란혁명수비대 관련 조직을 지목했다.",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-11-11",
-      "article_count": 3,
-      "distinct_dates": 3,
-      "publisher_count": 2,
-      "cross_media_days": 0,
-      "maekyung_count": 2,
-      "hankyung_count": 1
     },
     {
       "event_id": "EVT-ffb278024ed340aa",
@@ -173,6 +173,20 @@
       "hankyung_count": 1
     },
     {
+      "event_id": "EVT-f956ee3825e64492",
+      "event_name": "2026년 11월 10일 국무총리실의 주미 한국대사관 특별감찰 보도 반박",
+      "event_type": "EVENT",
+      "event_summary": "국무총리실이 2026년 11월 10일 국무조정실의 주미 한국대사관 대응 과정 이례적 점검 보도를 사실과 다르다고 일축하고, 정부 합동 공직복무점검단의 주기적 해외 점검을 설명한 사건.",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
       "event_id": "EVT-f38ca582d8d44644",
       "event_name": "2024년 2분기 창원국가산업단지 기계산업 생산·수출·고용 위축",
       "event_type": "PHENOMENON",
@@ -205,6 +219,20 @@
       "event_name": "김정관 산업통상부 장관의 호남 반도체 클러스터 팹 배치계획 11월 내 마무리 발표",
       "event_type": "EVENT",
       "event_summary": "김정관 산업통상부 장관이 삼성전자·SK하이닉스의 800조원 투자로 추진되는 호남 반도체 클러스터의 기업별 팹 배치 계획을 2026년 11월 안에 확정하겠다고 밝힌 사건. 2027년 산단 인허가, 2028~2029년 1단계 팹 건설, 2030년 첫 양산 일정이 제시됐다.",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "event_id": "EVT-e9ca6fcd751144a5",
+      "event_name": "중국 AI 데이터센터 전력망 인프라 1400억달러 투자 전망 및 2026년 에너지 투자 9400억달러 세계 최대 전망",
+      "event_type": "EVENT",
+      "event_summary": "중국이 AI 데이터센터 확장을 뒷받침하기 위해 동부 데이터의 서부 연산을 위한 전력망에 1400억달러를 투자하고, 2026년 에너지 투자 총액이 9400억달러로 세계 최대가 될 것이라는 IEA 전망이 제시된 사건.",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-11",
       "article_count": 1,
@@ -297,6 +325,20 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "event_id": "EVT-c0faac9875194672",
+      "event_name": "생성형 AI 확산에 따른 자체 웹페이지·메타버스 제작 수요 부활과 .kr 도메인 등록 역대 최대 (2026년)",
+      "event_type": "PHENOMENON",
+      "event_summary": "생성형 AI가 정보 탐색·답변 방식으로 부상하며 비개발자도 손쉽게 웹페이지와 메타버스를 제작할 수 있게 되면서 자체 웹사이트 개설이 다시 늘고, 2026년 1~10월 국내 영문 국가도메인(.kr) 등록이 108만 건으로 역대 최대를 기록한 산업 현상.",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "event_id": "EVT-b5a588a3f73c4a0e",
@@ -569,6 +611,20 @@
       "event_name": "2026년 10월 테슬라 중국 내수 판매 66.1% 급감 및 4년3개월 만에 1만대 미만 추락",
       "event_type": "EVENT",
       "event_summary": "2026년 10월 테슬라의 중국 판매량이 전년 동월 대비 66.1% 감소한 8817대로 2022년 7월 이후 처음 1만 대 아래로 떨어지고 점유율 0.8%에 그친 반면, BYD 등 중국 업체가 저가 SUV로 상위권을 석권한 사건.",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "event_id": "EVT-4858d748e3a1455e",
+      "event_name": "2026년 11월 6개월 변동형 예금·대출금리 1년 만기 금리 역전 현상",
+      "event_type": "PHENOMENON",
+      "event_summary": "2026년 11월 6개월 변동형 신용대출·주담대 금리가 1년 고정형을 웃도는 금리 역전이 10개월 만에 재발하고, 은행채 1년물·6개월물 금리차 축소와 기준금리 추가 인상 제한 전망이 반영된 현상.",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-11",
       "article_count": 1,

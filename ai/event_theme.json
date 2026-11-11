@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-10T21:29:13+00:00",
+  "generated_at": "2026-11-11T01:46:38+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-11",
   "coverage": {
@@ -8685,6 +8685,28 @@
       "sequence_order": 283,
       "previous_event_id": "EVT-c8a2e559633a4be3",
       "days_from_previous_event_end": 0
+    },
+    {
+      "event_id": "EVT-e9ca6fcd751144a5",
+      "event_name": "중국 AI 데이터센터 전력망 인프라 1400억달러 투자 전망 및 2026년 에너지 투자 9400억달러 세계 최대 전망",
+      "event_type": "EVENT",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "association_type": "PRIMARY",
+      "primary_tie": false,
+      "association_article_count": 1,
+      "association_publisher_count": 1,
+      "association_distinct_dates": 1,
+      "event_article_count": 1,
+      "theme_mapped_article_count": 1,
+      "event_theme_count": 1,
+      "theme_share_within_mapped_event": 1.0,
+      "theme_coverage_ratio": 1.0,
+      "first_seen_in_theme": "2026-11-11",
+      "last_seen_in_theme": "2026-11-11",
+      "sequence_order": 284,
+      "previous_event_id": "EVT-d6ddf24f4c89479c",
+      "days_from_previous_event_end": 1
     },
     {
       "event_id": "EVT-6ff9f4b80b9340c3",
@@ -26683,6 +26705,28 @@
       "days_from_previous_event_end": 9
     },
     {
+      "event_id": "EVT-4858d748e3a1455e",
+      "event_name": "2026년 11월 6개월 변동형 예금·대출금리 1년 만기 금리 역전 현상",
+      "event_type": "PHENOMENON",
+      "theme_id": "T026",
+      "theme": "은행권 대출금리 조정",
+      "association_type": "PRIMARY",
+      "primary_tie": false,
+      "association_article_count": 1,
+      "association_publisher_count": 1,
+      "association_distinct_dates": 1,
+      "event_article_count": 1,
+      "theme_mapped_article_count": 1,
+      "event_theme_count": 1,
+      "theme_share_within_mapped_event": 1.0,
+      "theme_coverage_ratio": 1.0,
+      "first_seen_in_theme": "2026-11-11",
+      "last_seen_in_theme": "2026-11-11",
+      "sequence_order": 51,
+      "previous_event_id": "EVT-f651650c993e4fb0",
+      "days_from_previous_event_end": 6
+    },
+    {
       "event_id": "EVT-fdd1c8e7fed84057",
       "event_name": "2026년 9월 단기 정기예금 금리 역전 폭 사상 최대 및 1년 미만 예금 잔액 급증",
       "event_type": "PHENOMENON",
@@ -26700,9 +26744,9 @@
       "theme_coverage_ratio": 0.5,
       "first_seen_in_theme": "2026-11-11",
       "last_seen_in_theme": "2026-11-11",
-      "sequence_order": 51,
-      "previous_event_id": "EVT-f651650c993e4fb0",
-      "days_from_previous_event_end": 6
+      "sequence_order": 52,
+      "previous_event_id": "EVT-4858d748e3a1455e",
+      "days_from_previous_event_end": 0
     },
     {
       "event_id": "EVT-6e817fa0ffd44f93",
@@ -79129,6 +79173,28 @@
       "sequence_order": 37,
       "previous_event_id": "EVT-3caebdee307e47cf",
       "days_from_previous_event_end": 1
+    },
+    {
+      "event_id": "EVT-c0faac9875194672",
+      "event_name": "생성형 AI 확산에 따른 자체 웹페이지·메타버스 제작 수요 부활과 .kr 도메인 등록 역대 최대 (2026년)",
+      "event_type": "PHENOMENON",
+      "theme_id": "T086",
+      "theme": "AI 서비스·개인 에이전트 확산",
+      "association_type": "PRIMARY",
+      "primary_tie": false,
+      "association_article_count": 1,
+      "association_publisher_count": 1,
+      "association_distinct_dates": 1,
+      "event_article_count": 1,
+      "theme_mapped_article_count": 1,
+      "event_theme_count": 1,
+      "theme_share_within_mapped_event": 1.0,
+      "theme_coverage_ratio": 1.0,
+      "first_seen_in_theme": "2026-11-11",
+      "last_seen_in_theme": "2026-11-11",
+      "sequence_order": 38,
+      "previous_event_id": "EVT-60ae7bb7beb147e6",
+      "days_from_previous_event_end": 0
     },
     {
       "event_id": "EVT-0f907b95e4e24067",

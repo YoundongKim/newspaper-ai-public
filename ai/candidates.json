@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-10T21:29:13+00:00",
+  "generated_at": "2026-11-11T01:46:38+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-11",
   "coverage": {
@@ -68766,6 +68766,36 @@
     {
       "candidate_id": "C4734",
       "proposed_theme": "EU 우크라이나 재정지원 분담 갈등",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4735",
+      "proposed_theme": "재외공관 공직기강 점검·감찰 논란",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4736",
+      "proposed_theme": "이란 연계 사이버공격·유럽 인프라 보안 위협",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
