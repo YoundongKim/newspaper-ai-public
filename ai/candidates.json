@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-11T21:18:12+00:00",
+  "generated_at": "2026-11-12T02:53:08+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-12",
   "coverage": {
@@ -69066,6 +69066,36 @@
     {
       "candidate_id": "C4754",
       "proposed_theme": "중국 희토류 소재 기반 타이어 원료시장 진출",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4755",
+      "proposed_theme": "고환율·엔저에 따른 해외여행지 소비 이동",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4756",
+      "proposed_theme": "미등기 임원 근로자성 분쟁·해고보호 소송",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,

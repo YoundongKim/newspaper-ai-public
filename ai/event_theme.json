@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-11T21:18:12+00:00",
+  "generated_at": "2026-11-12T02:53:08+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-12",
   "coverage": {
@@ -27035,6 +27035,28 @@
       "days_from_previous_event_end": 23
     },
     {
+      "event_id": "EVT-dd5125b564644bd9",
+      "event_name": "2026년 1~9월 전세사기 피해 인정 4만1559건 중 2030세대 75.9% 및 청년층 전세보증금 반환보증 가입 감소",
+      "event_type": "EVENT",
+      "theme_id": "T028",
+      "theme": "임대시장 보증금융 확대",
+      "association_type": "PRIMARY",
+      "primary_tie": false,
+      "association_article_count": 1,
+      "association_publisher_count": 1,
+      "association_distinct_dates": 1,
+      "event_article_count": 1,
+      "theme_mapped_article_count": 1,
+      "event_theme_count": 1,
+      "theme_share_within_mapped_event": 1.0,
+      "theme_coverage_ratio": 1.0,
+      "first_seen_in_theme": "2026-11-12",
+      "last_seen_in_theme": "2026-11-12",
+      "sequence_order": 6,
+      "previous_event_id": "EVT-6afd8b6056cf45a2",
+      "days_from_previous_event_end": 38
+    },
+    {
       "event_id": "EVT-f3aa728829734d08",
       "event_name": "2026년 1~9월 수도권 아파트 전세보증금 7억원 초과 계약 비중 15%·서울 32.1% 기록 및 공적보증 사각지대 확대",
       "event_type": "EVENT",
@@ -27052,9 +27074,9 @@
       "theme_coverage_ratio": 1.0,
       "first_seen_in_theme": "2026-11-12",
       "last_seen_in_theme": "2026-11-12",
-      "sequence_order": 6,
-      "previous_event_id": "EVT-6afd8b6056cf45a2",
-      "days_from_previous_event_end": 38
+      "sequence_order": 7,
+      "previous_event_id": "EVT-dd5125b564644bd9",
+      "days_from_previous_event_end": 0
     },
     {
       "event_id": "EVT-16b72c12cb894181",

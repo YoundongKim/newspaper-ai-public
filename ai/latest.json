@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-11T21:18:12+00:00",
+  "generated_at": "2026-11-12T02:53:08+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-12",
   "coverage": {
@@ -19,10 +19,10 @@
   },
   "counts": {
     "themes": 114,
-    "open_candidates": 4455,
+    "open_candidates": 4457,
     "review_ready_candidates": 121,
     "latest_narratives": 96,
-    "verified_articles_in_collection_period": 11261
+    "verified_articles_in_collection_period": 11264
   },
   "collection_themes": [
     {
@@ -1348,6 +1348,26 @@
       "cross_media_days_28d": 1
     },
     {
+      "theme_id": "T028",
+      "theme": "임대시장 보증금융 확대",
+      "status": "Active",
+      "article_count_total": 8,
+      "distinct_dates_total": 6,
+      "publisher_count_total": 2,
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-11-12",
+      "article_count_7d": 3,
+      "distinct_dates_7d": 1,
+      "publisher_count_7d": 1,
+      "cross_media_days_7d": 0,
+      "maekyung_count_7d": 0,
+      "hankyung_count_7d": 3,
+      "article_count_28d": 3,
+      "distinct_dates_28d": 1,
+      "publisher_count_28d": 1,
+      "cross_media_days_28d": 0
+    },
+    {
       "theme_id": "T113",
       "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "status": "Active",
@@ -1405,26 +1425,6 @@
       "article_count_28d": 6,
       "distinct_dates_28d": 5,
       "publisher_count_28d": 2,
-      "cross_media_days_28d": 0
-    },
-    {
-      "theme_id": "T028",
-      "theme": "임대시장 보증금융 확대",
-      "status": "Active",
-      "article_count_total": 7,
-      "distinct_dates_total": 6,
-      "publisher_count_total": 2,
-      "first_seen": "2026-06-11",
-      "last_seen": "2026-11-12",
-      "article_count_7d": 2,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 0,
-      "hankyung_count_7d": 2,
-      "article_count_28d": 2,
-      "distinct_dates_28d": 1,
-      "publisher_count_28d": 1,
       "cross_media_days_28d": 0
     },
     {
@@ -5383,6 +5383,19 @@
       "candidate": "자가치료용 해외의약품 개인 반입 허용"
     },
     {
+      "article_id": "ART-015-0005352982",
+      "date": "2026-11-12",
+      "publisher": "한국경제",
+      "section": "A2면",
+      "headline": "'美·유럽·동남아 놔두고 왜'…2030 中 가는 이유 있었다",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005352982?date=20261112",
+      "fact_summary": "원·달러 환율이 1300원을 웃도는 고환율이 이어지면서 한국인의 해외여행지가 달러화 사용 지역에서 일본 중소도시와 무비자 중국 대도시로 옮겨가고 있다. 올해 1~10월 인천공항 여객 증가율은 고베 124.1%, 장자제 60.1%로 높았으나 사이판은 61.2%, 괌은 29.7% 감소했다. 중국은 2024년 11월부터 한국인 무비자 입국을 시행했고, 엔저로 오사카 공항 슬롯 포화와 숙박비 부담을 느낀 여행객이 고베 등으로 분산됐다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4755",
+      "candidate": "고환율·엔저에 따른 해외여행지 소비 이동"
+    },
+    {
       "article_id": "ART-015-0005352852",
       "date": "2026-11-12",
       "publisher": "한국경제",
@@ -5433,6 +5446,32 @@
       "theme": "",
       "candidate_id": "C4750",
       "candidate": "고령화·조직정체에 따른 승진 적체"
+    },
+    {
+      "article_id": "ART-015-0005352994",
+      "date": "2026-11-12",
+      "publisher": "한국경제",
+      "section": "A4면",
+      "headline": "연봉 3억에 기사 딸린 車까지…\"나도 근로자\" 돌변한 임원",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005352994?date=20261112",
+      "fact_summary": "미등기 임원이 해임·퇴직 국면에서 근로자 지위를 주장하며 해고 무효 및 퇴직금 지급 소송을 내는 사례가 늘고 있다. 근로자로 인정되면 근로기준법상 해고 제한 규정의 보호를 받게 되며, 법원은 직함과 무관하게 회사의 구체적 지휘·감독 여부와 독립적 의사결정 권한을 중점적으로 본다. 올해 초 수원지방법원은 연봉 3억5000만원에 고급 세단을 받은 정수기 제조업체 전무를 근로자로 인정했다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4756",
+      "candidate": "미등기 임원 근로자성 분쟁·해고보호 소송"
+    },
+    {
+      "article_id": "ART-015-0005352849",
+      "date": "2026-11-12",
+      "publisher": "한국경제",
+      "section": "A5면",
+      "headline": "전세사기 피해 76%가 2030…보증보험 가입은 감소",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005352849?date=20261112",
+      "fact_summary": "올해 9월까지 전세사기 피해 인정 사례는 4만1559건으로, 이 중 20·30대가 3만1534명(75.9%)을 차지했다. 피해자의 97.7%는 보증금 3억원 이하였고 60.7%가 수도권에 집중됐다. 지난해 HUG 전세보증금 반환보증 가입 27만7988건 중 20·30대는 66.2%였으나, 청년층 가입 건수는 2023년 20만1947건에서 지난해 18만4153건으로 8.8% 감소했다.",
+      "theme_id": "T028",
+      "theme": "임대시장 보증금융 확대",
+      "candidate_id": "",
+      "candidate": ""
     },
     {
       "article_id": "ART-015-0005352850",
@@ -6785,45 +6824,6 @@
       "theme": "",
       "candidate_id": "C4696",
       "candidate": "유럽 주요국 정상·국가원수 선출 및 정치지도자 교체"
-    },
-    {
-      "article_id": "ART-009-0005761145",
-      "date": "2026-11-10",
-      "publisher": "매일경제",
-      "section": "A8면",
-      "headline": "[아세안 릴레이 인터뷰] \"아세안, 디지털 통합 속도 … 韓 기업에 투자 기회 활짝\"",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005761145?date=20261110",
-      "fact_summary": "필리핀 주한대사는 아세안이 이달 마닐라 정상회의에서 디지털경제기본협정(DEFA)을 정식 서명할 예정이라며, 전자상거래·디지털 결제·데이터 이동·AI 단일 시장 구축으로 역내 통합과 한국 기업의 투자 기회가 확대될 것이라고 밝혔다. 아세안은 인구 6억6000만명 규모로, 대사는 디지털 기술·첨단 제조업·혁신 분야에서 한국 기업의 투자와 협력이 중요하다고 강조했다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4697",
-      "candidate": "아세안 디지털경제 통합·한국 기업 투자기회 확대"
-    },
-    {
-      "article_id": "ART-015-0005351961",
-      "date": "2026-11-10",
-      "publisher": "한국경제",
-      "section": "A10면",
-      "headline": "미쓰이화학, JSR 인수…반도체소재 공룡 탄생",
-      "url": "https://n.news.naver.com/article/newspaper/015/0005351961?date=20261110",
-      "fact_summary": "일본 미쓰이화학이 일본정책투자은행(DBJ)과 함께 총 1조8400억엔(약 15조8000억원)을 투입해 반도체 소재 대기업 JSR을 인수하며, 2027회계연도 하반기 인수 완료를 목표로 한다. 미쓰이화학은 펠리클 세계 점유율 1위, JSR은 감광재 2위 사업자로, 양사는 각각 SK하이닉스의 HBM 제조와 차세대 D램용 EUV 감광재 개발에 협력해 왔다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4708",
-      "candidate": "반도체 소재·부품 글로벌 M&A·공급망 재편"
-    },
-    {
-      "article_id": "ART-015-0005351965",
-      "date": "2026-11-10",
-      "publisher": "한국경제",
-      "section": "A10면",
-      "headline": "\"이란 재공격할 가능성 작다\"…선거 참패 뒤 한발 뺀 트럼프",
-      "url": "https://n.news.naver.com/article/newspaper/015/0005351965?date=20261110",
-      "fact_summary": "도널드 트럼프 미국 대통령은 CNN 인터뷰에서 이란이 매우 강력한 합의에 서명하면 전쟁 재개 가능성이 극히 낮다며 군사행동 가능성을 다섯 차례나 낮게 언급했다. 중간선거 참패 이후 밴스 부통령과 윗코프 중동특사는 외교적 해결을, 헤그세스 장관과 쿠퍼 중부사령관은 군사작전 재개를 주장하는 등 참모진이 갈리고 있다. 루비오 국무장관은 이란과의 협상이 돌파구 직전이 아니라고 밝혔다.",
-      "theme_id": "T046",
-      "theme": "중동 분쟁 대응·국제공조",
-      "candidate_id": "",
-      "candidate": ""
     }
   ]
 }

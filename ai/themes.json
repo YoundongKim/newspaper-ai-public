@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-11T21:18:12+00:00",
+  "generated_at": "2026-11-12T02:53:08+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-12",
   "coverage": {
@@ -539,6 +539,26 @@
       "cross_media_days_28d": 1
     },
     {
+      "theme_id": "T028",
+      "theme": "임대시장 보증금융 확대",
+      "status": "Active",
+      "article_count_total": 8,
+      "distinct_dates_total": 6,
+      "publisher_count_total": 2,
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-11-12",
+      "article_count_7d": 3,
+      "distinct_dates_7d": 1,
+      "publisher_count_7d": 1,
+      "cross_media_days_7d": 0,
+      "maekyung_count_7d": 0,
+      "hankyung_count_7d": 3,
+      "article_count_28d": 3,
+      "distinct_dates_28d": 1,
+      "publisher_count_28d": 1,
+      "cross_media_days_28d": 0
+    },
+    {
       "theme_id": "T113",
       "theme": "가상자산 소득과세 시행·유예·과세체계 개편",
       "status": "Active",
@@ -596,26 +616,6 @@
       "article_count_28d": 6,
       "distinct_dates_28d": 5,
       "publisher_count_28d": 2,
-      "cross_media_days_28d": 0
-    },
-    {
-      "theme_id": "T028",
-      "theme": "임대시장 보증금융 확대",
-      "status": "Active",
-      "article_count_total": 7,
-      "distinct_dates_total": 6,
-      "publisher_count_total": 2,
-      "first_seen": "2026-06-11",
-      "last_seen": "2026-11-12",
-      "article_count_7d": 2,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 0,
-      "hankyung_count_7d": 2,
-      "article_count_28d": 2,
-      "distinct_dates_28d": 1,
-      "publisher_count_28d": 1,
       "cross_media_days_28d": 0
     },
     {
