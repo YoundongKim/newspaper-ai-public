@@ -1,0 +1,1887 @@
+{
+  "schema_version": "1.0",
+  "copyright_policy": {
+    "full_article_text_exported": false,
+    "summaries_independently_written": true
+  },
+  "report_date": "2026-11-13",
+  "as_of": "2026-11-13T03:04:40+09:00",
+  "run_kind": "scheduled",
+  "status": "partial",
+  "kr_trade_date": "2026-11-12",
+  "us_previous_completed_trade_date": "2026-11-11",
+  "is_new_kr_session": true,
+  "scheduled_cutoff": "2026-11-13T03:00:00+09:00",
+  "timing": {
+    "research_as_of": "2026-11-13T03:04:40+09:00",
+    "us_snapshot_collected_at": "2026-11-13T03:00:09+09:00",
+    "research_completion_delay_seconds": 280
+  },
+  "market_calendar": {
+    "kr_regular_open": "2026-11-12T09:00:00+09:00",
+    "kr_regular_close": "2026-11-12T15:30:00+09:00",
+    "us_prior_regular_close": "2026-11-12T06:00:00+09:00",
+    "us_current_regular_open": "2026-11-12T23:30:00+09:00",
+    "us_current_regular_close": "2026-11-13T06:00:00+09:00",
+    "us_early_close": false,
+    "us_eastern_offset": "-05:00",
+    "us_dst": false,
+    "us_equity_holiday": false,
+    "prior_us_bond_session": "11월 11일 재향군인의 날 달러 채권시장 휴장 권고",
+    "source_ids": [
+      "US_CAL",
+      "US_SIFMA",
+      "KR_CLOSE"
+    ]
+  },
+  "summary": "11월 12일 KRX 삼성전자 +0.97%, SK하이닉스 -1.80%, 코스피 -0.61%. 선행 미국 SOX +5.66%에 두 종목 모두 상승 출발했지만 장중 상승폭이 줄었다. 개장 전 엔비디아 리더십 교체 검토 보도, 국내장 종료 뒤 공식 사임·임시 CEO 발표를 시각별로 기록했다. 11월 13일 03:00대 미국 장중 엔비디아 -5.05%, AMD +5.33%, 브로드컴 +5.56%, SOX -0.20%였다.",
+  "us_current": {
+    "session_date": "2026-11-12",
+    "status": "intraday",
+    "as_of": "2026-11-13T03:00:09+09:00",
+    "regular_session_close_kst": "2026-11-13T06:00:00+09:00",
+    "attribution_boundary": "11월 12일 KRX 마감 이후 미국 주식 세션. 다음 국내장 확인용.",
+    "calendar_source_ids": [
+      "US_CAL"
+    ],
+    "metrics": [
+      {
+        "id": "US_SOX_LEVEL",
+        "value": 10543.387,
+        "unit": "index_points",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:08+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_SOX"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_SOX_RETURN",
+        "value": -0.196164,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:08+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_SOX"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 10564.11
+      },
+      {
+        "id": "US_NASDAQ_LEVEL",
+        "value": 25481.791,
+        "unit": "index_points",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_NASDAQ"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_NASDAQ_RETURN",
+        "value": 0.061262,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_NASDAQ"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 25466.19
+      },
+      {
+        "id": "US_SP500_LEVEL",
+        "value": 7632.64,
+        "unit": "index_points",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_SP500"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_SP500_RETURN",
+        "value": 0.17403,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_SP500"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 7619.38
+      },
+      {
+        "id": "US_NVDA_LEVEL",
+        "value": 164.955,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_NVDA"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_NVDA_RETURN",
+        "value": -5.050941,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_NVDA"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 173.73
+      },
+      {
+        "id": "US_NVDA_OPEN",
+        "value": 150.99,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T23:30:00+09:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_NVDA"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "open_gap_pct": -13.089276
+      },
+      {
+        "id": "US_MU_LEVEL",
+        "value": 795.03,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_MU"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_MU_RETURN",
+        "value": -2.005423,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_MU"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 811.3
+      },
+      {
+        "id": "US_AMD_LEVEL",
+        "value": 582.35,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_AMD"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_AMD_RETURN",
+        "value": 5.32646,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:07+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_AMD"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 552.9
+      },
+      {
+        "id": "US_AVGO_LEVEL",
+        "value": 364.41,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:06+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_AVGO"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_AVGO_RETURN",
+        "value": 5.558774,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:06+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_AVGO"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 345.22
+      },
+      {
+        "id": "US_TSM_ADR_LEVEL",
+        "value": 407.47,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:03+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_TSM_ADR"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_TSM_ADR_RETURN",
+        "value": -1.422523,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:03+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_TSM_ADR"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 413.35
+      },
+      {
+        "id": "US_CRWV_LEVEL",
+        "value": 56.88,
+        "unit": "USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:06+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_CRWV"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장"
+      },
+      {
+        "id": "US_CRWV_RETURN",
+        "value": -6.401185,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:06+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_CRWV"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "진행 중인 미국 정규장",
+        "comparison_close": 60.77
+      },
+      {
+        "id": "US_US10Y_CBOE_LEVEL",
+        "value": 5.105,
+        "unit": "percent_yield",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T17:45:04+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_US10Y_CBOE"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "Cboe 10년물 지표, 공식 재무부 일일 par yield와 별도"
+      },
+      {
+        "id": "US_DXY_LEVEL",
+        "value": 103.222,
+        "unit": "index_points",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T17:49:58+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_DXY"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "공급자 달러 지수"
+      },
+      {
+        "id": "US_DXY_RETURN",
+        "value": 0.303178,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T17:49:58+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_DXY"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "공급자 달러 지수",
+        "comparison_close": 102.91
+      },
+      {
+        "id": "US_WTI_FRONT_FUTURE_LEVEL",
+        "value": 87.68,
+        "unit": "USD_per_barrel",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T17:50:01+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_WTI_FRONT_FUTURE"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "WTI 최근월 연속선물"
+      },
+      {
+        "id": "US_WTI_FRONT_FUTURE_RETURN",
+        "value": 1.329019,
+        "unit": "percent",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T17:50:01+00:00",
+        "available_at": "2026-11-12T18:00:08+00:00",
+        "source_ids": [
+          "Q_WTI_FRONT_FUTURE"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "WTI 최근월 연속선물",
+        "comparison_close": 86.53
+      },
+      {
+        "id": "US_USDKRW_VENDOR_LEVEL",
+        "value": 1335.63,
+        "unit": "KRW_per_USD",
+        "session_date": "2026-11-12",
+        "observed_at": "2026-11-12T18:00:02+00:00",
+        "available_at": "2026-11-12T18:00:09+00:00",
+        "source_ids": [
+          "Q_USDKRW_VENDOR"
+        ],
+        "status": "intraday",
+        "predetermined": false,
+        "scope": "공급자 외환 관측, 서울 주간 종가와 별도"
+      }
+    ]
+  },
+  "market_context": [
+    {
+      "id": "US_SOX_CLOSE",
+      "value": 10564.11,
+      "unit": "index_points",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_SOX",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 9998.33,
+      "close": 10564.11,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_SOX_RETURN",
+      "value": 5.658745,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_SOX",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 9998.33,
+      "close": 10564.11,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_NASDAQ_CLOSE",
+      "value": 25466.19,
+      "unit": "index_points",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_NASDAQ",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 25065.87,
+      "close": 25466.19,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_NASDAQ_RETURN",
+      "value": 1.597072,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_NASDAQ",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 25065.87,
+      "close": 25466.19,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_SP500_CLOSE",
+      "value": 7619.38,
+      "unit": "index_points",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_SP500",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 7520.93,
+      "close": 7619.38,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_SP500_RETURN",
+      "value": 1.309014,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_SP500",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 7520.93,
+      "close": 7619.38,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_NVDA_CLOSE",
+      "value": 173.73,
+      "unit": "USD",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_NVDA"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 168.89,
+      "close": 173.73,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_NVDA_RETURN",
+      "value": 2.865771,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_NVDA"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 168.89,
+      "close": 173.73,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_MU_CLOSE",
+      "value": 811.3,
+      "unit": "USD",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_MU",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 725.11,
+      "close": 811.3,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_MU_RETURN",
+      "value": 11.886472,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_MU",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 725.11,
+      "close": 811.3,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_AMD_CLOSE",
+      "value": 552.9,
+      "unit": "USD",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_AMD"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 515.21,
+      "close": 552.9,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_AMD_RETURN",
+      "value": 7.315464,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_AMD"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 515.21,
+      "close": 552.9,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_AVGO_CLOSE",
+      "value": 345.22,
+      "unit": "USD",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_AVGO"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 331.98,
+      "close": 345.22,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_AVGO_RETURN",
+      "value": 3.988192,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_AVGO"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 331.98,
+      "close": 345.22,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_TSM_ADR_CLOSE",
+      "value": 413.35,
+      "unit": "USD",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_TSM_ADR"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 396.48,
+      "close": 413.35,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_TSM_ADR_RETURN",
+      "value": 4.254944,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_TSM_ADR"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 396.48,
+      "close": 413.35,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_CRWV_CLOSE",
+      "value": 60.77,
+      "unit": "USD",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_CRWV",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 48.73,
+      "close": 60.77,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_CRWV_RETURN",
+      "value": 24.707572,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T06:00:00+09:00",
+      "available_at": "2026-11-12T06:00:00+09:00",
+      "source_ids": [
+        "Q_CRWV",
+        "US_AM",
+        "US_CLOSE"
+      ],
+      "status": "final",
+      "predetermined": true,
+      "previous_close": 48.73,
+      "close": 60.77,
+      "scope": "미국 정규장 종가"
+    },
+    {
+      "id": "US_DXY_CLOSE",
+      "value": 102.91,
+      "unit": "index_points",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T18:00:12+00:00",
+      "available_at": null,
+      "source_ids": [
+        "Q_DXY"
+      ],
+      "status": "completed_daily",
+      "predetermined": false,
+      "previous_close": 102.23,
+      "close": 102.91,
+      "scope": "공급자 완료 일봉. 최초 게시 시각 미확인."
+    },
+    {
+      "id": "US_DXY_RETURN",
+      "value": 0.665167,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T18:00:12+00:00",
+      "available_at": null,
+      "source_ids": [
+        "Q_DXY"
+      ],
+      "status": "completed_daily",
+      "predetermined": false,
+      "previous_close": 102.23,
+      "close": 102.91,
+      "scope": "공급자 완료 일봉. 최초 게시 시각 미확인."
+    },
+    {
+      "id": "WTI_FRONT_FUTURE_CLOSE",
+      "value": 86.53,
+      "unit": "USD_per_barrel",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T18:00:12+00:00",
+      "available_at": null,
+      "source_ids": [
+        "Q_WTI_FRONT_FUTURE"
+      ],
+      "status": "completed_daily",
+      "predetermined": false,
+      "previous_close": 86.04,
+      "close": 86.53,
+      "scope": "공급자 완료 일봉. 최초 게시 시각 미확인."
+    },
+    {
+      "id": "WTI_FRONT_FUTURE_RETURN",
+      "value": 0.569503,
+      "unit": "percent",
+      "session_date": "2026-11-11",
+      "observed_at": "2026-11-12T18:00:12+00:00",
+      "available_at": null,
+      "source_ids": [
+        "Q_WTI_FRONT_FUTURE"
+      ],
+      "status": "completed_daily",
+      "predetermined": false,
+      "previous_close": 86.04,
+      "close": 86.53,
+      "scope": "공급자 완료 일봉. 최초 게시 시각 미확인."
+    },
+    {
+      "id": "KOSPI_CLOSE",
+      "value": 5342.73,
+      "unit": "index_points",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T15:30:00+09:00",
+      "available_at": "2026-11-12T16:15:00+09:00",
+      "source_ids": [
+        "KR_FX",
+        "Q_KOSPI"
+      ],
+      "status": "final",
+      "predetermined": false,
+      "previous_close": 5375.36
+    },
+    {
+      "id": "KOSPI_RETURN",
+      "value": -0.607029,
+      "unit": "percent",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T15:30:00+09:00",
+      "available_at": "2026-11-12T16:15:00+09:00",
+      "source_ids": [
+        "KR_FX",
+        "Q_KOSPI"
+      ],
+      "status": "final",
+      "predetermined": false
+    },
+    {
+      "id": "KOSDAQ_RETURN",
+      "value": -1.22,
+      "unit": "percent",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T15:30:00+09:00",
+      "available_at": "2026-11-12T16:15:00+09:00",
+      "source_ids": [
+        "KR_FX"
+      ],
+      "status": "final",
+      "predetermined": false
+    },
+    {
+      "id": "USDKRW_DAY_CLOSE",
+      "value": 1330.7,
+      "unit": "KRW_per_USD",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T15:30:00+09:00",
+      "available_at": "2026-11-12T16:15:00+09:00",
+      "source_ids": [
+        "KR_FX",
+        "KR_FX_CHECK"
+      ],
+      "status": "final",
+      "predetermined": false,
+      "previous_close": 1333.6,
+      "day_change": -2.9,
+      "scope": "서울 15:30 주간 종가"
+    },
+    {
+      "id": "KOSPI_FOREIGN_NET_BUY_KRW",
+      "value": 370500000000,
+      "unit": "KRW",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T15:30:00+09:00",
+      "available_at": "2026-11-12T15:53:00+09:00",
+      "source_ids": [
+        "KR_CLOSE"
+      ],
+      "status": "reported_close",
+      "predetermined": false,
+      "scope": "유가증권시장 전체, 보도 집계"
+    },
+    {
+      "id": "KOSPI_INSTITUTION_NET_BUY_KRW",
+      "value": -691100000000,
+      "unit": "KRW",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T15:30:00+09:00",
+      "available_at": "2026-11-12T15:53:00+09:00",
+      "source_ids": [
+        "KR_CLOSE"
+      ],
+      "status": "reported_close",
+      "predetermined": false,
+      "scope": "유가증권시장 전체, 보도 집계"
+    },
+    {
+      "id": "DRAM_DDR5_16GBIT_4800_5600_SPOT_SESSION_CHANGE",
+      "value": 0.0,
+      "unit": "percent",
+      "session_date": "2026-11-12",
+      "observed_at": "2026-11-12T19:10:00+09:00",
+      "available_at": "2026-11-12T19:10:00+09:00",
+      "source_ids": [
+        "DRAM_SPOT"
+      ],
+      "status": "published_snapshot",
+      "predetermined": false,
+      "scope": "단일 DDR5 규격 현물 변동. KRX 마감 후 갱신."
+    },
+    {
+      "id": "NAND_SPOT_CHANGE",
+      "value": null,
+      "unit": "percent",
+      "session_date": "2026-11-12",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "DRAM_SPOT"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "공개 Flash Spot 표의 마지막 갱신은 11월 2일."
+    },
+    {
+      "id": "DRAM_CONTRACT_CHANGE",
+      "value": null,
+      "unit": "percent",
+      "session_date": "2026-11-12",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "DRAM_SPOT",
+        "TF_4Q"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "동일 날짜 신규 계약가격 미확인. 4분기 전망은 기존 자료."
+    },
+    {
+      "id": "NAND_CONTRACT_CHANGE",
+      "value": null,
+      "unit": "percent",
+      "session_date": "2026-11-12",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "DRAM_SPOT",
+        "TF_4Q"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "동일 날짜 신규 계약가격 미확인."
+    },
+    {
+      "id": "MEMORY_INVENTORY_CHANGE",
+      "value": null,
+      "unit": "days",
+      "session_date": "2026-11-12",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "SS_Q3",
+        "SK_Q3"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "동일 날짜 회사별 비교 가능한 재고 공시 미확인."
+    },
+    {
+      "id": "HBM_QUALIFICATION_EVENTS",
+      "value": null,
+      "unit": "count",
+      "session_date": "2026-11-12",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "SS_Q3",
+        "SK_Q3",
+        "NV_SUPPLY"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "동일 날짜 신규 고객 인증이나 양산·공급 계약 공시를 확보하지 못함."
+    },
+    {
+      "id": "US2Y_PAR_YIELD",
+      "value": null,
+      "unit": "percent_yield",
+      "session_date": "2026-11-11",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "US_SIFMA",
+        "US_TREASURY"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "재향군인의 날 미국 채권시장 휴장 권고로 11월 11일 공식 par yield가 비어 있음."
+    },
+    {
+      "id": "US2Y_PAR_LAST_AVAILABLE",
+      "value": 4.73,
+      "unit": "percent_yield",
+      "session_date": "2026-11-10",
+      "observed_at": "2026-11-11T05:30:00+09:00",
+      "available_at": null,
+      "source_ids": [
+        "US_TREASURY"
+      ],
+      "status": "official_daily",
+      "predetermined": false,
+      "scope": "직전 공식 관측인 11월 10일 수치, 11일 종가와 별도"
+    },
+    {
+      "id": "US10Y_PAR_YIELD",
+      "value": null,
+      "unit": "percent_yield",
+      "session_date": "2026-11-11",
+      "observed_at": null,
+      "available_at": null,
+      "source_ids": [
+        "US_SIFMA",
+        "US_TREASURY"
+      ],
+      "status": "unavailable",
+      "predetermined": false,
+      "missing_reason": "재향군인의 날 미국 채권시장 휴장 권고로 11월 11일 공식 par yield가 비어 있음."
+    },
+    {
+      "id": "US10Y_PAR_LAST_AVAILABLE",
+      "value": 4.98,
+      "unit": "percent_yield",
+      "session_date": "2026-11-10",
+      "observed_at": "2026-11-11T05:30:00+09:00",
+      "available_at": null,
+      "source_ids": [
+        "US_TREASURY"
+      ],
+      "status": "official_daily",
+      "predetermined": false,
+      "scope": "직전 공식 관측인 11월 10일 수치, 11일 종가와 별도"
+    }
+  ],
+  "equities": [
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "kr_trade_date": "2026-11-12",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 206000,
+        "open": 208500,
+        "close": 208000,
+        "high": 214000,
+        "low": 206000,
+        "return_pct": 0.970874,
+        "gap_return_pct": 1.213592,
+        "intraday_return_pct": -0.239808,
+        "excess_vs_kospi_pct": 1.5779,
+        "volume_shares": 18871800,
+        "last_trade_at": "2026-11-12T06:30:05+00:00",
+        "volume_source_ids": [
+          "KR_MK_SS"
+        ],
+        "volume_scope": "매일경제 15:32 정규장 종가 화면에 표시된 누적 주수",
+        "volume_verification": "삼성은 화면의 15:30:05 체결 누계도 일치. SK는 화면 종가·OHLC 일치, 별도 최종 원자료 미확인.",
+        "source_ids": [
+          "KR_CLOSE",
+          "KR_MK_SS",
+          "Q_KR_005930"
+        ]
+      },
+      "summary": "시초가 208,500원(+1.21%), 시초가 대비 종가 -0.24%, 코스피 대비 +1.58%p. 외국인 +7,449.2억원, 기관 -2,674.1억원 순매수.",
+      "top_driver_ids": [
+        "F01_US_SEMI"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "direction": "positive",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T06:00:00+09:00",
+          "new_or_repeated": "new_completed_us_session",
+          "reason": "선행 미국 SOX +5.66%, 마이크론 +11.89%로 상승 마감했다. 국내 시초가 갭은 +1.21%였다.",
+          "counterevidence": "엔비디아 교체 검토 보도 이후 미국 장후 흐름이 약해졌다. 이 종목의 시초가 대비 종가는 -0.24%였다.",
+          "source_ids": [
+            "US_AM",
+            "Q_SOX",
+            "Q_MU",
+            "NV_REPORT",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F13_CORPORATE",
+          "direction": "negative",
+          "relation": "countervailing",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T07:34:00+09:00",
+          "new_or_repeated": "new_preopen_leadership_reporting",
+          "reason": "국내 개장 전에 엔비디아 이사회의 CEO 교체 검토 보도와 미국 장후 반응이 알려졌다. AI 공급망 불확실성이 국내 장중 상승폭 축소의 공통 설명 후보다.",
+          "counterevidence": "두 종목이 모두 상승 출발했고 삼성은 종가 상승을 유지했다. 공통 뉴스로 종목별 격차를 설명하기 어렵고 발주 변경은 미확인이다. 공식 인사 발표는 국내장 마감 뒤다.",
+          "source_ids": [
+            "NV_REPORT",
+            "KR_CLOSE",
+            "KR_CONTEXT"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "direction": "positive",
+          "relation": "confirmation",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-12T15:30:00+09:00",
+          "new_or_repeated": "new_session_same_sign",
+          "reason": "종목별 15:30 외국인 순매수 +7,449.2억원. 코스피 전체 외국인은 순매수였다.",
+          "counterevidence": "당일 누계는 종가와 같은 방향의 관찰이다. 장중 거래 순서와 가격 효과는 확인되지 않는다.",
+          "source_ids": [
+            "KR_FOREIGN",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "direction": "negative",
+          "relation": "countervailing",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-12T15:30:00+09:00",
+          "new_or_repeated": "new_session_same_sign",
+          "reason": "종목별 15:30 기관 순매수 -2,674.1억원과 종가 수익률 +0.97%의 방향이 달랐다.",
+          "counterevidence": "기관 합산 수급으로 옵션 만기 헤지나 개별 주체별 매매를 확인할 수 없다.",
+          "source_ids": [
+            "KR_INSTITUTION",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "direction": "positive",
+          "relation": "background",
+          "confidence": "medium",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "continuing_coreweave_guidance",
+          "reason": "코어위브 기존 실적·투자 전망은 11월 11일 미국장 상승의 배경으로 보도됐다.",
+          "counterevidence": "앞선 국내장에서 이미 알려진 내용이다. 개별 공급사 수주나 신규 투자집행 확인은 없다.",
+          "source_ids": [
+            "CRWV_IR",
+            "US_CLOSE",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F14_POSITIONING",
+          "direction": "unclear",
+          "relation": "background",
+          "confidence": "low",
+          "evidence_type": "reported_interpretation",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "monthly_option_expiry",
+          "reason": "국내 월물 옵션 만기와 장중 상승폭 축소가 겹쳤다.",
+          "counterevidence": "종목별 헤지나 청산의 체결 내역을 확보하지 못해 방향별 영향을 판정하기 어렵다.",
+          "source_ids": [
+            "KR_CONTEXT"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "FOREIGN_NET_BUY_KRW",
+          "value": 744920000000,
+          "unit": "KRW",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-12T15:30:00+09:00",
+          "available_at": "2026-11-12T15:45:00+09:00",
+          "source_ids": [
+            "KR_FOREIGN"
+          ],
+          "status": "reported_1530",
+          "predetermined": false
+        },
+        {
+          "id": "INSTITUTION_NET_BUY_KRW",
+          "value": -267410000000,
+          "unit": "KRW",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-12T15:30:00+09:00",
+          "available_at": "2026-11-12T15:45:00+09:00",
+          "source_ids": [
+            "KR_INSTITUTION"
+          ],
+          "status": "reported_1530",
+          "predetermined": false
+        },
+        {
+          "id": "KRX_REGULAR_VOLUME_SHARES",
+          "value": 18871800,
+          "unit": "shares",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-12T15:30:00+09:00",
+          "available_at": "2026-11-12T15:32:00+09:00",
+          "source_ids": [
+            "KR_MK_SS"
+          ],
+          "status": "displayed_regular_close",
+          "predetermined": false
+        }
+      ],
+      "next_checks": [
+        "미국장 최종 SOX와 종목별 수익률을 11월 13일 국내 시초가·장중 수익률과 대조",
+        "엔비디아 11월 17일 미국 실적 발표의 고객 일정과 제품 로드맵, 한국 공급사의 확정 발주·출하 변화 확인",
+        "종목별 외국인·기관 순매수 방향 지속 여부와 옵션 만기 이후 움직임 대조"
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "kr_trade_date": "2026-11-12",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 1277000,
+        "open": 1280000,
+        "close": 1254000,
+        "high": 1310000,
+        "low": 1245000,
+        "return_pct": -1.801096,
+        "gap_return_pct": 0.234926,
+        "intraday_return_pct": -2.03125,
+        "excess_vs_kospi_pct": -1.1941,
+        "volume_shares": 4034431,
+        "last_trade_at": "2026-11-12T06:30:11+00:00",
+        "volume_source_ids": [
+          "KR_MK_SK"
+        ],
+        "volume_scope": "매일경제 15:32 정규장 종가 화면에 표시된 누적 주수",
+        "volume_verification": "삼성은 화면의 15:30:05 체결 누계도 일치. SK는 화면 종가·OHLC 일치, 별도 최종 원자료 미확인.",
+        "source_ids": [
+          "KR_CLOSE",
+          "KR_MK_SK",
+          "Q_KR_000660"
+        ]
+      },
+      "summary": "시초가 1,280,000원(+0.23%), 시초가 대비 종가 -2.03%, 코스피 대비 -1.19%p. 외국인 -8,719.5억원, 기관 +4,787.2억원 순매수.",
+      "top_driver_ids": [
+        "F13_CORPORATE"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "direction": "positive",
+          "relation": "countervailing",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T06:00:00+09:00",
+          "new_or_repeated": "new_completed_us_session",
+          "reason": "선행 미국 SOX +5.66%, 마이크론 +11.89%로 상승 마감했다. 국내 시초가 갭은 +0.23%였다.",
+          "counterevidence": "엔비디아 교체 검토 보도 이후 미국 장후 흐름이 약해졌다. 이 종목의 시초가 대비 종가는 -2.03%였다.",
+          "source_ids": [
+            "US_AM",
+            "Q_SOX",
+            "Q_MU",
+            "NV_REPORT",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F13_CORPORATE",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T07:34:00+09:00",
+          "new_or_repeated": "new_preopen_leadership_reporting",
+          "reason": "국내 개장 전에 엔비디아 이사회의 CEO 교체 검토 보도와 미국 장후 반응이 알려졌다. AI 공급망 불확실성이 국내 장중 상승폭 축소의 공통 설명 후보다.",
+          "counterevidence": "두 종목이 모두 상승 출발했고 삼성은 종가 상승을 유지했다. 공통 뉴스로 종목별 격차를 설명하기 어렵고 발주 변경은 미확인이다. 공식 인사 발표는 국내장 마감 뒤다.",
+          "source_ids": [
+            "NV_REPORT",
+            "KR_CLOSE",
+            "KR_CONTEXT"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-12T15:30:00+09:00",
+          "new_or_repeated": "daily_flow_reversal",
+          "reason": "종목별 15:30 외국인 순매수 -8,719.5억원. 코스피 전체 외국인은 순매수였다.",
+          "counterevidence": "당일 누계는 종가와 같은 방향의 관찰이다. 장중 거래 순서와 가격 효과는 확인되지 않는다.",
+          "source_ids": [
+            "KR_FOREIGN",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "direction": "positive",
+          "relation": "countervailing",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-12T15:30:00+09:00",
+          "new_or_repeated": "daily_flow_reversal",
+          "reason": "종목별 15:30 기관 순매수 +4,787.2억원과 종가 수익률 -1.80%의 방향이 달랐다.",
+          "counterevidence": "기관 합산 수급으로 옵션 만기 헤지나 개별 주체별 매매를 확인할 수 없다.",
+          "source_ids": [
+            "KR_INSTITUTION",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "direction": "positive",
+          "relation": "background",
+          "confidence": "medium",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "continuing_coreweave_guidance",
+          "reason": "코어위브 기존 실적·투자 전망은 11월 11일 미국장 상승의 배경으로 보도됐다.",
+          "counterevidence": "앞선 국내장에서 이미 알려진 내용이다. 개별 공급사 수주나 신규 투자집행 확인은 없다.",
+          "source_ids": [
+            "CRWV_IR",
+            "US_CLOSE",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F14_POSITIONING",
+          "direction": "unclear",
+          "relation": "background",
+          "confidence": "low",
+          "evidence_type": "reported_interpretation",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "monthly_option_expiry",
+          "reason": "국내 월물 옵션 만기와 장중 상승폭 축소가 겹쳤다.",
+          "counterevidence": "종목별 헤지나 청산의 체결 내역을 확보하지 못해 방향별 영향을 판정하기 어렵다.",
+          "source_ids": [
+            "KR_CONTEXT"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "FOREIGN_NET_BUY_KRW",
+          "value": -871950000000,
+          "unit": "KRW",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-12T15:30:00+09:00",
+          "available_at": "2026-11-12T15:45:00+09:00",
+          "source_ids": [
+            "KR_FOREIGN"
+          ],
+          "status": "reported_1530",
+          "predetermined": false
+        },
+        {
+          "id": "INSTITUTION_NET_BUY_KRW",
+          "value": 478720000000,
+          "unit": "KRW",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-12T15:30:00+09:00",
+          "available_at": "2026-11-12T15:45:00+09:00",
+          "source_ids": [
+            "KR_INSTITUTION"
+          ],
+          "status": "reported_1530",
+          "predetermined": false
+        },
+        {
+          "id": "KRX_REGULAR_VOLUME_SHARES",
+          "value": 4034431,
+          "unit": "shares",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-12T15:30:00+09:00",
+          "available_at": "2026-11-12T15:32:00+09:00",
+          "source_ids": [
+            "KR_MK_SK"
+          ],
+          "status": "displayed_regular_close",
+          "predetermined": false
+        }
+      ],
+      "next_checks": [
+        "미국장 최종 SOX와 종목별 수익률을 11월 13일 국내 시초가·장중 수익률과 대조",
+        "엔비디아 11월 17일 미국 실적 발표의 고객 일정과 제품 로드맵, 한국 공급사의 확정 발주·출하 변화 확인",
+        "종목별 외국인·기관 순매수 방향 지속 여부와 옵션 만기 이후 움직임 대조"
+      ]
+    }
+  ],
+  "cross_stock_comparison": "11월 11일에는 두 종목 모두 약세 출발 후 상승 마감했고 AI 투자 기대가 공통 상위 후보였다. 12일에는 선행 미국 반도체가 급등했지만 둘 다 시초가를 밑돌았고 하이닉스 종가 수익률은 삼성보다 2.77%p 낮았다. 하이닉스 외국인은 순매수에서 순매도로, 기관은 순매도에서 순매수로 바뀌었다. 5/20/60일 창은 각각 국내 3거래일로 표본 부족이다.",
+  "prior_observation_comparison": {
+    "previous_kr_trade_date": "2026-11-11",
+    "previous_report_date": "2026-11-12",
+    "previous_top_driver_ids": {
+      "005930": [
+        "F09_AI_CAPEX"
+      ],
+      "000660": [
+        "F09_AI_CAPEX"
+      ]
+    },
+    "current_top_driver_ids": {
+      "005930": [
+        "F01_US_SEMI"
+      ],
+      "000660": [
+        "F13_CORPORATE"
+      ]
+    },
+    "signal_followup": "11월 12일 03:01의 SOX +7.47%, 마이크론 +13.44%는 종가 +5.66%, +11.89%로 완화됐다. 국내 두 종목 상승 출발과 방향이 같았고 하이닉스 종가는 반대였다.",
+    "counterexamples": [
+      "미국 메모리 급등에도 SK하이닉스 하락 종가",
+      "두 종목의 기관 수급과 수익률 방향이 반대"
+    ],
+    "window_status": [
+      {
+        "window_trading_days": 5,
+        "actual_trading_days": 3,
+        "status": "insufficient"
+      },
+      {
+        "window_trading_days": 20,
+        "actual_trading_days": 3,
+        "status": "insufficient"
+      },
+      {
+        "window_trading_days": 60,
+        "actual_trading_days": 3,
+        "status": "insufficient"
+      }
+    ]
+  },
+  "next_kr_signals": [
+    {
+      "factor_id": "F13_CORPORATE",
+      "direction": "negative",
+      "confidence": "medium",
+      "evidence_type": "observed",
+      "event_at": "2026-11-12T22:48:00+09:00",
+      "event_window": "after_kr_close",
+      "new_or_repeated": "confirmed_leadership_transition",
+      "reason": "회사는 젠슨 황의 CEO·이사직 사임과 콜레트 크레스 임시 CEO 선임을 발표했다. 보도된 발표 시각은 KST 22:48, 8-K 접수는 22:52:41이다. 엔비디아는 시초가 -13.09%, 03:00대 -5.05%.",
+      "counterevidence": "회사 이사회는 고객 약속과 제품 로드맵의 연속성을 기대한다고 밝혔다. SK하이닉스·삼성의 실제 발주 변경 자료는 미확인이다.",
+      "source_ids": [
+        "NV_IR",
+        "NV_SEC",
+        "NV_TIME",
+        "Q_NVDA",
+        "NV_SUPPLY"
+      ]
+    },
+    {
+      "factor_id": "F01_US_SEMI",
+      "direction": "mixed",
+      "confidence": "high",
+      "evidence_type": "observed",
+      "event_at": "2026-11-12T18:00:08+00:00",
+      "event_window": "after_kr_close",
+      "reason": "03:00대 마이크론 -2.01%, AMD +5.33%, 브로드컴 +5.56%, TSM ADR -1.42%.",
+      "counterevidence": "장중 시세이며 종가까지 방향과 폭이 바뀔 수 있다. 경쟁사 강세와 한국 공급사 주문의 연결은 확인되지 않았다.",
+      "source_ids": [
+        "Q_MU",
+        "Q_AMD",
+        "Q_AVGO",
+        "Q_TSM_ADR",
+        "Q_SOX"
+      ]
+    },
+    {
+      "factor_id": "F03_RATES",
+      "direction": "negative",
+      "confidence": "low",
+      "evidence_type": "observed",
+      "event_at": "2026-11-12T17:45:04+00:00",
+      "event_window": "after_kr_close",
+      "reason": "02:45대 Cboe 10년물 지표 5.105%. 11월 11일 미국 채권시장 휴장 권고 뒤 관측된 지표.",
+      "counterevidence": "재무부 일별 par yield와 기준이 다르다. 같은 시간대 미국 주요 주가지수는 혼조였다.",
+      "source_ids": [
+        "Q_US10Y_CBOE",
+        "US_TREASURY",
+        "US_SIFMA",
+        "Q_NASDAQ",
+        "Q_SOX"
+      ]
+    }
+  ],
+  "research_coverage": {
+    "F01_US_SEMI": "SOX·NVDA·MU·AMD·AVGO·TSM ADR 완료와 진행 세션 확인.",
+    "F02_GLOBAL_RISK": "S&P500·나스닥·WTI와 국내 지수 대조. 옵션 만기 동시 관측.",
+    "F03_RATES": "채권 휴장 및 장중 10년물 지표 확인. 기준 차이 보존.",
+    "F04_FX": "원달러 1,330.7원 주간 종가와 현재 공급자 외환 및 달러지수 별도.",
+    "F05_FOREIGN_FLOW": "KRX 15:30 종목 및 시장 전체 별도.",
+    "F06_INSTITUTION_FLOW": "양 종목의 기관 수급과 주가 방향 반례.",
+    "F07_MEMORY_CYCLE": "19:10 갱신 DDR5 단일 규격 보합, NAND 공개 표 11월 2일, 새 계약가격·재고 결측.",
+    "F08_HBM_EXECUTION": "삼성·SK 3분기 발표에서 기존 양산 계획 확인. 당일 신규 인증·출하 미확보.",
+    "F09_AI_CAPEX": "코어위브 3분기 투자 전망은 기존 정보. 공급사 발주 변화 미확보.",
+    "F10_EARNINGS": "코어위브 실적 이후 미국 정규장 확인. 양사 신규 확정 가이던스 미확인.",
+    "F11_SUPPLY_CAPEX": "기존 삼성 DS CAPEX와 SK M15X HBM4 확대 배경. 당일 신규 공급량 미확인.",
+    "F12_POLICY": "BIS HBM 현행 조문 확인. 당일 새 시행 조치·국내 양사 직접 적용 미확인.",
+    "F13_CORPORATE": "엔비디아 검토 보도, 사후 공식 발표와 SEC 제출 확인. SK 자사주 진행 보도에 당일 체결량은 미확인.",
+    "F14_POSITIONING": "옵션 만기 보도와 시초가 이후 수익률. 체결별 분해 미확인.",
+    "F15_NON_MEMORY": "삼성 비메모리 기존 실적 맥락. 이날 독립 촉매에 대한 근거 부족."
+  },
+  "shorts_candidates": [
+    {
+      "hook": "미국 반도체 5.66% 급등, 왜 하이닉스는 내려서 끝났을까?",
+      "why_surprising": "전날 동반 상승에서 이날 양사 종가 방향이 갈렸다. 미국 마감→국내 개장 전 뉴스→국내 종가 세 시점으로 이야기할 수 있다.",
+      "verified_facts": "하이닉스는 128만원으로 상승 출발해 125만4000원에 마감했다. 외국인은 8719.5억원 순매도, 기관은 4787.2억원 순매수였다.",
+      "caveat": "당일 수급 누계의 인과는 미확인이다. 엔비디아 교체 검토는 공통 재료였고 공식 발표는 국내장 뒤다.",
+      "next_check": "다음 국내장의 개장 갭, 종목별 외국인 흐름 및 미국 장중·종가 차이 확인.",
+      "source_ids": [
+        "US_AM",
+        "KR_CLOSE",
+        "KR_MK_SK",
+        "KR_FOREIGN",
+        "KR_INSTITUTION",
+        "NV_REPORT"
+      ]
+    },
+    {
+      "hook": "엔비디아가 급락 출발한 날, AMD와 브로드컴은 왜 반대로 움직였을까?",
+      "why_surprising": "전일 미국 반도체 동반 상승에서 다음 세션의 주도주와 경쟁사 방향이 갈렸다.",
+      "verified_facts": "엔비디아 공식 경영진 교체 발표 뒤 정규장 시초가 -13.09%. 03:00대 엔비디아 -5.05%, AMD +5.33%, 브로드컴 +5.56%.",
+      "caveat": "미국 장중 스냅샷이다. 점유율 변화나 한국 메모리 공급사 주문 변동은 아직 확인되지 않았다.",
+      "next_check": "11월 17일 미국 엔비디아 실적 발표의 제품 일정·공급사 발주와 최종 수익률 확인.",
+      "source_ids": [
+        "NV_IR",
+        "NV_SEC",
+        "Q_NVDA",
+        "Q_AMD",
+        "Q_AVGO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "KR_CLOSE",
+      "publisher": "연합뉴스",
+      "title": "외국인 삼전 사고, 하이닉스 팔고…삼전 0.9%↑·하닉 1.80%↓(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261112046051008",
+      "published_at": "2026-11-12T15:53:00+09:00",
+      "source_type": "news_reporting",
+      "price_provenance": "KRX regular session"
+    },
+    {
+      "id": "KR_FX",
+      "publisher": "뉴스핌",
+      "title": "내림세로 마감한 코스피-코스닥",
+      "url": "https://www.newspim.com/news/view/20261112001284",
+      "published_at": "2026-11-12T16:15:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_FX_CHECK",
+      "publisher": "시사저널e",
+      "title": "코스피 5340선으로 후퇴···기관 6910억 순매도",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424992",
+      "published_at": "2026-11-12T16:53:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_CONTEXT",
+      "publisher": "전자신문",
+      "title": "코스피, 0.61% 하락한 5342선 마감…코스닥은 1.22%↓",
+      "url": "https://www.etnews.com/20261112000429",
+      "published_at": "2026-11-12T16:43:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_FOREIGN",
+      "publisher": "연합뉴스·KRX·연합인포맥스",
+      "title": "거래소 외국인 순매수도 상위종목(12일)",
+      "url": "https://www.yna.co.kr/view/AKR20261112140200008",
+      "published_at": "2026-11-12T15:45:00+09:00",
+      "source_type": "exchange_data_republished",
+      "provenance_group": "KRX_YONHAP_1530"
+    },
+    {
+      "id": "KR_INSTITUTION",
+      "publisher": "연합뉴스·KRX·연합인포맥스",
+      "title": "거래소 기관 순매수도 상위종목(12일)",
+      "url": "https://www.yna.co.kr/view/AKR20261112140100008",
+      "published_at": "2026-11-12T15:45:00+09:00",
+      "source_type": "exchange_data_republished",
+      "provenance_group": "KRX_YONHAP_1530"
+    },
+    {
+      "id": "KR_MK_SS",
+      "publisher": "매일경제 마켓",
+      "title": "삼성전자(005930) 11월 12일 15:32 시세 화면",
+      "url": "https://stock.mk.co.kr/price/home/KR7475280004",
+      "published_at": null,
+      "source_type": "market_data_republished",
+      "price_provenance": "KRX regular session"
+    },
+    {
+      "id": "KR_MK_SK",
+      "publisher": "매일경제 마켓",
+      "title": "SK하이닉스(000660) 11월 12일 15:32 시세 화면",
+      "url": "https://stock.mk.co.kr/price/dealer/KR7000660001",
+      "published_at": null,
+      "source_type": "market_data_republished",
+      "price_provenance": "KRX regular session"
+    },
+    {
+      "id": "US_AM",
+      "publisher": "연합뉴스",
+      "title": "이틀연속 반등한 코스피, 코어위브 호재에 더 달리나",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261111181300008",
+      "published_at": "2026-11-12T07:35:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "US_CLOSE",
+      "publisher": "Reuters",
+      "title": "Stocks end higher as CoreWeave results ease AI spending worries",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/",
+      "published_at": null,
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NV_REPORT",
+      "publisher": "Reuters",
+      "title": "Nvidia board weighs CEO Huang's future as leadership crisis deepens",
+      "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+      "published_at": "2026-11-12T07:34:00+09:00",
+      "source_type": "news_reporting",
+      "timestamp_basis": "Reuters 표시 시각. WSJ 최초 보도 시각과 구분."
+    },
+    {
+      "id": "NV_IR",
+      "publisher": "NVIDIA",
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6af5c3cc3d6332f541088655/",
+      "published_at": null,
+      "source_type": "official_company_release",
+      "provenance_group": "NVIDIA_TRANSITION"
+    },
+    {
+      "id": "NV_SEC",
+      "publisher": "SEC EDGAR",
+      "title": "NVIDIA Form 8-K 0001045810-26-000082",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+      "published_at": "2026-11-12T22:52:41+09:00",
+      "source_type": "official_filing",
+      "provenance_group": "NVIDIA_TRANSITION"
+    },
+    {
+      "id": "NV_TIME",
+      "publisher": "Stock Titan",
+      "title": "Jensen Huang Resigns as Nvidia CEO, and CFO Colette Kress Becomes Interim CEO",
+      "url": "https://www.stocktitan.net/articles/jensen-huang-resigns-nvidia-ceo-2026",
+      "published_at": "2026-11-12T23:11:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NV_SUPPLY",
+      "publisher": "Reuters",
+      "title": "Nvidia's Asian supply chain prepares for life after Huang",
+      "url": "https://www.reuters.com/business/media-telecom/nvidias-asian-supply-chain-prepares-life-after-huang-2026-11-12/",
+      "published_at": null,
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "CRWV_IR",
+      "publisher": "CoreWeave IR",
+      "title": "CoreWeave Reports Strong Third Quarter 2026 Results",
+      "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/",
+      "published_at": null,
+      "source_type": "official_company_release",
+      "release_date": "2026-11-10 ET"
+    },
+    {
+      "id": "US_CAL",
+      "publisher": "Nasdaq",
+      "title": "2026 U.S. Stock Market Holiday Schedule and Trading Hours",
+      "url": "https://www.nasdaq.com/market-activity/stock-market-holiday-schedule",
+      "published_at": null,
+      "source_type": "exchange_calendar"
+    },
+    {
+      "id": "US_SIFMA",
+      "publisher": "SIFMA",
+      "title": "2026 Veterans Day fixed income market close recommendation",
+      "url": "https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026",
+      "published_at": null,
+      "source_type": "market_calendar"
+    },
+    {
+      "id": "US_TREASURY",
+      "publisher": "U.S. Treasury",
+      "title": "Daily Treasury Par Yield Curve Rates, November 2026",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+      "published_at": null,
+      "source_type": "official_statistics"
+    },
+    {
+      "id": "DRAM_SPOT",
+      "publisher": "TrendForce/DRAMeXchange",
+      "title": "DRAM 및 Flash 공개 현물 표",
+      "url": "https://www.dramexchange.com/",
+      "published_at": "2026-11-12T19:10:00+09:00",
+      "source_type": "industry_public_price_snapshot"
+    },
+    {
+      "id": "TF_4Q",
+      "publisher": "TrendForce",
+      "title": "AI Server Demand Sustains Memory Contract Price Increases in 4Q26",
+      "url": "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+      "published_at": null,
+      "source_type": "industry_research"
+    },
+    {
+      "id": "SS_Q3",
+      "publisher": "Samsung Global Newsroom",
+      "title": "Samsung Electronics Announces Third Quarter 2026 Results",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+      "published_at": null,
+      "source_type": "official_company_release"
+    },
+    {
+      "id": "SK_Q3",
+      "publisher": "SK hynix Newsroom",
+      "title": "SK hynix Announces 3Q26 Financial Results",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "published_at": null,
+      "source_type": "official_company_release"
+    },
+    {
+      "id": "BIS",
+      "publisher": "U.S. Bureau of Industry and Security",
+      "title": "EAR §740.25 HBM license exception",
+      "url": "https://www.bis.gov/regulations/ear/740",
+      "published_at": null,
+      "source_type": "official_regulation"
+    },
+    {
+      "id": "Q_SOX",
+      "title": "^SOX 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_NASDAQ",
+      "title": "^IXIC 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_SP500",
+      "title": "^GSPC 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_NVDA",
+      "title": "NVDA 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_MU",
+      "title": "MU 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/MU?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/MU?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_AMD",
+      "title": "AMD 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_AVGO",
+      "title": "AVGO 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/AVGO?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/AVGO?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_TSM_ADR",
+      "title": "TSM 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_CRWV",
+      "title": "CRWV 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/CRWV?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/CRWV?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_US10Y_CBOE",
+      "title": "^TNX 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ETNX?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_DXY",
+      "title": "DX-Y.NYB 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_WTI_FRONT_FUTURE",
+      "title": "CL=F 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_USDKRW_VENDOR",
+      "title": "KRW=X 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/KRW%3DX?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/KRW%3DX?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_KR_005930",
+      "title": "005930.KS 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_KR_000660",
+      "title": "000660.KS 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?interval=5m&range=1d",
+      "published_at": null
+    },
+    {
+      "id": "Q_KOSPI",
+      "title": "^KS11 시세",
+      "publisher": "Yahoo Finance chart API",
+      "source_type": "market_data_api",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=1d&range=5d",
+      "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=5m&range=1d",
+      "published_at": null
+    }
+  ],
+  "limitations": [
+    "거래량은 15:32 KRX 종가 화면에 표시된 매일경제 누계다. 삼성은 15:30 종가 체결 누계가 일치했다. SK는 별도 거래소 확정 거래량 대조가 미완료다.",
+    "외국인·기관 자료는 15:30 KRX·연합인포맥스 표를 사용했다. 같은 원출처 전재를 독립 관측으로 합산하지 않았다. 시장 전체 수급은 연합뉴스 마감 기사 집계다.",
+    "공식 인사 보도자료에 시각이 표시되지 않아 22:48은 보도 시각 근거로 기록했다. 8-K는 22:52:41 접수. 이사회 사임 수락 날짜와 공개 시점은 다르다.",
+    "미국 주식·지수는 03:00대 진행 시세다. Cboe 금리와 DXY·WTI는 공급자의 더 이른 시각이다. 서울 주간 환율·공식 국채 par yield와 별도 집계다.",
+    "메모리 계약가격·재고·신규 HBM 인증 수치는 확인 범위에서 결측이다. DRAMeXchange DDR5 갱신은 국내장 이후다.",
+    "국내 3거래일이라 5·20·60일 창이 모두 미충족이다. 요인 후보 선정은 편집 판단이며 통계적 설명력·기여율·예측력은 산출하지 않았다."
+  ]
+}
