@@ -4,7 +4,7 @@
     "full_article_text_exported": false,
     "summaries_independently_written": true
   },
-  "unique_session_company_count": 6,
+  "unique_session_company_count": 8,
   "observations": [
     {
       "ticker": "000660",
@@ -6309,6 +6309,1375 @@
           "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=1d&range=5d",
           "intraday_url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=5m&range=1d",
           "published_at": null
+        }
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "kr_trade_date": "2026-11-13",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 1254000,
+        "open": 1292000,
+        "close": 1216000,
+        "return_pct": -3.0303030303030276,
+        "gap_return_pct": 3.0303030303030276,
+        "intraday_return_pct": -5.882352941176472,
+        "volume": 3088050,
+        "source_ids": [
+          "KR_SK",
+          "KR_CLOSE"
+        ]
+      },
+      "summary": "전일보다 3.03% 높은 129만2000원으로 출발하고 131만7000원까지 올랐지만 121만6000원(-3.03%)에 마감했다. 코스피 대비 약 -2.05%p 부진했다. 외국인은 4713.8억원 순매도한 반면 기관은 308.9억원 순매수했다.",
+      "top_driver_ids": [
+        "F13_CORPORATE",
+        "F02_GLOBAL_RISK"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F13_CORPORATE",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T22:48:00+09:00",
+          "new_or_repeated": "전일 공식 발표 이후 불확실성 지속",
+          "reason": "엔비디아 경영진 교체와 후속 불확실성이 AI 공급망 심리를 압박한 후보로 보도됐다. 하이닉스는 삼성보다 낙폭과 시장 대비 부진이 컸다.",
+          "counterevidence": "엔비디아가 SK하이닉스 주문을 변경했다는 공식 확인은 없다. 개인 관련 의혹은 사실로 확정할 수 없고 하락을 한 사건에 전부 귀속할 수 없다.",
+          "source_ids": [
+            "NV_IR",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-13T06:00:00+09:00",
+          "new_or_repeated": "금리·유가 부담 확대",
+          "reason": "미 10년물 5.10%, WTI 상승, 원달러 1336.7원으로 거시 부담이 커졌고 코스피도 0.98% 하락했다.",
+          "counterevidence": "하이닉스의 -3.03%는 시장 하락보다 컸다. 거시 요인만으로 종목 간 낙폭 차이를 설명할 수 없다.",
+          "source_ids": [
+            "US_TREASURY",
+            "US_CLOSE",
+            "KR_FX",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F01_US_SEMI",
+          "direction": "mixed",
+          "relation": "background",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-13T06:00:00+09:00",
+          "new_or_repeated": "동종주 차별화",
+          "reason": "선행 미국장에서 NVDA·MU·TSM은 하락하고 AMD·AVGO는 상승했다. SOX는 -0.54%였다.",
+          "counterevidence": "하이닉스는 +3.03% 갭상승으로 출발해 미국장 혼조를 개장 시점에는 부정적으로 반영하지 않았다.",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-13T15:30:00+09:00",
+          "new_or_repeated": "전일 매도에 이어 당일 대규모 매도",
+          "reason": "외국인은 SK하이닉스를 4713.8억원 순매도했고 코스피 전체 외국인 순매도의 대부분을 차지했다.",
+          "counterevidence": "대규모 순매도는 가격 하락과 함께 나타난 결과다. 단독 원인이나 다음 날 예측 신호로 확정하지 않는다.",
+          "source_ids": [
+            "KR_FOREIGN",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "direction": "positive",
+          "relation": "countervailing",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-13T15:30:00+09:00",
+          "new_or_repeated": "외국인과 반대",
+          "reason": "기관은 SK하이닉스 308.9억원을 순매수했지만 주가는 3.03% 하락했다.",
+          "counterevidence": "기관 순매수도 장중 가격과 동시에 형성된 거래 결과이며 지지력의 인과나 예측력을 보여주지 않는다.",
+          "source_ids": [
+            "KR_INSTITUTION",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F07_MEMORY_CYCLE",
+          "direction": "mixed",
+          "relation": "background",
+          "confidence": "low",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-13T12:00:00+09:00",
+          "new_or_repeated": "공개 현물 지표",
+          "reason": "DDR5 공개 현물 평균은 소폭 상승했지만 DDR4 주요 규격은 하락했다. 새 계약가격·재고·HBM 가격은 확보하지 못했다.",
+          "counterevidence": "혼합된 공개 현물 표는 하이닉스 당일 주가 방향을 설명하지 못한다.",
+          "source_ids": [
+            "DRAM_SPOT"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "direction": "unclear",
+          "relation": "background",
+          "confidence": "low",
+          "evidence_type": "hypothesis",
+          "event_window": "unknown",
+          "event_at": null,
+          "new_or_repeated": "장기 배경",
+          "reason": "AI 인프라 투자와 HBM 수요는 장기 배경이지만 당일 하이퍼스케일러 발주 변경은 확인되지 않았다.",
+          "counterevidence": "당일 진행 미국장에서 AI·반도체 주식이 동반 약세였지만 이것은 국내장 마감 뒤 신호다.",
+          "source_ids": [
+            "US_CURRENT"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "KR_000660_RETURN",
+          "value": -3.030303,
+          "unit": "percent",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_SK",
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_000660_EXCESS_VS_KOSPI",
+          "value": -2.053274,
+          "unit": "percentage_points",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "derived",
+          "source_ids": [
+            "KR_SK",
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_000660_FOREIGN_NET_BUY",
+          "value": -471.38,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_FOREIGN"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_000660_INSTITUTION_NET_BUY",
+          "value": 30.89,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_INSTITUTION"
+          ],
+          "predetermined": false
+        }
+      ],
+      "next_checks": [
+        "11월 13일 미국장 SOX·MU·NVDA 최종 종가와 다음 KRX 갭",
+        "엔비디아 실적·후임 경영진의 공급망 발언",
+        "SK하이닉스 자사주 체결과 외국인 수급의 분리"
+      ],
+      "report_date": "2026-11-14",
+      "research_as_of": "2026-11-14T03:03:09+09:00",
+      "market_context": [
+        {
+          "id": "US_SOX_CLOSE",
+          "value": 10506.67,
+          "unit": "index_points",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true,
+          "previous_close": 10564.11,
+          "close": 10506.67,
+          "scope": "미국 정규장 종가"
+        },
+        {
+          "id": "US_SOX_RETURN",
+          "value": -0.543727,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_NASDAQ_CLOSE",
+          "value": 25366.09,
+          "unit": "index_points",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true,
+          "previous_close": 25466.19
+        },
+        {
+          "id": "US_NASDAQ_RETURN",
+          "value": -0.393063,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_SP500_CLOSE",
+          "value": 7592.4,
+          "unit": "index_points",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true,
+          "previous_close": 7619.38
+        },
+        {
+          "id": "US_SP500_RETURN",
+          "value": -0.354098,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_NVDA_CLOSE",
+          "value": 166.19,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_NVDA_RETURN",
+          "value": -4.339492,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_MU_CLOSE",
+          "value": 798.44,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_MU_RETURN",
+          "value": -1.585111,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AMD_CLOSE",
+          "value": 585.3,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AMD_RETURN",
+          "value": 5.860011,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AVGO_CLOSE",
+          "value": 364.36,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AVGO_RETURN",
+          "value": 5.543711,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_TSM_ADR_CLOSE",
+          "value": 405.49,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_TSM_ADR_RETURN",
+          "value": -1.901052,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_10Y_TREASURY_PAR",
+          "value": 5.1,
+          "unit": "percent_yield",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T05:30:00+09:00",
+          "available_at": "2026-11-13T05:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_TREASURY"
+          ],
+          "predetermined": true,
+          "previous_available_value": 4.98,
+          "change_bp": 12
+        },
+        {
+          "id": "WTI_FRONT_FUTURE_CLOSE",
+          "value": 88.74,
+          "unit": "USD_per_barrel",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE",
+            "KR_FX"
+          ],
+          "predetermined": true,
+          "return_pct": 2.6
+        },
+        {
+          "id": "KR_KOSPI_CLOSE",
+          "value": 5290.53,
+          "unit": "index_points",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false,
+          "previous_close": 5342.73
+        },
+        {
+          "id": "KR_KOSPI_RETURN",
+          "value": -0.977029,
+          "unit": "percent",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_USDKRW_DAY_CLOSE",
+          "value": 1336.7,
+          "unit": "KRW_per_USD",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_FX"
+          ],
+          "predetermined": false,
+          "previous_close": 1330.7,
+          "change": 6
+        },
+        {
+          "id": "KR_KOSPI_FOREIGN_NET_BUY",
+          "value": -547.53,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_KOSPI_INSTITUTION_NET_BUY",
+          "value": 2.1,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        }
+      ],
+      "sources": [
+        {
+          "id": "KR_CLOSE",
+          "publisher": "연합뉴스",
+          "title": "'젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261113040151008",
+          "published_at": "2026-11-13T15:55:00+09:00",
+          "source_type": "news_reporting",
+          "price_provenance": "KRX regular session"
+        },
+        {
+          "id": "KR_FOREIGN",
+          "publisher": "연합뉴스·KRX·연합인포맥스",
+          "title": "거래소 외국인 순매수도 상위종목(13일)",
+          "url": "https://www.yna.co.kr/view/AKR20261113132400008",
+          "published_at": "2026-11-13T15:45:00+09:00",
+          "source_type": "exchange_data_republished",
+          "provenance_group": "KRX_YONHAP_1530"
+        },
+        {
+          "id": "KR_INSTITUTION",
+          "publisher": "연합뉴스·KRX·연합인포맥스",
+          "title": "거래소 기관 순매수도 상위종목(13일)",
+          "url": "https://www.yna.co.kr/view/AKR20261113132300008",
+          "published_at": "2026-11-13T15:45:00+09:00",
+          "source_type": "exchange_data_republished",
+          "provenance_group": "KRX_YONHAP_1530"
+        },
+        {
+          "id": "KR_SS",
+          "publisher": "매일경제 마켓",
+          "title": "삼성전자(005930) 11월 13일 KRX 정규장 시세",
+          "url": "https://stock.mk.co.kr/price/home/KR7475280004",
+          "published_at": null,
+          "source_type": "market_data_republished",
+          "price_provenance": "KRX regular session"
+        },
+        {
+          "id": "KR_SK",
+          "publisher": "매일경제 마켓",
+          "title": "SK하이닉스(000660) 11월 13일 KRX 정규장 시세",
+          "url": "https://stock.mk.co.kr/price/home/KR7000660001",
+          "published_at": null,
+          "source_type": "market_data_republished",
+          "price_provenance": "KRX regular session"
+        },
+        {
+          "id": "KR_FX",
+          "publisher": "이투데이",
+          "title": "원·달러 5거래일만 반등, 유가·미국채 금리 급등",
+          "url": "https://www.etoday.co.kr/news/view/2648012",
+          "published_at": "2026-11-13T16:01:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CLOSE",
+          "publisher": "Reuters",
+          "title": "Equities close lower as Nvidia drop outweighs energy gains",
+          "url": "https://www.fidelity.com/news/article/us-markets/202611121600RTRSNEWSCOMBINED_L6N46T1DP_1",
+          "published_at": "2026-11-13T06:00:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_INDEX",
+          "publisher": "Associated Press",
+          "title": "How major US stock indexes fared Thursday 11/12/2026",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc",
+          "published_at": "2026-11-13T06:18:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CHIP_CLOSE",
+          "publisher": "TechDesk Daily",
+          "title": "November 12, 2026 semiconductor and index closing tape",
+          "url": "https://techdeskdaily.com/",
+          "published_at": "2026-11-13T17:40:00+09:00",
+          "source_type": "market_data_summary"
+        },
+        {
+          "id": "US_TREASURY",
+          "publisher": "U.S. Treasury",
+          "title": "Daily Treasury Par Yield Curve Rates, November 2026",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+          "published_at": null,
+          "source_type": "official_statistics"
+        },
+        {
+          "id": "US_CURRENT",
+          "publisher": "Reuters",
+          "title": "Wall St slides as Nvidia overhang weighs on tech",
+          "url": "https://www.reuters.com/business/nasdaq-futures-dip-nvidia-tumult-keeps-investors-edge-2026-11-13/",
+          "published_at": "2026-11-13T19:35:52+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "NV_IR",
+          "publisher": "NVIDIA",
+          "title": "NVIDIA Announces CEO Transition",
+          "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6af5c3cc3d6332f541088655/",
+          "published_at": null,
+          "source_type": "official_company_release",
+          "provenance_group": "NVIDIA_TRANSITION"
+        },
+        {
+          "id": "SS_CAPEX",
+          "publisher": "Reuters",
+          "title": "Samsung chip packaging expansion to spur $30 billion additional investment",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-samsung-chip-packaging-expansion-spur-30-billion-2026-11-12/",
+          "published_at": "2026-11-12T10:43:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "DRAM_SPOT",
+          "publisher": "TrendForce/DRAMeXchange",
+          "title": "DRAM and NAND Flash public spot table",
+          "url": "https://www.dramexchange.com/?sectionid=2",
+          "published_at": "2026-11-13T19:10:00+09:00",
+          "source_type": "industry_public_price_snapshot"
+        },
+        {
+          "id": "Q_NVDA",
+          "publisher": "Yahoo Finance",
+          "title": "NVDA intraday quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_MU",
+          "publisher": "Yahoo Finance",
+          "title": "MU intraday quote",
+          "url": "https://finance.yahoo.com/quote/MU/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AMD",
+          "publisher": "Yahoo Finance",
+          "title": "AMD intraday quote",
+          "url": "https://finance.yahoo.com/quote/AMD/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AVGO",
+          "publisher": "Yahoo Finance",
+          "title": "AVGO intraday quote",
+          "url": "https://finance.yahoo.com/quote/AVGO/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_TSM",
+          "publisher": "Yahoo Finance",
+          "title": "TSM intraday quote",
+          "url": "https://finance.yahoo.com/quote/TSM/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "kr_trade_date": "2026-11-13",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 208000,
+        "open": 214000,
+        "close": 206000,
+        "return_pct": -0.9615384615384581,
+        "gap_return_pct": 2.8846153846153744,
+        "intraday_return_pct": -3.738317757009346,
+        "volume": 12309470,
+        "source_ids": [
+          "KR_SS",
+          "KR_CLOSE"
+        ]
+      },
+      "summary": "장 초반 21만6000원까지 올랐으나 상승분을 반납해 20만6000원(-0.96%)에 마감했다. 코스피 대비 초과수익률은 약 +0.02%p로 사실상 시장과 비슷했다. 외국인은 114.1억원 순매수했지만 기관은 646.0억원 순매도해 수급 방향이 갈렸다.",
+      "top_driver_ids": [
+        "F13_CORPORATE",
+        "F02_GLOBAL_RISK"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F13_CORPORATE",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T22:48:00+09:00",
+          "new_or_repeated": "전일 공식 발표 이후 불확실성 지속",
+          "reason": "엔비디아 CEO 교체가 공식화된 뒤 국내 장중 관련 불확실성이 다시 부각됐다. 삼성도 장 초반 상승을 지키지 못했다.",
+          "counterevidence": "삼성은 엔비디아 직접 노출만으로 설명하기 어려운 사업 믹스를 갖고 있고, 회사가 한국 메모리 주문을 줄였다는 확인 자료는 없다. 개인 관련 의혹의 사실 여부도 확인되지 않았다.",
+          "source_ids": [
+            "NV_IR",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F02_GLOBAL_RISK",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-13T06:00:00+09:00",
+          "new_or_repeated": "금리·유가 부담 확대",
+          "reason": "선행 미국 S&P500 -0.35%, 미 10년물 5.10%(직전 4.98%), WTI 약 +2.6%와 원달러 상승이 위험선호를 제약했다.",
+          "counterevidence": "선행 미국 하락폭은 작았고 삼성의 코스피 대비 수익률은 거의 중립이었다. 개별 종목 하락을 거시 변수 하나로 확정하기 어렵다.",
+          "source_ids": [
+            "US_INDEX",
+            "US_TREASURY",
+            "US_CLOSE",
+            "KR_FX"
+          ]
+        },
+        {
+          "factor_id": "F01_US_SEMI",
+          "direction": "mixed",
+          "relation": "background",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-13T06:00:00+09:00",
+          "new_or_repeated": "동종주 차별화",
+          "reason": "선행 SOX -0.54%, NVDA -4.34%, MU -1.59%, TSM -1.90%였지만 AMD +5.86%, AVGO +5.54%로 미국 반도체 방향이 갈렸다.",
+          "counterevidence": "삼성은 +2.88% 갭상승으로 출발해 선행 미국 약세를 개장 시점에는 소화하지 않았다.",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "direction": "positive",
+          "relation": "countervailing",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-13T15:30:00+09:00",
+          "new_or_repeated": "하이닉스와 반대",
+          "reason": "외국인이 삼성전자 114.1억원을 순매수했지만 주가는 하락했다.",
+          "counterevidence": "수급은 장중 거래 결과이며 외국인 순매수만으로 방향을 설명하거나 예측할 수 없다.",
+          "source_ids": [
+            "KR_FOREIGN",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F06_INSTITUTION_FLOW",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-13T15:30:00+09:00",
+          "new_or_repeated": "당일",
+          "reason": "기관은 삼성전자 646.0억원을 순매도했다.",
+          "counterevidence": "기관 순매도도 가격 하락과 동시에 관측된 결과이며 원인으로 자동 해석하지 않는다.",
+          "source_ids": [
+            "KR_INSTITUTION",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F11_SUPPLY_CAPEX",
+          "direction": "positive",
+          "relation": "countervailing",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-12T10:43:00+09:00",
+          "new_or_repeated": "전일 공개된 장기 투자 배경",
+          "reason": "삼성의 아산 HBM 패키징 공장 6조원과 후속 장비 투자 약 40조원 계획은 장기 공급 실행 기대를 지지했다.",
+          "counterevidence": "2028년 가동 계획인 장기 투자이며 당일 주문·수율·이익 추정치 상향을 뜻하지 않는다. 호재에도 당일 주가는 하락했다.",
+          "source_ids": [
+            "SS_CAPEX",
+            "KR_CLOSE"
+          ]
+        },
+        {
+          "factor_id": "F07_MEMORY_CYCLE",
+          "direction": "mixed",
+          "relation": "background",
+          "confidence": "low",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": "2026-11-13T12:00:00+09:00",
+          "new_or_repeated": "공개 현물 지표",
+          "reason": "DRAMeXchange 공개 표에서 DDR5 16Gb 평균은 소폭 상승했지만 DDR4 주요 규격은 하락했다.",
+          "counterevidence": "현물 가격은 계약가격·HBM 가격·재고를 직접 보여주지 않으며 당일 주가 원인으로 보기 어렵다.",
+          "source_ids": [
+            "DRAM_SPOT"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "KR_005930_RETURN",
+          "value": -0.961538,
+          "unit": "percent",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_SS",
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_005930_EXCESS_VS_KOSPI",
+          "value": 0.01549,
+          "unit": "percentage_points",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "derived",
+          "source_ids": [
+            "KR_SS",
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_005930_FOREIGN_NET_BUY",
+          "value": 11.41,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_FOREIGN"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_005930_INSTITUTION_NET_BUY",
+          "value": -64.6,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_INSTITUTION"
+          ],
+          "predetermined": false
+        }
+      ],
+      "next_checks": [
+        "11월 13일 미국장 최종 종가와 다음 KRX 개장 갭",
+        "엔비디아 11월 17일 실적에서 메모리 공급망·제품 일정 발언",
+        "삼성 HBM4 인증·양산에 대한 회사 확인 자료"
+      ],
+      "report_date": "2026-11-14",
+      "research_as_of": "2026-11-14T03:03:09+09:00",
+      "market_context": [
+        {
+          "id": "US_SOX_CLOSE",
+          "value": 10506.67,
+          "unit": "index_points",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true,
+          "previous_close": 10564.11,
+          "close": 10506.67,
+          "scope": "미국 정규장 종가"
+        },
+        {
+          "id": "US_SOX_RETURN",
+          "value": -0.543727,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_NASDAQ_CLOSE",
+          "value": 25366.09,
+          "unit": "index_points",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true,
+          "previous_close": 25466.19
+        },
+        {
+          "id": "US_NASDAQ_RETURN",
+          "value": -0.393063,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_SP500_CLOSE",
+          "value": 7592.4,
+          "unit": "index_points",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true,
+          "previous_close": 7619.38
+        },
+        {
+          "id": "US_SP500_RETURN",
+          "value": -0.354098,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_INDEX",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_NVDA_CLOSE",
+          "value": 166.19,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_NVDA_RETURN",
+          "value": -4.339492,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE",
+            "US_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_MU_CLOSE",
+          "value": 798.44,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_MU_RETURN",
+          "value": -1.585111,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AMD_CLOSE",
+          "value": 585.3,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AMD_RETURN",
+          "value": 5.860011,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AVGO_CLOSE",
+          "value": 364.36,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AVGO_RETURN",
+          "value": 5.543711,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_TSM_ADR_CLOSE",
+          "value": 405.49,
+          "unit": "USD",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_TSM_ADR_RETURN",
+          "value": -1.901052,
+          "unit": "percent",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CHIP_CLOSE"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_10Y_TREASURY_PAR",
+          "value": 5.1,
+          "unit": "percent_yield",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T05:30:00+09:00",
+          "available_at": "2026-11-13T05:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_TREASURY"
+          ],
+          "predetermined": true,
+          "previous_available_value": 4.98,
+          "change_bp": 12
+        },
+        {
+          "id": "WTI_FRONT_FUTURE_CLOSE",
+          "value": 88.74,
+          "unit": "USD_per_barrel",
+          "session_date": "2026-11-12",
+          "observed_at": "2026-11-13T06:00:00+09:00",
+          "available_at": "2026-11-13T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE",
+            "KR_FX"
+          ],
+          "predetermined": true,
+          "return_pct": 2.6
+        },
+        {
+          "id": "KR_KOSPI_CLOSE",
+          "value": 5290.53,
+          "unit": "index_points",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false,
+          "previous_close": 5342.73
+        },
+        {
+          "id": "KR_KOSPI_RETURN",
+          "value": -0.977029,
+          "unit": "percent",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_USDKRW_DAY_CLOSE",
+          "value": 1336.7,
+          "unit": "KRW_per_USD",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_FX"
+          ],
+          "predetermined": false,
+          "previous_close": 1330.7,
+          "change": 6
+        },
+        {
+          "id": "KR_KOSPI_FOREIGN_NET_BUY",
+          "value": -547.53,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_KOSPI_INSTITUTION_NET_BUY",
+          "value": 2.1,
+          "unit": "KRW_billion",
+          "session_date": "2026-11-13",
+          "observed_at": "2026-11-13T15:30:00+09:00",
+          "available_at": "2026-11-13T15:45:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_CLOSE"
+          ],
+          "predetermined": false
+        }
+      ],
+      "sources": [
+        {
+          "id": "KR_CLOSE",
+          "publisher": "연합뉴스",
+          "title": "'젠슨황 사임' 여파 지속?…하이닉스, 3% 급락…삼전도 0.96%↓(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261113040151008",
+          "published_at": "2026-11-13T15:55:00+09:00",
+          "source_type": "news_reporting",
+          "price_provenance": "KRX regular session"
+        },
+        {
+          "id": "KR_FOREIGN",
+          "publisher": "연합뉴스·KRX·연합인포맥스",
+          "title": "거래소 외국인 순매수도 상위종목(13일)",
+          "url": "https://www.yna.co.kr/view/AKR20261113132400008",
+          "published_at": "2026-11-13T15:45:00+09:00",
+          "source_type": "exchange_data_republished",
+          "provenance_group": "KRX_YONHAP_1530"
+        },
+        {
+          "id": "KR_INSTITUTION",
+          "publisher": "연합뉴스·KRX·연합인포맥스",
+          "title": "거래소 기관 순매수도 상위종목(13일)",
+          "url": "https://www.yna.co.kr/view/AKR20261113132300008",
+          "published_at": "2026-11-13T15:45:00+09:00",
+          "source_type": "exchange_data_republished",
+          "provenance_group": "KRX_YONHAP_1530"
+        },
+        {
+          "id": "KR_SS",
+          "publisher": "매일경제 마켓",
+          "title": "삼성전자(005930) 11월 13일 KRX 정규장 시세",
+          "url": "https://stock.mk.co.kr/price/home/KR7475280004",
+          "published_at": null,
+          "source_type": "market_data_republished",
+          "price_provenance": "KRX regular session"
+        },
+        {
+          "id": "KR_SK",
+          "publisher": "매일경제 마켓",
+          "title": "SK하이닉스(000660) 11월 13일 KRX 정규장 시세",
+          "url": "https://stock.mk.co.kr/price/home/KR7000660001",
+          "published_at": null,
+          "source_type": "market_data_republished",
+          "price_provenance": "KRX regular session"
+        },
+        {
+          "id": "KR_FX",
+          "publisher": "이투데이",
+          "title": "원·달러 5거래일만 반등, 유가·미국채 금리 급등",
+          "url": "https://www.etoday.co.kr/news/view/2648012",
+          "published_at": "2026-11-13T16:01:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CLOSE",
+          "publisher": "Reuters",
+          "title": "Equities close lower as Nvidia drop outweighs energy gains",
+          "url": "https://www.fidelity.com/news/article/us-markets/202611121600RTRSNEWSCOMBINED_L6N46T1DP_1",
+          "published_at": "2026-11-13T06:00:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_INDEX",
+          "publisher": "Associated Press",
+          "title": "How major US stock indexes fared Thursday 11/12/2026",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc",
+          "published_at": "2026-11-13T06:18:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CHIP_CLOSE",
+          "publisher": "TechDesk Daily",
+          "title": "November 12, 2026 semiconductor and index closing tape",
+          "url": "https://techdeskdaily.com/",
+          "published_at": "2026-11-13T17:40:00+09:00",
+          "source_type": "market_data_summary"
+        },
+        {
+          "id": "US_TREASURY",
+          "publisher": "U.S. Treasury",
+          "title": "Daily Treasury Par Yield Curve Rates, November 2026",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+          "published_at": null,
+          "source_type": "official_statistics"
+        },
+        {
+          "id": "US_CURRENT",
+          "publisher": "Reuters",
+          "title": "Wall St slides as Nvidia overhang weighs on tech",
+          "url": "https://www.reuters.com/business/nasdaq-futures-dip-nvidia-tumult-keeps-investors-edge-2026-11-13/",
+          "published_at": "2026-11-13T19:35:52+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "NV_IR",
+          "publisher": "NVIDIA",
+          "title": "NVIDIA Announces CEO Transition",
+          "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6af5c3cc3d6332f541088655/",
+          "published_at": null,
+          "source_type": "official_company_release",
+          "provenance_group": "NVIDIA_TRANSITION"
+        },
+        {
+          "id": "SS_CAPEX",
+          "publisher": "Reuters",
+          "title": "Samsung chip packaging expansion to spur $30 billion additional investment",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-samsung-chip-packaging-expansion-spur-30-billion-2026-11-12/",
+          "published_at": "2026-11-12T10:43:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "DRAM_SPOT",
+          "publisher": "TrendForce/DRAMeXchange",
+          "title": "DRAM and NAND Flash public spot table",
+          "url": "https://www.dramexchange.com/?sectionid=2",
+          "published_at": "2026-11-13T19:10:00+09:00",
+          "source_type": "industry_public_price_snapshot"
+        },
+        {
+          "id": "Q_NVDA",
+          "publisher": "Yahoo Finance",
+          "title": "NVDA intraday quote",
+          "url": "https://finance.yahoo.com/quote/NVDA/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_MU",
+          "publisher": "Yahoo Finance",
+          "title": "MU intraday quote",
+          "url": "https://finance.yahoo.com/quote/MU/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AMD",
+          "publisher": "Yahoo Finance",
+          "title": "AMD intraday quote",
+          "url": "https://finance.yahoo.com/quote/AMD/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_AVGO",
+          "publisher": "Yahoo Finance",
+          "title": "AVGO intraday quote",
+          "url": "https://finance.yahoo.com/quote/AVGO/",
+          "published_at": null,
+          "source_type": "market_data_api"
+        },
+        {
+          "id": "Q_TSM",
+          "publisher": "Yahoo Finance",
+          "title": "TSM intraday quote",
+          "url": "https://finance.yahoo.com/quote/TSM/",
+          "published_at": null,
+          "source_type": "market_data_api"
         }
       ]
     }
