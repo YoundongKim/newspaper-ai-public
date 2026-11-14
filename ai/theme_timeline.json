@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-13T21:18:36+00:00",
+  "generated_at": "2026-11-14T01:59:23+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-14",
   "coverage": {
@@ -19264,12 +19264,12 @@
       "week_id": "2026-W46",
       "theme_id": "T092",
       "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "article_count": 3,
-      "daily_average": 0.5,
+      "article_count": 4,
+      "daily_average": 0.666667,
       "distinct_dates": 3,
-      "cross_media_days": 0,
+      "cross_media_days": 1,
       "maekyung_count": 1,
-      "hankyung_count": 2
+      "hankyung_count": 3
     },
     {
       "week_id": "2026-W46",

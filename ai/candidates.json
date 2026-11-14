@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-13T21:18:36+00:00",
+  "generated_at": "2026-11-14T01:59:23+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-14",
   "coverage": {
@@ -69936,6 +69936,21 @@
     {
       "candidate_id": "C4812",
       "proposed_theme": "의료기기 생산능력 확충·글로벌 진출",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4813",
+      "proposed_theme": "서울 특급호텔 객실료 상승·공급부족",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,

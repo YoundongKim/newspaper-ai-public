@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-13T21:18:36+00:00",
+  "generated_at": "2026-11-14T01:59:23+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-14",
   "coverage": {
@@ -18,6 +18,20 @@
     "fact_summaries_are_independently_rewritten": true
   },
   "events": [
+    {
+      "event_id": "EVT-f545d1e341fe47ed",
+      "event_name": "이재명 대통령의 자본시장 정책간담회 적대적 M&A 규제 전수조사 및 대주주 지분 과다 상장사 퇴출 지시",
+      "event_type": "EVENT",
+      "event_summary": "이재명 대통령이 한국거래소 자본시장 정책간담회에서 적대적 M&A를 막는 장치에 대한 전수조사를 금융당국에 지시하고, 의무공개매수 물량 50%+1주 및 대주주 지분이 과도한 상장사의 퇴출 방안을 강구하라고 밝혔다.",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "article_count": 3,
+      "distinct_dates": 1,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 2
+    },
     {
       "event_id": "EVT-e1cdd1ce1c8644bf",
       "event_name": "젠슨 황 엔비디아 CEO 사임에 따른 HBM 공급망·AI 반도체 수요 영향 전망",
@@ -72,20 +86,6 @@
       "publisher_count": 2,
       "cross_media_days": 1,
       "maekyung_count": 2,
-      "hankyung_count": 1
-    },
-    {
-      "event_id": "EVT-f545d1e341fe47ed",
-      "event_name": "이재명 대통령의 자본시장 정책간담회 적대적 M&A 규제 전수조사 및 대주주 지분 과다 상장사 퇴출 지시",
-      "event_type": "EVENT",
-      "event_summary": "이재명 대통령이 한국거래소 자본시장 정책간담회에서 적대적 M&A를 막는 장치에 대한 전수조사를 금융당국에 지시하고, 의무공개매수 물량 50%+1주 및 대주주 지분이 과도한 상장사의 퇴출 방안을 강구하라고 밝혔다.",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "maekyung_count": 1,
       "hankyung_count": 1
     },
     {
@@ -381,6 +381,20 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "event_id": "EVT-a11fac755ba548ac",
+      "event_name": "서울 특급호텔 객실료 급등 현상",
+      "event_type": "PHENOMENON",
+      "event_summary": "방한 외국인 관광객 2300만 명 돌파와 신규 호텔 공급 부족(연 1000실 안팎)이 맞물려 서울 특급호텔 객실료가 1박 100만~140만원대까지 치솟고, 글로벌 럭셔리 호텔의 잇단 서울 진출로 상승세가 지속되는 숙박업계 가격 급등 현상.",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "event_id": "EVT-9a766c1c2bdc4ad7",

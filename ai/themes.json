@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-13T21:18:36+00:00",
+  "generated_at": "2026-11-14T01:59:23+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-14",
   "coverage": {
@@ -259,6 +259,26 @@
       "cross_media_days_28d": 0
     },
     {
+      "theme_id": "T092",
+      "theme": "상장제도·자본시장 구조·투자자보호 개편",
+      "status": "Active",
+      "article_count_total": 177,
+      "distinct_dates_total": 89,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-01",
+      "last_seen": "2026-11-14",
+      "article_count_7d": 4,
+      "distinct_dates_7d": 3,
+      "publisher_count_7d": 2,
+      "cross_media_days_7d": 1,
+      "maekyung_count_7d": 1,
+      "hankyung_count_7d": 3,
+      "article_count_28d": 21,
+      "distinct_dates_28d": 10,
+      "publisher_count_28d": 2,
+      "cross_media_days_28d": 5
+    },
+    {
       "theme_id": "T001",
       "theme": "금융지주 지배구조·CEO 승계",
       "status": "Active",
@@ -297,26 +317,6 @@
       "distinct_dates_28d": 13,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 3
-    },
-    {
-      "theme_id": "T092",
-      "theme": "상장제도·자본시장 구조·투자자보호 개편",
-      "status": "Active",
-      "article_count_total": 176,
-      "distinct_dates_total": 89,
-      "publisher_count_total": 2,
-      "first_seen": "2026-04-01",
-      "last_seen": "2026-11-14",
-      "article_count_7d": 3,
-      "distinct_dates_7d": 3,
-      "publisher_count_7d": 2,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 1,
-      "hankyung_count_7d": 2,
-      "article_count_28d": 20,
-      "distinct_dates_28d": 10,
-      "publisher_count_28d": 2,
-      "cross_media_days_28d": 4
     },
     {
       "theme_id": "T004",
