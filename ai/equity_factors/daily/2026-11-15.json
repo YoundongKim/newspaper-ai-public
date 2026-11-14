@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0",
+  "copyright_policy": {
+    "full_article_text_exported": false,
+    "summaries_independently_written": true
+  },
+  "report_date": "2026-11-15",
+  "as_of": "2026-11-15T03:05:30+09:00",
+  "run_kind": "scheduled",
+  "status": "no_new_session",
+  "kr_trade_date": "2026-11-13",
+  "us_previous_completed_trade_date": "2026-11-12",
+  "is_new_kr_session": false,
+  "scheduled_cutoff": "2026-11-15T03:00:00+09:00",
+  "timing": {
+    "research_as_of": "2026-11-15T03:05:30+09:00",
+    "us_snapshot_collected_at": "2026-11-15T03:01:00+09:00",
+    "research_completion_delay_seconds": 330
+  },
+  "market_calendar": {
+    "kr_status": "weekend",
+    "kr_last_regular_open": "2026-11-13T09:00:00+09:00",
+    "kr_last_regular_close": "2026-11-13T15:30:00+09:00",
+    "kr_next_regular_open": "2026-11-16T09:00:00+09:00",
+    "us_latest_regular_open": "2026-11-13T23:30:00+09:00",
+    "us_latest_regular_close": "2026-11-14T06:00:00+09:00",
+    "us_status_at_as_of": "weekend",
+    "us_early_close": false,
+    "us_eastern_offset": "-05:00",
+    "us_dst": false,
+    "us_equity_holiday": false,
+    "source_ids": [
+      "US_CLOSE_REUTERS",
+      "US_SOX_OFFICIAL"
+    ]
+  },
+  "summary": "11월 15일은 일요일이라 새 KRX 정규장 표본이 없다. 11월 13일 국내장 기록은 그대로 보존했다. 국내장 마감 뒤 끝난 11월 13일 미국장에서는 SOX -3.43%, 나스닥 -0.91%, S&P500 -0.40%였고 NVDA -2.02%, MU -2.55%, AMD -8.73%, AVGO -4.78%, TSM ADR -1.68%로 반도체 약세가 확정됐다. 이는 11월 13일 국내장 원인이 아니라 11월 16일 국내장에 대한 사후 검증 신호다.",
+  "us_current": {
+    "session_date": "2026-11-14",
+    "status": "weekend",
+    "as_of": "2026-11-15T03:01:00+09:00",
+    "regular_session_close_kst": null,
+    "attribution_boundary": "현재 진행 중인 미국 정규장이 없다. 직전 완료된 11월 13일 미국장 종가는 11월 13일 KRX 마감 뒤 확정됐으므로 다음 국내장 신호로만 사용한다.",
+    "calendar_source_ids": [
+      "US_CLOSE_REUTERS"
+    ],
+    "metrics": []
+  },
+  "us_latest_completed_after_kr": {
+    "session_date": "2026-11-13",
+    "status": "closed",
+    "regular_session_close_kst": "2026-11-14T06:00:00+09:00",
+    "role": "next_kr_signal_only",
+    "metrics": [
+      {
+        "id": "US_SP500_RETURN",
+        "value": -0.4,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["US_CLOSE_AP"],
+        "predetermined": false,
+        "level": 7561.67
+      },
+      {
+        "id": "US_NASDAQ_RETURN",
+        "value": -0.91,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["US_NASDAQ_OFFICIAL", "US_CLOSE_AP"],
+        "predetermined": false,
+        "level": 25136.27
+      },
+      {
+        "id": "US_SOX_RETURN",
+        "value": -3.43,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["US_SOX_OFFICIAL", "US_SOX_HISTORY"],
+        "predetermined": false,
+        "level": 10146.32
+      },
+      {
+        "id": "US_NVDA_RETURN",
+        "value": -2.02178,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["Q_NVDA", "US_CLOSE_REUTERS"],
+        "predetermined": false,
+        "level": 162.85
+      },
+      {
+        "id": "US_MU_RETURN",
+        "value": -2.55248,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["Q_MU"],
+        "predetermined": false,
+        "level": 778.31
+      },
+      {
+        "id": "US_AMD_RETURN",
+        "value": -8.73484,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["Q_AMD"],
+        "predetermined": false,
+        "level": 534.06
+      },
+      {
+        "id": "US_AVGO_RETURN",
+        "value": -4.78099,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["Q_AVGO"],
+        "predetermined": false,
+        "level": 347.01
+      },
+      {
+        "id": "US_TSM_ADR_RETURN",
+        "value": -1.68192,
+        "unit": "percent",
+        "session_date": "2026-11-13",
+        "observed_at": "2026-11-14T06:00:00+09:00",
+        "available_at": "2026-11-14T06:00:00+09:00",
+        "status": "final",
+        "source_ids": ["Q_TSM"],
+        "predetermined": false,
+        "level": 398.73
+      }
+    ]
+  },
+  "market_context": [
+    {
+      "id": "US_SOX_RETURN",
+      "value": -3.43,
+      "unit": "percent",
+      "session_date": "2026-11-13",
+      "observed_at": "2026-11-14T06:00:00+09:00",
+      "available_at": "2026-11-14T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": ["US_SOX_OFFICIAL", "US_SOX_HISTORY"],
+      "predetermined": false,
+      "level": 10146.32
+    },
+    {
+      "id": "US_NASDAQ_RETURN",
+      "value": -0.91,
+      "unit": "percent",
+      "session_date": "2026-11-13",
+      "observed_at": "2026-11-14T06:00:00+09:00",
+      "available_at": "2026-11-14T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": ["US_NASDAQ_OFFICIAL"],
+      "predetermined": false,
+      "level": 25136.27
+    },
+    {
+      "id": "US_SP500_RETURN",
+      "value": -0.4,
+      "unit": "percent",
+      "session_date": "2026-11-13",
+      "observed_at": "2026-11-14T06:00:00+09:00",
+      "available_at": "2026-11-14T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": ["US_CLOSE_AP"],
+      "predetermined": false,
+      "level": 7561.67
+    },
+    {
+      "id": "US_10Y_TREASURY_PAR",
+      "value": 5.15,
+      "unit": "percent_yield",
+      "session_date": "2026-11-13",
+      "observed_at": "2026-11-14T06:00:00+09:00",
+      "available_at": "2026-11-14T06:00:00+09:00",
+      "status": "final_rounded",
+      "source_ids": ["US_TREASURY", "US_RATE_NEWS"],
+      "predetermined": false,
+      "previous_available_value": 5.1,
+      "change_bp": 5
+    },
+    {
+      "id": "WTI_FRONT_FUTURE_CLOSE",
+      "value": 88.56,
+      "unit": "USD_per_barrel",
+      "session_date": "2026-11-13",
+      "observed_at": "2026-11-14T06:00:00+09:00",
+      "available_at": "2026-11-14T06:00:00+09:00",
+      "status": "final",
+      "source_ids": ["WTI_FT"],
+      "predetermined": false,
+      "previous_close": 88.74,
+      "return_pct": -0.20284
+    }
+  ],
+  "equities": [],
+  "cross_stock_comparison": "새 KRX 세션이 없어 삼성전자와 SK하이닉스의 11월 13일 종가·수급·요인 평가는 수정하지 않았다. 금요일 미국장 확정치는 두 종목 모두에 부정적 외부 신호지만, 하이닉스가 더 민감하게 반응할지 삼성의 상대방어가 이어질지는 11월 16일 KRX 시초가와 종가로 검증해야 한다.",
+  "next_kr_signals": [
+    {
+      "factor_id": "F01_US_SEMI",
+      "direction": "negative",
+      "confidence": "high",
+      "evidence_type": "observed",
+      "event_window": "after_kr_close",
+      "event_at": "2026-11-14T06:00:00+09:00",
+      "reason": "11월 13일 미국장에서 SOX -3.43%, NVDA -2.02%, MU -2.55%, AMD -8.73%, AVGO -4.78%, TSM ADR -1.68%로 반도체 약세가 종가까지 이어졌다.",
+      "counterevidence": "S&P500은 -0.40%에 그쳤고 지수는 주간 기준 상승했다. 미국 반도체 급락이 한국 메모리 업체의 주문·실적 변화로 확인된 것은 아니다.",
+      "source_ids": ["US_SOX_OFFICIAL", "US_CLOSE_REUTERS", "Q_NVDA", "Q_MU", "Q_AMD", "Q_AVGO", "Q_TSM"]
+    },
+    {
+      "factor_id": "F03_RATES",
+      "direction": "negative",
+      "confidence": "medium",
+      "evidence_type": "observed",
+      "event_window": "after_kr_close",
+      "event_at": "2026-11-14T06:00:00+09:00",
+      "reason": "미 10년물 금리가 약 5.15%로 전일보다 약 5bp 올라 성장주 밸류에이션 부담이 이어졌다.",
+      "counterevidence": "금리 상승과 반도체 하락의 당일 동행은 인과 기여율을 뜻하지 않으며, PPI는 예상보다 낮았다는 상반된 신호도 있었다.",
+      "source_ids": ["US_TREASURY", "US_RATE_NEWS", "US_CLOSE_YAHOO"]
+    },
+    {
+      "factor_id": "F13_CORPORATE",
+      "direction": "negative",
+      "confidence": "medium",
+      "evidence_type": "reported_interpretation",
+      "event_window": "after_kr_close",
+      "event_at": "2026-11-14T06:00:00+09:00",
+      "reason": "Reuters와 AP는 엔비디아 경영 불확실성이 AI·반도체 종목 약세에 영향을 줬다고 해석했다.",
+      "counterevidence": "삼성전자·SK하이닉스의 고객 주문, HBM 인증, 실적 가이던스 변경은 확인되지 않았다. 개인 관련 보도 내용은 공급망 사실로 확정하지 않았다.",
+      "source_ids": ["US_CLOSE_REUTERS", "US_CLOSE_AP"]
+    }
+  ],
+  "research_coverage": {
+    "F01_US_SEMI": "11월 13일 미국 정규장 최종 SOX·NVDA·MU·AMD·AVGO·TSM 수익률 확인.",
+    "F02_GLOBAL_RISK": "S&P500·나스닥·WTI 최종치 확인. 미국 주말로 진행 세션 없음.",
+    "F03_RATES": "미 10년물 약 5.15%, 전일 대비 약 +5bp 확인.",
+    "F04_FX": "새 KRX 세션이 없어 11월 13일 서울 주간 원달러 종가를 중복 표본으로 추가하지 않음.",
+    "F05_FOREIGN_FLOW": "새 KRX 세션이 없어 11월 13일 종목별 수급을 중복 추가하지 않음.",
+    "F06_INSTITUTION_FLOW": "새 KRX 세션이 없어 11월 13일 종목별 수급을 중복 추가하지 않음.",
+    "F07_MEMORY_CYCLE": "주말 신규 공식 DRAM/NAND 가격·재고 발표 미확보.",
+    "F08_HBM_EXECUTION": "주말 신규 고객 인증·양산 확정 발표 미확보. 업계 보도는 회사 확인과 구분.",
+    "F09_AI_CAPEX": "한국 공급사 주문·하이퍼스케일러 CAPEX 변경의 신규 확정 발표 미확보.",
+    "F10_EARNINGS": "양사 신규 실적·가이던스 없음.",
+    "F11_SUPPLY_CAPEX": "신규 회사 공시 없음. 기존 삼성 패키징 투자 계획은 장기 배경으로 유지.",
+    "F12_POLICY": "양사에 직접 적용되는 신규 확정 수출규제·보조금 조치 미확보.",
+    "F13_CORPORATE": "엔비디아 경영 불확실성의 시장 파급 보도 확인. 양사 고유 사건은 없음.",
+    "F14_POSITIONING": "미국 반도체의 장중 저점 대비 낙폭 축소를 확인했으나 포지셔닝 원인으로 확정하지 않음.",
+    "F15_NON_MEMORY": "삼성 비메모리 신규 독립 촉매 근거 미확보."
+  },
+  "shorts_candidates": [
+    {
+      "hook": "한국장은 이미 끝났는데, 미국 반도체는 그 뒤 3.4% 더 밀렸습니다.",
+      "why_surprising": "11월 13일 한국 반도체 하락과 금요일 미국 SOX 급락은 같은 날짜로 보이지만 시간 순서는 다르다. 미국 종가는 한국장 원인이 아니라 월요일 반응을 검증할 신호다.",
+      "verified_facts": "11월 13일 KRX 마감은 15:30 KST, 미국장 마감은 다음 날 06:00 KST. SOX -3.43%, AMD -8.73%, AVGO -4.78%, MU -2.55%.",
+      "caveat": "미국 급락이 삼성전자·SK하이닉스의 주문 또는 실적 악화로 확인된 것은 아니며, S&P500은 -0.40%에 그쳤다.",
+      "next_check": "11월 16일 삼성전자·SK하이닉스 시초가 갭, 코스피 대비 수익률, 종목별 외국인 수급을 비교한다.",
+      "source_ids": ["US_SOX_OFFICIAL", "US_CLOSE_AP", "Q_MU", "Q_AMD", "Q_AVGO"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "US_CLOSE_REUTERS",
+      "publisher": "Reuters via MarketScreener",
+      "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+      "url": "https://uk.marketscreener.com/news/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower-ce785eded98af723",
+      "published_at": "2026-11-14T06:34:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "US_CLOSE_AP",
+      "publisher": "Associated Press",
+      "title": "How major US stock indexes fared Friday 11/13/2026",
+      "url": "https://apnews.com/article/12c1e8155fb85c3c7b09e058ed6d3c74",
+      "published_at": "2026-11-14T06:18:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "US_CLOSE_YAHOO",
+      "publisher": "Yahoo Finance",
+      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "published_at": "2026-11-14T06:33:00+09:00",
+      "source_type": "market_news"
+    },
+    {
+      "id": "US_NASDAQ_OFFICIAL",
+      "publisher": "Nasdaq",
+      "title": "NASDAQ Composite index history",
+      "url": "https://indexes.nasdaqomx.com/Index/History/COMP",
+      "published_at": null,
+      "source_type": "official_index_data"
+    },
+    {
+      "id": "US_SOX_OFFICIAL",
+      "publisher": "Nasdaq",
+      "title": "PHLX Semiconductor Sector Index overview",
+      "url": "https://indexes.nasdaq.com/Index/Overview/SOX",
+      "published_at": null,
+      "source_type": "official_index_data"
+    },
+    {
+      "id": "US_SOX_HISTORY",
+      "publisher": "Yahoo Finance",
+      "title": "PHLX Semiconductor Index historical data",
+      "url": "https://finance.yahoo.com/quote/%5ESOX/history/",
+      "published_at": null,
+      "source_type": "market_data_republished"
+    },
+    {
+      "id": "US_TREASURY",
+      "publisher": "U.S. Treasury",
+      "title": "Daily Treasury Par Yield Curve Rates, November 2026",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve",
+      "published_at": null,
+      "source_type": "official_statistics"
+    },
+    {
+      "id": "US_RATE_NEWS",
+      "publisher": "Reuters",
+      "title": "Fed's Williams says central bank has work to do to get inflation back on target",
+      "url": "https://www.reuters.com/business/feds-williams-says-central-bank-has-work-do-get-inflation-back-target-2026-11-13/",
+      "published_at": "2026-11-14T01:35:49+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "WTI_FT",
+      "publisher": "Financial Times market data",
+      "title": "WTI Crude Oil historical prices",
+      "url": "https://markets.ft.markitdigital.com/data/commodities/tearsheet/historical?c=WTI%20Crude%20Oil",
+      "published_at": null,
+      "source_type": "market_data"
+    },
+    {
+      "id": "Q_NVDA",
+      "publisher": "Yahoo Finance",
+      "title": "NVIDIA closing quote",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "published_at": null,
+      "source_type": "market_data_api"
+    },
+    {
+      "id": "Q_MU",
+      "publisher": "Yahoo Finance",
+      "title": "Micron closing quote",
+      "url": "https://finance.yahoo.com/quote/MU/",
+      "published_at": null,
+      "source_type": "market_data_api"
+    },
+    {
+      "id": "Q_AMD",
+      "publisher": "Yahoo Finance",
+      "title": "AMD closing quote",
+      "url": "https://finance.yahoo.com/quote/AMD/",
+      "published_at": null,
+      "source_type": "market_data_api"
+    },
+    {
+      "id": "Q_AVGO",
+      "publisher": "Yahoo Finance",
+      "title": "Broadcom closing quote",
+      "url": "https://finance.yahoo.com/quote/AVGO/",
+      "published_at": null,
+      "source_type": "market_data_api"
+    },
+    {
+      "id": "Q_TSM",
+      "publisher": "Yahoo Finance",
+      "title": "TSM ADR closing quote",
+      "url": "https://finance.yahoo.com/quote/TSM/",
+      "published_at": null,
+      "source_type": "market_data_api"
+    }
+  ],
+  "limitations": [
+    "11월 15일은 일요일이라 새 KRX 정규장 가격·거래량·종목별 외국인·기관 수급이 없다. equities=[]로 기록해 11월 13일을 중복 표본으로 세지 않았다.",
+    "미국 11월 13일 종가는 11월 13일 KRX 마감 뒤 확정됐다. 이미 끝난 국내장의 원인이나 선행 수치로 사용하지 않았다.",
+    "SOX 공개 화면은 업데이트 시점에 따라 임시 표시가 섞여 있어 Nasdaq 최종 레벨 10,146.32와 복수 역사표의 -3.43%를 대조해 사용했다.",
+    "미 10년물은 공식 공개치의 소수 둘째 자리 5.15%를 사용했다. 거래 화면의 5.154%와 반올림 차이가 있다.",
+    "주말 확인 범위에서 신규 회사 확정 HBM 인증·양산, 메모리 계약가격·재고, 양사 실적 가이던스 변경을 확보하지 못했다.",
+    "누적 국내 거래일은 4일, 종목-거래일 관측은 8개로 5·20·60일 창이 모두 표본 부족이다. 상관계수·요인 기여율·예측력은 산출하지 않는다."
+  ]
+}
+
