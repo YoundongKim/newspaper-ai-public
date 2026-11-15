@@ -1,8 +1,8 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-14T01:59:23+00:00",
+  "generated_at": "2026-11-15T21:19:44+00:00",
   "data_start": "2026-04-01",
-  "data_cutoff": "2026-11-14",
+  "data_cutoff": "2026-11-16",
   "coverage": {
     "publishers": [
       "매일경제",
@@ -10,9 +10,9 @@
     ],
     "print_pages": "A1-A10",
     "source_policy": "actual print-published articles only",
-    "completed_week_groups": 1693,
+    "completed_week_groups": 1748,
     "available_groups": 1666,
-    "pending_groups": 27
+    "pending_groups": 82
   },
   "copyright_policy": {
     "full_article_text_exported": false,
