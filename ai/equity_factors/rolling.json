@@ -4,7 +4,7 @@
     "full_article_text_exported": false,
     "summaries_independently_written": true
   },
-  "as_of": "2026-11-20T03:20:00+09:00",
+  "as_of": "2026-11-21T03:07:18+09:00",
   "method": "최근 5/20/60 국내 거래일의 관측·편집 판단 빈도. 언급 빈도는 중요도/인과효과 아님. 상관계수는 선행 측정치 20쌍 이상, 5개 이상 서로 다른 값이 있을 때만 표시. 통계적 유의성·외부 검증·통제변수 보정 없음.",
   "windows": [
     {
@@ -17,7 +17,14 @@
         {
           "factor_id": "F01_US_SEMI",
           "assessed_days": 4,
-          "top_driver_days": 2,
+          "top_driver_days": 3,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F12_POLICY",
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
@@ -25,27 +32,6 @@
           "factor_id": "F09_AI_CAPEX",
           "assessed_days": 2,
           "top_driver_days": 2,
-          "countervailing_days": 0,
-          "positive_factor_down_days": 0
-        },
-        {
-          "factor_id": "F12_POLICY",
-          "assessed_days": 2,
-          "top_driver_days": 2,
-          "countervailing_days": 0,
-          "positive_factor_down_days": 0
-        },
-        {
-          "factor_id": "F13_CORPORATE",
-          "assessed_days": 2,
-          "top_driver_days": 2,
-          "countervailing_days": 0,
-          "positive_factor_down_days": 0
-        },
-        {
-          "factor_id": "F07_MEMORY_CYCLE",
-          "assessed_days": 2,
-          "top_driver_days": 1,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
@@ -64,7 +50,21 @@
           "positive_factor_down_days": 0
         },
         {
+          "factor_id": "F07_MEMORY_CYCLE",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
           "factor_id": "F10_EARNINGS",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F13_CORPORATE",
           "assessed_days": 1,
           "top_driver_days": 1,
           "countervailing_days": 0,
@@ -74,8 +74,8 @@
           "factor_id": "F05_FOREIGN_FLOW",
           "assessed_days": 5,
           "top_driver_days": 0,
-          "countervailing_days": 3,
-          "positive_factor_down_days": 1
+          "countervailing_days": 2,
+          "positive_factor_down_days": 0
         },
         {
           "factor_id": "F06_INSTITUTION_FLOW",
@@ -86,20 +86,26 @@
         },
         {
           "factor_id": "F14_POSITIONING",
-          "assessed_days": 2,
+          "assessed_days": 3,
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
-          "factor_id": "F11_SUPPLY_CAPEX",
+          "factor_id": "F15_NON_MEMORY",
           "assessed_days": 1,
           "top_driver_days": 0,
-          "countervailing_days": 1,
-          "positive_factor_down_days": 1
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
+        {
+          "metric_id": "AI_ANTHROPIC_CLOSE_VS_IPO",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
         {
           "metric_id": "AI_ANTHROPIC_IPO_PRICE",
           "n": 1,
@@ -108,19 +114,19 @@
         },
         {
           "metric_id": "US_10Y_TREASURY",
-          "n": 3,
+          "n": 4,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_10Y_TREASURY_PAR",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_2Y_TREASURY",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -132,7 +138,7 @@
         },
         {
           "metric_id": "US_AMD_CLOSE",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -144,7 +150,7 @@
         },
         {
           "metric_id": "US_AVGO_CLOSE",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -156,19 +162,25 @@
         },
         {
           "metric_id": "US_DOW_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_DXY",
-          "n": 2,
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_FED_DEC_HIKE_PROB",
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_MU_CLOSE",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -210,13 +222,13 @@
         },
         {
           "metric_id": "US_SKHY_ADR_RETURN",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SOX_CLOSE",
-          "n": 3,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -240,31 +252,31 @@
         },
         {
           "metric_id": "US_TSM_ADR_CLOSE",
-          "n": 2,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_TSM_ADR_RETURN",
-          "n": 4,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_VIX_CLOSE",
-          "n": 2,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "WTI_DEC_FUTURE_CLOSE",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
+          "metric_id": "US_TSM_ADR_RETURN",
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_VIX_CLOSE",
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_DEC_FUTURE_CLOSE",
+          "n": 2,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
           "metric_id": "WTI_FRONT_FUTURE_CLOSE",
-          "n": 4,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         }
@@ -274,13 +286,13 @@
       "ticker": "005930",
       "company": "삼성전자",
       "window_trading_days": 20,
-      "actual_trading_days": 8,
+      "actual_trading_days": 9,
       "sample_status": "insufficient",
       "factor_counts": [
         {
           "factor_id": "F01_US_SEMI",
-          "assessed_days": 7,
-          "top_driver_days": 4,
+          "assessed_days": 8,
+          "top_driver_days": 5,
           "countervailing_days": 1,
           "positive_factor_down_days": 0
         },
@@ -292,24 +304,24 @@
           "positive_factor_down_days": 0
         },
         {
-          "factor_id": "F13_CORPORATE",
-          "assessed_days": 3,
-          "top_driver_days": 2,
-          "countervailing_days": 1,
-          "positive_factor_down_days": 0
-        },
-        {
           "factor_id": "F02_GLOBAL_RISK",
-          "assessed_days": 2,
-          "top_driver_days": 2,
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F12_POLICY",
-          "assessed_days": 2,
-          "top_driver_days": 2,
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F13_CORPORATE",
+          "assessed_days": 3,
+          "top_driver_days": 2,
+          "countervailing_days": 1,
           "positive_factor_down_days": 0
         },
         {
@@ -335,21 +347,21 @@
         },
         {
           "factor_id": "F05_FOREIGN_FLOW",
-          "assessed_days": 8,
+          "assessed_days": 9,
           "top_driver_days": 0,
           "countervailing_days": 4,
           "positive_factor_down_days": 1
         },
         {
           "factor_id": "F06_INSTITUTION_FLOW",
-          "assessed_days": 7,
+          "assessed_days": 8,
           "top_driver_days": 0,
           "countervailing_days": 4,
           "positive_factor_down_days": 1
         },
         {
           "factor_id": "F14_POSITIONING",
-          "assessed_days": 3,
+          "assessed_days": 4,
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
@@ -360,9 +372,22 @@
           "top_driver_days": 0,
           "countervailing_days": 2,
           "positive_factor_down_days": 1
+        },
+        {
+          "factor_id": "F15_NON_MEMORY",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
+        {
+          "metric_id": "AI_ANTHROPIC_CLOSE_VS_IPO",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
         {
           "metric_id": "AI_ANTHROPIC_IPO_PRICE",
           "n": 1,
@@ -413,7 +438,7 @@
         },
         {
           "metric_id": "US_10Y_TREASURY",
-          "n": 3,
+          "n": 4,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -425,7 +450,7 @@
         },
         {
           "metric_id": "US_2Y_TREASURY",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -443,7 +468,7 @@
         },
         {
           "metric_id": "US_AMD_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -455,7 +480,7 @@
         },
         {
           "metric_id": "US_AVGO_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -485,13 +510,19 @@
         },
         {
           "metric_id": "US_DOW_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_DXY",
-          "n": 2,
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_FED_DEC_HIKE_PROB",
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -503,19 +534,19 @@
         },
         {
           "metric_id": "US_MU_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -527,19 +558,19 @@
         },
         {
           "metric_id": "US_NVDA_CLOSE",
-          "n": 7,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_NVDA_RETURN",
           "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 9,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
           "metric_id": "US_SKHY_ADR_RETURN",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -551,19 +582,19 @@
         },
         {
           "metric_id": "US_SOX_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -581,13 +612,13 @@
         },
         {
           "metric_id": "US_VIX_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "WTI_DEC_FUTURE_CLOSE",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -609,13 +640,13 @@
       "ticker": "005930",
       "company": "삼성전자",
       "window_trading_days": 60,
-      "actual_trading_days": 8,
+      "actual_trading_days": 9,
       "sample_status": "insufficient",
       "factor_counts": [
         {
           "factor_id": "F01_US_SEMI",
-          "assessed_days": 7,
-          "top_driver_days": 4,
+          "assessed_days": 8,
+          "top_driver_days": 5,
           "countervailing_days": 1,
           "positive_factor_down_days": 0
         },
@@ -627,24 +658,24 @@
           "positive_factor_down_days": 0
         },
         {
-          "factor_id": "F13_CORPORATE",
-          "assessed_days": 3,
-          "top_driver_days": 2,
-          "countervailing_days": 1,
-          "positive_factor_down_days": 0
-        },
-        {
           "factor_id": "F02_GLOBAL_RISK",
-          "assessed_days": 2,
-          "top_driver_days": 2,
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F12_POLICY",
-          "assessed_days": 2,
-          "top_driver_days": 2,
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
+          "factor_id": "F13_CORPORATE",
+          "assessed_days": 3,
+          "top_driver_days": 2,
+          "countervailing_days": 1,
           "positive_factor_down_days": 0
         },
         {
@@ -670,21 +701,21 @@
         },
         {
           "factor_id": "F05_FOREIGN_FLOW",
-          "assessed_days": 8,
+          "assessed_days": 9,
           "top_driver_days": 0,
           "countervailing_days": 4,
           "positive_factor_down_days": 1
         },
         {
           "factor_id": "F06_INSTITUTION_FLOW",
-          "assessed_days": 7,
+          "assessed_days": 8,
           "top_driver_days": 0,
           "countervailing_days": 4,
           "positive_factor_down_days": 1
         },
         {
           "factor_id": "F14_POSITIONING",
-          "assessed_days": 3,
+          "assessed_days": 4,
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
@@ -695,9 +726,22 @@
           "top_driver_days": 0,
           "countervailing_days": 2,
           "positive_factor_down_days": 1
+        },
+        {
+          "factor_id": "F15_NON_MEMORY",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
+        {
+          "metric_id": "AI_ANTHROPIC_CLOSE_VS_IPO",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
         {
           "metric_id": "AI_ANTHROPIC_IPO_PRICE",
           "n": 1,
@@ -748,7 +792,7 @@
         },
         {
           "metric_id": "US_10Y_TREASURY",
-          "n": 3,
+          "n": 4,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -760,7 +804,7 @@
         },
         {
           "metric_id": "US_2Y_TREASURY",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -778,7 +822,7 @@
         },
         {
           "metric_id": "US_AMD_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -790,7 +834,7 @@
         },
         {
           "metric_id": "US_AVGO_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -820,13 +864,19 @@
         },
         {
           "metric_id": "US_DOW_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_DXY",
-          "n": 2,
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_FED_DEC_HIKE_PROB",
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -838,19 +888,19 @@
         },
         {
           "metric_id": "US_MU_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -862,19 +912,19 @@
         },
         {
           "metric_id": "US_NVDA_CLOSE",
-          "n": 7,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_NVDA_RETURN",
           "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 9,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
           "metric_id": "US_SKHY_ADR_RETURN",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -886,19 +936,19 @@
         },
         {
           "metric_id": "US_SOX_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -916,13 +966,13 @@
         },
         {
           "metric_id": "US_VIX_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "WTI_DEC_FUTURE_CLOSE",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -950,34 +1000,27 @@
         {
           "factor_id": "F01_US_SEMI",
           "assessed_days": 5,
-          "top_driver_days": 2,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F09_AI_CAPEX",
           "assessed_days": 3,
-          "top_driver_days": 2,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F12_POLICY",
-          "assessed_days": 2,
-          "top_driver_days": 2,
-          "countervailing_days": 0,
-          "positive_factor_down_days": 0
-        },
-        {
-          "factor_id": "F13_CORPORATE",
-          "assessed_days": 2,
+          "assessed_days": 3,
           "top_driver_days": 2,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F07_MEMORY_CYCLE",
-          "assessed_days": 3,
+          "assessed_days": 2,
           "top_driver_days": 1,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
@@ -997,6 +1040,13 @@
           "positive_factor_down_days": 0
         },
         {
+          "factor_id": "F13_CORPORATE",
+          "assessed_days": 1,
+          "top_driver_days": 1,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
+        },
+        {
           "factor_id": "F05_FOREIGN_FLOW",
           "assessed_days": 4,
           "top_driver_days": 0,
@@ -1005,10 +1055,10 @@
         },
         {
           "factor_id": "F06_INSTITUTION_FLOW",
-          "assessed_days": 4,
+          "assessed_days": 3,
           "top_driver_days": 0,
-          "countervailing_days": 3,
-          "positive_factor_down_days": 2
+          "countervailing_days": 2,
+          "positive_factor_down_days": 1
         },
         {
           "factor_id": "F08_HBM_EXECUTION",
@@ -1030,9 +1080,22 @@
           "top_driver_days": 0,
           "countervailing_days": 1,
           "positive_factor_down_days": 1
+        },
+        {
+          "factor_id": "F14_POSITIONING",
+          "assessed_days": 1,
+          "top_driver_days": 0,
+          "countervailing_days": 0,
+          "positive_factor_down_days": 0
         }
       ],
       "exploratory_correlations": [
+        {
+          "metric_id": "AI_ANTHROPIC_CLOSE_VS_IPO",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
         {
           "metric_id": "AI_ANTHROPIC_IPO_PRICE",
           "n": 1,
@@ -1041,19 +1104,19 @@
         },
         {
           "metric_id": "US_10Y_TREASURY",
-          "n": 3,
+          "n": 4,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_10Y_TREASURY_PAR",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_2Y_TREASURY",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1065,7 +1128,7 @@
         },
         {
           "metric_id": "US_AMD_CLOSE",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1077,7 +1140,7 @@
         },
         {
           "metric_id": "US_AVGO_CLOSE",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1089,19 +1152,25 @@
         },
         {
           "metric_id": "US_DOW_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_DXY",
-          "n": 2,
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_FED_DEC_HIKE_PROB",
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_MU_CLOSE",
-          "n": 2,
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1143,13 +1212,13 @@
         },
         {
           "metric_id": "US_SKHY_ADR_RETURN",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SOX_CLOSE",
-          "n": 3,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1173,31 +1242,31 @@
         },
         {
           "metric_id": "US_TSM_ADR_CLOSE",
-          "n": 2,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_TSM_ADR_RETURN",
-          "n": 4,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_VIX_CLOSE",
-          "n": 2,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "WTI_DEC_FUTURE_CLOSE",
           "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
+          "metric_id": "US_TSM_ADR_RETURN",
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_VIX_CLOSE",
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "WTI_DEC_FUTURE_CLOSE",
+          "n": 2,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
           "metric_id": "WTI_FRONT_FUTURE_CLOSE",
-          "n": 4,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         }
@@ -1207,20 +1276,20 @@
       "ticker": "000660",
       "company": "SK하이닉스",
       "window_trading_days": 20,
-      "actual_trading_days": 8,
+      "actual_trading_days": 9,
       "sample_status": "insufficient",
       "factor_counts": [
         {
           "factor_id": "F01_US_SEMI",
-          "assessed_days": 8,
-          "top_driver_days": 3,
+          "assessed_days": 9,
+          "top_driver_days": 4,
           "countervailing_days": 2,
           "positive_factor_down_days": 1
         },
         {
           "factor_id": "F09_AI_CAPEX",
-          "assessed_days": 6,
-          "top_driver_days": 3,
+          "assessed_days": 7,
+          "top_driver_days": 4,
           "countervailing_days": 0,
           "positive_factor_down_days": 1
         },
@@ -1233,14 +1302,14 @@
         },
         {
           "factor_id": "F02_GLOBAL_RISK",
-          "assessed_days": 2,
-          "top_driver_days": 2,
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F12_POLICY",
-          "assessed_days": 2,
+          "assessed_days": 3,
           "top_driver_days": 2,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
@@ -1261,7 +1330,7 @@
         },
         {
           "factor_id": "F05_FOREIGN_FLOW",
-          "assessed_days": 7,
+          "assessed_days": 8,
           "top_driver_days": 0,
           "countervailing_days": 2,
           "positive_factor_down_days": 0
@@ -1288,14 +1357,14 @@
           "positive_factor_down_days": 1
         },
         {
-          "factor_id": "F10_EARNINGS",
-          "assessed_days": 1,
+          "factor_id": "F14_POSITIONING",
+          "assessed_days": 2,
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
-          "factor_id": "F14_POSITIONING",
+          "factor_id": "F10_EARNINGS",
           "assessed_days": 1,
           "top_driver_days": 0,
           "countervailing_days": 0,
@@ -1303,6 +1372,12 @@
         }
       ],
       "exploratory_correlations": [
+        {
+          "metric_id": "AI_ANTHROPIC_CLOSE_VS_IPO",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
         {
           "metric_id": "AI_ANTHROPIC_IPO_PRICE",
           "n": 1,
@@ -1353,7 +1428,7 @@
         },
         {
           "metric_id": "US_10Y_TREASURY",
-          "n": 3,
+          "n": 4,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1365,7 +1440,7 @@
         },
         {
           "metric_id": "US_2Y_TREASURY",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1383,7 +1458,7 @@
         },
         {
           "metric_id": "US_AMD_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1395,7 +1470,7 @@
         },
         {
           "metric_id": "US_AVGO_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1425,13 +1500,19 @@
         },
         {
           "metric_id": "US_DOW_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_DXY",
-          "n": 2,
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_FED_DEC_HIKE_PROB",
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1443,19 +1524,19 @@
         },
         {
           "metric_id": "US_MU_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1467,19 +1548,19 @@
         },
         {
           "metric_id": "US_NVDA_CLOSE",
-          "n": 7,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_NVDA_RETURN",
           "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 9,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
           "metric_id": "US_SKHY_ADR_RETURN",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1491,19 +1572,19 @@
         },
         {
           "metric_id": "US_SOX_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1521,13 +1602,13 @@
         },
         {
           "metric_id": "US_VIX_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "WTI_DEC_FUTURE_CLOSE",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1549,20 +1630,20 @@
       "ticker": "000660",
       "company": "SK하이닉스",
       "window_trading_days": 60,
-      "actual_trading_days": 8,
+      "actual_trading_days": 9,
       "sample_status": "insufficient",
       "factor_counts": [
         {
           "factor_id": "F01_US_SEMI",
-          "assessed_days": 8,
-          "top_driver_days": 3,
+          "assessed_days": 9,
+          "top_driver_days": 4,
           "countervailing_days": 2,
           "positive_factor_down_days": 1
         },
         {
           "factor_id": "F09_AI_CAPEX",
-          "assessed_days": 6,
-          "top_driver_days": 3,
+          "assessed_days": 7,
+          "top_driver_days": 4,
           "countervailing_days": 0,
           "positive_factor_down_days": 1
         },
@@ -1575,14 +1656,14 @@
         },
         {
           "factor_id": "F02_GLOBAL_RISK",
-          "assessed_days": 2,
-          "top_driver_days": 2,
+          "assessed_days": 3,
+          "top_driver_days": 3,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
           "factor_id": "F12_POLICY",
-          "assessed_days": 2,
+          "assessed_days": 3,
           "top_driver_days": 2,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
@@ -1603,7 +1684,7 @@
         },
         {
           "factor_id": "F05_FOREIGN_FLOW",
-          "assessed_days": 7,
+          "assessed_days": 8,
           "top_driver_days": 0,
           "countervailing_days": 2,
           "positive_factor_down_days": 0
@@ -1630,14 +1711,14 @@
           "positive_factor_down_days": 1
         },
         {
-          "factor_id": "F10_EARNINGS",
-          "assessed_days": 1,
+          "factor_id": "F14_POSITIONING",
+          "assessed_days": 2,
           "top_driver_days": 0,
           "countervailing_days": 0,
           "positive_factor_down_days": 0
         },
         {
-          "factor_id": "F14_POSITIONING",
+          "factor_id": "F10_EARNINGS",
           "assessed_days": 1,
           "top_driver_days": 0,
           "countervailing_days": 0,
@@ -1645,6 +1726,12 @@
         }
       ],
       "exploratory_correlations": [
+        {
+          "metric_id": "AI_ANTHROPIC_CLOSE_VS_IPO",
+          "n": 1,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
         {
           "metric_id": "AI_ANTHROPIC_IPO_PRICE",
           "n": 1,
@@ -1695,7 +1782,7 @@
         },
         {
           "metric_id": "US_10Y_TREASURY",
-          "n": 3,
+          "n": 4,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1707,7 +1794,7 @@
         },
         {
           "metric_id": "US_2Y_TREASURY",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1725,7 +1812,7 @@
         },
         {
           "metric_id": "US_AMD_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1737,7 +1824,7 @@
         },
         {
           "metric_id": "US_AVGO_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1767,13 +1854,19 @@
         },
         {
           "metric_id": "US_DOW_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_DXY",
-          "n": 2,
+          "n": 3,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
+          "metric_id": "US_FED_DEC_HIKE_PROB",
+          "n": 1,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1785,19 +1878,19 @@
         },
         {
           "metric_id": "US_MU_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_NASDAQ_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1809,19 +1902,19 @@
         },
         {
           "metric_id": "US_NVDA_CLOSE",
-          "n": 7,
-          "pearson_r": null,
-          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
-        },
-        {
-          "metric_id": "US_NVDA_RETURN",
           "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
+          "metric_id": "US_NVDA_RETURN",
+          "n": 9,
+          "pearson_r": null,
+          "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
+        },
+        {
           "metric_id": "US_SKHY_ADR_RETURN",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1833,19 +1926,19 @@
         },
         {
           "metric_id": "US_SOX_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_CLOSE",
-          "n": 7,
+          "n": 8,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "US_SP500_RETURN",
-          "n": 8,
+          "n": 9,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
@@ -1863,13 +1956,13 @@
         },
         {
           "metric_id": "US_VIX_CLOSE",
-          "n": 2,
+          "n": 3,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },
         {
           "metric_id": "WTI_DEC_FUTURE_CLOSE",
-          "n": 1,
+          "n": 2,
           "pearson_r": null,
           "interpretation": "탐색적 동행 관계이며 인과·예측력·기여율 아님"
         },

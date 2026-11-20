@@ -1,103 +1,107 @@
-# 삼성전자·SK하이닉스 주가 요인 — 2026-11-20
+# 삼성전자·SK하이닉스 주가 요인 — 2026-11-21
 
-조사 기준: 2026-11-20T03:20:00+09:00 | 유형: scheduled | 상태: partial
-국내 거래일: 2026-11-19 | 선행 미국 완료 거래일: 2026-11-18
-미국 현재 세션: 2026-11-19 / intraday (당일 국내장 원인과 구분)
+조사 기준: 2026-11-21T03:07:18+09:00 | 유형: scheduled | 상태: partial
+국내 거래일: 2026-11-20 | 선행 미국 완료 거래일: 2026-11-19
+미국 현재 세션: 2026-11-20 / intraday (당일 국내장 원인과 구분)
 
-11월 19일(수능일, 10:00~16:30) 삼성전자 +1.13%(19만6900원), SK하이닉스 +3.41%(118만3000원), 코스피 +1.39%(5137.89). 개장 전 매파적 FOMC 의사록·엔비디아 -2.89%와 앤트로픽 공모가 83달러(희망범위 상단 초과)가 함께 알려졌고, 코스피는 오전 4963까지 밀렸다가 14:30께 반등해 고가 마감했다. 외국인(-4036억원, 5거래일 연속)과 기관 모두 두 종목을 순매도했는데도 올랐고 전기·전자 순매수는 기타법인(+3944억원)뿐이었다. 하이닉스가 3거래일 연속 삼성보다 강했다. 국내 마감 후 미국장에서는 앤트로픽이 첫날 +21% 안팎인 반면 나스닥·반도체주는 상승분을 반납했다(다음 국내장 신호).
+11월 20일 '검은 금요일' 삼성전자 -7.01%(18만3100원), SK하이닉스 -5.92%(111만3000원), 코스피 -5.21%(4869.96), 코스닥 -5.71%로 양 시장 매도 사이드카가 발동했다. 개장 전 미국장이 앤트로픽 상장(공모가 대비 +17%) 직후 반전해 SOX -2.42%·NVDA -3.3%·AMD -7.7%로 끝났고, 아시아 반도체(대만 -6%, 닛케이 -5%)가 함께 무너졌다. 삼성에는 FT의 '중국 고객 일부 칩 출하 중단' 보도(영문 전재 개장 전)가 더해졌고 삼성이 하이닉스보다 1.09%p 더 빠졌다. 외국인(-1.14조원, 6거래일 연속)·기관(-0.95조원)이 함께 팔고 개인이 1.6조원을 샀다. 국내 마감 후 11/20 미국장은 MU -11%, NVDA -7%로 하락이 깊어졌다(장중, 다음 국내장 신호).
 
 ## 삼성전자 (005930)
 
-KRX 종가: 196900원 | 전일 종가: 194700원 | 등락률: 1.129943%
-KRX 정규장 19만4700원→19만6900원(+1.13%), 코스피(+1.39%) 대비 -0.26%p. 장 초반 18만9800원(-2.52%)까지 밀린 뒤 오후 반등해 고가(19만6900원)로 마감. 외국인 순매도 1078억원(코스피 1위, 삼성전자우 -1038억원 별도), 기관도 순매도 상위. 개장 전 앤트로픽 공모가 83달러(희망범위 상단 초과)와 매파적 FOMC 의사록·엔비디아 -2.89%가 함께 알려졌고, 하이닉스보다 반등 폭이 작았다.
+KRX 종가: 183100원 | 전일 종가: 196900원 | 등락률: -7.008634%
+KRX 정규장 19만6900원→18만3100원(-7.01%), 코스피 대비 -1.79%p. 시가 18만8100원(-4.47% 갭)에서 장중 18만1400원(-7.87%)까지 밀렸다. 외국인 -4324억원(순매도 1위), 공매도 +75.8%. 미국 반도체 반전 급락에 FT의 중국 고객 출하 중단 보도가 삼성에만 겹쳤고 하이닉스보다 더 빠졌다.
 
-- 1. **AI 고객 투자·수요** (positive, candidate_driver, 확신 low): 국내 개장 전(07:11 KST 보도) 앤트로픽 공모가가 희망범위(70~78달러)를 넘는 83달러, 약 813억달러로 확정됐다. 마감 보도들은 상장을 앞둔 AI 기업 현금흐름·신용위험 우려 완화 기대를 반도체 반등 배경으로 들었다.
-  - 근거: ANT_PRICE_TC, KR_CLOSE_SBS, KR_SANKYUNG, KR_KDF. 반대/한계: 정보는 개장 전에 공개됐는데 삼성은 장 초반 -2.52%까지 밀렸고 반등은 오후(코스피 14:30께 상승 전환)에 나왔다. 삼성은 코스피 대비 -0.26%p로 시장보다 약했다. 상장 후 미국장에서는 반도체주가 오히려 상승분을 반납해(국내 마감 후) 해석이 불안정하다.
-- 2. **금리·거시지표** (negative, candidate_driver, 확신 low): 04:00 KST 공개된 의사록이 추가 인상 필요와 일부 0.5%p 인상 언급을 담았고, 대신증권 해설은 이를 오전 코스피 5000 하회의 배경으로 들었다.
-  - 근거: KR_INSSIGHT, US_CLOSE_NEWSPIM, US_RATES_AJU. 반대/한계: 미 10년물은 11/18 오히려 4bp 내렸고 코스피는 종가 기준 +1.39%였다. 오전 약세에는 엔비디아 약세·앤트로픽 상장 경계도 함께 거론돼 금리만 분리할 수 없다.
-- 보조/반대. **외국인 수급** (negative, countervailing, 확신 medium): 외국인이 삼성을 1078억원(1위), 삼성전자우를 1038억원 순매도했고 코스피 전체로 -4036억원이었지만 주가는 +1.13%로 마감했다. 외국인 매도에도 상승한 반례다.
-  - 근거: KR_CLOSE_SBS, KR_KADO, KR_SANKYUNG. 반대/한계: 수급은 매매 결과다. 매도 규모가 하이닉스(-532억원)의 두 배로 상대 부진과 겹치지만 인과는 확인하지 못했다.
-- 보조/반대. **기관·ETF 수급** (negative, countervailing, 확신 low): 기관 순매도 상위에 삼성전자·삼성전자우가 올랐고 전기·전자 업종 기관도 -1111억원이었다. 업종 순매수는 기타법인(+3944억원)뿐이었다.
-  - 근거: KR_INST_PINPOINT, KR_CLOSE_SBS, BUYBACK_SAMSUNG. 반대/한계: 종목별 기관 금액은 미확보다. 기타법인의 주체는 확인하지 못했고 양사 자사주 매입은 10월에 끝났다는 보도가 있어 자사주로 단정하지 않는다.
-- 보조/반대. **미국 반도체 동조화** (mixed, background, 확신 low): 11/18 미국 정규장 SOX +0.10%, NVDA -2.89%, MU -1.00%, AMD +5.35%, AVGO +3.64%로 혼조였다. 국내 반도체가 미국 반도체 약세와 다르게 움직였다는 보도가 있다.
-  - 근거: US_CLOSE_NEWSPIM, US_CLOSE_SENTV, KR_SUPPLE_MT. 반대/한계: SOX 지수 원값·TSM은 미확보다. 혼조라 당일 방향 설명력이 약하다.
-- 보조/반대. **가격 부담·포지셔닝** (positive, background, 확신 low): 장중 -2.5% 뒤 고가 마감은 최근 조정 후 저가매수 해석(대신증권·머니투데이)과 맞는다.
-  - 근거: KR_INSSIGHT, KR_SUPPLE_MT. 반대/한계: 포지셔닝·공매도 자료가 없고 반등 시점의 매수 주체도 확인하지 못했다.
+- 1. **미국 반도체 동조화** (negative, candidate_driver, 확신 medium): 11/19 미국 정규장 SOX -2.42%(장 초반 +4.43%에서 반전), NVDA -3.30%(52주 신저가), AMD -7.72%, MU -2.10%, AVGO -2.09%, SK하이닉스 ADR -2.67%가 국내 개장 전에 확정됐다. 대만 가권 -5.6~-6.2%, 닛케이 -5.1%로 아시아 반도체 전반이 함께 급락했다.
+  - 근거: US_CLOSE_AJU, US_CLOSE_FAIR, KR_YNA_SUPPLE, KR_CLOSE_HK, US_LIVE20_STOCKTITAN. 반대/한계: 국내 낙폭(-7.01%)이 SOX(-2.42%)의 약 3배라 미국 반도체만으로 크기를 설명하지 못한다. 시가 -4.47% 이후 장중 추가 하락분(-2.66%)은 개장 전 정보 이후에 나왔다.
+- 2. **정책·수출규제** (negative, candidate_driver, 확신 low): FT는 삼성전자·TSMC가 미국 신규 규정(원격접근 차단, 11/19 시행)에 따라 바이두 쿤룬·바이트댄스 등 중국 고객 일부 칩 출하를 중단하고 허가를 신청한다고 보도했다. 영문 전재는 국내 개장 전(11/19 20:16 KST, 11/20 08:33 KST) 공개됐다. 삼성만 거론됐고 삼성이 하이닉스보다 1.09%p 더 빠졌다.
+  - 근거: FT_STOCKANALYSIS, FT_BLOOMINGBIT, FT_SEDAILY, KR_TOMATO_FT, KR_YNA_SUPPLE, KR_SIDECAR_HK. 반대/한계: 회사 공식 확인이 없는 익명 관계자 보도다. 국내 기사 인용은 장중 영문(11:40)과 장 마감 무렵(15:45) 이후가 중심이고 13:52 장중 기사엔 언급이 없다. 업계는 파운드리 비중이 작아 이익 타격이 작다고 봤다. 13:46엔 하이닉스(-6.76%)가 삼성(-6.68%)보다 더 빠져 있었다.
+- 3. **글로벌 위험선호** (negative, candidate_driver, 확신 low): 미국 3대 지수가 2%대 하락(S&P500 6거래일 연속)하고 VIX가 28.47(+15.9%)로 뛰었다. 앤트로픽 상장 자금 이동·AI 투자 수익성 우려와 연준 12월 인상 우려가 함께 거론됐다. 코스피·코스닥 동시 매도 사이드카가 발동했다.
+  - 근거: US_CLOSE_ETODAY, US_CLOSE_FAIR, KR_ANALYSIS_HK, KR_TOMATO, KR_SIDECAR_HK. 반대/한계: 위험회피가 공통 요인이라면 업종 차이를 설명하지 못한다. 앤트로픽 자금 이동은 증권사 추정이다. F01과 중복 기여를 합산하지 않는다.
+- 보조/반대. **외국인 수급** (negative, confirmation, 확신 medium): 외국인은 삼성을 4324억원 순매도(1위, 15:46 기준)했고 코스피 전체 -1조1411억원, 전기·전자 -9802억원이었다. JP모건·모건스탠리가 매도 상위 창구였다.
+  - 근거: KR_HOT_FN, KR_YNA_SUPPLE, KR_KDF, KR_SANKYUNG. 반대/한계: 매매 결과이지 원인 증거가 아니다. 개인이 1조5950억원(전기·전자 1조5178억원)을 순매수했다. 11/19엔 외국인 매도에도 올랐다.
+- 보조/반대. **기관·ETF 수급** (negative, confirmation, 확신 low): 코스피 기관 -9513억원, 전기·전자 기관 -9833억원으로 외국인과 함께 팔았다.
+  - 근거: KR_YNA_SUPPLE, KR_KDF. 반대/한계: 삼성 종목별 기관 금액은 미확보다. 사후 수급이다.
+- 보조/반대. **가격 부담·포지셔닝** (negative, background, 확신 low): 삼성 공매도 1338억원(+75.8%)으로 늘었다. 6월 18일 고점 36만2500원 대비 -49.5%다.
+  - 근거: KR_SHORT_TOPSTAR, KR_ANALYSIS_HK. 반대/한계: 보도 스스로 공매도 증가가 하락을 유발했는지 확인되지 않았다고 썼다.
+- 보조/반대. **삼성 비메모리·사업 믹스** (negative, background, 확신 low): FT 출하 중단 보도는 메모리가 아닌 파운드리(중국 설계 AI 프로세서 위탁생산) 대상이다. 삼성전자우(-8.38%)·삼성전기(-12.5%) 등 삼성 계열이 더 크게 빠졌다.
+  - 근거: FT_BLOOMINGBIT, KR_TOMATO_FT, KR_CLOSE_HK. 반대/한계: 파운드리 중국 AI 고객 매출 규모는 공개되지 않았다. 삼성전기 낙폭은 별도 요인일 수 있다.
 
-다음 확인: 11/20 KRX 정규장(09:00) 시초가에 11/19 미국장 반도체 반납(NVDA·MU 하락 전환, AMD -8%)과 앤트로픽 첫날 흐름 반영 여부 / 외국인 삼성 순매도 1위가 3거래일째 이어지는지(코스피 외국인 5거래일 연속) / 11/21 삼성 자사주 매입 신고기간 종료 전후 기타법인 수급(10월 계획물량 달성 보도로 영향은 제한적일 수 있음) / 하이닉스 대비 상대 부진(3거래일 연속)의 종목 고유 원인 보도
+다음 확인: 11/23(월) 시초가: 11/20 미국장(11:02 ET 기준 NVDA -6.7%, MU -11.3%, TSM -7.3%) 종가 반영 / 삼성전자의 중국 출하 중단 보도 공식 확인·해명 여부와 BIS 라이선스 진행 / 외국인 7거래일째 순매도 여부·개인 순매수 지속 / 하이닉스 대비 열위가 FT 보도 이후에도 이어지는지
 
 ## SK하이닉스 (000660)
 
-KRX 종가: 1183000원 | 전일 종가: 1144000원 | 등락률: 3.409091%
-KRX 정규장 114만4000원→118만3000원(+3.41%), 코스피 대비 +2.02%p. 오전 111만5000원(-2.53%)까지 밀린 뒤 고가 118만6000원 근처에서 마감해 저점 대비 약 6.1% 반등. 외국인 -532억원(순매도 3위)에 기관 순매도 1위였는데도 올랐다. 3거래일 연속 삼성보다 강했다.
+KRX 종가: 1113000원 | 전일 종가: 1183000원 | 등락률: -5.91716%
+KRX 정규장 118만3000원→111만3000원(-5.92%), 코스피 대비 -0.70%p. 장 초반 109만6000원(-7.35%)까지 밀렸다. 외국인 -2001억원, 공매도 1597억원(+143.7%, 코스피 1위). 낙폭은 컸지만 4거래일 연속 삼성보다는 덜 빠졌다.
 
-- 1. **AI 고객 투자·수요** (positive, candidate_driver, 확신 low): 개장 전 앤트로픽 공모가 83달러·약 813억달러 확정이 AI 투자 자금조달 우려를 덜어 반도체 투심을 개선했다는 마감 보도 해석이 있다. AI 수요 노출이 큰 하이닉스가 삼성보다 크게 반등했다.
-  - 근거: ANT_PRICE_TC, ANT_PRICE_FN, KR_CLOSE_SBS, KR_SANKYUNG. 반대/한계: 정보 공개 뒤 오전에 오히려 -2.53%까지 밀렸고 반등은 오후에 나왔다. 미국 상장 직후 반도체주는 상승분을 반납했다(국내 마감 후). 삼성과의 차이를 이 요인으로 설명할 근거는 없다.
-- 2. **금리·거시지표** (negative, candidate_driver, 확신 low): 매파적 의사록이 오전 시장 약세 배경으로 거론됐다. 하이닉스 오전 저점(-2.53%)과 시점이 겹친다.
-  - 근거: KR_INSSIGHT, US_CLOSE_NEWSPIM. 반대/한계: 종가 기준 +3.41%로 영향이 지속되지 않았다. 10년물은 4bp 하락했다.
-- 보조/반대. **메모리 가격·재고** (positive, background, 확신 low): TrendForce가 내년 HBM4 Gb당 3~5.5달러(올해 2.05달러), 일반 D램 4분기 ASP +10~15% QoQ를 전망했다고 개장 전 보도됐다. HBM 비중이 큰 하이닉스에 우호적 배경이다.
-  - 근거: HBM_TRENDFORCE_SED. 반대/한계: 전망치이며 계약 확정이 아니다. 11/18에 이미 알려진 내용이라 신규 충격이 아니다. 11/17 키움의 범용 메모리 가격 하락 전환 판단 등 엇갈린 관측이 있다.
-- 보조/반대. **외국인 수급** (negative, countervailing, 확신 medium): 외국인 하이닉스 -532억원(코스피 순매도 3위)에도 +3.41% 상승했다.
-  - 근거: KR_CLOSE_SBS, KR_KADO. 반대/한계: 수급은 매매 결과이며 삼성(-1078억원)보다 매도 규모가 작았던 것이 상대 강세와 동시 관측일 뿐이다.
-- 보조/반대. **기관·ETF 수급** (negative, countervailing, 확신 low): 기관이 하이닉스를 코스피에서 가장 많이 순매도했는데도 주가는 3.41% 올랐다. 외국인·기관이 모두 판 상승 반례다.
-  - 근거: KR_INST_PINPOINT, KR_CLOSE_SBS. 반대/한계: 종목별 기관 금액, 개인·기타법인 종목 금액을 확보하지 못해 누가 받았는지 모른다.
-- 보조/반대. **미국 반도체 동조화** (mixed, background, 확신 low): 선행 미국장 SOX +0.10%, MU -1.00%, NVDA -2.89%, SK하이닉스 ADR -0.11%로 뚜렷한 방향이 없었다.
-  - 근거: US_CLOSE_NEWSPIM, KR_SUPPLE_MT. 반대/한계: ADR은 별도 시장 수치다. TSM·SOX 원값 미확보.
+- 1. **미국 반도체 동조화** (negative, candidate_driver, 확신 medium): 개장 전 SOX -2.42%, NVDA -3.30%, MU -2.10%, AMD -7.72%, SK하이닉스 ADR -2.67%가 확정됐고 아시아 반도체가 동반 급락했다. 하이닉스는 장 초반 109만6000원(-7.35%)까지 밀렸다.
+  - 근거: US_CLOSE_AJU, US_CLOSE_FAIR, KR_YNA_SUPPLE, KR_CLOSE_HK. 반대/한계: 낙폭이 SOX의 약 2.4배다. 장 초반 저점 이후 하락폭이 줄어 개장 갭 이후 장중 흐름은 미국 요인으로 설명되지 않는다.
+- 2. **글로벌 위험선호** (negative, candidate_driver, 확신 low): 미 3대 지수 2%대 하락, VIX 28.47, 연준 12월 인상 확률 96.4% 보도, 코스피·코스닥 동시 매도 사이드카로 위험회피가 시장 전체에 퍼졌다.
+  - 근거: US_CLOSE_AJU, US_CLOSE_FAIR, KR_SIDECAR_HK, KR_TOMATO. 반대/한계: 하이닉스(-5.92%)는 코스피(-5.21%) 대비 -0.70%p로 시장과 크게 다르지 않아 종목 고유 정보는 약하다.
+- 3. **AI 고객 투자·수요** (negative, candidate_driver, 확신 low): 앤트로픽이 공모가 대비 +17.1%(97.17달러)로 마감했지만 상장 직후 AI·반도체주가 반락했고, 국내 보도는 AI 투자 수익성·순환금융 우려와 앤트로픽 매수 자금 마련 매도(증권사 추정)를 들었다. 전날 같은 이벤트가 호재로 해석된 것과 반대다.
+  - 근거: US_CLOSE_ETODAY, KR_ANALYSIS_HK, KR_TOMATO. 반대/한계: 자금 이동은 추정이며 수치 근거가 없다. 앤트로픽 흥행 자체는 AI 수요 신호로도 읽혀 방향이 엇갈린다.
+- 보조/반대. **외국인 수급** (negative, confirmation, 확신 medium): 외국인 하이닉스 -2001억원(15:46 기준), 코스피 전체 -1조1411억원(6거래일 연속).
+  - 근거: KR_HOT_FN, KR_YNA_SUPPLE. 반대/한계: 삼성(-4324억원)보다 매도가 작았고 낙폭도 작았다. 사후 수급이다.
+- 보조/반대. **가격 부담·포지셔닝** (negative, background, 확신 low): 하이닉스 공매도 1597억원(전일 655억원, +143.7%)으로 코스피 1위였다. 6월 22일 고점 291만9000원 대비 -61.9%다.
+  - 근거: KR_SHORT_TOPSTAR, KR_ANALYSIS_HK. 반대/한계: 공매도 증가가 하락 원인이라는 확인은 없다(보도 명시). 공매도가 가장 늘었는데도 삼성보다 덜 빠졌다.
+- 보조/반대. **정책·수출규제** (unclear, background, 확신 low): 미국 원격접근 규정·FT 출하 중단 보도는 반도체 수출규제 불확실성을 키웠다는 해석이 있다.
+  - 근거: FT_STOCKANALYSIS, KR_MECONOMY. 반대/한계: FT 보도에 SK하이닉스는 언급되지 않았다.
 
-다음 확인: 11/20 시초가: 11/19 미국장 MU +6.3%(10:35 ET)→-0.9% 반납, SK하이닉스 ADR 장 초반 +5.45% 이후 흐름 / 마이크론 사장 겸 CTO의 '2027년 메모리 공급이 2026년보다 더 빡빡' 발언(국내 마감 후)의 국내 반영 / 기관 순매도 1위가 이어지는지와 기타법인 업종 순매수 주체 / 삼성 대비 초과수익 4거래일째 지속 여부
+다음 확인: 11/23(월) 시초가: 11/20 미국장 MU -11.3%(11:02 ET)·SK하이닉스 ADR 종가 / 공매도 급증(+143.7%)이 이어지는지 / 앤트로픽 주가(11/20 장중 공모가 근처)와 AI 투자 수익성 논란 / 삼성 대비 상대 우위 5거래일째 여부
 
 ## 두 종목 비교
 
-11/17(삼성 -3.30%, 하이닉스 -1.96%), 11/18(+2.31% vs +4.19%)에 이어 11/19에도 하이닉스(+3.41%, 코스피 대비 +2.02%p)가 삼성(+1.13%, -0.26%p)보다 강해 3거래일 연속 하이닉스 우위다. 장중 저점은 둘 다 약 -2.5%로 같았지만 반등 폭이 달랐다(삼성 저점 대비 +3.7%, 하이닉스 +6.1%). 외국인 순매도는 삼성(보통주 -1078억원·우선주 -1038억원)이 하이닉스(-532억원)보다 컸고 기관 순매도 1위는 하이닉스였다. 즉 기관 매도만으로는 상대 강약이 설명되지 않는다. HBM 전망(TrendForce)은 하이닉스에 우호적 배경이나 반복 정보라 차이의 원인으로 단정하지 않는다.
+삼성 -7.01%(코스피 대비 -1.79%p) vs 하이닉스 -5.92%(-0.70%p)로 4거래일 연속 하이닉스가 상대 우위다(11/17·18·19는 상승·하락일 모두). 다만 13:46 장중에는 하이닉스(-6.76%)가 삼성(-6.68%)보다 더 빠져 있었고 차이는 장 후반에 생겼다. 삼성에만 FT 출하 중단 보도와 외국인 순매도 1위(-4324억원 vs -2001억원)가 겹쳤지만, 하이닉스는 공매도 증가율(+143.7% vs +75.8%)이 더 컸는데도 덜 빠졌다. 삼성전자우(-8.38%)·삼성전기(-12.5%)도 크게 빠져 삼성 계열 특유 수급인지, 파운드리 규제 노출인지는 구분하지 못했다.
 
 ## 쇼츠 소재
 
-- **외국인도 기관도 팔았는데, SK하이닉스는 3.4% 올랐다**
-  - 연결: 11/19 외국인은 하이닉스를 532억원(코스피 순매도 3위), 기관은 가장 많이 순매도했다. 전기·전자 업종에서 순매수한 주체는 기타법인(+3944억원)뿐이었는데 하이닉스는 +3.41%, 고가 근처에서 마감했다.
-  - 확인 사실: KRX 종가 114만4000원→118만3000원(+3.41%), 장중 저가 111만5000원(-2.53%). 외국인 하이닉스 -532억원, 삼성 -1078억원. 코스피 외국인 -4036억원·기관 +192억원·기타법인 +4514억원. 전기·전자 외국인 -2847억·기관 -1111억·기타법인 +3944억원.
-  - 주의: 종목별 기관·기타법인 금액을 확보하지 못했고 기타법인의 정체도 모른다. 양사 자사주 매입은 10월에 끝났다는 보도가 있어 자사주로 단정하면 안 된다. 하루 관측이다.
-  - 근거: KR_OHLCV, KR_CLOSE_SBS, KR_INST_PINPOINT, KR_KADO, BUYBACK_SAMSUNG, BUYBACK_HYNIX
-- **같은 -2.5%에서 출발했는데, 3일째 하이닉스만 더 올랐다**
-  - 연결: 11/19 두 종목 장중 저점은 모두 약 -2.5%로 같았지만 하이닉스는 저점 대비 +6.1%, 삼성은 +3.7% 반등했다. 코스피 대비로는 하이닉스 +2.02%p, 삼성 -0.26%p로 11/17부터 3거래일 연속 하이닉스 우위다.
-  - 확인 사실: 삼성 19만6900원(+1.13%, 저가 18만9800원), 하이닉스 118만3000원(+3.41%, 저가 111만5000원), 코스피 +1.39%. 11/17 삼성 -3.30%·하이닉스 -1.96%, 11/18 +2.31%·+4.19%.
-  - 주의: 차이의 원인은 확인되지 않았다. 외국인 매도 규모 차이(삼성이 두 배)와 HBM 가격 전망(반복 정보)은 동시 관측일 뿐이며 3거래일은 표본이 작다.
-  - 근거: KR_OHLCV, KR_KADO, KR_CLOSE_SBS, HBM_TRENDFORCE_SED
+- **앤트로픽은 17% 올랐는데, 삼전닉스는 왜 6~7% 빠졌나**
+  - 연결: AI 최대어 상장이 공모가 대비 +17.1%로 흥행했는데, 바로 그 상장 직후 미국 반도체지수가 장 초반 +4.43%에서 -2.42%로 뒤집혔고 다음 날 한국 반도체 대형주가 -6~7% 급락했다. 하루 전 같은 이벤트는 국내에서 호재로 해석됐다.
+  - 확인 사실: 앤트로픽 공모가 83달러→종가 97.17달러(시초가 111.50). SOX -2.42%, NVDA -3.30%, AMD -7.72%. 삼성 -7.01%, 하이닉스 -5.92%, 코스피 -5.21%, 양 시장 매도 사이드카. 외국인 -1조1411억·기관 -9513억·개인 +1조5950억원.
+  - 주의: '앤트로픽 사려고 기존 AI주를 팔았다'는 증권사 추정이며 자금 이동 수치 근거가 없다. 연준 인상 우려·AMD 의혹·FT 수출규제 보도가 같은 날 겹쳤다.
+  - 근거: US_CLOSE_ETODAY, US_CLOSE_FAIR, KR_ANALYSIS_HK, KR_YNA_SUPPLE, KR_SIDECAR_HK
+- **공매도는 하이닉스가 2배 늘었는데, 더 빠진 건 삼성이었다**
+  - 연결: 하이닉스 공매도는 1597억원(+143.7%)으로 삼성(1338억원, +75.8%)보다 크게 늘었지만 낙폭은 삼성(-7.01%)이 하이닉스(-5.92%)보다 컸다. 삼성에만 FT의 중국 고객 출하 중단 보도와 외국인 순매도 1위가 겹쳤다.
+  - 확인 사실: 삼성 외국인 -4324억원, 하이닉스 -2001억원(15:46 기준). 13:46엔 하이닉스 -6.76%, 삼성 -6.68%였고 마감에서 역전. FT 보도 영문 전재는 국내 개장 전에 공개.
+  - 주의: FT 보도는 회사 확인이 없고, 국내 보도는 장 후반 이후 집중돼 시장이 언제 반영했는지 불명확하다. 공매도가 하락 원인이라는 확인도 없다. 하루 관측이다.
+  - 근거: KR_SHORT_TOPSTAR, KR_HOT_FN, KR_SIDECAR_HK, FT_STOCKANALYSIS, KR_TOMATO_FT
 
 ## 한계
 
-- KRX 시세 원표에 접근하지 못했다. 종가·고저가·거래량은 재전송 보도치다. 삼성 시가는 보도 간 불일치(19만6000원 vs +0.87% vs 하락 출발), 하이닉스 시가는 미확보라 두 종목 갭·장중 수익률은 null이다.
-- 종목별 기관·개인·기타법인 순매수 금액은 미확보다(순위만 확인). 기타법인 순매수 주체는 확인하지 못했다.
-- 11/18 SOX 지수 원값·TSM ADR·2년물·VIX 종가를 확보하지 못했다. MU·AMD·AVGO·SK하이닉스 ADR은 보도 반올림 등락률이다.
-- 앤트로픽 공모가 보도 시각은 TechCrunch 게재 시각(22:11 UTC)을 사용했다. 최초 보도(WSJ·CNBC)의 정확한 시각은 확인하지 못했다.
-- 삼성 국내장 마감 시각은 수능일 16:30이었으나 equity_factor_store 검증은 15:30을 경계로 쓴다. 이번 후보 요인 사건은 모두 개장 전이라 영향은 없다.
-- 11/19 미국장 수치는 12:00~12:31 ET 장중 스냅샷과 시각 미표기 시세 바(03:03 KST 확인)이며 종가가 아니다. SOX 장중 값은 미확보다.
-- 누적 8거래일·종목-거래일 16관측. 20·60거래일은 표본 부족이며 요인 선정 빈도는 설명력·인과·예측력이 아니다.
+- KRX 시세 원표에 접근하지 못했다. 종가·시가·저가는 재전송 보도치다. 하이닉스 시가와 두 종목 고가·거래량은 미확보라 하이닉스 갭·장중 수익률은 null이다. 뉴스토마토는 하이닉스를 111만원(-6.17%)으로 써 다수 보도(111만3000원)와 다르다.
+- 코스피 종가는 한국경제 분석기사(22:00)만 4,882.35(-4.97%)로 다르다. 투자자별 수급은 매체별로 수십억원 차이가 있고 서울파이낸스 수치는 크게 달라 미채택했다.
+- 종목별 외국인 순매도는 15:46 기사 기준이며 최종 집계와 다를 수 있다. 종목별 기관·개인 금액은 미확보다.
+- FT 원문은 유료라 열람하지 않았고 최초 게재 시각을 모른다. 개장 전 영문 전재가 있었지만 국내 시장이 언제 반영했는지는 확인하지 못했다. 삼성 공식 입장은 미확인이다.
+- 11/19 SOX 지수 원값·TSM ADR 등락률을 확보하지 못했다. WTI는 매체별 계약월이 달라 12월물(이투데이) 값을 썼다.
+- 11/20 미국장 수치는 05:45~11:02 ET 장중·프리마켓 스냅샷이며 종가가 아니다.
+- 누적 9거래일·종목-거래일 18관측. 20·60거래일은 표본 부족이며 요인 선정 빈도는 설명력·인과·예측력이 아니다.
 
 ## 출처
 
-- [KR_OHLCV] [코스피 5137.89 마감…삼성전자·SK하이닉스 동반 급반등](https://www.wikitree.co.kr/articles/1176062) — 위키트리, 2026-11-19T16:37:00+09:00
-- [KR_CLOSE_SBS] [삼전·닉스, 앤트로픽 상장 앞두고 등락 끝 1∼3%대 상승 마감](https://news.sbs.co.kr/news/endPage.do?news_id=N1008854325) — SBS, 2026-11-19T17:14:00+09:00
-- [KR_KADO] [장중 2% 넘게 밀린 삼전닉스, 반등 마감…앤트로픽 공모가 83달러 확정](https://www.kado.net/news/articleView.html?idxno=2085989) — 강원도민일보, 2026-11-19T17:40:30+09:00
-- [KR_SANKYUNG] [외국인 매도에도 삼전·닉스 동반 반등…AI 기대감에 상승 마감](https://www.sankyungtoday.com/news/articleView.html?idxno=64340) — 산경투데이, 2026-11-19T17:12:00+09:00
-- [KR_KDF] [삼성전자·SK하이닉스, 장중 2%대 하락 딛고 반등…코스피 5100선 회복](https://www.kdfnews.com/news/articleView.html?idxno=191163) — 한국면세뉴스, 2026-11-19T17:05:00+09:00
-- [KR_INSSIGHT] [[26.11.19 증시 인싸잇] 코스피 5000선 무너졌다 반등… 반도체 투톱이 살렸다](https://www.mediawatch.kr/news/article.html?no=261816) — 미디어워치, 2026-11-19T22:00:18+09:00
-- [KR_INST_PINPOINT] [[거래소 기관] 삼성전기·SK스퀘어 폭풍매수... SK하이닉스·삼성전자는 던졌다](https://www.pinpointnews.co.kr/news/articleView.html?idxno=506028) — 핀포인트뉴스, 2026-11-19T17:02:00+09:00
-- [KR_SUPPLE_MT] [삼전닉스 이틀째 강세…전문가 "저평가 상태로 이익 지속이 관건"](https://supple.kr/news/cmwnav17r88b4kwp8hk5q86zh) — 머니투데이(서플), 2026-11-19T17:40:10+09:00
-- [KR_FX_BETA] [美연준 추가 인상 경계에도...원·달러 환율, 나흘째 하락해 1330원 마감](https://www.betanews.net/article/view/beta202611190154) — 베타뉴스, 2026-11-19T18:16:29+09:00
-- [HBM_TRENDFORCE_SED] [최신 HBM 내년 최대 2.7배 뛴다…고부가 D램 중국과 '초격차'](https://m.sedaily.com/article/20116080) — 서울경제, 2026-11-19T06:30:00+09:00
-- [BUYBACK_SAMSUNG] [삼성전자, 자사주 계획물량 모두 매입… 15조까지 300만주 더 살 듯](https://www.mediawatch.kr/news/article.html?no=261255) — 미디어워치, 2026-10-02T11:38:03+09:00
-- [BUYBACK_HYNIX] [SK하닉, 40조 규모 자사주 매입 완료…예정보다 한 달 빨라](https://biz.sbs.co.kr/amp/article/20000341347) — SBS Biz, 발표 시각 미확인
-- [ANT_PRICE_TC] [Anthropic prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/) — TechCrunch, 2026-11-19T07:11:15+09:00
-- [ANT_PRICE_FN] [앤트로픽 공모가 83달러...역대 최대 IPO](https://www.fnnews.com/news/202611191227068337) — 파이낸셜뉴스, 2026-11-19T12:33:00+09:00
-- [US_CLOSE_NEWSPIM] [뉴욕증시, 연준 매파 기조에 혼조 마감…다우 1.11%↓](https://www.newspim.com/news/view/20261119000027) — 뉴스핌, 2026-11-19T06:19:00+09:00
-- [US_CLOSE_SENTV] [뉴욕증시 혼조 마감…엔비디아 호실적에도 AI 투자 불안 지속](https://www.sentv.co.kr/article/view/sentv202611190006) — 서울경제TV, 2026-11-19T08:34:00+09:00
-- [US_PRE_TOPSTAR] [오늘 국내증시 전망…미국증시 다우 급락에 코스피 5,000선 시험대, 삼성전자·SK하이닉스 향방은](https://www.topstarnews.net/news/articleView.html?idxno=16280257) — 톱스타뉴스, 2026-11-19T06:32:00+09:00
-- [US_RATES_AJU] [[국제금융리포트] 美 금리인상 가능성에 달러 강세…금융시장 불확실성 확대](https://www.ajunews.com/view/20261119084504985) — 아주경제, 2026-11-19T08:45:00+09:00
-- [US_OPEN_TOPSTAR] [미국증시, 앤트로픽 상장에 나스닥 2% 급등…마이크론·SK하이닉스 동반 강세](https://www.topstarnews.net/news/articleView.html?idxno=16281023) — 톱스타뉴스, 발표 시각 미확인
-- [US_LIVE19_YF] [Stock market today: Dow drops 1,000 points, S&P 500 and Nasdaq tank as Anthropic stock surges in public debut](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html) — Yahoo Finance, 발표 시각 미확인
-- [US_LIVE19_REUTERS] [Nasdaq turns negative after Anthropic valued at over $2 trillion in Nasdaq debut](https://www.investing.com/news/stock-market-news/nasdaq-turns-negative-after-anthropic-valued-at-over-2-trillion-in-nasdaq-debut-5039627) — Reuters(Investing.com), 2026-11-20T02:00:00+09:00
-- [US_CHIPS19_YF] [Nvidia, Broadcom, and Micron stocks erase gains as Anthropic goes public](https://finance.yahoo.com/markets/article/nvidia-amd-micron-pare-gains-leading-up-to-anthropics-first-trade-155941221.html) — Yahoo Finance, 2026-11-20T00:59:00+09:00
-- [KR_CSAT] [수능일(11월 19일) 증시 운영 시간 총정리: 정규장 오전 10시 개장, 프리마켓은 쉰다](https://newneek.co/@newneek/article/48417) — 뉴닉, 발표 시각 미확인
+- [KR_CLOSE_NAMDO] [[마감시황] ‘검은 금요일’ 코스피 5.21% 급락 4,869…사흘 만에 ‘5천피’ 붕괴](https://www.namdonews.com/news/articleView.html?idxno=929954) — 남도일보, 2026-11-20T15:56:00+09:00
+- [KR_CLOSE_HK] [삼전닉스 '와르르'…코스피·코스닥 5%대 급락에 개미들 '비명'](https://www.hankyung.com/article/2026112003686) — 한국경제, 2026-11-20T15:46:32+09:00
+- [KR_CLOSE_SEOULFN] [코스피, 美 반도체주 급락·외국인 매도에 5%대 하락 마감···4900선 붕괴](https://www.seoulfn.com/news/articleView.html?idxno=643505) — 서울파이낸스, 2026-11-20T16:19:42+09:00
+- [KR_YNA_SUPPLE] [삼전 中에 칩 출하 중단? 7% 급락…하이닉스도 5.9%↓(종합)](https://supple.kr/news/cmwoovcohwsv4kwp8axxaayp2) — 연합뉴스(서플 게재), 2026-11-20T17:00:06+09:00
+- [KR_SPECIALTIMES] [삼성전자·SK하이닉스 동반 급락…미국 증시 약세와 수출통제 우려 반영](https://www.specialtimes.co.kr/news/articleView.html?idxno=488244) — 스페셜타임스, 2026-11-20T15:52:28+09:00
+- [KR_MECONOMY] [[마감시황] 개인 1.6조 쏟아부었지만... 코스피 4900선 무너져](https://www.meconomynews.com/news/articleView.html?idxno=203958) — 시장경제신문, 2026-11-20T16:43:37+09:00
+- [KR_HOT_FN] [AI 우려에 外人 투매…삼성전자 7%↓SK하이닉스 6%↓[핫스탁](종합)](https://www.fnnews.com/news/202611201546545138) — 파이낸셜뉴스(뉴시스), 2026-11-20T15:46:23+09:00
+- [KR_SIDECAR_HK] [코스피 이어 코스닥도 매도 사이드카…삼성전자·하이닉스 6%대 급락](https://www.hankyung.com/article/2026112099276) — 한국경제, 2026-11-20T13:52:01+09:00
+- [KR_KDF] [[특징주] 삼성전자 7.01%·SK하이닉스 5.92% 하락…中 일부 칩 출하 중단 보도](https://www.kdfnews.com/news/articleView.html?idxno=191207) — 한국면세뉴스, 2026-11-20T16:33:43+09:00
+- [KR_SANKYUNG] [삼성전자 7%·SK하이닉스 6% 급락…외국인·기관 매도 폭탄](https://www.sankyungtoday.com/news/articleView.html?idxno=64364) — 산경투데이, 2026-11-20T16:28:58+09:00
+- [KR_TOMATO] [코스피, AMD발 반도체 쇼크에 5% 급락…4800선 추락](https://www.newstomato.com/ReadNews.aspx?no=1321279) — 뉴스토마토, 2026-11-20T16:18:20+09:00
+- [KR_TOMATO_FT] [중국 AI칩 생산까지 옥죄는 미국…삼성·TSMC 출하 중단](https://www.newstomato.com/ReadNews.aspx?no=1321261) — 뉴스토마토, 2026-11-20T15:45:35+09:00
+- [KR_SHORT_TOPSTAR] [SK하이닉스·삼성전자 공매도 급증…반도체 3종목 34%](https://www.topstarnews.net/news/articleView.html?idxno=16281728) — 톱스타뉴스, 2026-11-20T19:49:35+09:00
+- [KR_ANALYSIS_HK] ["월요일엔 또 무슨 악몽이"…삼전닉스 개미들 멘탈도 '바닥' [분석+]](https://www.hankyung.com/article/2026112004446) — 한국경제, 2026-11-20T22:00:01+09:00
+- [KR_EDAILY_FLOW] [삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04254166645647688) — 이데일리, 2026-11-20T20:01:56+09:00
+- [FT_ORIGINAL] [TSMC and Samsung suspend some chip shipments to Chinese customers (FT, 원문 미열람)](https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74) — Financial Times, 발표 시각 미확인
+- [FT_STOCKANALYSIS] [TSMC and Samsung suspend some chip shipments to Chinese customers as a new U.S. rule takes effect](https://stockanalysis.com/news/tsmc-samsung-suspend-chip-shipments-china/) — StockAnalysis, 2026-11-19T11:16:06+00:00
+- [FT_BLOOMINGBIT] [Samsung, TSMC Halt Some Chip Shipments to China After US Tightens Export Controls](https://en.bloomingbit.io/feed/news/124833) — bloomingbit, 2026-11-19T23:33:38+00:00
+- [FT_SEDAILY] [TSMC, Samsung Halt Some Chip Shipments to China as U.S. Rules Take Effect](https://en.sedaily.com/world/2026/11/20/tsmc-samsung-halt-some-chip-shipments-to-china-as-us-rules) — Seoul Economic Daily, 2026-11-20T11:40:55+09:00
+- [US_CLOSE_AJU] [[뉴욕증시 마감] 앤트로픽 상장에도 2%대 하락…나스닥 2.25%↓](https://www.ajunews.com/view/20261120070723733) — 아주경제, 2026-11-20T07:11:09+09:00
+- [US_CLOSE_ETODAY] [뉴욕증시, 앤스로픽 잔치에도 2%대 급락⋯다우 5만선 붕괴 [종합]](https://www.etoday.co.kr/news/view/2650660) — 이투데이, 2026-11-20T07:31:00+09:00
+- [US_CLOSE_FAIR] [[뉴욕증시 마감] 앤트로픽 17% 상승에도 AI주 급락…다우 2.19%↓](https://www.thefairnews.co.kr/news/articleView.html?idxno=94874) — 더페어, 2026-11-20T07:09:54+09:00
+- [US_LIVE20_STOCKTITAN] [Stock Market Today, November 20, 2026: Chip Stocks Sink Deeper by Late Morning](https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026) — Stock Titan, 2026-11-20T07:13:29-05:00
+- [US_LIVE20_247] [AMD Stock Drops Another 7% Before the Bell and Taiwan Semiconductor Slides 4.2% as Nasdaq Futures Fall 1.6% After Asia's Chip Selloff](https://247wallst.com/investing/2026/11/20/amd-stock-drops-another-7-0-before-the-bell-and-taiwan-semiconductor-slides-4-2-as-nasdaq-futures-fall-1-6-after-asias-chip-selloff/) — 24/7 Wall St., 2026-11-20T07:13:09-05:00
+- [US_LIVE20_YF] [Stock market today: Dow rises, S&P 500 and Nasdaq deepen losses as Anthropic IPO fails to quell AI worries](https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html) — Yahoo Finance, 발표 시각 미확인
 - [US_CALENDAR] [Holidays and Trading Hours](https://www.nyse.com/trade/hours-calendars) — NYSE, 발표 시각 미확인
 
 요인 순위는 근거에 따른 편집 판단이며 주가 기여율·인과효과 추정치가 아닙니다. 기사 원문·유료 원자료는 재배포하지 않습니다.
