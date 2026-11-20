@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-19T21:32:58+00:00",
+  "generated_at": "2026-11-20T02:55:14+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-20",
   "coverage": {
@@ -71931,6 +71931,36 @@
     {
       "candidate_id": "C4945",
       "proposed_theme": "만성통증 유전체 연구·뇌신경 기반 바이오",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4946",
+      "proposed_theme": "사법부 판결·탄핵 공방과 정치적 대립",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C4947",
+      "proposed_theme": "빅테크 오너 일가·경영진 이해충돌 및 내부거버넌스 논란",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,

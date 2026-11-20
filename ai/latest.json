@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-19T21:32:58+00:00",
+  "generated_at": "2026-11-20T02:55:14+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-20",
   "coverage": {
@@ -19,10 +19,10 @@
   },
   "counts": {
     "themes": 114,
-    "open_candidates": 4646,
+    "open_candidates": 4648,
     "review_ready_candidates": 131,
     "latest_narratives": 100,
-    "verified_articles_in_collection_period": 11692
+    "verified_articles_in_collection_period": 11695
   },
   "collection_themes": [
     {
@@ -749,21 +749,21 @@
       "theme_id": "T050",
       "theme": "한미 핵추진잠수함·조선방산 협력",
       "status": "Active",
-      "article_count_total": 62,
+      "article_count_total": 63,
       "distinct_dates_total": 39,
       "publisher_count_total": 2,
       "first_seen": "2026-04-08",
       "last_seen": "2026-11-20",
-      "article_count_7d": 1,
+      "article_count_7d": 2,
       "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 0,
+      "publisher_count_7d": 2,
+      "cross_media_days_7d": 1,
+      "maekyung_count_7d": 1,
       "hankyung_count_7d": 1,
-      "article_count_28d": 5,
+      "article_count_28d": 6,
       "distinct_dates_28d": 4,
       "publisher_count_28d": 2,
-      "cross_media_days_28d": 1
+      "cross_media_days_28d": 2
     },
     {
       "theme_id": "T075",
@@ -1288,6 +1288,26 @@
       "cross_media_days_28d": 0
     },
     {
+      "theme_id": "T050",
+      "theme": "한미 핵추진잠수함·조선방산 협력",
+      "status": "Active",
+      "article_count_total": 63,
+      "distinct_dates_total": 39,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-08",
+      "last_seen": "2026-11-20",
+      "article_count_7d": 2,
+      "distinct_dates_7d": 1,
+      "publisher_count_7d": 2,
+      "cross_media_days_7d": 1,
+      "maekyung_count_7d": 1,
+      "hankyung_count_7d": 1,
+      "article_count_28d": 6,
+      "distinct_dates_28d": 4,
+      "publisher_count_28d": 2,
+      "cross_media_days_28d": 2
+    },
+    {
       "theme_id": "T064",
       "theme": "종부세·보유세 제도 변화",
       "status": "Active",
@@ -1424,26 +1444,6 @@
       "hankyung_count_7d": 1,
       "article_count_28d": 7,
       "distinct_dates_28d": 6,
-      "publisher_count_28d": 2,
-      "cross_media_days_28d": 1
-    },
-    {
-      "theme_id": "T050",
-      "theme": "한미 핵추진잠수함·조선방산 협력",
-      "status": "Active",
-      "article_count_total": 62,
-      "distinct_dates_total": 39,
-      "publisher_count_total": 2,
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-11-20",
-      "article_count_7d": 1,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 0,
-      "hankyung_count_7d": 1,
-      "article_count_28d": 5,
-      "distinct_dates_28d": 4,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 1
     },
@@ -5161,6 +5161,19 @@
       "candidate": ""
     },
     {
+      "article_id": "ART-009-0005766396",
+      "date": "2026-11-20",
+      "publisher": "매일경제",
+      "section": "A6면",
+      "headline": "IAEA 韓핵잠 보고서 첫 발간…\"핵비확산 의무 이행에 만족\"",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005766396?date=20261120",
+      "fact_summary": "국제원자력기구(IAEA)가 한국의 핵추진잠수함 건조 사업과 관련해 사무총장 명의의 첫 공식 보고서를 발간하고 회원국에 회람했다. IAEA는 한국이 핵물질 신고 의무를 이행했고 2007년부터 매년 '포괄적 결론'을 유지해왔다고 명시하며 핵 비확산 의무 이행에 만족을 표명했다. 외교부는 2027년에도 IAEA와 기술 협의를 지속해 전면안전조치협정 제14조에 따른 안전 조치 검증 방안을 마련할 계획이라고 밝혔다.",
+      "theme_id": "T050",
+      "theme": "한미 핵추진잠수함·조선방산 협력",
+      "candidate_id": "",
+      "candidate": ""
+    },
+    {
       "article_id": "ART-009-0005766398",
       "date": "2026-11-20",
       "publisher": "매일경제",
@@ -5315,6 +5328,19 @@
       "theme": "",
       "candidate_id": "C4943",
       "candidate": "ECB 총재 인선·유럽 통화정책 기조 전환"
+    },
+    {
+      "article_id": "ART-015-0005356040",
+      "date": "2026-11-20",
+      "publisher": "한국경제",
+      "section": "A10면",
+      "headline": "젠슨 황 딸 폭언까지 터졌다…\"직원에 '금붕어' 호칭\" 논란",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005356040?date=20261120",
+      "fact_summary": "젠슨 황 엔비디아 CEO의 장녀 매디슨 황과 사위 니코 카프레즈가 대중국 반도체 밀수 의혹을 받는 싱가포르 기업 메가스피드 관련 업무에 관여한 사실이 드러났다. 카프레즈는 2024년 입사해 1년여 만인 올해 1월 AI 인프라 성장 담당 부사장으로 승진했으며, 엔비디아 이사회는 전직 연방검사 준 김에게 젠슨 황 관련 의혹의 독립 조사를 의뢰했다. 직원들은 젠슨 황과 자녀들이 왕족처럼 대우받았다고 증언했고, 매디슨 황이 기억하지 못하는 직원을 '금붕어'라 부르는 등 행동에 인사 부서에 불만이 제기됐다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4947",
+      "candidate": "빅테크 오너 일가·경영진 이해충돌 및 내부거버넌스 논란"
     },
     {
       "article_id": "ART-015-0005356042",
@@ -5666,6 +5692,19 @@
       "theme": "국내 정치 지지율·여권 갈등",
       "candidate_id": "",
       "candidate": ""
+    },
+    {
+      "article_id": "ART-015-0005356032",
+      "date": "2026-11-20",
+      "publisher": "한국경제",
+      "section": "A8면",
+      "headline": "민주 격앙…'조희대 탄핵 카드' 꺼내나",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005356032?date=20261120",
+      "fact_summary": "대법원 전원합의체가 12·3 비상계엄 관련 내란 중요임무 종사 등 혐의로 기소된 한덕수 전 국무총리에게 일부 무죄 취지의 파기환송 판결을 내리자 더불어민주당은 비상 의원총회를 소집하고 조희대 대법원장 탄핵을 촉구했다. 국민의힘은 이를 '의회 쿠데타'이자 반헌법적 사법부 탄압이라고 규정하며 맞섰다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C4946",
+      "candidate": "사법부 판결·탄핵 공방과 정치적 대립"
     },
     {
       "article_id": "ART-015-0005356036",
@@ -6743,45 +6782,6 @@
       "fact_summary": "도널드 트럼프 미국 대통령이 중간선거에서 공화당이 상·하원 다수 의석을 모두 내준 뒤 아시아 순방 중 김정은 북한 국무위원장과 만날 수 있다고 언급했으며, 회동 장소로 중국을 거론했다. 드미트리 페스코프 크렘린궁 대변인은 김 위원장이 APEC 정상회의 현장에 오면 푸틴 대통령과 만날 수 있다고 답했다. 트럼프 대통령은 필리핀에서 열린 쿼드 정상회의에서 4개국이 지역·경제 안보와 외교 문제에서 긴밀히 협력하고 있다고 평가했다.",
       "theme_id": "T087",
       "theme": "글로벌 질서·지정학 리스크 재편",
-      "candidate_id": "",
-      "candidate": ""
-    },
-    {
-      "article_id": "ART-009-0005765121",
-      "date": "2026-11-18",
-      "publisher": "매일경제",
-      "section": "A5면",
-      "headline": "미중러 회담 후 공동성명 가능성 … 靑 \"韓입장 반영돼야\"",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005765121?date=20261118",
-      "fact_summary": "APEC 정상회의 계기로 19일 중국 선전에서 사상 첫 미·중·러 3자 정상회담이 열리며 공동성명 발표 가능성이 제기됐다. 크렘린궁은 공동성명 문안을 협의 중이라고 밝혔고, 트럼프 대통령은 비핵화·이란·우크라이나 문제를 논의할 것이라고 말했다. 청와대는 한반도 문제 등 국익 관련 사안에 한국 입장이 반영돼야 한다며 관련국과 소통 중이라고 밝혔다.",
-      "theme_id": "T087",
-      "theme": "글로벌 질서·지정학 리스크 재편",
-      "candidate_id": "",
-      "candidate": ""
-    },
-    {
-      "article_id": "ART-009-0005765226",
-      "date": "2026-11-18",
-      "publisher": "매일경제",
-      "section": "A5면",
-      "headline": "李대통령, 취임 후 처음으로 푸틴 만나나",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005765226?date=20261118",
-      "fact_summary": "크렘린궁 대변인은 푸틴 대통령이 18~19일 중국 선전 APEC 정상회의에서 이재명 대통령을 만날 것이라고 밝혔으나, 외교부는 한·러 정상 접촉에 정해진 사항이 없다고 밝혔다. 성사 시 취임 후 첫 회담이자 2019년 이후 7년 만의 한·러 정상회담이 된다. 이 대통령은 마닐라에서 다카이치 일본 총리와 6개월 만에 정상회담을 갖고 전략적 소통 강화에 공감했다.",
-      "theme_id": "T087",
-      "theme": "글로벌 질서·지정학 리스크 재편",
-      "candidate_id": "",
-      "candidate": ""
-    },
-    {
-      "article_id": "ART-009-0005765146",
-      "date": "2026-11-18",
-      "publisher": "매일경제",
-      "section": "A6면",
-      "headline": "국힘 윤리위원 '조작징계' 증거 공개",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005765146?date=20261118",
-      "fact_summary": "국민의힘 황경성 윤리위원이 17일 배현진 의원 징계 과정에 외부 인사가 개입한 정황을 공개했다. 최 모 교수가 지난 2월 징계 결정 당일 윤민우 윤리위원장에게 '배현진 1년' 메시지를 보냈고 윤 위원장이 '네'라고 답했으며, 윤리위는 실제 당원권 정지 1년을 의결했다. 당초 예고했던 장동혁 대표의 징계 개입 입증 자료는 이날 공개되지 않았다.",
-      "theme_id": "T089",
-      "theme": "국내 정치 지지율·여권 갈등",
       "candidate_id": "",
       "candidate": ""
     }

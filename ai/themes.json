@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-19T21:32:58+00:00",
+  "generated_at": "2026-11-20T02:55:14+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-20",
   "coverage": {
@@ -479,6 +479,26 @@
       "cross_media_days_28d": 0
     },
     {
+      "theme_id": "T050",
+      "theme": "한미 핵추진잠수함·조선방산 협력",
+      "status": "Active",
+      "article_count_total": 63,
+      "distinct_dates_total": 39,
+      "publisher_count_total": 2,
+      "first_seen": "2026-04-08",
+      "last_seen": "2026-11-20",
+      "article_count_7d": 2,
+      "distinct_dates_7d": 1,
+      "publisher_count_7d": 2,
+      "cross_media_days_7d": 1,
+      "maekyung_count_7d": 1,
+      "hankyung_count_7d": 1,
+      "article_count_28d": 6,
+      "distinct_dates_28d": 4,
+      "publisher_count_28d": 2,
+      "cross_media_days_28d": 2
+    },
+    {
       "theme_id": "T064",
       "theme": "종부세·보유세 제도 변화",
       "status": "Active",
@@ -615,26 +635,6 @@
       "hankyung_count_7d": 1,
       "article_count_28d": 7,
       "distinct_dates_28d": 6,
-      "publisher_count_28d": 2,
-      "cross_media_days_28d": 1
-    },
-    {
-      "theme_id": "T050",
-      "theme": "한미 핵추진잠수함·조선방산 협력",
-      "status": "Active",
-      "article_count_total": 62,
-      "distinct_dates_total": 39,
-      "publisher_count_total": 2,
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-11-20",
-      "article_count_7d": 1,
-      "distinct_dates_7d": 1,
-      "publisher_count_7d": 1,
-      "cross_media_days_7d": 0,
-      "maekyung_count_7d": 0,
-      "hankyung_count_7d": 1,
-      "article_count_28d": 5,
-      "distinct_dates_28d": 4,
       "publisher_count_28d": 2,
       "cross_media_days_28d": 1
     },

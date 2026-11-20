@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-19T21:32:58+00:00",
+  "generated_at": "2026-11-20T02:55:14+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-20",
   "coverage": {
@@ -19510,11 +19510,11 @@
       "week_id": "2026-W47",
       "theme_id": "T050",
       "theme": "한미 핵추진잠수함·조선방산 협력",
-      "article_count": 1,
-      "daily_average": 0.2,
+      "article_count": 2,
+      "daily_average": 0.4,
       "distinct_dates": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
       "hankyung_count": 1
     },
     {
