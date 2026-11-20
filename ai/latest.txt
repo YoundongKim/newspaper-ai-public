@@ -3,7 +3,7 @@
 매일경제 × 한국경제 실제 지면(A1-A10) 기사에서 관측된 경제·산업 Theme, Candidate, Narrative의 읽기 전용 공개 데이터입니다.
 
 Collection period: 2026-04-01 ~ 2026-11-20
-Generated: 2026-11-20T02:55:14+00:00
+Generated: 2026-11-20T14:02:10+00:00
 Coverage: 매일경제, 한국경제 / A1-A10
 Verified articles exported for collection period: 11695
 
@@ -38,6 +38,7 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T045 · 중동 군사충돌 확산 | period articles=124 | period dates=75 | first=2026-04-01 | last=2026-11-19
 - T048 · 북한 핵·미사일 위협 및 대북억지 | period articles=123 | period dates=73 | first=2026-04-07 | last=2026-11-20
 - T062 · 기업 사업재편·지배구조 변화 | period articles=121 | period dates=63 | first=2026-04-04 | last=2026-11-17
+- T115 · 초광역 메가특구·지방 첨단산업 클러스터 조성 | period articles=120 | period dates=64 | first=2026-04-16 | last=2026-11-19
 - T091 · 트럼프 행정부 통상·환율·금리 압박 | period articles=119 | period dates=77 | first=2026-04-01 | last=2026-11-17
 - T021 · 반도체 중심 수출 증가 | period articles=118 | period dates=61 | first=2026-04-02 | last=2026-11-20
 - T002 · AI 안전·거버넌스 | period articles=116 | period dates=59 | first=2026-04-01 | last=2026-11-11
@@ -50,7 +51,6 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T009 · 미국 인플레이션·Fed 긴축 | period articles=99 | period dates=54 | first=2026-04-01 | last=2026-11-19
 - T005 · AI 자동화·업무재설계·생산성 전환 | period articles=94 | period dates=62 | first=2026-04-02 | last=2026-11-18
 - T039 · 미국 정치 지형 변화 | period articles=90 | period dates=53 | first=2026-04-06 | last=2026-11-20
-- T042 · 정당 인사·정책조직 재편 | period articles=88 | period dates=58 | first=2026-04-01 | last=2026-11-03
 
 ## Recent 7-day Theme observations
 - T087 · 글로벌 질서·지정학 리스크 재편 | 7d articles=14 | 7d dates=4 | cross-media days=0 | 28d articles=17
@@ -70,14 +70,14 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - T111 · 한국 경제성장 전망·장기 성장 진단 | 7d articles=4 | 7d dates=2 | cross-media days=2 | 28d articles=6
 - T055 · 도심 주택공급·용도규제 완화 | 7d articles=4 | 7d dates=1 | cross-media days=0 | 28d articles=24
 - T024 · 스타트업 투자 양극화 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=3
+- T115 · 초광역 메가특구·지방 첨단산업 클러스터 조성 | 7d articles=3 | 7d dates=2 | cross-media days=1 | 28d articles=18
+- T116 · 중소·한계기업 신용리스크·기업대출 연체율 상승 | 7d articles=3 | 7d dates=1 | cross-media days=0 | 28d articles=6
 - T060 · 자동차 자율주행·AI 전환 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=3
 - T083 · 정당·여권 인사·연대 재편 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=13
 - T086 · AI 서비스·개인 에이전트 확산 | 7d articles=2 | 7d dates=2 | cross-media days=0 | 28d articles=8
 - T001 · 금융지주 지배구조·CEO 승계 | 7d articles=2 | 7d dates=1 | cross-media days=1 | 28d articles=4
 - T004 · 중동발 에너지·금융시장 충격 | 7d articles=2 | 7d dates=1 | cross-media days=1 | 28d articles=8
 - T012 · 서울 월세 상승·전세의 월세화 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=3
-- T050 · 한미 핵추진잠수함·조선방산 협력 | 7d articles=2 | 7d dates=1 | cross-media days=1 | 28d articles=6
-- T064 · 종부세·보유세 제도 변화 | 7d articles=2 | 7d dates=1 | cross-media days=0 | 28d articles=15
 
 ## Review-ready Candidate Signals
 - C2585 · 고유가 피해지원금 지급 | signal=PERSISTENT_CROSS_MEDIA | articles=4 | dates=3 | cross-media days=1
@@ -101,10 +101,10 @@ Interpretation: 기사 수·등장일수·양사 공통 등장일은 관측된 �
 - C2626 · 성과급 임금성·퇴직금 산정 분쟁 | signal=PERSISTENT | articles=5 | dates=2 | cross-media days=0
 - C0759 · 주택공급 관련 이슈 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
 - C2872 · 지방선거 유세·후보 지원 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
-- C4757 · 초광역 메가프로젝트·지역 산업특구 추진 | signal=PERSISTENT | articles=4 | dates=2 | cross-media days=0
 - C0038 · 퇴직 경제관료 재취업 심사 강화 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 - C0348 · 한국기업 ADR 프리미엄·본주 괴리 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
-- C1348 · 최저임금 인상·업종별 차등 논의 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C1615 · 일본 지진 등 자연재해로 인한 반도체 공급망 차질 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
+- C1971 · 한-이탈리아 정상외교·첨단산업 협력 | signal=PERSISTENT | articles=3 | dates=2 | cross-media days=0
 
 ## Latest Narrative Changes
 - T114 · 유럽 재정불안·국채금리·재정정책 리스크 | 2026-10-18~2026-11-14 | Previous에서 프랑스 국채금리 급등과 시민 시위 확산이 중심이었다면, Current에서는 프랑스 국채금리 상승이 회사채 금리 역전, 시위 폭력 사태·야간통금, 구직포기·복지함정 등 재정·사회 구조 논점으로 확장되고, 벨기에 예산 협상 결렬·총리 사임과 국채금리 급등이 새로운 사례로 추가됨. 국채금리 급등과 재정 부담이라는 반복 논점은 유지되나, 재정 협상 결렬이 정치적 사건으로 표면화되는 초점 변화가 확인됨.

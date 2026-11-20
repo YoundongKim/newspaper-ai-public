@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-20T02:55:14+00:00",
+  "generated_at": "2026-11-20T14:02:10+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-20",
   "coverage": {
@@ -590,7 +590,7 @@
     },
     {
       "candidate_id": "C4757",
-      "proposed_theme": "초광역 메가프로젝트·지역 산업특구 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 4,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -599,9 +599,9 @@
       "review_ready": true,
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0038",
@@ -680,7 +680,7 @@
     },
     {
       "candidate_id": "C1348",
-      "proposed_theme": "최저임금 인상·업종별 차등 논의",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 3,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -689,9 +689,9 @@
       "review_ready": true,
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1615",
@@ -1055,7 +1055,7 @@
     },
     {
       "candidate_id": "C0926",
-      "proposed_theme": "군공항 이전·반도체 클러스터 부지 조성",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 2,
       "publisher_count": 1,
@@ -1064,9 +1064,9 @@
       "review_ready": true,
       "first_seen": "2026-08-15",
       "last_seen": "2026-10-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0964",
@@ -1169,21 +1169,6 @@
       "review_ready": true,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C1309",
-      "proposed_theme": "정책/규제 관련 이슈",
-      "article_count": 2,
-      "distinct_dates": 2,
-      "publisher_count": 2,
-      "cross_media_days": 0,
-      "signal_type": "PERSISTENT",
-      "review_ready": true,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -1624,21 +1609,6 @@
       "next_action": "Merged → T100"
     },
     {
-      "candidate_id": "C1300",
-      "proposed_theme": "지주사 증손회사 지분규제 완화·첨단산업 투자",
-      "article_count": 4,
-      "distinct_dates": 1,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "signal_type": "CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
       "candidate_id": "C1814",
       "proposed_theme": "지방선거 결과·정당별 희비",
       "article_count": 4,
@@ -1649,21 +1619,6 @@
       "review_ready": true,
       "first_seen": "2026-06-04",
       "last_seen": "2026-06-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
-    },
-    {
-      "candidate_id": "C3464",
-      "proposed_theme": "첨단산업 규제완화·메가특구 조성",
-      "article_count": 4,
-      "distinct_dates": 1,
-      "publisher_count": 2,
-      "cross_media_days": 1,
-      "signal_type": "CROSS_MEDIA",
-      "review_ready": true,
-      "first_seen": "2026-04-16",
-      "last_seen": "2026-04-16",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
@@ -1835,7 +1790,7 @@
     },
     {
       "candidate_id": "C0234",
-      "proposed_theme": "광주 군공항 이전·지역 개발 연계",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -1844,9 +1799,9 @@
       "review_ready": true,
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0238",
@@ -2360,7 +2315,7 @@
     },
     {
       "candidate_id": "C3038",
-      "proposed_theme": "CPTPP 가입 추진과 산업별 경제효과 분석",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2369,9 +2324,9 @@
       "review_ready": true,
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C3273",
@@ -2435,7 +2390,7 @@
     },
     {
       "candidate_id": "C3578",
-      "proposed_theme": "최저임금 심의·적용범위 확대",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2444,9 +2399,9 @@
       "review_ready": true,
       "first_seen": "2026-04-22",
       "last_seen": "2026-04-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C3581",
@@ -2495,7 +2450,7 @@
     },
     {
       "candidate_id": "C3889",
-      "proposed_theme": "CPTPP 가입 추진·통상 협상",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 2,
@@ -2504,9 +2459,9 @@
       "review_ready": true,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "사용자 승인 대기: Merge / New Theme / Keep Candidate"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C3918",
@@ -2699,21 +2654,6 @@
       "review_ready": false,
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2214",
-      "proposed_theme": "지방 반도체 클러스터 조성·팹 건설 가속",
-      "article_count": 6,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-06-25",
-      "last_seen": "2026-06-25",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -3169,21 +3109,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C2306",
-      "proposed_theme": "반도체·AI 메가프로젝트 국가투자",
-      "article_count": 4,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-06-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C2329",
       "proposed_theme": "세계한상대회·재외동포 비즈니스 네트워크",
       "article_count": 4,
@@ -3409,21 +3334,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0424",
-      "proposed_theme": "은행권 기업여신 부실채권 급증",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0463",
       "proposed_theme": "차세대 XR·근안 디스플레이(OLEDoS) 경쟁과 공급망 주도권",
       "article_count": 3,
@@ -3590,7 +3500,7 @@
     },
     {
       "candidate_id": "C0818",
-      "proposed_theme": "메가프로젝트 반도체 클러스터 부지·규제 특례 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -3599,9 +3509,9 @@
       "review_ready": false,
       "first_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0851",
@@ -3709,21 +3619,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0985",
-      "proposed_theme": "지역 반도체 클러스터 육성·균형발전 산업정책",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-01",
-      "last_seen": "2026-07-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C1007",
       "proposed_theme": "스테이블코인 제도화·결제 인프라 확산",
       "article_count": 3,
@@ -3737,21 +3632,6 @@
       "status": "Merged",
       "canonical_theme_id": "T103",
       "next_action": "Merged → T103"
-    },
-    {
-      "candidate_id": "C1022",
-      "proposed_theme": "충청권 첨단산업 메가투자·데이터센터 클러스터",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
       "candidate_id": "C1060",
@@ -3794,21 +3674,6 @@
       "review_ready": false,
       "first_seen": "2026-07-04",
       "last_seen": "2026-07-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C1149",
-      "proposed_theme": "고령 은퇴자 재취업·단순직 쏠림",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-07-08",
-      "last_seen": "2026-07-08",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -4010,7 +3875,7 @@
     },
     {
       "candidate_id": "C1669",
-      "proposed_theme": "농지 전수조사·위법 농지 처분 유예",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -4019,9 +3884,9 @@
       "review_ready": false,
       "first_seen": "2026-09-22",
       "last_seen": "2026-09-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C1750",
@@ -4129,21 +3994,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1897",
-      "proposed_theme": "지방 반도체 클러스터 투자·균형발전 유치 경쟁",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-06-10",
-      "last_seen": "2026-06-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C2216",
       "proposed_theme": "석유화학 공급과잉·구조조정 지연",
       "article_count": 3,
@@ -4175,7 +4025,7 @@
     },
     {
       "candidate_id": "C2295",
-      "proposed_theme": "호남 반도체 클러스터·지역균형 대규모 투자",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -4184,13 +4034,13 @@
       "review_ready": false,
       "first_seen": "2026-06-29",
       "last_seen": "2026-06-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C2309",
-      "proposed_theme": "지역 반도체 클러스터 육성·인프라 경쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 3,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -4199,9 +4049,9 @@
       "review_ready": false,
       "first_seen": "2026-06-30",
       "last_seen": "2026-06-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C2317",
@@ -4397,21 +4247,6 @@
       "status": "Merged",
       "canonical_theme_id": "T104",
       "next_action": "Merged → T104"
-    },
-    {
-      "candidate_id": "C2874",
-      "proposed_theme": "상장사 배당 확대·주주환원 경쟁",
-      "article_count": 3,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
       "candidate_id": "C2948",
@@ -5524,21 +5359,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0392",
-      "proposed_theme": "노동조합 교섭범위·경영권 갈등",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0394",
       "proposed_theme": "메모리 가격 급등에 따른 스마트폰 원가 압력·저가폰 전략",
       "article_count": 2,
@@ -5579,6 +5399,21 @@
       "review_ready": false,
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-05",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C0424",
+      "proposed_theme": "은행권 기업여신 부실채권 급증",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -5809,23 +5644,8 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0603",
-      "proposed_theme": "R&D 인력 근로시간 규제 완화 경쟁",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C0629",
-      "proposed_theme": "반도체 호황기 대규모 주주환원 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -5834,9 +5654,9 @@
       "review_ready": false,
       "first_seen": "2026-08-22",
       "last_seen": "2026-08-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0642",
@@ -5849,21 +5669,6 @@
       "review_ready": false,
       "first_seen": "2026-08-22",
       "last_seen": "2026-08-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C0659",
-      "proposed_theme": "중소기업 파산·회생 신청 급증",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -6124,23 +5929,23 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0965",
-      "proposed_theme": "용인·서남권 반도체 클러스터 동시 추진",
+      "candidate_id": "C1021",
+      "proposed_theme": "IT업계 노조 교차 교섭대표 확산",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
       "cross_media_days": 0,
       "signal_type": "ONE_OFF",
       "review_ready": false,
-      "first_seen": "2026-07-01",
-      "last_seen": "2026-07-01",
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C1021",
-      "proposed_theme": "IT업계 노조 교차 교섭대표 확산",
+      "candidate_id": "C1022",
+      "proposed_theme": "충청권 첨단산업 메가투자·데이터센터 클러스터",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6185,7 +5990,7 @@
     },
     {
       "candidate_id": "C1117",
-      "proposed_theme": "호남권 반도체 클러스터·메가프로젝트 부지 조성",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6194,13 +5999,13 @@
       "review_ready": false,
       "first_seen": "2026-07-07",
       "last_seen": "2026-07-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1129",
-      "proposed_theme": "지역 반도체 클러스터·메가 프로젝트 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6209,9 +6014,9 @@
       "review_ready": false,
       "first_seen": "2026-07-07",
       "last_seen": "2026-07-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1130",
@@ -6260,7 +6065,22 @@
     },
     {
       "candidate_id": "C1148",
-      "proposed_theme": "지역 반도체 클러스터·메가특구 규제특례",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
+    },
+    {
+      "candidate_id": "C1149",
+      "proposed_theme": "고령 은퇴자 재취업·단순직 쏠림",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6335,7 +6155,7 @@
     },
     {
       "candidate_id": "C1193",
-      "proposed_theme": "정년 후 재고용·계속고용 확산",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6344,9 +6164,9 @@
       "review_ready": false,
       "first_seen": "2026-07-10",
       "last_seen": "2026-07-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C1214",
@@ -6424,8 +6244,23 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C1300",
+      "proposed_theme": "지주사 증손회사 지분규제 완화·첨단산업 투자",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C1319",
-      "proposed_theme": "한국 CPTPP 가입 추진·메가 FTA 확대",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6434,9 +6269,9 @@
       "review_ready": false,
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C1341",
@@ -6695,7 +6530,7 @@
     },
     {
       "candidate_id": "C1623",
-      "proposed_theme": "반도체 메가클러스터 특구·근로시간 예외",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6704,9 +6539,9 @@
       "review_ready": false,
       "first_seen": "2026-07-31",
       "last_seen": "2026-07-31",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1635",
@@ -6740,7 +6575,7 @@
     },
     {
       "candidate_id": "C1657",
-      "proposed_theme": "메가특구 노동규제 특례",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6749,9 +6584,9 @@
       "review_ready": false,
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1658",
@@ -6980,7 +6815,7 @@
     },
     {
       "candidate_id": "C1921",
-      "proposed_theme": "지방 투자·지역 균형 산업정책",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -6989,9 +6824,9 @@
       "review_ready": false,
       "first_seen": "2026-06-10",
       "last_seen": "2026-06-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1931",
@@ -7219,21 +7054,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C2197",
-      "proposed_theme": "지방 반도체 클러스터 대규모 투자",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-06-24",
-      "last_seen": "2026-06-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C2198",
       "proposed_theme": "선거관리기관 통제·수사 확대",
       "article_count": 2,
@@ -7274,6 +7094,21 @@
       "review_ready": false,
       "first_seen": "2026-06-24",
       "last_seen": "2026-06-24",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C2214",
+      "proposed_theme": "지방 반도체 클러스터 조성·팹 건설 가속",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-06-25",
+      "last_seen": "2026-06-25",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -7355,7 +7190,7 @@
     },
     {
       "candidate_id": "C2260",
-      "proposed_theme": "지역 균형 반도체·AI 메가프로젝트 투자",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -7364,9 +7199,9 @@
       "review_ready": false,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C2272",
@@ -7414,8 +7249,23 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C2306",
+      "proposed_theme": "반도체·AI 메가프로젝트 국가투자",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C2328",
-      "proposed_theme": "고령농 은퇴·농지 세대교체 지연",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -7424,9 +7274,9 @@
       "review_ready": false,
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C2345",
@@ -7834,36 +7684,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C2717",
-      "proposed_theme": "중소 제조업 경영난·공장경매 급증",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
-      "candidate_id": "C2720",
-      "proposed_theme": "중소기업 신용등급 악화·연체율 상승",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C2729",
       "proposed_theme": "지방선거 후보 공약·네거티브 공방",
       "article_count": 2,
@@ -8039,6 +7859,21 @@
       "review_ready": false,
       "first_seen": "2026-05-25",
       "last_seen": "2026-05-25",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C2874",
+      "proposed_theme": "상장사 배당 확대·주주환원 경쟁",
+      "article_count": 2,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -8885,7 +8720,7 @@
     },
     {
       "candidate_id": "C3956",
-      "proposed_theme": "CPTPP 가입 추진·보류와 농업 이해충돌",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -8894,13 +8729,13 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C3957",
-      "proposed_theme": "농지 처분·이용규제 완화",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -8909,9 +8744,9 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3996",
@@ -9604,21 +9439,6 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C4711",
-      "proposed_theme": "산업단지 중소 제조업체 대출 연체·한계기업 증가",
-      "article_count": 2,
-      "distinct_dates": 1,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "signal_type": "ONE_OFF",
-      "review_ready": false,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
-    },
-    {
       "candidate_id": "C4713",
       "proposed_theme": "부동산 부정청약·알박기 불법행위 단속 강화",
       "article_count": 2,
@@ -9740,7 +9560,7 @@
     },
     {
       "candidate_id": "C4845",
-      "proposed_theme": "부실징후기업·좀비기업 증가와 연쇄 도산 우려",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 2,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -9749,9 +9569,9 @@
       "review_ready": false,
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C4853",
@@ -10310,7 +10130,7 @@
     },
     {
       "candidate_id": "C0036",
-      "proposed_theme": "플랫폼·특수고용 종사자 최저보수제 논의",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -10319,9 +10139,9 @@
       "review_ready": false,
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C0037",
@@ -10835,7 +10655,7 @@
     },
     {
       "candidate_id": "C0075",
-      "proposed_theme": "메가특구·공공기관 지방이전 노정 협의",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -10844,9 +10664,9 @@
       "review_ready": false,
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0076",
@@ -10910,7 +10730,7 @@
     },
     {
       "candidate_id": "C0082",
-      "proposed_theme": "반도체 대기업 주주환원 확대와 자사주 소각 논란",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -10919,9 +10739,9 @@
       "review_ready": false,
       "first_seen": "2026-08-24",
       "last_seen": "2026-08-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0083",
@@ -11450,7 +11270,7 @@
     },
     {
       "candidate_id": "C0123",
-      "proposed_theme": "법인 토지 보유 확대·농경지 투기 논란",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -11459,9 +11279,9 @@
       "review_ready": false,
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C0125",
@@ -11825,7 +11645,7 @@
     },
     {
       "candidate_id": "C0158",
-      "proposed_theme": "메가특구법 입법 추진·상임위 소관 다툼",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -11834,9 +11654,9 @@
       "review_ready": false,
       "first_seen": "2026-08-26",
       "last_seen": "2026-08-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0159",
@@ -11855,7 +11675,7 @@
     },
     {
       "candidate_id": "C0160",
-      "proposed_theme": "반도체 팹 부지 토양정화 지연·호남 반도체 속도전 리스크",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -11864,9 +11684,9 @@
       "review_ready": false,
       "first_seen": "2026-08-26",
       "last_seen": "2026-08-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0161",
@@ -12350,7 +12170,7 @@
     },
     {
       "candidate_id": "C0197",
-      "proposed_theme": "대통령-재계 총수 소통과 산업현안",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -12359,9 +12179,9 @@
       "review_ready": false,
       "first_seen": "2026-08-27",
       "last_seen": "2026-08-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0198",
@@ -12680,7 +12500,7 @@
     },
     {
       "candidate_id": "C0224",
-      "proposed_theme": "정년제 개편·퇴직 후 재고용 논의",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -12689,9 +12509,9 @@
       "review_ready": false,
       "first_seen": "2026-08-28",
       "last_seen": "2026-08-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C0225",
@@ -12785,7 +12605,7 @@
     },
     {
       "candidate_id": "C0233",
-      "proposed_theme": "호남 반도체 클러스터 용지 선정·국회 청문회 공방",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -12794,9 +12614,9 @@
       "review_ready": false,
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0235",
@@ -12875,7 +12695,7 @@
     },
     {
       "candidate_id": "C0241",
-      "proposed_theme": "보험사 기업대출 연체율·부실채권 상승",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -12884,9 +12704,9 @@
       "review_ready": false,
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C0242",
@@ -12989,9 +12809,9 @@
       "review_ready": false,
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C0251",
@@ -13730,7 +13550,7 @@
     },
     {
       "candidate_id": "C0307",
-      "proposed_theme": "지역 균형 메가프로젝트·권역별 산업 육성",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -13739,9 +13559,9 @@
       "review_ready": false,
       "first_seen": "2026-09-01",
       "last_seen": "2026-09-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0309",
@@ -14090,7 +13910,7 @@
     },
     {
       "candidate_id": "C0337",
-      "proposed_theme": "석유제품 최고가격제 손실보전 정산",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -14099,9 +13919,9 @@
       "review_ready": false,
       "first_seen": "2026-09-02",
       "last_seen": "2026-09-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C0338",
@@ -14704,6 +14524,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C0392",
+      "proposed_theme": "노동조합 교섭범위·경영권 갈등",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C0395",
       "proposed_theme": "K푸드 조리법·한식 교육의 해외 확산",
       "article_count": 1,
@@ -14720,7 +14555,7 @@
     },
     {
       "candidate_id": "C0396",
-      "proposed_theme": "메가특구 규제혁신·노동유연화 입법",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -14729,9 +14564,9 @@
       "review_ready": false,
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0398",
@@ -14945,7 +14780,7 @@
     },
     {
       "candidate_id": "C0415",
-      "proposed_theme": "석유 최고가격제 정산 분쟁·소송",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -14954,9 +14789,9 @@
       "review_ready": false,
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C0416",
@@ -14990,7 +14825,7 @@
     },
     {
       "candidate_id": "C0418",
-      "proposed_theme": "메가특구 반도체 클러스터 특별법 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -14999,9 +14834,9 @@
       "review_ready": false,
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0419",
@@ -15170,7 +15005,7 @@
     },
     {
       "candidate_id": "C0435",
-      "proposed_theme": "메가특구 노동특례·사회적 대화",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15179,9 +15014,9 @@
       "review_ready": false,
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0436",
@@ -15245,7 +15080,7 @@
     },
     {
       "candidate_id": "C0444",
-      "proposed_theme": "국가기간 전력망 건설 수용성·지중화",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15254,9 +15089,9 @@
       "review_ready": false,
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0446",
@@ -15455,7 +15290,7 @@
     },
     {
       "candidate_id": "C0461",
-      "proposed_theme": "농지 투기 규제·전수조사 부작용",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15464,9 +15299,9 @@
       "review_ready": false,
       "first_seen": "2026-09-17",
       "last_seen": "2026-09-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C0464",
@@ -15500,7 +15335,7 @@
     },
     {
       "candidate_id": "C0466",
-      "proposed_theme": "농지 전수조사·강제몰수 논란과 정책 후퇴",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15509,9 +15344,9 @@
       "review_ready": false,
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C0468",
@@ -15560,7 +15395,7 @@
     },
     {
       "candidate_id": "C0472",
-      "proposed_theme": "메가특구 노동규제 특례·사회적 대화",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15569,9 +15404,9 @@
       "review_ready": false,
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0474",
@@ -15590,7 +15425,7 @@
     },
     {
       "candidate_id": "C0476",
-      "proposed_theme": "농지 불법 임대·전용 규제 강화",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15599,9 +15434,9 @@
       "review_ready": false,
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C0477",
@@ -15845,7 +15680,7 @@
     },
     {
       "candidate_id": "C0497",
-      "proposed_theme": "석탄발전 폐지·LNG 전환 및 반도체 전력 공급",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -15854,9 +15689,9 @@
       "review_ready": false,
       "first_seen": "2026-09-19",
       "last_seen": "2026-09-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0499",
@@ -16265,7 +16100,7 @@
     },
     {
       "candidate_id": "C0530",
-      "proposed_theme": "반도체 대기업 대규모 주주환원 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -16274,9 +16109,9 @@
       "review_ready": false,
       "first_seen": "2026-08-17",
       "last_seen": "2026-08-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0531",
@@ -16520,7 +16355,7 @@
     },
     {
       "candidate_id": "C0550",
-      "proposed_theme": "지역 메가프로젝트 산업투자와 정부 세제·인프라 지원",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -16529,9 +16364,9 @@
       "review_ready": false,
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0551",
@@ -16595,7 +16430,7 @@
     },
     {
       "candidate_id": "C0555",
-      "proposed_theme": "중소기업 대출 연체·신용리스크 확대",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -16604,9 +16439,9 @@
       "review_ready": false,
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C0556",
@@ -16910,7 +16745,7 @@
     },
     {
       "candidate_id": "C0584",
-      "proposed_theme": "대규모 자사주 취득·소각을 통한 주주환원 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -16919,9 +16754,9 @@
       "review_ready": false,
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0586",
@@ -16970,7 +16805,7 @@
     },
     {
       "candidate_id": "C0589",
-      "proposed_theme": "반도체 대기업 자사주 소각·주주환원 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -16979,9 +16814,9 @@
       "review_ready": false,
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0591",
@@ -17060,7 +16895,7 @@
     },
     {
       "candidate_id": "C0596",
-      "proposed_theme": "반도체 대형주 대규모 주주환원",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -17069,13 +16904,28 @@
       "review_ready": false,
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-20",
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
+    },
+    {
+      "candidate_id": "C0600",
+      "proposed_theme": "주 52시간제 완화·화이트칼라 예외 논의",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
-      "candidate_id": "C0600",
-      "proposed_theme": "주 52시간제 완화·화이트칼라 예외 논의",
+      "candidate_id": "C0603",
+      "proposed_theme": "R&D 인력 근로시간 규제 완화 경쟁",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -17180,7 +17030,7 @@
     },
     {
       "candidate_id": "C0611",
-      "proposed_theme": "대규모 주주환원·자사주 매입 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -17189,9 +17039,9 @@
       "review_ready": false,
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0612",
@@ -17495,7 +17345,7 @@
     },
     {
       "candidate_id": "C0637",
-      "proposed_theme": "석유제품 최고가격제와 정유사 손실보전 부담",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -17504,9 +17354,9 @@
       "review_ready": false,
       "first_seen": "2026-08-22",
       "last_seen": "2026-08-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C0638",
@@ -17570,7 +17420,7 @@
     },
     {
       "candidate_id": "C0643",
-      "proposed_theme": "대기업 대규모 주주환원·자사주 매입 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -17579,9 +17429,9 @@
       "review_ready": false,
       "first_seen": "2026-08-22",
       "last_seen": "2026-08-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0644",
@@ -17789,6 +17639,21 @@
       "review_ready": false,
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-20",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C0659",
+      "proposed_theme": "중소기업 파산·회생 신청 급증",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
       "status": "Open",
       "canonical_theme_id": "",
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
@@ -18110,7 +17975,7 @@
     },
     {
       "candidate_id": "C0687",
-      "proposed_theme": "지역균형 산업정책·메가특구 육성",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18119,9 +17984,9 @@
       "review_ready": false,
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-05",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0688",
@@ -18575,7 +18440,7 @@
     },
     {
       "candidate_id": "C0721",
-      "proposed_theme": "메가프로젝트 반도체 클러스터 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18584,9 +18449,9 @@
       "review_ready": false,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0722",
@@ -18740,7 +18605,7 @@
     },
     {
       "candidate_id": "C0734",
-      "proposed_theme": "호남 반도체 클러스터 부지·군공항 이전 갈등",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18749,9 +18614,9 @@
       "review_ready": false,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0735",
@@ -18845,7 +18710,7 @@
     },
     {
       "candidate_id": "C0741",
-      "proposed_theme": "주52시간 예외·반도체 초과이익 재투자 논쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -18854,9 +18719,9 @@
       "review_ready": false,
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0742",
@@ -19235,7 +19100,7 @@
     },
     {
       "candidate_id": "C0780",
-      "proposed_theme": "반도체 생산기지 대규모 투자·팹 건설",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -19244,9 +19109,9 @@
       "review_ready": false,
       "first_seen": "2026-08-08",
       "last_seen": "2026-08-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0781",
@@ -19565,7 +19430,7 @@
     },
     {
       "candidate_id": "C0806",
-      "proposed_theme": "기업 어음부도율 상승·중소기업 신용리스크 확대",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -19574,9 +19439,9 @@
       "review_ready": false,
       "first_seen": "2026-08-10",
       "last_seen": "2026-08-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C0807",
@@ -19715,7 +19580,7 @@
     },
     {
       "candidate_id": "C0819",
-      "proposed_theme": "삼성전자 대규모 주주환원 전망",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -19724,9 +19589,9 @@
       "review_ready": false,
       "first_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C0820",
@@ -20075,7 +19940,7 @@
     },
     {
       "candidate_id": "C0843",
-      "proposed_theme": "호남 반도체 클러스터 조성과 정부 메가프로젝트",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20084,9 +19949,9 @@
       "review_ready": false,
       "first_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0844",
@@ -20195,7 +20060,7 @@
     },
     {
       "candidate_id": "C0857",
-      "proposed_theme": "용인 반도체 클러스터 인프라 지원",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20204,9 +20069,9 @@
       "review_ready": false,
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0858",
@@ -20270,7 +20135,7 @@
     },
     {
       "candidate_id": "C0862",
-      "proposed_theme": "첨단산업 특구 근로시간제 예외 논의",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20279,9 +20144,9 @@
       "review_ready": false,
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0864",
@@ -20585,7 +20450,7 @@
     },
     {
       "candidate_id": "C0889",
-      "proposed_theme": "반도체 특구 주52시간 예외·화이트칼라 근로제 논쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20594,9 +20459,9 @@
       "review_ready": false,
       "first_seen": "2026-08-13",
       "last_seen": "2026-08-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0890",
@@ -20630,7 +20495,7 @@
     },
     {
       "candidate_id": "C0894",
-      "proposed_theme": "청년 근로자 생계비 부담·실질소득 악화",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20639,9 +20504,9 @@
       "review_ready": false,
       "first_seen": "2026-08-13",
       "last_seen": "2026-08-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C0895",
@@ -20735,7 +20600,7 @@
     },
     {
       "candidate_id": "C0905",
-      "proposed_theme": "메가특구 지정·지역 반도체 클러스터 유치 경쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -20744,9 +20609,9 @@
       "review_ready": false,
       "first_seen": "2026-08-14",
       "last_seen": "2026-08-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0906",
@@ -21230,7 +21095,7 @@
     },
     {
       "candidate_id": "C0944",
-      "proposed_theme": "호남 반도체 클러스터 팹 유치·국가산단 확대",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -21239,9 +21104,9 @@
       "review_ready": false,
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0945",
@@ -21454,6 +21319,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C0965",
+      "proposed_theme": "용인·서남권 반도체 클러스터 동시 추진",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-01",
+      "last_seen": "2026-07-01",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C0967",
       "proposed_theme": "AI 기반 금융·종목 정보 서비스 확산",
       "article_count": 1,
@@ -21485,7 +21365,7 @@
     },
     {
       "candidate_id": "C0969",
-      "proposed_theme": "서남권 첨단산업 육성·지역 차등 세제",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -21494,13 +21374,13 @@
       "review_ready": false,
       "first_seen": "2026-07-01",
       "last_seen": "2026-07-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0970",
-      "proposed_theme": "반도체 산단 용수·전력 인프라 확보",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -21509,9 +21389,9 @@
       "review_ready": false,
       "first_seen": "2026-07-14",
       "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C0971",
@@ -21635,7 +21515,7 @@
     },
     {
       "candidate_id": "C0979",
-      "proposed_theme": "최저임금 노사 협상",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -21644,9 +21524,9 @@
       "review_ready": false,
       "first_seen": "2026-07-01",
       "last_seen": "2026-07-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C0980",
@@ -21666,6 +21546,21 @@
     {
       "candidate_id": "C0984",
       "proposed_theme": "서울 주택 준공·착공 물량 급감",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-07-01",
+      "last_seen": "2026-07-01",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C0985",
+      "proposed_theme": "지역 반도체 클러스터 육성·균형발전 산업정책",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -21860,7 +21755,7 @@
     },
     {
       "candidate_id": "C1001",
-      "proposed_theme": "지역 반도체 클러스터 인프라·투자",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -21869,9 +21764,9 @@
       "review_ready": false,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1003",
@@ -22355,7 +22250,7 @@
     },
     {
       "candidate_id": "C1040",
-      "proposed_theme": "지역 첨단산업 메가투자·특구 유치",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -22364,9 +22259,9 @@
       "review_ready": false,
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1041",
@@ -22415,7 +22310,7 @@
     },
     {
       "candidate_id": "C1044",
-      "proposed_theme": "최저임금 인상 논쟁과 물가 부담",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -22424,9 +22319,9 @@
       "review_ready": false,
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1045",
@@ -22700,7 +22595,7 @@
     },
     {
       "candidate_id": "C1066",
-      "proposed_theme": "노란봉투법·상법 개정과 대규모 산업투자 갈등",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -22709,9 +22604,9 @@
       "review_ready": false,
       "first_seen": "2026-07-04",
       "last_seen": "2026-07-04",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1067",
@@ -23240,7 +23135,7 @@
     },
     {
       "candidate_id": "C1111",
-      "proposed_theme": "3대 메가 프로젝트·2차 산업화 전략",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -23249,9 +23144,9 @@
       "review_ready": false,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1113",
@@ -23315,7 +23210,7 @@
     },
     {
       "candidate_id": "C1119",
-      "proposed_theme": "메가프로젝트 행정절차 신속화",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -23324,9 +23219,9 @@
       "review_ready": false,
       "first_seen": "2026-07-07",
       "last_seen": "2026-07-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1120",
@@ -23480,7 +23375,7 @@
     },
     {
       "candidate_id": "C1134",
-      "proposed_theme": "지역 반도체 클러스터 부지 조성·행정절차",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -23489,9 +23384,9 @@
       "review_ready": false,
       "first_seen": "2026-07-07",
       "last_seen": "2026-07-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1137",
@@ -23795,7 +23690,7 @@
     },
     {
       "candidate_id": "C1165",
-      "proposed_theme": "메가특구·산업AI 입법 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -23804,9 +23699,9 @@
       "review_ready": false,
       "first_seen": "2026-07-09",
       "last_seen": "2026-07-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1166",
@@ -24335,7 +24230,7 @@
     },
     {
       "candidate_id": "C1216",
-      "proposed_theme": "군공항 이전·반도체 클러스터 부지 확보",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24344,13 +24239,13 @@
       "review_ready": false,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1217",
-      "proposed_theme": "반도체·AI 메가프로젝트 특별법·규제특례 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24359,9 +24254,9 @@
       "review_ready": false,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1218",
@@ -24650,7 +24545,7 @@
     },
     {
       "candidate_id": "C1245",
-      "proposed_theme": "미군기지 이전·부지 산업단지 활용",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24659,13 +24554,13 @@
       "review_ready": false,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1246",
-      "proposed_theme": "첨단산업 연구인력 주52시간 예외 논의",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24674,9 +24569,9 @@
       "review_ready": false,
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1247",
@@ -24935,7 +24830,7 @@
     },
     {
       "candidate_id": "C1270",
-      "proposed_theme": "AI 반도체 수요 대응 국내외 팹 증설·인프라 지원",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -24944,9 +24839,9 @@
       "review_ready": false,
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1271",
@@ -25354,8 +25249,23 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C1309",
+      "proposed_theme": "정책/규제 관련 이슈",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C1310",
-      "proposed_theme": "산업정책 관련 이슈",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -25364,9 +25274,9 @@
       "review_ready": false,
       "first_seen": "2026-07-14",
       "last_seen": "2026-07-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1311",
@@ -25400,7 +25310,7 @@
     },
     {
       "candidate_id": "C1317",
-      "proposed_theme": "최저임금 인상·인건비 부담",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -25409,13 +25319,13 @@
       "review_ready": false,
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1320",
-      "proposed_theme": "최저임금 인상·임금 결정 구조",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -25424,9 +25334,9 @@
       "review_ready": false,
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1321",
@@ -25625,7 +25535,7 @@
     },
     {
       "candidate_id": "C1337",
-      "proposed_theme": "최저임금 인상과 영세사업장 인건비 부담",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -25634,9 +25544,9 @@
       "review_ready": false,
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1338",
@@ -26195,7 +26105,7 @@
     },
     {
       "candidate_id": "C1387",
-      "proposed_theme": "금리인상기 중소기업 연체·이자부담",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -26204,9 +26114,9 @@
       "review_ready": false,
       "first_seen": "2026-07-18",
       "last_seen": "2026-07-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C1389",
@@ -26285,7 +26195,7 @@
     },
     {
       "candidate_id": "C1394",
-      "proposed_theme": "최저임금 제도개선·적용범위 논의",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -26294,9 +26204,9 @@
       "review_ready": false,
       "first_seen": "2026-07-18",
       "last_seen": "2026-07-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1395",
@@ -26315,7 +26225,7 @@
     },
     {
       "candidate_id": "C1396",
-      "proposed_theme": "메가프로젝트 전력수요·탄소중립 목표 충돌",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -26324,9 +26234,9 @@
       "review_ready": false,
       "first_seen": "2026-07-18",
       "last_seen": "2026-07-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1398",
@@ -27605,7 +27515,7 @@
     },
     {
       "candidate_id": "C1516",
-      "proposed_theme": "지역 반도체 클러스터 유치 경쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27614,9 +27524,9 @@
       "review_ready": false,
       "first_seen": "2026-07-23",
       "last_seen": "2026-07-23",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1517",
@@ -27755,7 +27665,7 @@
     },
     {
       "candidate_id": "C1529",
-      "proposed_theme": "노사정 사회적 대화·교섭구조 재편",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27764,9 +27674,9 @@
       "review_ready": false,
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1530",
@@ -27785,7 +27695,7 @@
     },
     {
       "candidate_id": "C1532",
-      "proposed_theme": "반도체·AI 메가프로젝트 특구 입법 경쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -27794,9 +27704,9 @@
       "review_ready": false,
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1533",
@@ -28265,7 +28175,7 @@
     },
     {
       "candidate_id": "C1578",
-      "proposed_theme": "장기 천연가스 수급계획과 메가프로젝트 전력수요 반영",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -28274,9 +28184,9 @@
       "review_ready": false,
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C1579",
@@ -29405,7 +29315,7 @@
     },
     {
       "candidate_id": "C1675",
-      "proposed_theme": "농지 전수조사 후속 양성화·특별조치",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -29414,9 +29324,9 @@
       "review_ready": false,
       "first_seen": "2026-09-22",
       "last_seen": "2026-09-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C1677",
@@ -29510,7 +29420,7 @@
     },
     {
       "candidate_id": "C1683",
-      "proposed_theme": "농지 이용실태 전수조사·위반 처분 유예",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -29519,9 +29429,9 @@
       "review_ready": false,
       "first_seen": "2026-09-22",
       "last_seen": "2026-09-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C1684",
@@ -30065,7 +29975,7 @@
     },
     {
       "candidate_id": "C1723",
-      "proposed_theme": "농지 전수조사·불법 농지 투기 규제",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -30074,9 +29984,9 @@
       "review_ready": false,
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C1724",
@@ -32269,6 +32179,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C1897",
+      "proposed_theme": "지방 반도체 클러스터 투자·균형발전 유치 경쟁",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-06-10",
+      "last_seen": "2026-06-10",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C1898",
       "proposed_theme": "국내 증시 변동성 급등·환율 급변",
       "article_count": 1,
@@ -32390,7 +32315,7 @@
     },
     {
       "candidate_id": "C1906",
-      "proposed_theme": "플랫폼 노동 실태조사·최저임금 심의 자료 논란",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -32399,9 +32324,9 @@
       "review_ready": false,
       "first_seen": "2026-06-10",
       "last_seen": "2026-06-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C1907",
@@ -32540,7 +32465,7 @@
     },
     {
       "candidate_id": "C1917",
-      "proposed_theme": "정년 연장·임금체계 개편",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -32549,9 +32474,9 @@
       "review_ready": false,
       "first_seen": "2026-06-10",
       "last_seen": "2026-06-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C1918",
@@ -32975,7 +32900,7 @@
     },
     {
       "candidate_id": "C1950",
-      "proposed_theme": "한계기업 이자부담·대중소기업 실적 양극화",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -32984,9 +32909,9 @@
       "review_ready": false,
       "first_seen": "2026-06-11",
       "last_seen": "2026-06-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C1951",
@@ -33245,7 +33170,7 @@
     },
     {
       "candidate_id": "C1968",
-      "proposed_theme": "정년연장·고령자 고용효과 논쟁",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -33254,9 +33179,9 @@
       "review_ready": false,
       "first_seen": "2026-06-12",
       "last_seen": "2026-06-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C1969",
@@ -34025,7 +33950,7 @@
     },
     {
       "candidate_id": "C2025",
-      "proposed_theme": "최저임금 인상 요구·임금 협상",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34034,9 +33959,9 @@
       "review_ready": false,
       "first_seen": "2026-06-16",
       "last_seen": "2026-06-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2026",
@@ -34175,7 +34100,7 @@
     },
     {
       "candidate_id": "C2035",
-      "proposed_theme": "한계기업·좀비기업 정리와 생산성 개선",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34184,9 +34109,9 @@
       "review_ready": false,
       "first_seen": "2026-06-16",
       "last_seen": "2026-06-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C2036",
@@ -34220,7 +34145,7 @@
     },
     {
       "candidate_id": "C2038",
-      "proposed_theme": "최저임금 인상 요구·차등적용 논의",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34229,9 +34154,9 @@
       "review_ready": false,
       "first_seen": "2026-06-16",
       "last_seen": "2026-06-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2039",
@@ -34355,7 +34280,7 @@
     },
     {
       "candidate_id": "C2047",
-      "proposed_theme": "최저임금 인상률·차등적용 논쟁",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34364,9 +34289,9 @@
       "review_ready": false,
       "first_seen": "2026-06-16",
       "last_seen": "2026-06-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2048",
@@ -34445,7 +34370,7 @@
     },
     {
       "candidate_id": "C2053",
-      "proposed_theme": "정년연장·재고용 제도화 논쟁",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34454,9 +34379,9 @@
       "review_ready": false,
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C2054",
@@ -34490,7 +34415,7 @@
     },
     {
       "candidate_id": "C2058",
-      "proposed_theme": "최저임금 업종별 차등 적용 논쟁",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34499,9 +34424,9 @@
       "review_ready": false,
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2059",
@@ -34610,7 +34535,7 @@
     },
     {
       "candidate_id": "C2066",
-      "proposed_theme": "반도체 기업 대규모 주주환원·자사주 매입",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34619,9 +34544,9 @@
       "review_ready": false,
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C2067",
@@ -34715,7 +34640,7 @@
     },
     {
       "candidate_id": "C2073",
-      "proposed_theme": "SK하이닉스 ADR 상장·주주환원",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34724,9 +34649,9 @@
       "review_ready": false,
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C2074",
@@ -34805,7 +34730,7 @@
     },
     {
       "candidate_id": "C2079",
-      "proposed_theme": "중소기업 신용보증 부실·대위변제 확대",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -34814,9 +34739,9 @@
       "review_ready": false,
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C2080",
@@ -35015,7 +34940,7 @@
     },
     {
       "candidate_id": "C2095",
-      "proposed_theme": "정년연장·계속고용 제도 논의",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -35024,9 +34949,9 @@
       "review_ready": false,
       "first_seen": "2026-06-18",
       "last_seen": "2026-06-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C2097",
@@ -35459,9 +35384,9 @@
       "review_ready": false,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C2126",
@@ -36424,6 +36349,21 @@
       "next_action": "Merged → T104"
     },
     {
+      "candidate_id": "C2197",
+      "proposed_theme": "지방 반도체 클러스터 대규모 투자",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-06-24",
+      "last_seen": "2026-06-24",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C2199",
       "proposed_theme": "한중 정상·고위급 외교 재개",
       "article_count": 1,
@@ -36470,7 +36410,7 @@
     },
     {
       "candidate_id": "C2202",
-      "proposed_theme": "최저임금 인상·동결 갈등",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -36479,9 +36419,9 @@
       "review_ready": false,
       "first_seen": "2026-06-24",
       "last_seen": "2026-06-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2203",
@@ -36590,7 +36530,7 @@
     },
     {
       "candidate_id": "C2212",
-      "proposed_theme": "최저임금 인상률 노사 요구 격차",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -36599,9 +36539,9 @@
       "review_ready": false,
       "first_seen": "2026-06-24",
       "last_seen": "2026-06-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2213",
@@ -36845,7 +36785,7 @@
     },
     {
       "candidate_id": "C2233",
-      "proposed_theme": "정년 연장·연공서열 개편 논의",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -36854,9 +36794,9 @@
       "review_ready": false,
       "first_seen": "2026-06-25",
       "last_seen": "2026-06-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C2234",
@@ -36920,7 +36860,7 @@
     },
     {
       "candidate_id": "C2240",
-      "proposed_theme": "반도체 클러스터 인프라 정부지원",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -36929,9 +36869,9 @@
       "review_ready": false,
       "first_seen": "2026-06-26",
       "last_seen": "2026-06-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C2241",
@@ -36995,7 +36935,7 @@
     },
     {
       "candidate_id": "C2245",
-      "proposed_theme": "최저임금 심의 노사 격차",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37004,9 +36944,9 @@
       "review_ready": false,
       "first_seen": "2026-06-26",
       "last_seen": "2026-06-26",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2246",
@@ -37130,7 +37070,7 @@
     },
     {
       "candidate_id": "C2258",
-      "proposed_theme": "석유 최고가격제·물가안정 재정투입",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37139,9 +37079,9 @@
       "review_ready": false,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C2259",
@@ -37295,7 +37235,7 @@
     },
     {
       "candidate_id": "C2270",
-      "proposed_theme": "석유제품 최고가격제·공공요금 동결",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37304,9 +37244,9 @@
       "review_ready": false,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C2271",
@@ -37385,7 +37325,7 @@
     },
     {
       "candidate_id": "C2277",
-      "proposed_theme": "호남 반도체 클러스터 인프라 논란",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37394,9 +37334,9 @@
       "review_ready": false,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C2278",
@@ -37790,7 +37730,7 @@
     },
     {
       "candidate_id": "C2308",
-      "proposed_theme": "반도체 클러스터 입지 선정 갈등",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -37799,9 +37739,9 @@
       "review_ready": false,
       "first_seen": "2026-06-30",
       "last_seen": "2026-06-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C2310",
@@ -38090,7 +38030,7 @@
     },
     {
       "candidate_id": "C2332",
-      "proposed_theme": "농지 전수조사·농지 투기 규제 논쟁",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38099,9 +38039,9 @@
       "review_ready": false,
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C2333",
@@ -38570,7 +38510,7 @@
     },
     {
       "candidate_id": "C2368",
-      "proposed_theme": "정년연장 제도설계·청년고용 갈등",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38579,9 +38519,9 @@
       "review_ready": false,
       "first_seen": "2026-05-01",
       "last_seen": "2026-05-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C2369",
@@ -38735,7 +38675,7 @@
     },
     {
       "candidate_id": "C2379",
-      "proposed_theme": "법정 정년연장 논의와 기업 인건비 부담",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38744,9 +38684,9 @@
       "review_ready": false,
       "first_seen": "2026-05-01",
       "last_seen": "2026-05-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C2380",
@@ -38990,7 +38930,7 @@
     },
     {
       "candidate_id": "C2398",
-      "proposed_theme": "지방은행 중소기업 연체율 상승",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -38999,9 +38939,9 @@
       "review_ready": false,
       "first_seen": "2026-05-02",
       "last_seen": "2026-05-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C2399",
@@ -40625,7 +40565,7 @@
     },
     {
       "candidate_id": "C2528",
-      "proposed_theme": "석유제품 최고가격제와 정유사 손실 보전",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -40634,9 +40574,9 @@
       "review_ready": false,
       "first_seen": "2026-05-08",
       "last_seen": "2026-05-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C2529",
@@ -40940,7 +40880,7 @@
     },
     {
       "candidate_id": "C2550",
-      "proposed_theme": "기업대출 연체율 상승과 중소기업 자금난",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -40949,9 +40889,9 @@
       "review_ready": false,
       "first_seen": "2026-05-09",
       "last_seen": "2026-05-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C2551",
@@ -41300,7 +41240,7 @@
     },
     {
       "candidate_id": "C2579",
-      "proposed_theme": "정년연장 입법 추진",
+      "proposed_theme": "정년연장·고령자 고용방식 개편",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -41309,9 +41249,9 @@
       "review_ready": false,
       "first_seen": "2026-05-11",
       "last_seen": "2026-05-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T122",
+      "next_action": "Merged → T122"
     },
     {
       "candidate_id": "C2580",
@@ -43054,6 +42994,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C2717",
+      "proposed_theme": "중소 제조업 경영난·공장경매 급증",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C2718",
       "proposed_theme": "고금리·고환율로 인한 초고가 수입차 수요 위축",
       "article_count": 1,
@@ -43071,6 +43026,21 @@
     {
       "candidate_id": "C2719",
       "proposed_theme": "주식 투자전략 강연회·투자정보 행사",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C2720",
+      "proposed_theme": "중소기업 신용등급 악화·연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -45695,7 +45665,7 @@
     },
     {
       "candidate_id": "C2934",
-      "proposed_theme": "최저임금 인상 요구와 노사 대립",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -45704,9 +45674,9 @@
       "review_ready": false,
       "first_seen": "2026-05-27",
       "last_seen": "2026-05-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C2935",
@@ -46970,7 +46940,7 @@
     },
     {
       "candidate_id": "C3034",
-      "proposed_theme": "메가프로젝트 민관 점검회의·반도체·AI 산업정책",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -46979,9 +46949,9 @@
       "review_ready": false,
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C3035",
@@ -47675,7 +47645,7 @@
     },
     {
       "candidate_id": "C3086",
-      "proposed_theme": "농지 전수조사·농지규제 갈등",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -47684,9 +47654,9 @@
       "review_ready": false,
       "first_seen": "2026-10-01",
       "last_seen": "2026-10-01",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3087",
@@ -48035,7 +48005,7 @@
     },
     {
       "candidate_id": "C3114",
-      "proposed_theme": "석유 최고가격제 손실보전·정산 갈등",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48044,9 +48014,9 @@
       "review_ready": false,
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3115",
@@ -48185,7 +48155,7 @@
     },
     {
       "candidate_id": "C3125",
-      "proposed_theme": "석유 최고가격제·물가 안정 정책",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48194,9 +48164,9 @@
       "review_ready": false,
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3126",
@@ -48365,7 +48335,7 @@
     },
     {
       "candidate_id": "C3137",
-      "proposed_theme": "농지은행 공공임대 농지 매입 부진",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48374,9 +48344,9 @@
       "review_ready": false,
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3138",
@@ -48710,7 +48680,7 @@
     },
     {
       "candidate_id": "C3161",
-      "proposed_theme": "플랫폼·도급 노동자 최저임금 적용 확대 논의",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48719,9 +48689,9 @@
       "review_ready": false,
       "first_seen": "2026-04-02",
       "last_seen": "2026-04-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C3162",
@@ -48815,7 +48785,7 @@
     },
     {
       "candidate_id": "C3168",
-      "proposed_theme": "농지 투기 단속·전수조사",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -48824,9 +48794,9 @@
       "review_ready": false,
       "first_seen": "2026-04-02",
       "last_seen": "2026-04-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3169",
@@ -49070,7 +49040,7 @@
     },
     {
       "candidate_id": "C3185",
-      "proposed_theme": "석유 최고가격제와 주유소 공급망 교란",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -49079,9 +49049,9 @@
       "review_ready": false,
       "first_seen": "2026-04-03",
       "last_seen": "2026-04-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3186",
@@ -49145,7 +49115,7 @@
     },
     {
       "candidate_id": "C3190",
-      "proposed_theme": "석유 최고가격제·주유소 공급구조 변화",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -49154,9 +49124,9 @@
       "review_ready": false,
       "first_seen": "2026-04-03",
       "last_seen": "2026-04-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3191",
@@ -50855,7 +50825,7 @@
     },
     {
       "candidate_id": "C3319",
-      "proposed_theme": "석유 최고가격제·정유 유통구조 개편",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -50864,9 +50834,9 @@
       "review_ready": false,
       "first_seen": "2026-04-10",
       "last_seen": "2026-04-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3320",
@@ -51095,7 +51065,7 @@
     },
     {
       "candidate_id": "C3339",
-      "proposed_theme": "석유제품 최고가격제 운영",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -51104,9 +51074,9 @@
       "review_ready": false,
       "first_seen": "2026-04-10",
       "last_seen": "2026-04-10",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3340",
@@ -52715,7 +52685,7 @@
     },
     {
       "candidate_id": "C3460",
-      "proposed_theme": "첨단산업 규제특례 메가특구 조성",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -52724,9 +52694,9 @@
       "review_ready": false,
       "first_seen": "2026-04-16",
       "last_seen": "2026-04-16",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C3462",
@@ -52746,6 +52716,21 @@
     {
       "candidate_id": "C3463",
       "proposed_theme": "미국 항공사 대형 M&A 추진",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
+      "candidate_id": "C3464",
+      "proposed_theme": "첨단산업 규제완화·메가특구 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -53300,7 +53285,7 @@
     },
     {
       "candidate_id": "C3506",
-      "proposed_theme": "중소기업·자영업 대출 연체율 상승",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -53309,9 +53294,9 @@
       "review_ready": false,
       "first_seen": "2026-04-18",
       "last_seen": "2026-04-18",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C3507",
@@ -54440,7 +54425,7 @@
     },
     {
       "candidate_id": "C3600",
-      "proposed_theme": "석유 최고가격제·유가 안정 정책",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -54449,9 +54434,9 @@
       "review_ready": false,
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3601",
@@ -54785,7 +54770,7 @@
     },
     {
       "candidate_id": "C3625",
-      "proposed_theme": "석유제품 최고가격제·유류세 인하",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -54794,9 +54779,9 @@
       "review_ready": false,
       "first_seen": "2026-04-24",
       "last_seen": "2026-04-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C3626",
@@ -55130,7 +55115,7 @@
     },
     {
       "candidate_id": "C3650",
-      "proposed_theme": "최저임금 심의·저임금 고착화",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -55139,13 +55124,13 @@
       "review_ready": false,
       "first_seen": "2026-04-25",
       "last_seen": "2026-04-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C3651",
-      "proposed_theme": "플랫폼 종사자 최저임금 적용 논의",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -55154,9 +55139,9 @@
       "review_ready": false,
       "first_seen": "2026-04-25",
       "last_seen": "2026-04-25",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C3652",
@@ -56045,7 +56030,7 @@
     },
     {
       "candidate_id": "C3719",
-      "proposed_theme": "농지 전수조사·농지 투기 근절",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56054,9 +56039,9 @@
       "review_ready": false,
       "first_seen": "2026-04-28",
       "last_seen": "2026-04-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3721",
@@ -56120,7 +56105,7 @@
     },
     {
       "candidate_id": "C3726",
-      "proposed_theme": "중소기업 대출 연체·이자부담 확대",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -56129,9 +56114,9 @@
       "review_ready": false,
       "first_seen": "2026-04-28",
       "last_seen": "2026-04-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C3727",
@@ -57740,7 +57725,7 @@
     },
     {
       "candidate_id": "C3850",
-      "proposed_theme": "CPTPP 가입·통상 다변화",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -57749,9 +57734,9 @@
       "review_ready": false,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C3851",
@@ -58025,7 +58010,7 @@
     },
     {
       "candidate_id": "C3873",
-      "proposed_theme": "국내 은행권 부실채권 급증",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58034,9 +58019,9 @@
       "review_ready": false,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C3874",
@@ -58175,7 +58160,7 @@
     },
     {
       "candidate_id": "C3885",
-      "proposed_theme": "기업 부실채권 증가·한계기업 구조조정 지연",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58184,9 +58169,9 @@
       "review_ready": false,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C3886",
@@ -58370,7 +58355,7 @@
     },
     {
       "candidate_id": "C3899",
-      "proposed_theme": "농어촌 상생기금·기본소득 확대",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58379,9 +58364,9 @@
       "review_ready": false,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C3900",
@@ -58400,7 +58385,7 @@
     },
     {
       "candidate_id": "C3901",
-      "proposed_theme": "농지 임대차 제도개편 논의",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58409,9 +58394,9 @@
       "review_ready": false,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3902",
@@ -58790,7 +58775,7 @@
     },
     {
       "candidate_id": "C3932",
-      "proposed_theme": "농지 전수조사·CPTPP 가입 재검토",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58799,9 +58784,9 @@
       "review_ready": false,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3933",
@@ -58865,7 +58850,7 @@
     },
     {
       "candidate_id": "C3937",
-      "proposed_theme": "농지 규제 특례·처분 유예",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58874,9 +58859,9 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3938",
@@ -58955,7 +58940,7 @@
     },
     {
       "candidate_id": "C3943",
-      "proposed_theme": "CPTPP 가입 추진·농업 피해 논쟁",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -58964,9 +58949,9 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C3945",
@@ -59015,7 +59000,7 @@
     },
     {
       "candidate_id": "C3948",
-      "proposed_theme": "농지 전수조사 후속 제도개혁·농지은행 확대",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -59024,9 +59009,9 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C3949",
@@ -59075,7 +59060,7 @@
     },
     {
       "candidate_id": "C3952",
-      "proposed_theme": "호남 반도체 클러스터·팹 투자 추진",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -59084,9 +59069,9 @@
       "review_ready": false,
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C3953",
@@ -59900,7 +59885,7 @@
     },
     {
       "candidate_id": "C4013",
-      "proposed_theme": "기업대출 연체 급증·신용리스크 확대",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -59909,9 +59894,9 @@
       "review_ready": false,
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C4014",
@@ -60095,7 +60080,7 @@
     },
     {
       "candidate_id": "C4027",
-      "proposed_theme": "농지 전수조사·농지담보대출 부실화",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -60104,9 +60089,9 @@
       "review_ready": false,
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-12",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C4029",
@@ -60410,7 +60395,7 @@
     },
     {
       "candidate_id": "C4054",
-      "proposed_theme": "국정감사 기업인 출석·정치적 압박 논란",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -60419,9 +60404,9 @@
       "review_ready": false,
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4056",
@@ -60860,7 +60845,7 @@
     },
     {
       "candidate_id": "C4087",
-      "proposed_theme": "최저임금 고용영향 실증연구 중단·사후평가 공백",
+      "proposed_theme": "최저임금 결정·적용대상 확대",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -60869,9 +60854,9 @@
       "review_ready": false,
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T118",
+      "next_action": "Merged → T118"
     },
     {
       "candidate_id": "C4088",
@@ -61910,7 +61895,7 @@
     },
     {
       "candidate_id": "C4165",
-      "proposed_theme": "석유 최고가격제와 정유업계 손실 보전",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -61919,9 +61904,9 @@
       "review_ready": false,
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C4166",
@@ -62990,7 +62975,7 @@
     },
     {
       "candidate_id": "C4245",
-      "proposed_theme": "초광역 메가특구 조성·지방 첨단산업 투자유치 입법",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -62999,9 +62984,9 @@
       "review_ready": false,
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4247",
@@ -63110,7 +63095,7 @@
     },
     {
       "candidate_id": "C4261",
-      "proposed_theme": "초광역특구 노동특례·주52시간 예외",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -63119,9 +63104,9 @@
       "review_ready": false,
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4262",
@@ -63170,7 +63155,7 @@
     },
     {
       "candidate_id": "C4265",
-      "proposed_theme": "초광역특구 노동규제 완화 입법 논쟁",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -63179,9 +63164,9 @@
       "review_ready": false,
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4266",
@@ -63545,7 +63530,7 @@
     },
     {
       "candidate_id": "C4296",
-      "proposed_theme": "주52시간 예외·연구개발 근로시간 특례",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -63554,9 +63539,9 @@
       "review_ready": false,
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-22",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4297",
@@ -63875,7 +63860,7 @@
     },
     {
       "candidate_id": "C4324",
-      "proposed_theme": "주52시간 예외·연구직 근로시간 유연화",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -63884,9 +63869,9 @@
       "review_ready": false,
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4325",
@@ -64025,7 +64010,7 @@
     },
     {
       "candidate_id": "C4334",
-      "proposed_theme": "첨단산업 규제특례·주52시간 예외 적용",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64034,9 +64019,9 @@
       "review_ready": false,
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4335",
@@ -64070,7 +64055,7 @@
     },
     {
       "candidate_id": "C4337",
-      "proposed_theme": "석유 최고가격제 가격안정 효과·출구전략",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64079,9 +64064,9 @@
       "review_ready": false,
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C4338",
@@ -64220,7 +64205,7 @@
     },
     {
       "candidate_id": "C4348",
-      "proposed_theme": "주52시간 근로시간 특례·예외 확대 논의",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64229,9 +64214,9 @@
       "review_ready": false,
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4349",
@@ -64670,7 +64655,7 @@
     },
     {
       "candidate_id": "C4385",
-      "proposed_theme": "CPTPP 가입 추진·통상 확대 논의",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64679,9 +64664,9 @@
       "review_ready": false,
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C4386",
@@ -64820,7 +64805,7 @@
     },
     {
       "candidate_id": "C4396",
-      "proposed_theme": "CPTPP 가입 추진과 농업 보완대책",
+      "proposed_theme": "CPTPP 가입·메가 FTA 통상전략",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -64829,9 +64814,9 @@
       "review_ready": false,
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T120",
+      "next_action": "Merged → T120"
     },
     {
       "candidate_id": "C4397",
@@ -65120,7 +65105,7 @@
     },
     {
       "candidate_id": "C4417",
-      "proposed_theme": "반도체 호황발 대규모 주주환원 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65129,9 +65114,9 @@
       "review_ready": false,
       "first_seen": "2026-10-28",
       "last_seen": "2026-10-28",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C4419",
@@ -65345,7 +65330,7 @@
     },
     {
       "candidate_id": "C4434",
-      "proposed_theme": "반도체 대기업 대규모 주주환원·배당 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65354,9 +65339,9 @@
       "review_ready": false,
       "first_seen": "2026-10-29",
       "last_seen": "2026-10-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C4435",
@@ -65630,7 +65615,7 @@
     },
     {
       "candidate_id": "C4453",
-      "proposed_theme": "대규모 자사주·배당 주주환원 확대",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65639,9 +65624,9 @@
       "review_ready": false,
       "first_seen": "2026-10-29",
       "last_seen": "2026-10-29",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C4454",
@@ -65915,7 +65900,7 @@
     },
     {
       "candidate_id": "C4473",
-      "proposed_theme": "대기업 주주환원 확대와 자사주 매입·소각 일정",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65924,9 +65909,9 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C4475",
@@ -65975,7 +65960,7 @@
     },
     {
       "candidate_id": "C4478",
-      "proposed_theme": "새만금 산업단지 투자·입법 지원",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -65984,9 +65969,9 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4479",
@@ -66185,7 +66170,7 @@
     },
     {
       "candidate_id": "C4493",
-      "proposed_theme": "주주환원 계획 구체성 부족과 주가 반응",
+      "proposed_theme": "반도체 대기업 주주환원·자사주 소각",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -66194,9 +66179,9 @@
       "review_ready": false,
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T121",
+      "next_action": "Merged → T121"
     },
     {
       "candidate_id": "C4494",
@@ -66770,7 +66755,7 @@
     },
     {
       "candidate_id": "C4538",
-      "proposed_theme": "반도체 국가산단 인허가·환경평가 절차 단축",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -66779,13 +66764,13 @@
       "review_ready": false,
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4540",
-      "proposed_theme": "은행권 대출 연체율 상승·건전성 악화",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -66794,9 +66779,9 @@
       "review_ready": false,
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-02",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C4541",
@@ -67100,7 +67085,7 @@
     },
     {
       "candidate_id": "C4562",
-      "proposed_theme": "초광역특구 노동특례·사회적 대화",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67109,9 +67094,9 @@
       "review_ready": false,
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4564",
@@ -67175,7 +67160,7 @@
     },
     {
       "candidate_id": "C4568",
-      "proposed_theme": "3대 메가프로젝트 산업생태계 조성",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67184,9 +67169,9 @@
       "review_ready": false,
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4569",
@@ -67250,7 +67235,7 @@
     },
     {
       "candidate_id": "C4573",
-      "proposed_theme": "농지 불법임대 처분 유예·농지법 제도 보완",
+      "proposed_theme": "농지 전수조사·농지 소유·이용 규제",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -67259,9 +67244,9 @@
       "review_ready": false,
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-03",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T117",
+      "next_action": "Merged → T117"
     },
     {
       "candidate_id": "C4575",
@@ -68090,7 +68075,7 @@
     },
     {
       "candidate_id": "C4634",
-      "proposed_theme": "전력 관련 이슈",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -68099,9 +68084,9 @@
       "review_ready": false,
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4635",
@@ -68615,7 +68600,7 @@
     },
     {
       "candidate_id": "C4678",
-      "proposed_theme": "기업 운전자금 대출 급증·한계기업 부실 위험",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -68624,9 +68609,9 @@
       "review_ready": false,
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C4679",
@@ -69004,6 +68989,21 @@
       "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
     },
     {
+      "candidate_id": "C4711",
+      "proposed_theme": "산업단지 중소 제조업체 대출 연체·한계기업 증가",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "signal_type": "ONE_OFF",
+      "review_ready": false,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "Open",
+      "canonical_theme_id": "",
+      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+    },
+    {
       "candidate_id": "C4712",
       "proposed_theme": "석유화학 범용제품 부진과 고부가 반도체 소재 전환",
       "article_count": 1,
@@ -69140,7 +69140,7 @@
     },
     {
       "candidate_id": "C4725",
-      "proposed_theme": "호남 반도체 클러스터 팹 배치·투자 일정",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -69149,9 +69149,9 @@
       "review_ready": false,
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4726",
@@ -69215,7 +69215,7 @@
     },
     {
       "candidate_id": "C4731",
-      "proposed_theme": "석유 최고가격제 정산 갈등·주유소 소송",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -69224,9 +69224,9 @@
       "review_ready": false,
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-11",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C4733",
@@ -69620,7 +69620,7 @@
     },
     {
       "candidate_id": "C4764",
-      "proposed_theme": "충청권 반도체 첨단 패키징 클러스터 투자",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -69629,9 +69629,9 @@
       "review_ready": false,
       "first_seen": "2026-11-13",
       "last_seen": "2026-11-13",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4765",
@@ -69890,7 +69890,7 @@
     },
     {
       "candidate_id": "C4784",
-      "proposed_theme": "초광역 메가프로젝트 전력·용수 인프라 투자",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -69899,9 +69899,9 @@
       "review_ready": false,
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4785",
@@ -69965,7 +69965,7 @@
     },
     {
       "candidate_id": "C4790",
-      "proposed_theme": "석유제품 최고가격제 운영·유가 물가 부담",
+      "proposed_theme": "석유제품 최고가격제·정유사 손실보전",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -69974,9 +69974,9 @@
       "review_ready": false,
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T119",
+      "next_action": "Merged → T119"
     },
     {
       "candidate_id": "C4792",
@@ -70145,7 +70145,7 @@
     },
     {
       "candidate_id": "C4805",
-      "proposed_theme": "메가프로젝트 산업 인프라 재정투입",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -70154,9 +70154,9 @@
       "review_ready": false,
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-14",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4806",
@@ -70715,7 +70715,7 @@
     },
     {
       "candidate_id": "C4849",
-      "proposed_theme": "기업대출 연체율 상승·상환부담 확대",
+      "proposed_theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -70724,9 +70724,9 @@
       "review_ready": false,
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T116",
+      "next_action": "Merged → T116"
     },
     {
       "candidate_id": "C4850",
@@ -71480,7 +71480,7 @@
     },
     {
       "candidate_id": "C4913",
-      "proposed_theme": "초광역특구 노동규제 완화·노동계 반발",
+      "proposed_theme": "초광역 메가특구·지방 첨단산업 클러스터 조성",
       "article_count": 1,
       "distinct_dates": 1,
       "publisher_count": 1,
@@ -71489,9 +71489,9 @@
       "review_ready": false,
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "status": "Open",
-      "canonical_theme_id": "",
-      "next_action": "다음 기간 반복성·양사 공통 등장 여부 재검토"
+      "status": "Merged",
+      "canonical_theme_id": "T115",
+      "next_action": "Merged → T115"
     },
     {
       "candidate_id": "C4914",
