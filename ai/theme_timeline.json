@@ -1,8 +1,8 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-20T21:20:54+00:00",
+  "generated_at": "2026-11-22T21:28:10+00:00",
   "data_start": "2026-04-01",
-  "data_cutoff": "2026-11-21",
+  "data_cutoff": "2026-11-23",
   "coverage": {
     "publishers": [
       "매일경제",
@@ -154,6 +154,10 @@
     {
       "week_id": "2026-W47",
       "observed_days": 6
+    },
+    {
+      "week_id": "2026-W48",
+      "observed_days": 1
     }
   ],
   "rows": [
@@ -20847,6 +20851,182 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 3
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T003",
+      "theme": "AI 연산·전력 인프라 수요",
+      "article_count": 4,
+      "daily_average": 4.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 3,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T042",
+      "theme": "정당 인사·정책조직 재편",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T046",
+      "theme": "중동 분쟁 대응·국제공조",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T048",
+      "theme": "북한 핵·미사일 위협 및 대북억지",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T049",
+      "theme": "한미·한일 안보협력 강화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T050",
+      "theme": "한미 핵추진잠수함·조선방산 협력",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T057",
+      "theme": "대입 시스템·교육행정 리스크",
+      "article_count": 4,
+      "daily_average": 4.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 3,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T065",
+      "theme": "국가 재정지출·기금 편성",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T068",
+      "theme": "청년고용 부진·고용 양극화",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T089",
+      "theme": "국내 정치 지지율·여권 갈등",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T100",
+      "theme": "한국은행 기준금리·통화정책 기조 변화",
+      "article_count": 3,
+      "daily_average": 3.0,
+      "distinct_dates": 1,
+      "cross_media_days": 1,
+      "maekyung_count": 1,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T107",
+      "theme": "증시 급락·개인투자자 손실 및 투자자금 이동",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T110",
+      "theme": "빅테크 AI 투자 자금조달·현금흐름",
+      "article_count": 2,
+      "daily_average": 2.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 2
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T112",
+      "theme": "재건축초과이익환수 부담금 부과·정비사업 영향",
+      "article_count": 4,
+      "daily_average": 4.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 4
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T116",
+      "theme": "중소·한계기업 신용리스크·기업대출 연체율 상승",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
+    },
+    {
+      "week_id": "2026-W48",
+      "theme_id": "T122",
+      "theme": "정년연장·고령자 고용방식 개편",
+      "article_count": 1,
+      "daily_average": 1.0,
+      "distinct_dates": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     }
   ]
 }
