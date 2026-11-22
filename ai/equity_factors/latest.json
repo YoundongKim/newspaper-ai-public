@@ -5,7 +5,7 @@
     "summaries_independently_written": true
   },
   "report_date": "2026-11-23",
-  "as_of": "2026-11-23T03:24:00+09:00",
+  "as_of": "2026-11-23T03:07:19+09:00",
   "run_kind": "scheduled",
   "status": "no_new_session",
   "kr_trade_date": "2026-11-20",
@@ -13,8 +13,8 @@
   "is_new_kr_session": false,
   "scheduled_cutoff": "2026-11-23T02:57:00+09:00",
   "timing": {
-    "research_as_of": "2026-11-23T03:24:00+09:00",
-    "us_snapshot_collected_at": "2026-11-23T03:24:00+09:00",
+    "research_as_of": "2026-11-23T03:07:19+09:00",
+    "us_snapshot_collected_at": "2026-11-23T03:07:19+09:00",
     "note": "Claude 예약(02:57 시작). 11/23 KRX 개장(09:00) 전 조사. 주말 정부 대책·야간선물·ADR을 보완 조사."
   },
   "market_calendar": {
@@ -38,7 +38,7 @@
   "us_current": {
     "session_date": "2026-11-22",
     "status": "weekend",
-    "as_of": "2026-11-23T03:24:00+09:00",
+    "as_of": "2026-11-23T03:07:19+09:00",
     "regular_session_close_kst": null,
     "attribution_boundary": "진행 중인 미국 정규장이 없다. 11/23 미국장은 11/23 23:30 KST 개장으로 11/23 국내장 마감 뒤라 11/24 국내장 신호다. CME 선물은 11/23 08:00 KST 재개.",
     "calendar_source_ids": [
@@ -390,7 +390,7 @@
       "value": null,
       "unit": "percent",
       "session_date": "2026-11-23",
-      "observed_at": "2026-11-23T03:24:00+09:00",
+      "observed_at": "2026-11-23T03:07:19+09:00",
       "available_at": null,
       "status": "not_open",
       "source_ids": [],
