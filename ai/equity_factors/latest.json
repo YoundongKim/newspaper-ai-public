@@ -4,21 +4,21 @@
     "full_article_text_exported": false,
     "summaries_independently_written": true
   },
-  "report_date": "2026-11-22",
-  "as_of": "2026-11-22T03:02:49+09:00",
+  "report_date": "2026-11-23",
+  "as_of": "2026-11-23T03:24:00+09:00",
   "run_kind": "scheduled",
   "status": "no_new_session",
   "kr_trade_date": "2026-11-20",
   "us_previous_completed_trade_date": "2026-11-19",
   "is_new_kr_session": false,
-  "scheduled_cutoff": "2026-11-22T03:00:00+09:00",
+  "scheduled_cutoff": "2026-11-23T02:57:00+09:00",
   "timing": {
-    "research_as_of": "2026-11-22T03:02:49+09:00",
-    "us_snapshot_collected_at": "2026-11-22T03:02:49+09:00",
-    "note": "Claude 예약(02:57 시작). 미국 11/20 종가는 2026-11-21T06:00 KST 확정치를 사후 조사."
+    "research_as_of": "2026-11-23T03:24:00+09:00",
+    "us_snapshot_collected_at": "2026-11-23T03:24:00+09:00",
+    "note": "Claude 예약(02:57 시작). 11/23 KRX 개장(09:00) 전 조사. 주말 정부 대책·야간선물·ADR을 보완 조사."
   },
   "market_calendar": {
-    "kr_status": "weekend",
+    "kr_status": "pre_open_weekend_gap",
     "kr_last_regular_open": "2026-11-20T09:00:00+09:00",
     "kr_last_regular_close": "2026-11-20T15:30:00+09:00",
     "kr_next_regular_open": "2026-11-23T09:00:00+09:00",
@@ -34,13 +34,13 @@
       "US_CALENDAR"
     ]
   },
-  "summary": "11월 22일은 일요일이라 새 KRX 정규장 표본이 없다(최신 국내 거래일 11월 20일 유지). 국내 마감 뒤 끝난 11월 20일 미국장은 SOX -10.73%(주간 -17.13%), 나스닥 -5.28%, S&P500 -3.70%로 마감했고 NVDA -14.01%, MU -13.89%, AMD -13.25%, AVGO -12.19%, TSM ADR -9.48%, EWY -8.42%였다. 해석은 엔비디아 회계 조사 보도(Reuters, 미확인)·AI 투자 지속성 의문·매파 연준이 중심이다. 이는 11월 20일 국내장의 원인이 아니라 11월 23일 국내장 신호다. 주말 중 삼성전자·SK하이닉스의 회사 확정 HBM·실적·주문 변경 발표는 확인되지 않았고, 삼성은 FT 중국 출하 중단 보도에 논평하지 않았다.",
+  "summary": "11월 23일 03시는 KRX 개장 전이라 새 국내 정규장 표본이 없다(최신 국내 거래일 11월 20일 유지, 누적 9거래일). 주말 새 소식: ① 11/20 야간 KOSPI200 선물 12월물 700.00(-7.01%), SK하이닉스 ADR 103.57달러(-13.11%)로 마감(국내장 마감 뒤 확정, 11/23 신호). ② 11/22 정부 긴급 시장상황점검회의가 증안펀드 가동 준비 착수(규모·시점 미정), 자사주 일일 매수한도 11/24부터 3개월 완화, 불법 공매도 특별감시를 발표. ③ 해외 참고가는 삼성 -5.81%·하이닉스 -7.22%로 하이닉스 쪽 낙폭을 더 크게 가리켜 4거래일 연속 하이닉스 상대 우위의 반전 여부가 관전점. ④ 삼성은 11/20 황상준 사장 메모리 책임자 인사(TNW 보도), 엔비디아 SEC 조사는 회계 초점 보도(SEC 논평 거부). 회사 확정 HBM·실적·주문 변경 발표는 없었다.",
   "us_current": {
-    "session_date": "2026-11-21",
+    "session_date": "2026-11-22",
     "status": "weekend",
-    "as_of": "2026-11-22T03:02:49+09:00",
+    "as_of": "2026-11-23T03:24:00+09:00",
     "regular_session_close_kst": null,
-    "attribution_boundary": "현재 진행 중인 미국 정규장이 없다. 11월 20일 미국장 종가는 11월 20일 KRX 마감 뒤 확정됐으므로 11월 23일 국내장 신호로만 쓴다.",
+    "attribution_boundary": "진행 중인 미국 정규장이 없다. 11/23 미국장은 11/23 23:30 KST 개장으로 11/23 국내장 마감 뒤라 11/24 국내장 신호다. CME 선물은 11/23 08:00 KST 재개.",
     "calendar_source_ids": [
       "US_CALENDAR"
     ],
@@ -200,15 +200,19 @@
       },
       {
         "id": "US_SKHY_ADR_RETURN",
-        "value": null,
+        "value": -13.11,
         "unit": "percent",
         "session_date": "2026-11-20",
         "observed_at": "2026-11-21T06:00:00+09:00",
         "available_at": "2026-11-21T06:00:00+09:00",
-        "status": "final",
-        "source_ids": [],
+        "status": "final_single_source",
+        "source_ids": [
+          "KR_INEWS"
+        ],
         "predetermined": false,
-        "missing_reason": "SK하이닉스 ADR 종가 미확보. 장중 -3% 초과(Yahoo)와 '약 14%'(뉴데일리) 보도가 엇갈려 미채택"
+        "level": 103.57,
+        "level_unit": "USD",
+        "note": "11/23 보고서에서 보완: 아이뉴스24 단일 출처(103.57달러). 11/22 보고서는 출처 불일치로 미채택"
       },
       {
         "id": "US_VIX_CLOSE",
@@ -304,19 +308,70 @@
       "note": "Yahoo 시세 띠 4.912, 뉴스웨이 15시 ET 4.909로 약 2bp 차이"
     },
     {
-      "id": "WTI_FRONT_FUTURE_CLOSE",
-      "value": 83.86,
-      "unit": "USD_per_barrel",
+      "id": "KOSPI200_NIGHT_FUTURES_CLOSE",
+      "value": 700.0,
+      "unit": "index_level",
       "session_date": "2026-11-20",
       "observed_at": "2026-11-21T06:00:00+09:00",
       "available_at": "2026-11-21T06:00:00+09:00",
       "status": "final_after_kr_close",
       "source_ids": [
-        "US_CLOSE_YF"
+        "NIGHT_PENN",
+        "NIGHT_ET"
       ],
       "predetermined": false,
-      "return_pct": 1.72,
-      "contract": "2026년 12월물(CL=F)"
+      "contract": "KOSPI200 2026년 12월물 야간거래",
+      "return_pct": -7.01,
+      "reference_close": 752.75,
+      "note": "한국거래소 인용 보도. 752.75→700.00(-52.75pt). 주간경향·아이뉴스24는 -6.99%로 표기(기준가 차이 추정). KRX 정규장 종가와 다른 시장"
+    },
+    {
+      "id": "SKHY_ADR_RETURN",
+      "value": -13.11,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_single_source",
+      "source_ids": [
+        "KR_INEWS"
+      ],
+      "predetermined": false,
+      "level": 103.57,
+      "level_unit": "USD",
+      "note": "미국 상장 ADR. KRX 종가와 섞지 않음"
+    },
+    {
+      "id": "SAMSUNG_OVERSEAS_EST_RETURN",
+      "value": -5.81,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-22T19:22:00+09:00",
+      "available_at": null,
+      "status": "reported_reference_single_source",
+      "source_ids": [
+        "KR_WEEKLYKHAN"
+      ],
+      "predetermined": false,
+      "level": 172469,
+      "level_unit": "KRW",
+      "note": "KOSPILAB 해외 영구선물 원화 환산 참고가(보도 기준 22일 공유). KRX 체결가·시초가 예측치 아님. 관측 시각은 보도 입력 시각으로 대체"
+    },
+    {
+      "id": "SKHYNIX_OVERSEAS_EST_RETURN",
+      "value": -7.22,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-22T19:22:00+09:00",
+      "available_at": null,
+      "status": "reported_reference_single_source",
+      "source_ids": [
+        "KR_WEEKLYKHAN"
+      ],
+      "predetermined": false,
+      "level": 1032608,
+      "level_unit": "KRW",
+      "note": "KOSPILAB 해외 영구선물 원화 환산 참고가. KRX 체결가·시초가 예측치 아님"
     },
     {
       "id": "USDKRW_NIGHT_CLOSE",
@@ -328,11 +383,23 @@
       "status": "final",
       "source_ids": [],
       "predetermined": false,
-      "missing_reason": "11/20~21 서울 야간거래 종가 원자료 미확보. 보도는 '1346원대'로만 서술"
+      "missing_reason": "11/20~21 서울 야간거래 원달러 종가 원자료 여전히 미확보"
+    },
+    {
+      "id": "US_EQUITY_FUTURES_CURRENT",
+      "value": null,
+      "unit": "percent",
+      "session_date": "2026-11-23",
+      "observed_at": "2026-11-23T03:24:00+09:00",
+      "available_at": null,
+      "status": "not_open",
+      "source_ids": [],
+      "predetermined": false,
+      "missing_reason": "CME 주가지수 선물은 일요일 18:00 ET(11/23 08:00 KST)에 재개되어 조사 시각에는 거래 전. 일부 기사 제목의 나스닥 선물 -5.6%는 본문상 11/20 나스닥100 현물 수익률이라 미채택"
     }
   ],
   "equities": [],
-  "cross_stock_comparison": "새 KRX 세션이 없어 11월 20일 두 종목 기록은 수정하지 않았다. 미국장에서 MU(-13.89%)가 NVDA(-14.01%)와 비슷하게 빠져 메모리·HBM 노출이 큰 하이닉스에 더 직접적인 신호일 수 있지만, 4거래일 연속 하이닉스가 삼성보다 덜 빠진 흐름과 삼성에만 겹친 중국 출하 보도(F12)가 월요일에도 이어질지는 11월 23일 시초가·종가·종목별 수급으로 검증해야 한다.",
+  "cross_stock_comparison": "새 KRX 세션이 없어 11월 20일 두 종목 기록은 수정하지 않았다. 국내 마감 뒤 신호는 하이닉스에 더 불리했다: ADR -13.11%, 해외 참고가 -7.22% vs 삼성 -5.81%. 11/17~20 4거래일 연속 하이닉스가 삼성보다 덜 빠진(또는 더 오른) 흐름이 11/23에 뒤집히는지, 삼성에만 겹친 중국 출하 중단 보도(F12)와 메모리 인사(F13)가 차이를 만드는지 11/23 시초가·종가·종목별 수급으로 검증해야 한다.",
   "next_kr_signals": [
     {
       "factor_id": "F01_US_SEMI",
@@ -342,81 +409,47 @@
       "evidence_type": "observed",
       "event_window": "after_kr_close",
       "event_at": "2026-11-21T06:00:00+09:00",
-      "new_or_repeated": "신규 확정(11/21 리포트의 11:02 ET 장중치보다 낙폭 확대)",
-      "reason": "11/20 미국 정규장 종가 기준 SOX -10.73%(주간 -17.13%), NVDA -14.01%, MU -13.89%, AMD -13.25%, AVGO -12.19%, TSM ADR -9.48%, 한국 ETF EWY -8.42%. 11/20 KRX 마감(삼성 -7.01%, 하이닉스 -5.92%) 뒤 확정된 하락으로 11/23 국내장의 직접 신호다.",
-      "counterevidence": "11/20 한국장은 이미 -5~7% 급락으로 상당 부분을 선반영했을 수 있다. EWY는 KRX와 다른 시장·통화이며, 미국 하락이 양사 주문·실적 변화로 확인된 것은 아니다.",
+      "new_or_repeated": "지속(11/22 기록 보완: 야간선물·하이닉스 ADR 확보)",
+      "reason": "11/20 KRX 마감 뒤 KOSPI200 야간선물 12월물이 700.00(-7.01%)으로 끝났고, SK하이닉스 ADR은 103.57달러(-13.11%)로 마감했다. SOX -10.73%·MU -13.89%와 같은 방향의 11/23 국내장 신호다.",
+      "counterevidence": "야간선물·ADR은 KRX와 다른 시장·유동성이며 11/20 국내장이 이미 -5~7% 급락으로 일부 선반영했다. 정부 대책(주말 발표)은 야간선물 마감 뒤 나왔다.",
       "source_ids": [
-        "US_CLOSE_MT",
-        "US_CLOSE_NEWSWAY",
-        "US_CLOSE_ST",
-        "US_CLOSE_LB"
-      ]
-    },
-    {
-      "factor_id": "F09_AI_CAPEX",
-      "direction": "negative",
-      "relation": "background",
-      "confidence": "medium",
-      "evidence_type": "reported_interpretation",
-      "event_window": "after_kr_close",
-      "event_at": "2026-11-21T06:00:00+09:00",
-      "new_or_repeated": "지속·강화",
-      "reason": "Baird 안토넬리 '무한 AI 지출 서사의 종료', Treasury Partners '데이터센터 증설 둔화에 따른 AI 재평가' 등 AI 투자 지속성 의문이 하락 해석의 중심이었다. 엔비디아는 매출이 두 배 넘게 늘었다는 첫 실적에도 급락했다.",
-      "counterevidence": "하이퍼스케일러 CAPEX 축소 발표는 확인되지 않았다. 해석 기사이며 메모리 주문 감소의 증거가 아니다.",
-      "source_ids": [
-        "US_CLOSE_AP",
-        "US_CLOSE_LB",
-        "US_WEEK_YF"
-      ]
-    },
-    {
-      "factor_id": "F13_CORPORATE",
-      "direction": "negative",
-      "relation": "background",
-      "confidence": "medium",
-      "evidence_type": "reported_interpretation",
-      "event_window": "after_kr_close",
-      "event_at": "2026-11-21T06:00:00+09:00",
-      "new_or_repeated": "신규",
-      "reason": "Reuters는 익명 소식통을 인용해 SEC가 엔비디아 회계를 들여다보고 있다고 보도했고, CappNotes는 이를 엔비디아 급락의 주된 요인으로 봤다. 캘리포니아 법무장관의 칩 중국 유입 관련 소환장도 보도됐다.",
-      "counterevidence": "SEC·엔비디아의 공식 확인이 없다. 삼성전자·SK하이닉스 자체 사건이 아니며 HBM 고객 주문 변경은 확인되지 않았다.",
-      "source_ids": [
-        "US_CLOSE_LB",
-        "US_CLOSE_CAPP",
+        "NIGHT_PENN",
+        "NIGHT_ET",
+        "KR_INEWS",
         "US_CLOSE_MT"
       ]
     },
     {
       "factor_id": "F12_POLICY",
-      "direction": "negative",
+      "direction": "positive",
       "relation": "background",
-      "confidence": "low",
-      "evidence_type": "reported_interpretation",
+      "confidence": "medium",
+      "evidence_type": "observed",
       "event_window": "after_kr_close",
-      "event_at": "2026-11-21T15:58:00+09:00",
-      "new_or_repeated": "지속(11/20 삼성 열위 배경)",
-      "reason": "BIS 임시최종규칙(11/19 관보, 즉시 발효)이 D:5 국가 설계사의 첨단 로직칩 판정 경로를 줄였다. 삼성은 FT의 중국 고객 출하 중단 보도에 논평을 거부했고 공식 부인은 없다. 트럼프 대통령은 블랙웰의 중국 판매 불가와 해외 데이터센터 건설 기업 제재를 언급했다.",
-      "counterevidence": "VLSI 분석은 이를 '확정 차단이 아닌 라이선스 대기열'로 보고, 운송 중 물량은 12/21까지 기존 조건으로 허용된다. 메모리(HBM·DRAM) 직접 규제는 확인되지 않았다.",
+      "event_at": "2026-11-22T18:50:00+09:00",
+      "new_or_repeated": "신규",
+      "reason": "11/22 재정경제부 주재 긴급 시장상황점검회의(한은·금융위·금감원 참석)에서 증권시장안정펀드 가동 준비 착수, 상장사 일일 자사주 매수주문 한도 11/24부터 3개월 완화, 불법 공매도 3개월 특별감시, 신용·미수·반대매매 점검을 발표했다고 두 매체가 보도했다.",
+      "counterevidence": "증안펀드는 준비 착수일 뿐 규모·투입 시점이 미정이다. 자사주 한도 완화는 11/23이 아닌 11/24부터다. 외국인 매도(주간 유가증권 -4.56조원)를 막을 수 있는지는 확인되지 않았다.",
       "source_ids": [
-        "BIS_VLSI",
-        "US_CLOSE_MT"
+        "GOV_WOWTV",
+        "GOV_TOPSTAR",
+        "KR_EDAILY"
       ]
     },
     {
-      "factor_id": "F03_RATES",
-      "direction": "mixed",
+      "factor_id": "F13_CORPORATE",
+      "direction": "unclear",
       "relation": "background",
       "confidence": "low",
-      "evidence_type": "observed",
-      "event_window": "after_kr_close",
-      "event_at": "2026-11-21T06:00:00+09:00",
-      "new_or_repeated": "신규",
-      "reason": "미 10년물은 약 4.93%로 전일 5.04%에서 약 11bp 내렸지만, 연준 쿡 이사·필라델피아 연은 총재의 매파 발언으로 12월 인상 확률이 약 90%로 거론됐다.",
-      "counterevidence": "금리 하락은 위험회피성 채권 매수일 수 있어 성장주 부담 완화로 단정하지 않는다. 출처 간 2bp 차이.",
+      "evidence_type": "reported_interpretation",
+      "event_window": "unknown",
+      "event_at": null,
+      "new_or_repeated": "신규(삼성 인사) / 지속(엔비디아 조사 보도)",
+      "reason": "TNW는 삼성전자가 11/20 황상준 사장을 메모리 사업 책임자로, 최원준 사장을 MX 사업 책임자로 하는 인사를 발표했다고 보도했다(삼성 뉴스룸 인용, 원문 미열람). 엔비디아 SEC 조사는 Reuters가 회계 문제에 초점이라고 보도했고 SEC는 논평을 거부했다.",
+      "counterevidence": "삼성 인사의 발표 시각이 KRX 장중인지 확인하지 못했고 주가 영향 근거가 없다. 엔비디아 조사는 익명 소식통 보도이며 조사 자체가 위법 증거는 아니다.",
       "source_ids": [
-        "US_CLOSE_AP",
-        "US_CLOSE_CAPP",
-        "US_CLOSE_YF"
+        "SAMSUNG_TNW",
+        "NVDA_BS"
       ]
     },
     {
@@ -424,49 +457,75 @@
       "direction": "mixed",
       "relation": "background",
       "confidence": "low",
-      "evidence_type": "reported_interpretation",
+      "evidence_type": "hypothesis",
       "event_window": "after_kr_close",
-      "event_at": "2026-11-21T06:04:00+09:00",
-      "new_or_repeated": "신규",
-      "reason": "금융당국이 신용·미수 반대매매 유예를 발표했다고 보도됐고, 도이체방크는 시장이 '매우 과매도'라고 평가했다. 11/20 국내 개인 1.6조원 순매수 뒤 강제 청산 압력이 월요일 변수다.",
-      "counterevidence": "유예 범위·기간 원문을 확인하지 못했고 반등 근거로 쓰기에는 이르다.",
+      "event_at": null,
+      "new_or_repeated": "지속",
+      "reason": "해외 참고가(KOSPILAB 영구선물 환산)는 삼성 -5.81%, 하이닉스 -7.22%로 하이닉스 쪽 낙폭을 더 크게 가리켰고 ADR도 -13.11%였다. 4거래일 연속 하이닉스 상대 우위가 11/23에 뒤집힐지가 관전점이다. 하나증권은 코스피 하방 시나리오 4300선(PBR 0.94배)을 제시했다.",
+      "counterevidence": "해외 참고가·ADR은 거래량이 적고 기준 시각이 다르다. 기사도 시초가 예측으로 쓰지 말라고 경고했다. 매도 사이드카·서킷브레이커 기준선 계산은 기자의 투영이다.",
       "source_ids": [
-        "KR_NEWDAILY",
-        "US_CLOSE_ST"
+        "KR_WEEKLYKHAN",
+        "KR_EDAILY",
+        "NIGHT_PENN"
+      ]
+    },
+    {
+      "factor_id": "F03_RATES",
+      "direction": "unclear",
+      "relation": "background",
+      "confidence": "low",
+      "evidence_type": "observed",
+      "event_window": "after_kr_close",
+      "event_at": null,
+      "new_or_repeated": "일정",
+      "reason": "11/26 한국은행 금통위와 11/30 MSCI 정기변경이 이번 주 변수로 거론됐다. 미 10년물은 11/20 약 4.93%로 직전 대비 약 11bp 내렸다.",
+      "counterevidence": "주말 중 새 금리·거시 발표는 없었다. 일정 자체는 방향 정보가 아니다.",
+      "source_ids": [
+        "KR_INEWS",
+        "US_CLOSE_AP"
       ]
     }
   ],
   "research_coverage": {
-    "F01_US_SEMI": "11/20 미국 정규장 종가 SOX·NVDA·MU·AMD·AVGO·TSM·EWY 확인. SOX 지수 레벨과 SK하이닉스 ADR 종가는 미확보.",
-    "F02_GLOBAL_RISK": "S&P500 -3.70%(7거래일 연속 하락·조정 진입), 나스닥 -5.28%(연초 대비 마이너스), VIX 35.89(출처 간 불일치) 확인.",
-    "F03_RATES": "미 10년물 약 4.93%(-11bp, AP). 12월 FOMC 인상 확률 약 90% 보도.",
-    "F04_FX": "서울 야간거래 원달러 종가 원자료 미확보. 새 KRX 세션이 없어 주간 종가를 중복 추가하지 않음.",
+    "F01_US_SEMI": "11/20 미국 종가는 11/22 기록 유지. KOSPI200 야간선물 700.00(-7.01%)·SK하이닉스 ADR 103.57달러(-13.11%) 신규 확보. CME 선물은 조사 시각 거래 전.",
+    "F02_GLOBAL_RISK": "주말 신규 지표 없음. 11/20 VIX 출처 불일치 그대로.",
+    "F03_RATES": "주말 신규 발표 없음. 11/26 한은 금통위·11/30 MSCI 정기변경 일정 확인.",
+    "F04_FX": "서울 야간 원달러 종가 여전히 미확보.",
     "F05_FOREIGN_FLOW": "새 KRX 세션 없음. 11/20 종목별 수급 기록 유지.",
     "F06_INSTITUTION_FLOW": "새 KRX 세션 없음.",
-    "F07_MEMORY_CYCLE": "주말 신규 공식 DRAM/NAND 계약가격·재고 발표 미확보. 미국 메모리·스토리지(MU·WDC·STX·SNDK) 동반 급락만 확인.",
-    "F08_HBM_EXECUTION": "주말 신규 회사 확정 HBM 인증·양산 발표 미확보.",
+    "F07_MEMORY_CYCLE": "주말 신규 DRAM/NAND 계약가격 발표 미확인(TrendForce 11/18 DRAM 불리틴 이후 신규 없음).",
+    "F08_HBM_EXECUTION": "회사 확정 HBM 인증·양산 발표 없음. 삼성 HBM 텍사스 생산 계획은 TNW의 'reportedly' 보도로 미채택.",
     "F09_AI_CAPEX": "AI 투자 지속성 의문 해석 확인. 하이퍼스케일러 CAPEX 공식 변경 없음.",
     "F10_EARNINGS": "양사 신규 실적·가이던스 없음.",
     "F11_SUPPLY_CAPEX": "신규 회사 공시 미확보.",
-    "F12_POLICY": "BIS 원격접근·첨단 로직칩 규칙 내용과 삼성 논평 거부 확인. 국내 반대매매 유예 보도 확인.",
-    "F13_CORPORATE": "엔비디아 SEC 회계 조사 보도(익명 소식통) 확인. 양사 고유 사건 없음.",
-    "F14_POSITIONING": "과매도 평가·반대매매 유예 보도 확인, 원문 미확인.",
+    "F12_POLICY": "11/22 정부 시장안정 대책(증안펀드 준비·자사주 한도 완화·공매도 감시) 확인. FT 출하 중단 보도에 삼성·TSMC 공식 반응은 여전히 확인 안 됨.",
+    "F13_CORPORATE": "삼성 인사(TNW, 뉴스룸 원문 접근 실패). 엔비디아 SEC 회계 조사 보도(Reuters 익명, SEC 논평 거부).",
+    "F14_POSITIONING": "야간선물·해외 참고가·사이드카 기준선 보도 확인. 기준선은 투영치.",
     "F15_NON_MEMORY": "삼성 파운드리 중국 고객 관련은 F12로 기록. 신규 독립 촉매 없음."
   },
   "shorts_candidates": [
     {
-      "hook": "한국 반도체가 -7% 빠진 그날 밤, 미국 반도체지수는 -10.7% 더 떨어졌습니다.",
-      "why_surprising": "금요일 국내 급락이 미국장의 결과처럼 보이지만 시간 순서는 반대다. 국내장이 먼저 끝났고 미국 SOX는 그 뒤 하루 -10.73%, 주간 -17%로 2001년 이후 최악의 주를 보냈다. 엔비디아는 매출이 두 배 넘게 늘었다는 실적 직후에도 -14% 급락했다.",
-      "verified_facts": "11/20 KRX 마감 15:30 KST: 삼성 -7.01%, 하이닉스 -5.92%. 미국 마감 11/21 06:00 KST: SOX -10.73%, NVDA -14.01%, MU -13.89%, EWY -8.42%.",
-      "caveat": "미국 하락 원인 해석(회계 조사 보도·AI 투자 의문)은 미확인·해석이며, 한국장이 이미 일부를 반영했을 수 있다. 월요일 하락을 예측하는 근거로 단정하지 않는다.",
-      "next_check": "11/23 삼성전자·SK하이닉스 시초가 갭, 코스피 대비 수익률, 외국인 7거래일째 순매도 여부, 반대매매 유예 효과.",
+      "hook": "나흘 내내 삼성보다 덜 빠진 SK하이닉스, 주말 해외 신호는 처음으로 반대를 가리킵니다.",
+      "why_surprising": "11/17~20 국내 정규장에서 하이닉스는 4거래일 연속 삼성보다 상대적으로 강했다. 그런데 국내 마감 뒤 미국 ADR은 -13.11%, 해외 영구선물 환산가는 하이닉스 -7.22% vs 삼성 -5.81%로 하이닉스 쪽 낙폭이 더 컸다. 메모리 대표주 MU(-13.89%) 급락이 HBM 비중이 큰 하이닉스에 더 직접적이라는 해석이 가능하다.",
+      "verified_facts": "11/20 KRX: 삼성 -7.01%(18만3100원), 하이닉스 -5.92%(111만3000원). 국내 마감 뒤: KOSPI200 야간선물 700.00(-7.01%), SK하이닉스 ADR 103.57달러(-13.11%), MU -13.89%.",
+      "caveat": "ADR·해외 참고가는 거래량이 적고 KRX와 기준 시각이 다르다. 주말 정부 대책은 그 뒤에 나왔다. 월요일 결과를 예측하는 근거로 단정하지 않는다.",
+      "next_check": "11/23 두 종목 시초가 갭과 종가 수익률 차이, 종목별 외국인 순매도 7거래일째 여부, 매도 사이드카 발동 여부.",
       "source_ids": [
-        "US_CLOSE_MT",
-        "US_CLOSE_NEWSWAY",
-        "US_WEEK_YF",
-        "US_CLOSE_LB"
+        "KR_INEWS",
+        "KR_WEEKLYKHAN",
+        "NIGHT_PENN",
+        "US_CLOSE_MT"
       ]
     }
+  ],
+  "limitations": [
+    "11월 23일 03시는 KRX 개장 전이라 새 정규장 가격·거래량·종목별 수급이 없다. equities=[]로 기록해 11월 20일을 중복 표본으로 세지 않았다.",
+    "야간선물·ADR·해외 참고가와 정부 대책은 모두 11월 20일 KRX 마감 뒤 정보라 이미 끝난 국내장의 원인으로 쓰지 않았다.",
+    "SK하이닉스 ADR(-13.11%)은 아이뉴스24 단일 출처다. 해외 참고가(KOSPILAB)는 주간경향 단일 보도이며 관측 시각이 불명확해 보도 입력 시각으로 대체했다.",
+    "야간선물 등락률은 -7.01%(펜앤마이크·이코노미트리뷴, 752.75→700.00 계산과 일치)와 -6.99%(주간경향·아이뉴스24)로 엇갈렸다.",
+    "정부 대책 원문(재정경제부 보도자료)은 직접 열람하지 못하고 두 매체 보도로 확인했다. 한국경제 기사는 본문 추출 실패, 네이트 뉴스는 접근 거부됐다.",
+    "삼성 인사는 삼성 뉴스룸 원문 접근에 실패해 TNW 보도로만 기록했고 발표 시각을 확인하지 못했다. 서울 야간 원달러 종가는 미확보다.",
+    "누적 국내 거래일은 9일, 종목-거래일 관측은 18개로 20·60일 창은 표본 부족이다. 요인 선정 빈도는 설명력·인과·예측력이 아니다."
   ],
   "sources": [
     {
@@ -510,69 +569,84 @@
       "source_type": "market_news"
     },
     {
-      "id": "US_CLOSE_YF",
-      "publisher": "Yahoo Finance",
-      "title": "Stock market today: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
-      "published_at": null,
-      "source_type": "market_news"
-    },
-    {
-      "id": "US_WEEK_YF",
-      "publisher": "Yahoo Finance",
-      "title": "Chips suffer worst week since 2001 as the Nasdaq nears a bear market",
-      "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
-      "published_at": "2026-11-21T21:42:00+09:00",
-      "source_type": "market_news"
-    },
-    {
-      "id": "US_CLOSE_CAPP",
-      "publisher": "CappNotes (Frank Cappelleri)",
-      "title": "Closing Look — Friday, November 20, 2026",
-      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026",
-      "published_at": "2026-11-21T07:53:00+09:00",
-      "source_type": "market_commentary"
-    },
-    {
-      "id": "KR_NEWDAILY",
-      "publisher": "뉴데일리",
-      "title": "나스닥 '준공황', 반도체지수 10% 폭락 … 韓 증시 '중대 위기'",
-      "url": "https://newdaily.co.kr/site/data/html/2026/11/21/2026112150002.html",
-      "published_at": "2026-11-21T06:04:00+09:00",
-      "source_type": "news_reporting"
-    },
-    {
-      "id": "KR_FN_WEEK",
-      "publisher": "파이낸셜뉴스",
-      "title": "\"일주일 만에 1년 수익 모두 증발\"…엔비디아 14% 폭락, 월가 초토화 'AI 대공포' [머니 시그널]",
-      "url": "https://www.fnnews.com/news/202611210748273869",
-      "published_at": "2026-11-21T10:00:00+09:00",
-      "source_type": "news_reporting"
-    },
-    {
-      "id": "BIS_VLSI",
-      "publisher": "VLSI Korea",
-      "title": "TSMC-Samsung China Shipment Halt Checked: BIS Rule Analysis",
-      "url": "https://www.vlsi.kr/en/tsmc-samsung-china-chip-bis-license-en/",
-      "published_at": "2026-11-21T15:58:00+09:00",
-      "source_type": "industry_analysis"
-    },
-    {
       "id": "US_CALENDAR",
       "publisher": "NYSE",
       "title": "Holidays and Trading Hours",
       "url": "https://www.nyse.com/trade/hours-calendars",
       "published_at": null,
       "source_type": "official_calendar"
+    },
+    {
+      "id": "GOV_WOWTV",
+      "publisher": "한국경제TV",
+      "title": "블랙먼데이 우려에…정부, 증시안정펀드 가동 준비 착수",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220064",
+      "published_at": "2026-11-22T18:50:00+09:00",
+      "source_type": "news_reporting_official_announcement"
+    },
+    {
+      "id": "GOV_TOPSTAR",
+      "publisher": "톱스타뉴스",
+      "title": "'검은 월요일' F4 긴급회의, 증안펀드 즉시 가동?…자사주 매수한도 완화",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282971",
+      "published_at": "2026-11-22T19:02:00+09:00",
+      "source_type": "news_reporting_official_announcement"
+    },
+    {
+      "id": "KR_EDAILY",
+      "publisher": "이데일리",
+      "title": "“월요일 내 계좌 괜찮을까”…美 반도체 쇼크, 삼전·닉스 여파는",
+      "url": "https://www.edaily.co.kr/news/read?mediaCodeNo=257&newsid=01971286645648344",
+      "published_at": "2026-11-22T21:07:34+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NIGHT_PENN",
+      "publisher": "펜앤마이크",
+      "title": "월요일 개장 5분 뒤 '사이드카' 켜지나…야간선물 7% 넘게 급락",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=132465",
+      "published_at": "2026-11-22T17:04:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NIGHT_ET",
+      "publisher": "이코노미트리뷴",
+      "title": "[월가레이더] 코스피 야간선물 7%, 나스닥 선물 5.6% 급락…버블 우려 속 '매도 악순환'",
+      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904500",
+      "published_at": "2026-11-22T12:00:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_WEEKLYKHAN",
+      "publisher": "주간경향",
+      "title": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협",
+      "url": "https://weekly.khan.co.kr/article/202611221922001",
+      "published_at": "2026-11-22T19:22:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_INEWS",
+      "publisher": "아이뉴스24",
+      "title": "코스피 5000선 붕괴⋯美 반도체주 폭락에 '검은 월요일' 오나",
+      "url": "https://m.inews24.com/v/2028973",
+      "published_at": "2026-11-22T14:30:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NVDA_BS",
+      "publisher": "Business Standard (Reuters)",
+      "title": "US SEC's Nvidia probe focuses on potential accounting irregularities",
+      "url": "https://www.business-standard.com/amp/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html",
+      "published_at": "2026-11-22T08:15:17+05:30",
+      "source_type": "news_reporting_wire"
+    },
+    {
+      "id": "SAMSUNG_TNW",
+      "publisher": "The Next Web",
+      "title": "Samsung names new chip and phone bosses amid a reported China shipment halt",
+      "url": "https://thenextweb.com/news/samsung-leadership-hwang-memory-choi-mobile-china-shipments",
+      "published_at": "2026-11-21T17:15:41+00:00",
+      "source_type": "news_reporting"
     }
-  ],
-  "limitations": [
-    "11월 22일은 일요일이라 새 KRX 정규장 가격·거래량·종목별 수급이 없다. equities=[]로 기록해 11월 20일을 중복 표본으로 세지 않았다.",
-    "미국 11월 20일 종가는 11월 20일 KRX 마감 뒤 확정됐다. 이미 끝난 국내장의 원인이나 선행 수치로 쓰지 않았다.",
-    "SOX 지수 레벨, SK하이닉스 ADR 종가, 서울 야간 원달러 종가, KOSPI200 야간선물은 확보하지 못했다. TSM·EWY·SOX 주간 수익률은 단일 출처다.",
-    "VIX 종가는 35.89(뉴스웨이·Longbridge)와 38.40(Yahoo 시세 띠)이 불일치한다. 미 10년물은 4.93%(AP)와 4.909~4.912%(15시 ET·시세 띠) 사이 약 2bp 차이가 있다.",
-    "엔비디아 SEC 회계 조사는 Reuters 익명 소식통 보도를 재인용한 것이며 공식 확인이 없다. 국내 반대매매 유예는 뉴데일리 보도만 확인했다.",
-    "FT 원문은 유료라 열람하지 않았다. 삼성은 논평을 거부했으며 부인·확인 모두 없다.",
-    "누적 국내 거래일은 9일, 종목-거래일 관측은 18개로 20·60일 창은 표본 부족이다. 요인 선정 빈도는 설명력·인과·예측력이 아니다."
   ]
 }

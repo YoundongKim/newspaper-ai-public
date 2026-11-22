@@ -1,0 +1,652 @@
+{
+  "schema_version": "1.0",
+  "copyright_policy": {
+    "full_article_text_exported": false,
+    "summaries_independently_written": true
+  },
+  "report_date": "2026-11-23",
+  "as_of": "2026-11-23T03:07:19+09:00",
+  "run_kind": "scheduled",
+  "status": "no_new_session",
+  "kr_trade_date": "2026-11-20",
+  "us_previous_completed_trade_date": "2026-11-19",
+  "is_new_kr_session": false,
+  "scheduled_cutoff": "2026-11-23T02:57:00+09:00",
+  "timing": {
+    "research_as_of": "2026-11-23T03:07:19+09:00",
+    "us_snapshot_collected_at": "2026-11-23T03:07:19+09:00",
+    "note": "Claude 예약(02:57 시작). 11/23 KRX 개장(09:00) 전 조사. 주말 정부 대책·야간선물·ADR을 보완 조사."
+  },
+  "market_calendar": {
+    "kr_status": "pre_open_weekend_gap",
+    "kr_last_regular_open": "2026-11-20T09:00:00+09:00",
+    "kr_last_regular_close": "2026-11-20T15:30:00+09:00",
+    "kr_next_regular_open": "2026-11-23T09:00:00+09:00",
+    "us_latest_regular_open": "2026-11-20T23:30:00+09:00",
+    "us_latest_regular_close": "2026-11-21T06:00:00+09:00",
+    "us_status_at_as_of": "weekend",
+    "us_next_regular_open": "2026-11-23T23:30:00+09:00",
+    "us_early_close": false,
+    "us_eastern_offset": "-05:00",
+    "us_dst": false,
+    "us_equity_holiday": false,
+    "source_ids": [
+      "US_CALENDAR"
+    ]
+  },
+  "summary": "11월 23일 03시는 KRX 개장 전이라 새 국내 정규장 표본이 없다(최신 국내 거래일 11월 20일 유지, 누적 9거래일). 주말 새 소식: ① 11/20 야간 KOSPI200 선물 12월물 700.00(-7.01%), SK하이닉스 ADR 103.57달러(-13.11%)로 마감(국내장 마감 뒤 확정, 11/23 신호). ② 11/22 정부 긴급 시장상황점검회의가 증안펀드 가동 준비 착수(규모·시점 미정), 자사주 일일 매수한도 11/24부터 3개월 완화, 불법 공매도 특별감시를 발표. ③ 해외 참고가는 삼성 -5.81%·하이닉스 -7.22%로 하이닉스 쪽 낙폭을 더 크게 가리켜 4거래일 연속 하이닉스 상대 우위의 반전 여부가 관전점. ④ 삼성은 11/20 황상준 사장 메모리 책임자 인사(TNW 보도), 엔비디아 SEC 조사는 회계 초점 보도(SEC 논평 거부). 회사 확정 HBM·실적·주문 변경 발표는 없었다.",
+  "us_current": {
+    "session_date": "2026-11-22",
+    "status": "weekend",
+    "as_of": "2026-11-23T03:07:19+09:00",
+    "regular_session_close_kst": null,
+    "attribution_boundary": "진행 중인 미국 정규장이 없다. 11/23 미국장은 11/23 23:30 KST 개장으로 11/23 국내장 마감 뒤라 11/24 국내장 신호다. CME 선물은 11/23 08:00 KST 재개.",
+    "calendar_source_ids": [
+      "US_CALENDAR"
+    ],
+    "metrics": []
+  },
+  "us_latest_completed_after_kr": {
+    "session_date": "2026-11-20",
+    "status": "closed",
+    "regular_session_close_kst": "2026-11-21T06:00:00+09:00",
+    "role": "next_kr_signal_only",
+    "metrics": [
+      {
+        "id": "US_SP500_RETURN",
+        "value": -3.7,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_MT",
+          "US_CLOSE_AP"
+        ],
+        "predetermined": false,
+        "level": 6910.39
+      },
+      {
+        "id": "US_NASDAQ_RETURN",
+        "value": -5.28,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_MT",
+          "US_CLOSE_AP"
+        ],
+        "predetermined": false,
+        "level": 22617.73
+      },
+      {
+        "id": "US_DOW_RETURN",
+        "value": -1.93,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_MT",
+          "US_CLOSE_AP"
+        ],
+        "predetermined": false,
+        "level": 48147.33
+      },
+      {
+        "id": "US_SOX_RETURN",
+        "value": -10.73,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_MT",
+          "US_CLOSE_NEWSWAY",
+          "US_CLOSE_AP"
+        ],
+        "predetermined": false,
+        "note": "지수 레벨 미확보, AP는 -10.7%로 반올림"
+      },
+      {
+        "id": "US_NVDA_RETURN",
+        "value": -14.01,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_NEWSWAY",
+          "US_CLOSE_ST"
+        ],
+        "predetermined": false,
+        "level": 125.53
+      },
+      {
+        "id": "US_MU_RETURN",
+        "value": -13.89,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_NEWSWAY",
+          "US_CLOSE_ST"
+        ],
+        "predetermined": false
+      },
+      {
+        "id": "US_AMD_RETURN",
+        "value": -13.25,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_NEWSWAY",
+          "US_CLOSE_ST"
+        ],
+        "predetermined": false,
+        "level": 424.39
+      },
+      {
+        "id": "US_AVGO_RETURN",
+        "value": -12.19,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final",
+        "source_ids": [
+          "US_CLOSE_NEWSWAY",
+          "US_CLOSE_ST"
+        ],
+        "predetermined": false
+      },
+      {
+        "id": "US_TSM_ADR_RETURN",
+        "value": -9.48,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final_single_source",
+        "source_ids": [
+          "US_CLOSE_ST"
+        ],
+        "predetermined": false
+      },
+      {
+        "id": "US_EWY_RETURN",
+        "value": -8.42,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final_single_source",
+        "source_ids": [
+          "US_CLOSE_ST"
+        ],
+        "predetermined": false,
+        "note": "MSCI Korea ETF. KRX 종가와 섞지 않는 별도 시장"
+      },
+      {
+        "id": "US_SKHY_ADR_RETURN",
+        "value": -13.11,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final_single_source",
+        "source_ids": [
+          "KR_INEWS"
+        ],
+        "predetermined": false,
+        "level": 103.57,
+        "level_unit": "USD",
+        "note": "11/23 보고서에서 보완: 아이뉴스24 단일 출처(103.57달러). 11/22 보고서는 출처 불일치로 미채택"
+      },
+      {
+        "id": "US_VIX_CLOSE",
+        "value": 35.89,
+        "unit": "index_level",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final_conflicting",
+        "source_ids": [
+          "US_CLOSE_NEWSWAY"
+        ],
+        "predetermined": false,
+        "note": "Yahoo 시세 띠는 38.40으로 불일치"
+      },
+      {
+        "id": "US_SOX_WEEK_RETURN",
+        "value": -17.13,
+        "unit": "percent",
+        "session_date": "2026-11-20",
+        "observed_at": "2026-11-21T06:00:00+09:00",
+        "available_at": "2026-11-21T06:00:00+09:00",
+        "status": "final_single_source",
+        "source_ids": [
+          "US_CLOSE_LB"
+        ],
+        "predetermined": false,
+        "note": "11/16~11/20 주간, 카이롄서 인용"
+      }
+    ]
+  },
+  "market_context": [
+    {
+      "id": "US_SOX_RETURN",
+      "value": -10.73,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": [
+        "US_CLOSE_MT",
+        "US_CLOSE_NEWSWAY",
+        "US_CLOSE_AP"
+      ],
+      "predetermined": false,
+      "note": "지수 레벨 미확보, AP는 -10.7%로 반올림"
+    },
+    {
+      "id": "US_NASDAQ_RETURN",
+      "value": -5.28,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": [
+        "US_CLOSE_MT",
+        "US_CLOSE_AP"
+      ],
+      "predetermined": false,
+      "level": 22617.73
+    },
+    {
+      "id": "US_SP500_RETURN",
+      "value": -3.7,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": [
+        "US_CLOSE_MT",
+        "US_CLOSE_AP"
+      ],
+      "predetermined": false,
+      "level": 6910.39
+    },
+    {
+      "id": "US_10Y_TREASURY",
+      "value": 4.93,
+      "unit": "percent_yield",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_after_kr_close_rounded",
+      "source_ids": [
+        "US_CLOSE_AP"
+      ],
+      "predetermined": false,
+      "previous_available_value": 5.04,
+      "change_bp": -11,
+      "note": "Yahoo 시세 띠 4.912, 뉴스웨이 15시 ET 4.909로 약 2bp 차이"
+    },
+    {
+      "id": "KOSPI200_NIGHT_FUTURES_CLOSE",
+      "value": 700.0,
+      "unit": "index_level",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_after_kr_close",
+      "source_ids": [
+        "NIGHT_PENN",
+        "NIGHT_ET"
+      ],
+      "predetermined": false,
+      "contract": "KOSPI200 2026년 12월물 야간거래",
+      "return_pct": -7.01,
+      "reference_close": 752.75,
+      "note": "한국거래소 인용 보도. 752.75→700.00(-52.75pt). 주간경향·아이뉴스24는 -6.99%로 표기(기준가 차이 추정). KRX 정규장 종가와 다른 시장"
+    },
+    {
+      "id": "SKHY_ADR_RETURN",
+      "value": -13.11,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final_single_source",
+      "source_ids": [
+        "KR_INEWS"
+      ],
+      "predetermined": false,
+      "level": 103.57,
+      "level_unit": "USD",
+      "note": "미국 상장 ADR. KRX 종가와 섞지 않음"
+    },
+    {
+      "id": "SAMSUNG_OVERSEAS_EST_RETURN",
+      "value": -5.81,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-22T19:22:00+09:00",
+      "available_at": null,
+      "status": "reported_reference_single_source",
+      "source_ids": [
+        "KR_WEEKLYKHAN"
+      ],
+      "predetermined": false,
+      "level": 172469,
+      "level_unit": "KRW",
+      "note": "KOSPILAB 해외 영구선물 원화 환산 참고가(보도 기준 22일 공유). KRX 체결가·시초가 예측치 아님. 관측 시각은 보도 입력 시각으로 대체"
+    },
+    {
+      "id": "SKHYNIX_OVERSEAS_EST_RETURN",
+      "value": -7.22,
+      "unit": "percent",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-22T19:22:00+09:00",
+      "available_at": null,
+      "status": "reported_reference_single_source",
+      "source_ids": [
+        "KR_WEEKLYKHAN"
+      ],
+      "predetermined": false,
+      "level": 1032608,
+      "level_unit": "KRW",
+      "note": "KOSPILAB 해외 영구선물 원화 환산 참고가. KRX 체결가·시초가 예측치 아님"
+    },
+    {
+      "id": "USDKRW_NIGHT_CLOSE",
+      "value": null,
+      "unit": "KRW_per_USD",
+      "session_date": "2026-11-20",
+      "observed_at": "2026-11-21T06:00:00+09:00",
+      "available_at": "2026-11-21T06:00:00+09:00",
+      "status": "final",
+      "source_ids": [],
+      "predetermined": false,
+      "missing_reason": "11/20~21 서울 야간거래 원달러 종가 원자료 여전히 미확보"
+    },
+    {
+      "id": "US_EQUITY_FUTURES_CURRENT",
+      "value": null,
+      "unit": "percent",
+      "session_date": "2026-11-23",
+      "observed_at": "2026-11-23T03:07:19+09:00",
+      "available_at": null,
+      "status": "not_open",
+      "source_ids": [],
+      "predetermined": false,
+      "missing_reason": "CME 주가지수 선물은 일요일 18:00 ET(11/23 08:00 KST)에 재개되어 조사 시각에는 거래 전. 일부 기사 제목의 나스닥 선물 -5.6%는 본문상 11/20 나스닥100 현물 수익률이라 미채택"
+    }
+  ],
+  "equities": [],
+  "cross_stock_comparison": "새 KRX 세션이 없어 11월 20일 두 종목 기록은 수정하지 않았다. 국내 마감 뒤 신호는 하이닉스에 더 불리했다: ADR -13.11%, 해외 참고가 -7.22% vs 삼성 -5.81%. 11/17~20 4거래일 연속 하이닉스가 삼성보다 덜 빠진(또는 더 오른) 흐름이 11/23에 뒤집히는지, 삼성에만 겹친 중국 출하 중단 보도(F12)와 메모리 인사(F13)가 차이를 만드는지 11/23 시초가·종가·종목별 수급으로 검증해야 한다.",
+  "next_kr_signals": [
+    {
+      "factor_id": "F01_US_SEMI",
+      "direction": "negative",
+      "relation": "background",
+      "confidence": "high",
+      "evidence_type": "observed",
+      "event_window": "after_kr_close",
+      "event_at": "2026-11-21T06:00:00+09:00",
+      "new_or_repeated": "지속(11/22 기록 보완: 야간선물·하이닉스 ADR 확보)",
+      "reason": "11/20 KRX 마감 뒤 KOSPI200 야간선물 12월물이 700.00(-7.01%)으로 끝났고, SK하이닉스 ADR은 103.57달러(-13.11%)로 마감했다. SOX -10.73%·MU -13.89%와 같은 방향의 11/23 국내장 신호다.",
+      "counterevidence": "야간선물·ADR은 KRX와 다른 시장·유동성이며 11/20 국내장이 이미 -5~7% 급락으로 일부 선반영했다. 정부 대책(주말 발표)은 야간선물 마감 뒤 나왔다.",
+      "source_ids": [
+        "NIGHT_PENN",
+        "NIGHT_ET",
+        "KR_INEWS",
+        "US_CLOSE_MT"
+      ]
+    },
+    {
+      "factor_id": "F12_POLICY",
+      "direction": "positive",
+      "relation": "background",
+      "confidence": "medium",
+      "evidence_type": "observed",
+      "event_window": "after_kr_close",
+      "event_at": "2026-11-22T18:50:00+09:00",
+      "new_or_repeated": "신규",
+      "reason": "11/22 재정경제부 주재 긴급 시장상황점검회의(한은·금융위·금감원 참석)에서 증권시장안정펀드 가동 준비 착수, 상장사 일일 자사주 매수주문 한도 11/24부터 3개월 완화, 불법 공매도 3개월 특별감시, 신용·미수·반대매매 점검을 발표했다고 두 매체가 보도했다.",
+      "counterevidence": "증안펀드는 준비 착수일 뿐 규모·투입 시점이 미정이다. 자사주 한도 완화는 11/23이 아닌 11/24부터다. 외국인 매도(주간 유가증권 -4.56조원)를 막을 수 있는지는 확인되지 않았다.",
+      "source_ids": [
+        "GOV_WOWTV",
+        "GOV_TOPSTAR",
+        "KR_EDAILY"
+      ]
+    },
+    {
+      "factor_id": "F13_CORPORATE",
+      "direction": "unclear",
+      "relation": "background",
+      "confidence": "low",
+      "evidence_type": "reported_interpretation",
+      "event_window": "unknown",
+      "event_at": null,
+      "new_or_repeated": "신규(삼성 인사) / 지속(엔비디아 조사 보도)",
+      "reason": "TNW는 삼성전자가 11/20 황상준 사장을 메모리 사업 책임자로, 최원준 사장을 MX 사업 책임자로 하는 인사를 발표했다고 보도했다(삼성 뉴스룸 인용, 원문 미열람). 엔비디아 SEC 조사는 Reuters가 회계 문제에 초점이라고 보도했고 SEC는 논평을 거부했다.",
+      "counterevidence": "삼성 인사의 발표 시각이 KRX 장중인지 확인하지 못했고 주가 영향 근거가 없다. 엔비디아 조사는 익명 소식통 보도이며 조사 자체가 위법 증거는 아니다.",
+      "source_ids": [
+        "SAMSUNG_TNW",
+        "NVDA_BS"
+      ]
+    },
+    {
+      "factor_id": "F14_POSITIONING",
+      "direction": "mixed",
+      "relation": "background",
+      "confidence": "low",
+      "evidence_type": "hypothesis",
+      "event_window": "after_kr_close",
+      "event_at": null,
+      "new_or_repeated": "지속",
+      "reason": "해외 참고가(KOSPILAB 영구선물 환산)는 삼성 -5.81%, 하이닉스 -7.22%로 하이닉스 쪽 낙폭을 더 크게 가리켰고 ADR도 -13.11%였다. 4거래일 연속 하이닉스 상대 우위가 11/23에 뒤집힐지가 관전점이다. 하나증권은 코스피 하방 시나리오 4300선(PBR 0.94배)을 제시했다.",
+      "counterevidence": "해외 참고가·ADR은 거래량이 적고 기준 시각이 다르다. 기사도 시초가 예측으로 쓰지 말라고 경고했다. 매도 사이드카·서킷브레이커 기준선 계산은 기자의 투영이다.",
+      "source_ids": [
+        "KR_WEEKLYKHAN",
+        "KR_EDAILY",
+        "NIGHT_PENN"
+      ]
+    },
+    {
+      "factor_id": "F03_RATES",
+      "direction": "unclear",
+      "relation": "background",
+      "confidence": "low",
+      "evidence_type": "observed",
+      "event_window": "after_kr_close",
+      "event_at": null,
+      "new_or_repeated": "일정",
+      "reason": "11/26 한국은행 금통위와 11/30 MSCI 정기변경이 이번 주 변수로 거론됐다. 미 10년물은 11/20 약 4.93%로 직전 대비 약 11bp 내렸다.",
+      "counterevidence": "주말 중 새 금리·거시 발표는 없었다. 일정 자체는 방향 정보가 아니다.",
+      "source_ids": [
+        "KR_INEWS",
+        "US_CLOSE_AP"
+      ]
+    }
+  ],
+  "research_coverage": {
+    "F01_US_SEMI": "11/20 미국 종가는 11/22 기록 유지. KOSPI200 야간선물 700.00(-7.01%)·SK하이닉스 ADR 103.57달러(-13.11%) 신규 확보. CME 선물은 조사 시각 거래 전.",
+    "F02_GLOBAL_RISK": "주말 신규 지표 없음. 11/20 VIX 출처 불일치 그대로.",
+    "F03_RATES": "주말 신규 발표 없음. 11/26 한은 금통위·11/30 MSCI 정기변경 일정 확인.",
+    "F04_FX": "서울 야간 원달러 종가 여전히 미확보.",
+    "F05_FOREIGN_FLOW": "새 KRX 세션 없음. 11/20 종목별 수급 기록 유지.",
+    "F06_INSTITUTION_FLOW": "새 KRX 세션 없음.",
+    "F07_MEMORY_CYCLE": "주말 신규 DRAM/NAND 계약가격 발표 미확인(TrendForce 11/18 DRAM 불리틴 이후 신규 없음).",
+    "F08_HBM_EXECUTION": "회사 확정 HBM 인증·양산 발표 없음. 삼성 HBM 텍사스 생산 계획은 TNW의 'reportedly' 보도로 미채택.",
+    "F09_AI_CAPEX": "AI 투자 지속성 의문 해석 확인. 하이퍼스케일러 CAPEX 공식 변경 없음.",
+    "F10_EARNINGS": "양사 신규 실적·가이던스 없음.",
+    "F11_SUPPLY_CAPEX": "신규 회사 공시 미확보.",
+    "F12_POLICY": "11/22 정부 시장안정 대책(증안펀드 준비·자사주 한도 완화·공매도 감시) 확인. FT 출하 중단 보도에 삼성·TSMC 공식 반응은 여전히 확인 안 됨.",
+    "F13_CORPORATE": "삼성 인사(TNW, 뉴스룸 원문 접근 실패). 엔비디아 SEC 회계 조사 보도(Reuters 익명, SEC 논평 거부).",
+    "F14_POSITIONING": "야간선물·해외 참고가·사이드카 기준선 보도 확인. 기준선은 투영치.",
+    "F15_NON_MEMORY": "삼성 파운드리 중국 고객 관련은 F12로 기록. 신규 독립 촉매 없음."
+  },
+  "shorts_candidates": [
+    {
+      "hook": "나흘 내내 삼성보다 덜 빠진 SK하이닉스, 주말 해외 신호는 처음으로 반대를 가리킵니다.",
+      "why_surprising": "11/17~20 국내 정규장에서 하이닉스는 4거래일 연속 삼성보다 상대적으로 강했다. 그런데 국내 마감 뒤 미국 ADR은 -13.11%, 해외 영구선물 환산가는 하이닉스 -7.22% vs 삼성 -5.81%로 하이닉스 쪽 낙폭이 더 컸다. 메모리 대표주 MU(-13.89%) 급락이 HBM 비중이 큰 하이닉스에 더 직접적이라는 해석이 가능하다.",
+      "verified_facts": "11/20 KRX: 삼성 -7.01%(18만3100원), 하이닉스 -5.92%(111만3000원). 국내 마감 뒤: KOSPI200 야간선물 700.00(-7.01%), SK하이닉스 ADR 103.57달러(-13.11%), MU -13.89%.",
+      "caveat": "ADR·해외 참고가는 거래량이 적고 KRX와 기준 시각이 다르다. 주말 정부 대책은 그 뒤에 나왔다. 월요일 결과를 예측하는 근거로 단정하지 않는다.",
+      "next_check": "11/23 두 종목 시초가 갭과 종가 수익률 차이, 종목별 외국인 순매도 7거래일째 여부, 매도 사이드카 발동 여부.",
+      "source_ids": [
+        "KR_INEWS",
+        "KR_WEEKLYKHAN",
+        "NIGHT_PENN",
+        "US_CLOSE_MT"
+      ]
+    }
+  ],
+  "limitations": [
+    "11월 23일 03시는 KRX 개장 전이라 새 정규장 가격·거래량·종목별 수급이 없다. equities=[]로 기록해 11월 20일을 중복 표본으로 세지 않았다.",
+    "야간선물·ADR·해외 참고가와 정부 대책은 모두 11월 20일 KRX 마감 뒤 정보라 이미 끝난 국내장의 원인으로 쓰지 않았다.",
+    "SK하이닉스 ADR(-13.11%)은 아이뉴스24 단일 출처다. 해외 참고가(KOSPILAB)는 주간경향 단일 보도이며 관측 시각이 불명확해 보도 입력 시각으로 대체했다.",
+    "야간선물 등락률은 -7.01%(펜앤마이크·이코노미트리뷴, 752.75→700.00 계산과 일치)와 -6.99%(주간경향·아이뉴스24)로 엇갈렸다.",
+    "정부 대책 원문(재정경제부 보도자료)은 직접 열람하지 못하고 두 매체 보도로 확인했다. 한국경제 기사는 본문 추출 실패, 네이트 뉴스는 접근 거부됐다.",
+    "삼성 인사는 삼성 뉴스룸 원문 접근에 실패해 TNW 보도로만 기록했고 발표 시각을 확인하지 못했다. 서울 야간 원달러 종가는 미확보다.",
+    "누적 국내 거래일은 9일, 종목-거래일 관측은 18개로 20·60일 창은 표본 부족이다. 요인 선정 빈도는 설명력·인과·예측력이 아니다."
+  ],
+  "sources": [
+    {
+      "id": "US_CLOSE_MT",
+      "publisher": "머니투데이",
+      "title": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감]",
+      "url": "https://www.mt.co.kr/world/2026/11/21/2026112106320926639",
+      "published_at": "2026-11-21T06:35:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "US_CLOSE_NEWSWAY",
+      "publisher": "뉴스웨이",
+      "title": "엔비디아 14% 급락에 나스닥 5.28%↓···올해 상승분 반납",
+      "url": "https://newsway.co.kr/news/view?ud=2026112110345040190",
+      "published_at": "2026-11-21T10:35:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "US_CLOSE_AP",
+      "publisher": "Associated Press via NBC Bay Area",
+      "title": "S&P 500 sinks 3.7%, Nasdaq composite goes negative for the year",
+      "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/",
+      "published_at": null,
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "US_CLOSE_ST",
+      "publisher": "StockTitan",
+      "title": "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+      "published_at": "2026-11-21T10:15:00+09:00",
+      "source_type": "market_news"
+    },
+    {
+      "id": "US_CLOSE_LB",
+      "publisher": "Longbridge",
+      "title": "Morning Brief: Nasdaq plunges 5.28%, wiping out YTD gains; S&P and Dow enter correction territory; Nvidia drops 14.01%",
+      "url": "https://longbridge.com/en/topics/45267978",
+      "published_at": null,
+      "source_type": "market_news"
+    },
+    {
+      "id": "US_CALENDAR",
+      "publisher": "NYSE",
+      "title": "Holidays and Trading Hours",
+      "url": "https://www.nyse.com/trade/hours-calendars",
+      "published_at": null,
+      "source_type": "official_calendar"
+    },
+    {
+      "id": "GOV_WOWTV",
+      "publisher": "한국경제TV",
+      "title": "블랙먼데이 우려에…정부, 증시안정펀드 가동 준비 착수",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220064",
+      "published_at": "2026-11-22T18:50:00+09:00",
+      "source_type": "news_reporting_official_announcement"
+    },
+    {
+      "id": "GOV_TOPSTAR",
+      "publisher": "톱스타뉴스",
+      "title": "'검은 월요일' F4 긴급회의, 증안펀드 즉시 가동?…자사주 매수한도 완화",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282971",
+      "published_at": "2026-11-22T19:02:00+09:00",
+      "source_type": "news_reporting_official_announcement"
+    },
+    {
+      "id": "KR_EDAILY",
+      "publisher": "이데일리",
+      "title": "“월요일 내 계좌 괜찮을까”…美 반도체 쇼크, 삼전·닉스 여파는",
+      "url": "https://www.edaily.co.kr/news/read?mediaCodeNo=257&newsid=01971286645648344",
+      "published_at": "2026-11-22T21:07:34+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NIGHT_PENN",
+      "publisher": "펜앤마이크",
+      "title": "월요일 개장 5분 뒤 '사이드카' 켜지나…야간선물 7% 넘게 급락",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=132465",
+      "published_at": "2026-11-22T17:04:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NIGHT_ET",
+      "publisher": "이코노미트리뷴",
+      "title": "[월가레이더] 코스피 야간선물 7%, 나스닥 선물 5.6% 급락…버블 우려 속 '매도 악순환'",
+      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904500",
+      "published_at": "2026-11-22T12:00:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_WEEKLYKHAN",
+      "publisher": "주간경향",
+      "title": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협",
+      "url": "https://weekly.khan.co.kr/article/202611221922001",
+      "published_at": "2026-11-22T19:22:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "KR_INEWS",
+      "publisher": "아이뉴스24",
+      "title": "코스피 5000선 붕괴⋯美 반도체주 폭락에 '검은 월요일' 오나",
+      "url": "https://m.inews24.com/v/2028973",
+      "published_at": "2026-11-22T14:30:00+09:00",
+      "source_type": "news_reporting"
+    },
+    {
+      "id": "NVDA_BS",
+      "publisher": "Business Standard (Reuters)",
+      "title": "US SEC's Nvidia probe focuses on potential accounting irregularities",
+      "url": "https://www.business-standard.com/amp/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html",
+      "published_at": "2026-11-22T08:15:17+05:30",
+      "source_type": "news_reporting_wire"
+    },
+    {
+      "id": "SAMSUNG_TNW",
+      "publisher": "The Next Web",
+      "title": "Samsung names new chip and phone bosses amid a reported China shipment halt",
+      "url": "https://thenextweb.com/news/samsung-leadership-hwang-memory-choi-mobile-china-shipments",
+      "published_at": "2026-11-21T17:15:41+00:00",
+      "source_type": "news_reporting"
+    }
+  ]
+}
