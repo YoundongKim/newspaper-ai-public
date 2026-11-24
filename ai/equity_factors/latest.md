@@ -1,92 +1,90 @@
-# 삼성전자·SK하이닉스 주가 요인 — 2026-11-24
+# 삼성전자·SK하이닉스 주가 요인 — 2026-11-25
 
-조사 기준: 2026-11-24T03:04:16+09:00 | 유형: scheduled | 상태: partial
-국내 거래일: 2026-11-23 | 선행 미국 완료 거래일: 2026-11-20
-미국 현재 세션: 2026-11-23 / intraday (당일 국내장 원인과 구분)
+조사 기준: 2026-11-25T03:03:06+09:00 | 유형: scheduled | 상태: partial
+국내 거래일: 2026-11-24 | 선행 미국 완료 거래일: 2026-11-23
+미국 현재 세션: 2026-11-24 / intraday (당일 국내장 원인과 구분)
 
-11월 23일 삼성전자 -3.06%(17만7500원), SK하이닉스 -2.52%(108만5000원), 코스피 -3.31%(4708.54)로 이틀 연속 매도 사이드카가 났다. 개장 전 확정된 11/20 미국 반도체 폭락(SOX -10.73%, NVDA -14.0%, MU -13.9%)과 엔비디아 SEC 회계 조사 보도·AI 투자 회의론이 하락 후보다. 다만 두 종목 모두 코스피보다 덜 빠졌고, 하이닉스는 ADR(-13.11%)·해외 참고가(-7.22%)가 가리킨 낙폭의 일부만 반영하며 시가 대비 +3.2% 반등했다(시가는 단일 출처). 외국인 -2471억원·기관 +1872억원(시장 전체). 국내 마감 뒤 엔비디아가 젠슨 황을 CEO로 복귀시켜 미국장 장중 NVDA +33%, MU +19%, 나스닥 +6.8%로 급반등 중이며 이는 11/24 국내장 신호로만 기록한다.
+11월 24일 삼성전자 +6.70%(18만9400원), SK하이닉스 +6.73%(115만8000원), 코스피 +6.32%(5006.03)로 3거래일 만에 5000을 회복했고 09:06 매수 사이드카가 났다. 개장 전 확정된 11/23 미국장 급반등(SOX +14.03%, NVDA +31.48%, MU +19.04%)과 젠슨 황 엔비디아 CEO 복귀가 두 종목 공통 1·2순위 후보다. 두 종목 상승률이 코스피와 거의 같아 종목 고유 재료보다 시장 전체 반등에 가깝다. 수급은 갈렸다: 외국인은 삼성 약 +4223억원을 사고 하이닉스는 9거래일째 순매도(-1351억~-2500억원)했다. 국내 마감 뒤 11/24 미국장은 장중 NVDA -8.4%, 나스닥 -2.2%로 반락 중이며 이는 11/25 국내장 신호로만 기록한다.
 
 ## 삼성전자 (005930)
 
-KRX 종가: 177500원 | 전일 종가: 183100원 | 등락률: -3.058438%
-KRX 정규장 18만3100원→17만7500원(-3.06%), 코스피 대비 +0.25%p. 시가 17만7600원(-3.00% 갭) 뒤 장중 17만1500원(-6.34%)까지 밀렸다가 시가 부근에서 끝났다. 4월 2일 이후 처음 17만원대 종가. 개장 전 확정된 11/20 미국 반도체 폭락(SOX -10.73%)이 하락의 1차 후보이나, 낙폭은 해외 참고가(-5.81%)·SOX보다 훨씬 작았다. 종목별 외국인·기관 수급은 미확보.
+KRX 종가: 189400원 | 전일 종가: 177500원 | 등락률: 6.704225%
+KRX 정규장 17만7500원→18만9400원(+6.70%), 코스피(+6.32%) 대비 +0.39%p. 이틀 하락 뒤 반등. 상승 대부분이 시가 갭(+5.92%, 단일 출처)에서 생겼고 시가 대비로는 +0.74%에 그쳤다. 개장 전 확정된 11/23 미국 반도체 급등(SOX +14.03%, NVDA +31.48%)과 젠슨 황 엔비디아 CEO 복귀가 1·2순위 후보. 외국인 약 +4223억원·기관 약 +2230억원 순매수로 하이닉스와 수급이 갈렸다.
 
-- 1. **미국 반도체 동조화** (negative, candidate_driver, 확신 medium): 11/20 미국 정규장 SOX -10.73%, NVDA -14.01%, MU -13.89%, AMD -13.25%, AVGO -12.19%, TSM -9.48%, SK하이닉스 ADR -13.11%, KOSPI200 야간선물 -7.01%가 11/23 국내 개장 전에 확정됐다. 국내 마감기사 다수가 이를 첫 하락 이유로 꼽았고 코스피는 -2.77%로 출발했다. 삼성 시가 갭 -3.00%가 대부분 이 시점에 생겼다.
-  - 근거: US_CLOSE_MT, US_CLOSE20_STOCKTITAN, KR_CLOSE_HERALD, KR_KADO, NIGHT_PENN. 반대/한계: 삼성 낙폭(-3.06%)은 SOX(-10.73%)·해외 참고가(-5.81%)보다 훨씬 작고 코스피(-3.31%)보다도 덜 빠졌다. 장중 -6.34% 저점 이후 회복분은 미국 반도체로 설명되지 않는다.
-- 2. **AI 고객 투자·수요** (negative, candidate_driver, 확신 low): Reuters 보도(11/22 KST 오전 전재)로 SEC의 엔비디아 조사가 회계 문제에 초점이라는 소식이 개장 전에 나왔고, 마감기사들은 'AI 투자 수익성 회의'와 트럼프의 해외 AI 데이터센터 건설 기업 고율 과세 발언을 함께 하락 배경으로 들었다.
-  - 근거: NVDA_BS, KR_CLOSE_HERALD, KR_CLOSE_NEWSPIM, KR_CLOSE_BIZWATCH. 반대/한계: SEC 조사는 익명 소식통 보도이고 위법이 확인되지 않았다. 해외 데이터센터 과세 발언은 발언 시각·원문을 확인하지 못했다. 같은 엔비디아 이슈는 이미 11/20 미국장에 반영돼 국내 낙폭이 SOX의 1/3 이하에 그쳤다. 국내 마감 뒤(22:55 KST) 엔비디아가 젠슨 황을 CEO로 복귀시켜 우려가 하루 만에 반전됐다(다음 국내장 신호).
-- 3. **정책·수출규제** (mixed, candidate_driver, 확신 low): 개장 전 주말(11/22) 정부가 증안펀드 가동 준비, 자사주 매수주문 한도 3개월 완화(11/24부터), 불법 공매도 특별감시를 발표했다. 반면 마감기사들은 엔비디아·AMD의 대중 수출통제 위반 의혹 등 미중 반도체 마찰을 악재로 들었다.
-  - 근거: GOV_WOWTV, KR_ISSUEON, KR_CLOSE_HERALD, KR_KADO. 반대/한계: 증안펀드는 투입 전이고 규모·시점이 확정되지 않았다. 코스피는 대책 발표 뒤에도 장중 -5.81%까지 밀렸다. 수출통제 의혹은 회사·당국 확인이 없는 보도다.
-- 보조/반대. **외국인 수급** (negative, confirmation, 확신 low): 유가증권시장 전체 외국인 -2471억원, 개인 -3669억원, 기관 +1872억원. 09:10에는 외국인이 +1697억원 순매수였다가 장중 매도로 돌아섰다.
-  - 근거: KR_CLOSE_NEWSPIM, KR_CLOSE_BIZWATCH, KR_HK_OPEN. 반대/한계: 시장 전체 수치이며 삼성 종목별 외국인 수급은 확보하지 못했다. 수급은 매매 결과라 원인으로 쓰지 않는다.
-- 보조/반대. **가격 부담·포지셔닝** (positive, countervailing, 확신 low): 장중 -6.34%에서 종가 -3.06%로 회복했다. 한화투자증권은 엔비디아 회계 보도에 따른 '과도한 공포'라며 코스피 12개월 선행 PBR 0.88배(14시)가 2008년 수준에 가깝다고 했다.
-  - 근거: KR_CLOSE_BIZWATCH, KR_TOPSTAR_SS. 반대/한계: 회복 이유를 저가매수로 확정할 근거가 없다. 증권사 의견은 해석이다.
-- 보조/반대. **원달러·달러** (negative, background, 확신 low): 원달러 주간 종가 1345.9원(+9.7원), 장중 1351.6원으로 11/9 이후 처음 1350원대.
-  - 근거: KR_CLOSE_NEWSPIM, KR_ISSUEON. 반대/한계: 원화 약세의 수출 실적 효과는 반대 방향일 수 있고 주가와의 시점 관계를 확인하지 못했다.
+- 1. **미국 반도체 동조화** (positive, candidate_driver, 확신 high): 11/23 미국 정규장 SOX +14.03%, NVDA +31.48%, MU +19.04%, TSM +14.08%, AMD +6.85%, 나스닥 +6.51%가 11/24 국내 개장 전(06:00 KST) 확정됐다. 코스피는 +3.64%로 출발해 09:06 매수 사이드카가 났고, 마감 기사들이 이를 첫 상승 이유로 꼽았다. 삼성 시가 갭 +5.92%가 이 시점에 생겼다.
+  - 근거: US_CLOSE23_TK, US_CLOSE23_CAPP, US_CLOSE23_MTC, KR_CLOSE_FN, KR_GREENPOST. 반대/한계: 삼성 상승률(+6.70%)은 SOX(+14.03%)의 절반이고 코스피와 거의 같아 종목 고유 요인보다 시장 전체 위험선호 회복에 가깝다. 시가 이후 상승은 +0.74%뿐이고 장중 고가(19만3700~19만6100원, 출처 불일치)보다 낮게 끝났다.
+- 2. **AI 고객 투자·수요** (positive, candidate_driver, 확신 medium): 엔비디아 이사회가 젠슨 황을 CEO로 즉시 복귀시켰다(11/12 사임). 국내 기사는 엔비디아 관련 AI 수요 불확실성이 걷혔다고 해석했다. 국내 개장 전 공개된 사건이다.
+  - 근거: US_LIVE23_STOCKTITAN, US_CLOSE23_MTC, KR_GREENPOST. 반대/한계: F01과 같은 경로라 별도 기여로 나눌 수 없다. 회사 독립 조사·SEC 등 조사는 계속된다. 국내 마감 뒤 11/24 미국장 장중 NVDA -8.4%로 되밀렸다.
+- 보조/반대. **외국인 수급** (positive, confirmation, 확신 medium): 삼성전자 외국인 순매수 약 4213억~4230억원(매체별)으로 거래소 외국인 순매수 1위. 시장 전체 외국인도 +7255억원(파이낸셜뉴스 KB 집계 +1조162억원).
+  - 근거: KR_HOT_FN, KR_GREENPOST, KR_NEWS1_FOREIGN, KR_PINPOINT. 반대/한계: 수급은 매매 결과이며 원인으로 단정하지 않는다. 개인은 삼성 약 -6205억원 순매도. 같은 날 외국인은 하이닉스를 팔았다.
+- 보조/반대. **기관·ETF 수급** (positive, confirmation, 확신 low): 기관 약 +2230억~2233억원(금융투자 +1383억원 중심, 그린포스트).
+  - 근거: KR_GREENPOST, KR_CLOSE_FN. 반대/한계: 금융투자 매수는 옵션 만기·차익거래 성격일 수 있다(가설).
+- 보조/반대. **가격 부담·포지셔닝** (positive, background, 확신 low): 그린포스트는 옵션 만기 포지션 조정과 숏커버링도 기여했다고 해석했다.
+  - 근거: KR_GREENPOST. 반대/한계: 정량 근거(공매도·옵션 미결제약정) 미확보.
 
-다음 확인: 11/24 시초가: 11/23 미국장 나스닥 +6.8%·NVDA +33%·MU +19%(장중) 반등이 얼마나 반영되는지 / 자사주 매수 한도 완화(11/24 시행) 이후 삼성 자사주 매입 공시 여부 / 종목별 외국인 수급(11/23 미확보) 재확인 / 11/25 미 10월 PCE, 11/26 금통위, 11/30 MSCI 정기변경
+다음 확인: 11/24 미국장 반락(NVDA -8.4%, 나스닥 -2.2%, 12:03 ET 장중) 이후 11/25 시초가 / 외국인 삼성 순매수가 이어지는지(하이닉스와 분리) / 11/25 미국 10월 PCE·3분기 GDP(08:30 ET), 11/26 미국 휴장
 
 ## SK하이닉스 (000660)
 
-KRX 종가: 1085000원 | 전일 종가: 1113000원 | 등락률: -2.515723%
-KRX 정규장 111만3000원→108만5000원(-2.52%), 코스피 대비 +0.79%p. 시가 105만1000원(-5.57% 갭, 단일 출처)에서 장중 반등해 시가 대비 +3.24%로 마감했다. ADR(-13.11%)·해외 참고가(-7.22%)가 가리킨 낙폭보다 훨씬 작았고, 5거래일 연속 삼성보다 덜 빠졌다(차이 0.54%p). 4월 13일 이후 최저 종가.
+KRX 종가: 1158000원 | 전일 종가: 1085000원 | 등락률: 6.728111%
+KRX 정규장 108만5000원→115만8000원(+6.73%), 코스피 대비 +0.41%p. 삼성과 거의 같은 폭으로 반등했지만 외국인은 약 1351억~2500억원(매체별) 순매도해 9거래일 연속 팔았다(뉴시스). 기타법인 +4155억원(단일 출처). 11/23 MU +19.04%, ADR 장중 +19.9%보다 국내 반등폭은 훨씬 작았다. 1·2순위 후보는 미국 반도체 급반등과 젠슨 황 복귀.
 
-- 1. **미국 반도체 동조화** (negative, candidate_driver, 확신 medium): 11/20 미국 정규장 SOX -10.73%, NVDA -14.01%, MU -13.89%, AMD -13.25%, AVGO -12.19%, TSM -9.48%, SK하이닉스 ADR -13.11%, KOSPI200 야간선물 -7.01%가 11/23 국내 개장 전에 확정됐다. 국내 마감기사 다수가 이를 첫 하락 이유로 꼽았고 코스피는 -2.77%로 출발했다. 하이닉스는 MU(-13.89%)와 ADR(-13.11%) 하락이 직접 비교 대상이다.
-  - 근거: US_CLOSE_MT, US_CLOSE20_STOCKTITAN, KR_CLOSE_HERALD, KR_KADO, NIGHT_PENN. 반대/한계: 하이닉스 종가 낙폭(-2.52%)은 ADR의 1/5 수준이다. 시가 갭(-5.57%) 뒤 장중 +3.24% 반등은 개장 전 정보로 설명되지 않는다.
-- 2. **AI 고객 투자·수요** (negative, candidate_driver, 확신 low): Reuters 보도(11/22 KST 오전 전재)로 SEC의 엔비디아 조사가 회계 문제에 초점이라는 소식이 개장 전에 나왔고, 마감기사들은 'AI 투자 수익성 회의'와 트럼프의 해외 AI 데이터센터 건설 기업 고율 과세 발언을 함께 하락 배경으로 들었다. 하이닉스는 엔비디아 HBM 공급사라 노출이 더 직접적이다.
-  - 근거: NVDA_BS, KR_CLOSE_HERALD, KR_CLOSE_NEWSPIM, KR_CLOSE_BIZWATCH. 반대/한계: SEC 조사는 익명 소식통 보도이고 위법이 확인되지 않았다. 해외 데이터센터 과세 발언은 발언 시각·원문을 확인하지 못했다. 같은 엔비디아 이슈는 이미 11/20 미국장에 반영돼 국내 낙폭이 SOX의 1/3 이하에 그쳤다. 국내 마감 뒤(22:55 KST) 엔비디아가 젠슨 황을 CEO로 복귀시켜 우려가 하루 만에 반전됐다(다음 국내장 신호).
-- 보조/반대. **가격 부담·포지셔닝** (positive, countervailing, 확신 low): 시가 대비 +3.24% 회복했고 ADR·해외 참고가보다 덜 빠졌다. 11/20 국내장에서 이미 -5.92% 빠진 뒤라 이틀 누적(-8.28%)이 SOX 이틀 누적과 비교 가능한 범위에 있다는 해석이 가능하다.
-  - 근거: KR_TOPSTAR_HY, KR_KADO, KR_CLOSE_BIZWATCH. 반대/한계: 저가매수·숏커버를 확인한 수급 자료가 없다. 시가가 단일 출처이고 다른 보도와 다르다.
-- 보조/반대. **정책·수출규제** (mixed, background, 확신 low): 개장 전 주말(11/22) 정부가 증안펀드 가동 준비, 자사주 매수주문 한도 3개월 완화(11/24부터), 불법 공매도 특별감시를 발표했다. 반면 마감기사들은 엔비디아·AMD의 대중 수출통제 위반 의혹 등 미중 반도체 마찰을 악재로 들었다.
-  - 근거: GOV_WOWTV, KR_ISSUEON, KR_CLOSE_HERALD. 반대/한계: 증안펀드는 투입 전이고 규모·시점이 확정되지 않았다. 코스피는 대책 발표 뒤에도 장중 -5.81%까지 밀렸다. 수출통제 의혹은 회사·당국 확인이 없는 보도다.
-- 보조/반대. **외국인 수급** (negative, confirmation, 확신 low): 유가증권시장 외국인 -2471억원(09:10 +1697억원에서 전환), 기관 +1872억원.
-  - 근거: KR_CLOSE_NEWSPIM, KR_HK_OPEN. 반대/한계: 시장 전체 수치이며 하이닉스 종목별 수급은 미확보. 원인으로 쓰지 않는다.
+- 1. **미국 반도체 동조화** (positive, candidate_driver, 확신 high): 11/23 미국 정규장 SOX +14.03%, NVDA +31.48%, MU +19.04%, TSM +14.08%, AMD +6.85%, 나스닥 +6.51%가 11/24 국내 개장 전(06:00 KST) 확정됐다. 코스피는 +3.64%로 출발해 09:06 매수 사이드카가 났고, 마감 기사들이 이를 첫 상승 이유로 꼽았다. 하이닉스는 MU(+19.04%)·ADR(14:04 ET 장중 +19.89%)이 직접 비교 대상이다.
+  - 근거: US_CLOSE23_TK, US_CLOSE23_CAPP, MU_TK, SKHY_ADR_FF, KR_HOT_FN, KR_GREENPOST. 반대/한계: 국내 상승(+6.73%)은 MU의 약 1/3이다. 11/23 국내장이 ADR(-13%)의 1/5만 반영했던 것과 대칭적으로, 미국 변동을 일부만 따라가는 날이 이어졌다. 시가(출처 불일치) 이후 흐름은 확인하지 못했다.
+- 2. **AI 고객 투자·수요** (positive, candidate_driver, 확신 medium): 젠슨 황 복귀로 엔비디아 관련 AI·HBM 수요 불확실성이 줄었다는 해석(국내 기사). 하이닉스는 엔비디아 HBM 핵심 공급사다.
+  - 근거: US_LIVE23_STOCKTITAN, US_CLOSE23_MTC, KR_GREENPOST. 반대/한계: F01과 중복 경로. 하이닉스 고유의 새 HBM 발표는 없었다. 11/24 미국장 장중 NVDA -8.4%·MU 약 -10%로 되밀렸다(국내 마감 뒤).
+- 보조/반대. **외국인 수급** (negative, countervailing, 확신 medium): 외국인 하이닉스 순매도: 뉴시스(15:43) -1351억원, KB 집계 -1440억원, 그린포스트 -2500억원. 거래소 외국인 순매도 상위(핀포인트). 시장 전체 외국인은 순매수였다.
+  - 근거: KR_HOT_FN, KR_CLOSE_FN, KR_GREENPOST, KR_PINPOINT. 반대/한계: 외국인 매도에도 +6.73% 상승. 수치가 매체별로 크게 다르다.
+- 보조/반대. **기관·ETF 수급** (positive, confirmation, 확신 low): 기관 약 +290억원, 기타법인 약 +4155억원, 개인 약 -1858억원(그린포스트 단일 출처).
+  - 근거: KR_GREENPOST. 반대/한계: 기타법인 대량 매수 주체·성격 미확인.
 
-다음 확인: 11/24 시초가: 11/23 미국장 MU +18.7%·NVDA +33.6%(11:03 ET) 반등과 ADR 종가 / 삼성 대비 상대 우위 6거래일째 여부 / 윤풍영 사장 자사주 매입(뉴스핌 사이드바 제목만 확인) 공시 확인 / 종목별 외국인·공매도(11/23 미확보) 재확인
+다음 확인: 11/24 미국장 MU·ADR 종가(장중 MU 약 -10%)와 11/25 시초가 / 외국인 연속 순매도 10거래일째 여부 / 11/30~12/3 엔비디아 GTC, 12/3 젠슨 황 상원 청문회
 
 ## 두 종목 비교
 
-삼성 -3.06%(코스피 대비 +0.25%p) vs 하이닉스 -2.52%(+0.79%p)로 5거래일 연속(11/17·18·19·20·23) 하이닉스가 상대 우위다. 주말 해외 참고가는 하이닉스(-7.22%)가 삼성(-5.81%)보다 더 빠질 것으로 가리켰지만 결과는 반대였다. 삼성은 시가 근처에서 끝난 반면 하이닉스는 더 큰 갭(-5.57%, 단일 출처) 뒤 장중 +3.24% 회복했다. 최근 10거래일 중 미국 반도체(F01)가 상위 후보였던 날이 6일로 가장 많지만, 국내 낙폭/SOX 비율은 11/20 약 3배에서 11/23 약 0.25배로 크게 흔들렸다.
+삼성 +6.70%(코스피 대비 +0.39%p) vs 하이닉스 +6.73%(+0.41%p)로 차이 0.02%p에 불과해 '하이닉스 상대 우위 6거래일째'는 사실상 동률이다. 수익률은 같았지만 외국인은 삼성 순매수 1위(약 +4223억원), 하이닉스 순매도 상위(9거래일 연속)로 정반대였다. 하이닉스는 기타법인(+4155억원, 단일 출처)이 받쳤다. 11/23(국내 -2.5~-3%, 미국 반도체 폭락의 1/5 반영)에 이어 11/24도 미국 반등(SOX +14%, MU +19%)의 절반 이하만 반영해, 최근 두 거래일 국내 두 종목은 미국 반도체 변동의 일부만 따라갔다.
 
 ## 쇼츠 소재
 
-- **ADR은 -13%, 하이닉스는 -2.5%… 금요일 미국 폭락이 한국엔 1/5만 왔다**
-  - 연결: 11/20 미국장에서 SOX -10.73%, MU -13.89%, SK하이닉스 ADR -13.11%가 나왔고 주말 해외 참고가도 하이닉스 -7.22%를 가리켰다. 그런데 11/23 KRX 하이닉스는 -2.52%로 끝났고 코스피(-3.31%)보다 덜 빠졌다. 사흘 전(11/20)엔 SOX -2.4%에 국내가 -6~7% 빠져 정반대였다.
-  - 확인 사실: 하이닉스 111만3000원→108만5000원(-2.52%), 삼성 18만3100원→17만7500원(-3.06%), 코스피 -3.31%, 11:33 매도 사이드카. 외국인 -2471억원·기관 +1872억원(시장 전체).
-  - 주의: 11/20 국내장이 이미 -5.9% 빠져 이틀 누적으로 보면 차이가 줄어든다. 하이닉스 시가(-5.57%)는 단일 출처로 다른 보도와 다르다. 종목별 수급이 없어 누가 샀는지 모른다. 젠슨 황 복귀는 국내 마감 뒤 일이라 이 반등의 이유가 아니다.
-  - 근거: KR_TOPSTAR_HY, KR_KADO, KR_CLOSE_NEWSPIM, KR_WEEKLYKHAN, US_CLOSE20_STOCKTITAN
+- **외국인이 9일째 판 하이닉스, 외국인이 쓸어 담은 삼성과 똑같이 6.7% 올랐다**
+  - 연결: 11/24 외국인은 삼성전자를 약 4223억원 순매수(거래소 1위)하고 SK하이닉스는 9거래일 연속 순매도했다. 그런데 종가 수익률은 삼성 +6.70%, 하이닉스 +6.73%로 0.02%p 차이였다.
+  - 확인 사실: 삼성 17만7500→18만9400원(+6.70%), 하이닉스 108만5000→115만8000원(+6.73%), 코스피 +6.32%·09:06 매수 사이드카. 외국인 삼성 +4213억~4230억원, 하이닉스 -1351억~-2500억원(매체별). 하이닉스 기타법인 +4155억원(단일 출처).
+  - 주의: 두 종목 모두 코스피와 거의 같은 폭이라 시장 전체 반등이 대부분을 설명한다. 하이닉스 외국인 순매도액은 매체별로 2배 가까이 차이 난다. 기타법인 매수 주체는 확인되지 않았다. 수급은 원인이 아니라 매매 결과다.
+  - 근거: KR_HOT_FN, KR_GREENPOST, KR_CLOSE_FN, KR_PINPOINT
 
 ## 한계
 
-- KRX 시세 원표에 접근하지 못했다. 종가는 다수 매체 일치, 시가·고가·저가·거래량은 톱스타뉴스 시세 기사 단일 출처다. 하이닉스 시가(105만1000원)·저가(103만7000원)는 강원도민일보('3%대 하락 출발', 저가 104만4000원)와 달라 갭·장중 수익률 신뢰도가 낮다.
-- 종목별 외국인·기관 순매수와 공매도 거래대금을 확보하지 못했다. 공매도 검색 결과 중 하나는 2024년 기사여서 미채택했다.
-- 비즈니스코리아의 수급 수치(외국인 -2636억원 등)는 기사 안에서 코스닥 수치와 섞여 있어 미채택했다. 한국경제 '외국인·기관 순매수' 제목은 09:10 장중 기준이다.
-- VIX·유가·2년물·달러인덱스·SOX 지수 레벨과 11/23 SOX 장중 값, 하이닉스 ADR 장중 값을 확보하지 못했다.
-- 트럼프의 해외 AI 데이터센터 과세 발언은 마감기사 인용만 있고 발언 시각·원문을 확인하지 못했다.
-- 11/20 FT의 삼성 중국 고객 출하 중단 보도는 후속 확인을 찾지 못해 이번 요인에서 제외했다.
-- 요인 순위는 편집 판단이며 기여율·인과·예측력 추정이 아니다. 누적 10거래일로 표본이 작다.
+- KRX 시세 원표에 접근하지 못했다. 종가는 다수 매체 일치. 삼성 시가는 09:39 시세 기사 단일 출처, 하이닉스 시가는 출처 간 불일치(118만원 vs 121만2000원)라 갭·장중 수익률을 null로 뒀다. 두 종목 거래량·고가·저가 미확보.
+- 시장 전체·종목별 수급 수치가 매체(KB 15:30 집계 vs 거래소 마감 집계 추정)마다 다르다. 외국인 코스피 +7255억 vs +1조162억, 하이닉스 외국인 -1351억~-2500억원.
+- 11/23 SOX 레벨·AVGO 등락률·SK하이닉스 ADR 종가·코스피200 야간선물을 확보하지 못했다. SOX +14.03%는 TradingKey 단일 원출처(국내 기사 인용 동일).
+- TradingKey·Coffee Grounds 기사의 게시 시각대는 표시되지 않아 published_at을 null로 뒀다. CappNotes는 수정 시각이다.
+- 11/24 미국장 수치는 장중(약 12:03 ET 전후)이며 MU(-10.19%)는 위젯 시각이 표시되지 않았다.
+- 요인 순위는 편집 판단이며 기여율·인과·예측력 추정이 아니다. 누적 국내 거래일 표본이 작다.
 
 ## 출처
 
-- [KR_CLOSE_NEWSPIM] [[마감시황] 코스피, '개인·외국인' 매도에 4700선 턱걸이…3.31% 하락](https://www.newspim.com/news/view/20261123000978) — 뉴스핌, 2026-11-23T16:09:00+09:00
-- [KR_CLOSE_HERALD] [코스피, 美 반도체주 폭락에 3.31% 하락…매도 사이드카 속 4700선 사수 [투자360]](https://biz.heraldcorp.com/article/10946429) — 헤럴드경제, 2026-11-23T16:25:55+09:00
-- [KR_CLOSE_BIZWATCH] [삼성전자 235일 만의 '17만전자'…하이닉스도 100만원선 위태](https://news.bizwatch.co.kr/article/market/2026/11/23/0028) — 비즈워치, 2026-11-23T16:39:03+09:00
-- [KR_TOPSTAR_SS] [삼성전자 주가 17만7,500원 3.06% 하락 마감](https://www.topstarnews.net/news/articleView.html?idxno=16283964) — 톱스타뉴스, 2026-11-23T17:01:21+09:00
-- [KR_TOPSTAR_HY] [SK하이닉스 주가, 11월 23일 1,085,000원 2.52% 하락](https://www.topstarnews.net/news/articleView.html?idxno=16283892) — 톱스타뉴스, 2026-11-23T15:49:18+09:00
-- [KR_KADO] ['17만전자'에 110만원 깨진 SK하이닉스…반도체 투톱 동반 후퇴](https://www.kado.net/news/articleView.html?idxno=2086667) — 강원도민일보, 2026-11-23T17:28:04+09:00
-- [KR_ISSUEON] [코스피 3.31%↓ 4708.54 마감…장중 4600선 아래, 매도 사이드카 연이틀·코스닥 2년여 만에 최저](https://www.issueon.co.kr/news/articleView.html?idxno=14462) — 이슈온, 2026-11-23T21:58:55+09:00
-- [KR_ASIAE_INTRA] ["더이상 시퍼런 잔고 못 보겠다"…외국인도 개미도 떠나니 4700선 주저앉은 코스피](https://view.asiae.co.kr/article/2026112314210992531) — 아시아경제, 2026-11-23T14:21:09+09:00
-- [KR_HK_OPEN] [美 반도체주 폭락에 코스피 4700선으로 후퇴…외국인·기관은 순매수](https://www.hankyung.com/article/202611233123i) — 한국경제, 2026-11-23T09:31:03+09:00
-- [US_CLOSE20_STOCKTITAN] [Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower](https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026) — StockTitan, 2026-11-20T20:15:00-05:00
+- [KR_HOT_FN] [美 증시 폭등에 삼성전자·SK하이닉스 6%대 급등 마감[핫스탁](종합)](https://www.fnnews.com/news/202611241543501270) — 파이낸셜뉴스(뉴시스), 2026-11-24T15:43:00+09:00
+- [KR_CLOSE_FN] [코스피, 젠슨 황 복귀에 6.32% 급등…5000선 회복 [fn마감시황]](https://www.fnnews.com/news/202611241604048501) — 파이낸셜뉴스, 2026-11-24T16:05:21+09:00
+- [KR_JKN_HY] [[마감분석] SK하이닉스 6.73% 상승 마감하며 115만8000원 기록](https://news.jkn.co.kr/post/1119008) — 재경일보, 2026-11-24T15:45:00+09:00
+- [KR_DT_PHOTO] [[포토] 삼성전자 6.70%·SK하이닉스 6.73% 상승 마감](https://www.dt.co.kr/article/12096995) — 디지털타임스, 2026-11-24T17:05:00+09:00
+- [KR_GREENPOST] [젠슨 황 복귀에 ‘삼전닉스’ 급반등··· 외국인, 삼성전자만 사들인 까닭은?](https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308154) — 그린포스트코리아, 2026-11-24T17:38:00+09:00
+- [KR_PINPOINT] [[거래소 외국인] 삼성전자 삼성전기 삼성SDI 쓸어 담고 SK하이닉스 SK스퀘어 팔았다](https://www.pinpointnews.co.kr/news/articleView.html?idxno=507573) — 핀포인트뉴스, 2026-11-24T16:10:00+09:00
+- [KR_NEWS1_FX] [달러·원 환율, 돌아온 외인에 3.5원↓…1342.4원 마감(종합)](https://www.news1.kr/finance/market-exr/6364489) — 뉴스1, 2026-11-24T15:55:00+09:00
+- [KR_NEWS1_FOREIGN] [8일만에 돌아온 외국인 7000억 순매수…AI밸류체인 골고루 담았다](https://www.news1.kr/finance/market-exr/6364573) — 뉴스1, 2026-11-24T16:26:48+09:00
+- [KR_BIZKOREA] [[마감 시황] '젠슨 황 복귀' 훈풍에 코스피 6%대 폭등… 3거래일 만에 '5,000피' 탈환](https://www.businesskorea.co.kr/news/articleView.html?idxno=282072) — 비즈니스코리아, 2026-11-24T17:43:58+09:00
+- [KR_ETODAY_SIDECAR] [코스피 7% 급등하며 5000선 회복⋯올해 101번째 사이드카](https://www.etoday.co.kr/news/view/2652206) — 이투데이, 2026-11-24T13:27:00+09:00
+- [KR_JOONGANG_SS] [삼성전자 주가, 11월 24일 장중 187,750원 5.77% 상승](https://www.joongangenews.com/news/articleView.html?idxno=566104) — 중앙이코노미뉴스, 2026-11-24T09:40:45+09:00
+- [KR_JOONGANG_HY] [SK하이닉스 주가, 11월 24일 장중 1,168,000원 7.65% 상승](https://www.joongangenews.com/news/articleView.html?idxno=566105) — 중앙이코노미뉴스, 2026-11-24T09:41:00+09:00
+- [US_CLOSE23_CAPP] [Closing Look — Monday, November 23, 2026](https://cappnotes.substack.com/p/closing-look-monday-november-23-2026) — CappNotes, 2026-11-24T08:05:07+09:00
+- [US_CLOSE23_MTC] [Close Recap (Mon Nov 23): Huang Returns, Nvidia +31%, Best Stock Market Rally Since April 2025](https://www.metatradingclub.com/close-recap-nov-23-2026-nvidia-huang-stock-market-rally/) — Meta Trading Club, 2026-11-23T21:36:25+00:00
+- [US_CLOSE23_TK] [Today’s Market Recap: Jensen Huang Returns to Nvidia, Shares Surge 31%; Nasdaq Jumps 6.5%; Gold Rebounds, Oil Plunges](https://www.tradingkey.com/analysis/stocks/us-stocks/262319102-market-recap-nvidia-jensen-huang-return-nasdaq-rallies-oil-plunges-gold-rebounds-tradingkey) — TradingKey, 발표 시각 미확인
+- [MU_TK] [Jensen Huang’s Return Sparks AI Stocks as Micron Surges 19%, but Downside Risks Loom](https://www.tradingkey.com/analysis/stocks/us-stocks/262319749-stock-jensen-huang-micron-mu-price-ai-tradingkey) — TradingKey, 발표 시각 미확인
+- [US_CLOSE23_COFFEE] [☕ The Coffee Grounds Newsletter: November 24, 2026 (Recapping Monday's Session)](https://coffeegroundstrading.substack.com/p/the-coffee-grounds-newsletter-november-18d) — Coffee Grounds Trading, 발표 시각 미확인
+- [SKHY_ADR_FF] [SK Hynix Stock Jumps 20% in US After Seoul Shares Fall](https://financefeeds.com/sk-hynix-stock-jumps-20-in-us-after-seoul-shares-fall/) — FinanceFeeds, 2026-11-23T22:29:13+03:00
 - [US_LIVE23_STOCKTITAN] [Stock Market Today, November 23, 2026: Nvidia Brings Back Jensen Huang as CEO](https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026) — StockTitan, 2026-11-23T11:18:00-05:00
-- [US_MID23_FOOL] [Stock Market Midday, Nov. 23: Nasdaq Surges Nearly 7% as Jensen Huang's Return Sparks Historic AI Rebound](https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-midday-nov-23-nasdaq-surges-nearly-7-as-jensen-huang-s-return-sparks-historic-ai-rebound/) — The Motley Fool, 2026-11-23T12:12:00-05:00
-- [MU_FOOL] [Why Micron Stock Is Up Today](https://www.fool.com/investing/2026/11/23/why-micron-stock-is-up-today/) — The Motley Fool, 2026-11-23T10:27:00-05:00
-- [US_CLOSE_MT] ["호재도 안 통한다" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감]](https://www.mt.co.kr/world/2026/11/21/2026112106320926639) — 머니투데이, 2026-11-21T06:35:00+09:00
-- [US_CLOSE_AP] [S&P 500 sinks 3.7%, Nasdaq composite goes negative for the year](https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/) — Associated Press via NBC Bay Area, 발표 시각 미확인
-- [NIGHT_PENN] [월요일 개장 5분 뒤 '사이드카' 켜지나…야간선물 7% 넘게 급락](https://www.pennmike.com/news/articleView.html?idxno=132465) — 펜앤마이크, 2026-11-22T17:04:00+09:00
-- [KR_WEEKLYKHAN] [내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협](https://weekly.khan.co.kr/article/202611221922001) — 주간경향, 2026-11-22T19:22:00+09:00
-- [GOV_WOWTV] [블랙먼데이 우려에…정부, 증시안정펀드 가동 준비 착수](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220064) — 한국경제TV, 2026-11-22T18:50:00+09:00
-- [NVDA_BS] [US SEC's Nvidia probe focuses on potential accounting irregularities](https://www.business-standard.com/amp/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html) — Business Standard (Reuters), 2026-11-22T08:15:17+05:30
+- [US_LIVE24_YAHOO] [Stock market today: S&P 500, Nasdaq fall as chip stocks tumble, investors test Nvidia-fueled rally](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html) — Yahoo Finance, 2026-11-24T08:35:00-08:00
+- [US_PRE24_TIPRANKS] [Stock Market Today, Nov. 24: Markets Turn Jittery Even as Huang Returns to Nvidia](https://www.tipranks.com/news/stock-market-today-nov-24-markets-turn-jittery-even-as-huang-returns-to-nvidia) — TipRanks, 2026-11-24T10:52:34+00:00
+- [US_MID24_247] [Stock Market Today: Jensen's Return to Nvidia Is Causing Index Indigestion](https://247wallst.com/investing/2026/11/24/stock-market-today-jensens-return-to-nvidia-is-causing-index-indigestion/) — 24/7 Wall St., 2026-11-24T11:50:00-05:00
 - [US_CALENDAR] [Holidays and Trading Hours](https://www.nyse.com/trade/hours-calendars) — NYSE, 발표 시각 미확인
 
 요인 순위는 근거에 따른 편집 판단이며 주가 기여율·인과효과 추정치가 아닙니다. 기사 원문·유료 원자료는 재배포하지 않습니다.
