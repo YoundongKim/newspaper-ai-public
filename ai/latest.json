@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-24T21:32:53+00:00",
+  "generated_at": "2026-11-25T04:55:06+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-25",
   "coverage": {
@@ -19,10 +19,10 @@
   },
   "counts": {
     "themes": 122,
-    "open_candidates": 4555,
+    "open_candidates": 4559,
     "review_ready_candidates": 126,
     "latest_narratives": 106,
-    "verified_articles_in_collection_period": 11940
+    "verified_articles_in_collection_period": 11944
   },
   "collection_themes": [
     {
@@ -4995,6 +4995,32 @@
       "candidate": "정부의 AI·빅테크 기업 경영 개입 및 이해충돌 논란"
     },
     {
+      "article_id": "ART-009-0005768378",
+      "date": "2026-11-25",
+      "publisher": "매일경제",
+      "section": "A3면",
+      "headline": "미국 AI투심 되살린 '황의 귀환' … 금리인상·순환금융 불씨는 지속",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005768378?date=20261125",
+      "fact_summary": "젠슨 황 엔비디아 CEO 복귀 소식에 나스닥지수가 6.51% 오른 2만4089.56에 마감하며 19개월 만에 최대 상승률을 기록했고, 엔비디아는 31.5% 폭등해 시가총액이 하루 만에 9500억달러 늘었다. 다만 블룸버그와 존 윌리엄스 뉴욕 연은 총재 발언 등을 통해 연준의 추가 금리 인상 가능성과 엔비디아 순환금융 전략에 따른 AI 거품 위험이 지속된다는 우려가 제기됐다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C5054",
+      "candidate": "AI 투자심리 회복과 AI 거품·순환금융 리스크"
+    },
+    {
+      "article_id": "ART-009-0005768379",
+      "date": "2026-11-25",
+      "publisher": "매일경제",
+      "section": "A3면",
+      "headline": "\"생큐, 젠슨\"… 황 복귀하자마자 '깐부 동맹' 주가 동반급등",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005768379?date=20261125",
+      "fact_summary": "젠슨 황 엔비디아 CEO가 사임 11일 만에 복귀하자 24일 국내 증시에서 삼성전자와 SK하이닉스가 각각 6.7%, 6.73% 상승하고 현대차가 11.11%, 삼성전기가 10.28% 올랐다. 간밤 미국에서 필라델피아반도체지수가 14.03% 폭등하는 등 AI 밸류체인 주가가 동반 급등했으며, 증권업계는 엔비디아 경영 공백 조기 해소로 삼성전자·SK하이닉스의 피크아웃 우려가 다소 누그러진 것으로 풀이했다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C5053",
+      "candidate": "AI 밸류체인 주가 동반 급등·피크아웃 우려 완화"
+    },
+    {
       "article_id": "ART-009-0005768376",
       "date": "2026-11-25",
       "publisher": "매일경제",
@@ -5151,6 +5177,19 @@
       "candidate": ""
     },
     {
+      "article_id": "ART-009-0005768308",
+      "date": "2026-11-25",
+      "publisher": "매일경제",
+      "section": "A8면",
+      "headline": "\"연금으로 ESG투자 하지마\"… 트럼프 反환경 폭주",
+      "url": "https://n.news.naver.com/article/newspaper/009/0005768308?date=20261125",
+      "fact_summary": "미국 노동부가 401k 등 퇴직연금 상품에서 ESG 펀드 투자를 제한하는 규정 개편안을 발표해 수익률을 최우선 고려사항으로 삼도록 했다. 키스 손덜링 노동부 장관은 퇴직연금 상품 선정이 정치적·사회적 의제가 아닌 근로자와 은퇴자의 재무적 이익만을 위해 이뤄져야 한다고 밝혔다. 이는 바이든 정부가 2022년 완화한 규정을 트럼프 정부가 되돌리는 것으로, PSCA에 따르면 지난해 기준 ESG 펀드를 제공하는 401k 상품은 5%, 전체 투자자산 중 ESG 펀드 비중은 1% 수준이다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C5055",
+      "candidate": "미국 퇴직연금 ESG 투자 규제 후퇴"
+    },
+    {
       "article_id": "ART-009-0005768309",
       "date": "2026-11-25",
       "publisher": "매일경제",
@@ -5305,6 +5344,19 @@
       "theme": "",
       "candidate_id": "C4489",
       "candidate": "증권 관련 이슈"
+    },
+    {
+      "article_id": "ART-015-0005357742",
+      "date": "2026-11-25",
+      "publisher": "한국경제",
+      "section": "A2면",
+      "headline": "종로학원, 62년 만에 THE JONGRO로 이름 바꾼다",
+      "url": "https://n.news.naver.com/article/newspaper/015/0005357742?date=20261125",
+      "fact_summary": "1965년 설립된 대입 전문 학원 종로학원이 설립 62년 만에 내년부터 '더종로(The Jongro)'로 간판을 변경한다. 2028학년도 수능에서 선택과목이 폐지되고 공통과목 체제로 바뀌는 데 대응해 대규모 강의에서 소수정예 맞춤형 수업으로 전환하며, 정원 8명의 '블랙반'과 조교 학습관리, 주말 '올케어' 프로그램을 도입한다.",
+      "theme_id": "",
+      "theme": "",
+      "candidate_id": "C5056",
+      "candidate": "대입제도 개편 대응 입시학원 사업모델 전환"
     },
     {
       "article_id": "ART-015-0005357744",
@@ -6722,58 +6774,6 @@
       "theme": "",
       "candidate_id": "C4984",
       "candidate": "미국 공공기관 사이버 침해·전산망 보안"
-    },
-    {
-      "article_id": "ART-009-0005767281",
-      "date": "2026-11-23",
-      "publisher": "매일경제",
-      "section": "A8면",
-      "headline": "트럼프 \"이란 핵 보유 막을 영구적 합의 할 것\"",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005767281?date=20261123",
-      "fact_summary": "도널드 트럼프 미국 대통령은 이란의 핵 보유를 막을 영구적 합의를 하겠다고 밝혔으나, 아바스 아라그치 이란 외무장관은 농축 우라늄 자국 보유가 레드라인이라며 포기할 수 없다는 입장을 고수해 협상이 난항을 겪고 있다. 카타르가 중재에 나서 이란 측과 회담하고 미국 특사와도 만났으며, 이란군은 걸프 상공에서 미군 F-16 전투기를 공격했다고 주장했으나 미군 중부사령부는 반박했다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4987",
-      "candidate": "이란 핵협상·중재 외교"
-    },
-    {
-      "article_id": "ART-009-0005767282",
-      "date": "2026-11-23",
-      "publisher": "매일경제",
-      "section": "A8면",
-      "headline": "아르헨 국가위험도 4개월 새 2.7배 급등",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005767282?date=20261123",
-      "fact_summary": "JP모건이 산출하는 아르헨티나 국가위험도가 이달 20일 1070bp를 기록해 지난 7월 10일 400bp 안팎에서 약 167% 상승했다. 1000bp를 넘으면 채무상환에 상당한 위험이 있는 것으로 평가되는데, 경기 부진이 원인으로 꼽힌다. 아르헨티나의 7월 경제활동은 전월 대비 2.9% 감소해 2020년 4월 이후 가장 큰 낙폭을 기록했고 8월에도 0.1% 증가에 그쳤다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4988",
-      "candidate": "신흥국 국가위험도 급등·채무불안"
-    },
-    {
-      "article_id": "ART-009-0005767283",
-      "date": "2026-11-23",
-      "publisher": "매일경제",
-      "section": "A8면",
-      "headline": "긴장 고조되는 발트해…러 화물선 피격",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005767283?date=20261123",
-      "fact_summary": "발트해 핀란드만 공해상에서 러시아 칼리닌그라드로 향하던 러시아 화물선 스파르타Ⅱ호가 21일 드론 2대의 공격을 받았다. 핀란드 국방군 대변인은 우크라이나가 배후일 가능성이 크다고 밝혔으며, 볼로디미르 젤렌스키 우크라이나 대통령은 성탄절 전 미국·러시아·우크라이나 3자 종전 협상 재개 제안을 수용했다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4985",
-      "candidate": "러시아-우크라이나 전쟁 확전·종전 협상"
-    },
-    {
-      "article_id": "ART-009-0005767285",
-      "date": "2026-11-23",
-      "publisher": "매일경제",
-      "section": "A8면",
-      "headline": "EU, 미국 빅테크 겨냥 … 매출 3% 디지털세 추진",
-      "url": "https://n.news.naver.com/article/newspaper/009/0005767285?date=20261123",
-      "fact_summary": "유럽연합(EU)이 전 세계 매출 7억5000만유로, EU 역내 매출 5000만유로를 초과하는 디지털 기업에 온라인 광고·중개·데이터 수익화 매출의 3%를 연간 부담금으로 부과하는 디지털세 방안을 공식 제안했다. 구글·애플·메타·아마존 등 미국 빅테크가 주요 과세 대상이 되며, EU 정상들은 26~27일 특별정상회의에서 이를 논의해 12월까지 합의를 목표로 한다. 트럼프 미국 행정부는 디지털세 부과국 제품에 100% 관세를 적용하겠다고 경고했고, EU 예산·세입원은 회원국 만장일치가 필요해 제도화 여부는 미지수다.",
-      "theme_id": "",
-      "theme": "",
-      "candidate_id": "C4986",
-      "candidate": "EU 디지털세·미국 빅테크 과세 갈등"
     }
   ]
 }

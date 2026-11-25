@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-24T21:32:53+00:00",
+  "generated_at": "2026-11-25T04:55:06+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-25",
   "coverage": {
@@ -47,6 +47,20 @@
       "hankyung_count": 6
     },
     {
+      "event_id": "EVT-da8cb6292c1642c4",
+      "event_name": "젠슨 황 엔비디아 CEO 복귀 소식에 엔비디아 주가 31%대 폭등하고 SK하이닉스 ADR·국내 반도체주 동반 급등한 사건",
+      "event_type": "EVENT",
+      "event_summary": "젠슨 황 엔비디아 CEO 복귀 소식으로 엔비디아 주가가 하루 만에 31.48% 급등해 165.05달러에 마감하고 SK하이닉스 ADR도 장중 20%가량 올랐다. 이에 나스닥과 필라델피아반도체지수가 급등하고 코스피도 삼성전자·SK하이닉스 중심으로 반등해 5000선을 회복했다.",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
+      "article_count": 5,
+      "distinct_dates": 2,
+      "publisher_count": 2,
+      "cross_media_days": 1,
+      "maekyung_count": 2,
+      "hankyung_count": 3
+    },
+    {
       "event_id": "EVT-a548d085b89e4eac",
       "event_name": "금융위 디지털자산기본법 제정안 발표, 원화 스테이블코인 은행 과반지분 컨소시엄 발행 허용",
       "event_type": "EVENT",
@@ -73,20 +87,6 @@
       "cross_media_days": 0,
       "maekyung_count": 2,
       "hankyung_count": 2
-    },
-    {
-      "event_id": "EVT-da8cb6292c1642c4",
-      "event_name": "젠슨 황 엔비디아 CEO 복귀 소식에 엔비디아 주가 31%대 급등하고 SK하이닉스 ADR도 20%가량 오른 반도체주 반등 사건",
-      "event_type": "EVENT",
-      "event_summary": "젠슨 황 엔비디아 CEO 복귀 소식으로 엔비디아 주가가 하루 만에 31.48% 급등해 165.05달러에 마감하고 SK하이닉스 ADR도 장중 20%가량 올랐다. 이에 코스피200 야간선물이 상승하며 과매도 국내 증시의 반도체주 중심 반등 기대가 형성됐다.",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
-      "article_count": 3,
-      "distinct_dates": 2,
-      "publisher_count": 1,
-      "cross_media_days": 0,
-      "maekyung_count": 0,
-      "hankyung_count": 3
     },
     {
       "event_id": "EVT-6fc12b51d1ab46d9",
@@ -227,6 +227,20 @@
       "cross_media_days": 0,
       "maekyung_count": 0,
       "hankyung_count": 1
+    },
+    {
+      "event_id": "EVT-cb598911803843e6",
+      "event_name": "미국 노동부, 401k 등 퇴직연금 ESG 펀드 투자 제한 규정 개편안 발표",
+      "event_type": "EVENT",
+      "event_summary": "미국 노동부가 401k 등 퇴직연금 상품에서 ESG 펀드 투자를 제한하고 수익률을 최우선 고려사항으로 삼도록 하는 규정 개편안을 발표한 사건. 바이든 정부가 2022년 완화한 규정을 트럼프 정부가 되돌리는 조치다.",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 1,
+      "hankyung_count": 0
     },
     {
       "event_id": "EVT-c86b22f2d11b4eb0",
@@ -423,6 +437,20 @@
       "cross_media_days": 0,
       "maekyung_count": 1,
       "hankyung_count": 0
+    },
+    {
+      "event_id": "EVT-591c1fb02350463c",
+      "event_name": "종로학원의 설립 62년 만의 '더종로' 브랜드 개편 및 소수정예 맞춤형 수업 전환",
+      "event_type": "EVENT",
+      "event_summary": "1965년 설립된 대입 전문 학원 종로학원이 2027년부터 간판을 '더종로(The Jongro)'로 변경하고, 2028학년도 수능 선택과목 폐지·공통과목 체제 전환에 대응해 대규모 강의에서 정원 8명 블랙반·조교 학습관리·주말 올케어 등 소수정예 맞춤형 수업 체제로 전환하는 사안.",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "article_count": 1,
+      "distinct_dates": 1,
+      "publisher_count": 1,
+      "cross_media_days": 0,
+      "maekyung_count": 0,
+      "hankyung_count": 1
     },
     {
       "event_id": "EVT-50a8b6123902445f",

@@ -1,6 +1,6 @@
 {
   "schema_version": "ai_public_export_v1",
-  "generated_at": "2026-11-24T21:32:53+00:00",
+  "generated_at": "2026-11-25T04:55:06+00:00",
   "data_start": "2026-04-01",
   "data_cutoff": "2026-11-25",
   "coverage": {
@@ -101396,7 +101396,7 @@
     },
     {
       "event_id": "EVT-da8cb6292c1642c4",
-      "event_name": "젠슨 황 엔비디아 CEO 복귀 소식에 엔비디아 주가 31%대 급등하고 SK하이닉스 ADR도 20%가량 오른 반도체주 반등 사건",
+      "event_name": "젠슨 황 엔비디아 CEO 복귀 소식에 엔비디아 주가 31%대 폭등하고 SK하이닉스 ADR·국내 반도체주 동반 급등한 사건",
       "event_type": "EVENT",
       "theme_id": "T107",
       "theme": "증시 급락·개인투자자 손실 및 투자자금 이동",
@@ -101405,11 +101405,11 @@
       "association_article_count": 1,
       "association_publisher_count": 1,
       "association_distinct_dates": 1,
-      "event_article_count": 3,
+      "event_article_count": 5,
       "theme_mapped_article_count": 1,
       "event_theme_count": 1,
       "theme_share_within_mapped_event": 1.0,
-      "theme_coverage_ratio": 0.333333,
+      "theme_coverage_ratio": 0.2,
       "first_seen_in_theme": "2026-11-24",
       "last_seen_in_theme": "2026-11-24",
       "sequence_order": 27,
