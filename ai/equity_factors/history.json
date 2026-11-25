@@ -4,7 +4,7 @@
     "full_article_text_exported": false,
     "summaries_independently_written": true
   },
-  "unique_session_company_count": 22,
+  "unique_session_company_count": 24,
   "observations": [
     {
       "ticker": "000660",
@@ -18997,6 +18997,1549 @@
           "id": "US_CALENDAR",
           "publisher": "NYSE",
           "title": "Holidays and Trading Hours",
+          "url": "https://www.nyse.com/trade/hours-calendars",
+          "published_at": null,
+          "source_type": "official_calendar"
+        }
+      ]
+    },
+    {
+      "ticker": "000660",
+      "company": "SK하이닉스",
+      "kr_trade_date": "2026-11-25",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 1158000,
+        "open": null,
+        "close": 1030000,
+        "return_pct": -11.053541,
+        "gap_return_pct": null,
+        "intraday_return_pct": null,
+        "volume": null,
+        "volume_status": "unavailable",
+        "intraday_high": null,
+        "intraday_low": 1027000,
+        "missing_reason": "KRX 원표 미접근. 종가·등락률은 다수 매체 일치(-12만8000원). 시가 미확보로 갭·장중 수익률 null. 장중 저가 102만7000원(-11.31%)은 연합뉴스 단일 출처. 아시아경제 위젯(103만1000원·351만주)은 다른 출처와 달라 미채택",
+        "source_ids": [
+          "KR_GUKJE",
+          "KR_YNA_SEGYE",
+          "KR_HERALD",
+          "KR_NEWSPIM"
+        ]
+      },
+      "summary": "KRX 정규장 115만8000원→103만원(-11.05%), 코스피 대비 -4.89%p로 삼성보다 더 빠졌다. 4월 10일 이후 최저 종가. 직접 비교 대상인 MU(-11.01%)·자사 ADR(-9.90%)과 거의 같은 폭이다. 1·2순위 후보는 11/24 미국 반도체 급락과 BNP파리바 마이크론 하향이 다시 꺼낸 메모리 공급 과잉 우려. 외국인 약 -5596억원(연합 단일·문장 불명확), 공매도 거래대금 +63.9%.",
+      "top_driver_ids": [
+        "F01_US_SEMI",
+        "F07_MEMORY_CYCLE",
+        "F09_AI_CAPEX"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-25T06:00:00+09:00",
+          "new_or_repeated": "신규 반전(11/23 급등 뒤 하루 만의 급락)",
+          "reason": "11/24 미국 정규장 MU -11.01%, SK하이닉스 ADR -9.90%(111.98달러), SOX -7.88%, NVDA -5.86%가 11/25 국내 개장 전 확정됐다. 09:16 하이닉스는 이미 -7.08%(107만6000원)였다. 국내 종가 하락(-11.05%)이 MU·ADR과 거의 같다.",
+          "counterevidence": "전날(11/24)에는 MU +19%·ADR +19.9%의 약 1/3만 반영했는데 이날은 하락을 거의 그대로 반영해 반응이 비대칭이다. 국내 고유 요인(관세 우려·외국인 매도)이 더해졌을 수 있다. 시가 미확보.",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB",
+            "US_CLOSE24_NGLOBE",
+            "KR_ETODAY",
+            "KR_YNA_SEGYE"
+          ]
+        },
+        {
+          "factor_id": "F07_MEMORY_CYCLE",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "재부각(11/16 이후 처음 상위 후보, 11/23 골드만 목표가 하향의 연장)",
+          "reason": "BNP파리바의 마이크론 하향(목표가 -54%)이 D램·낸드 수급 균형 2027년 중반, 가격 상승률 2026년 8월 정점, 엔비디아 차기 제품의 HBM 탑재량 축소 보도(미확인)를 근거로 들었다. 순수 메모리인 하이닉스가 삼성보다 1.18%p 더 빠졌다.",
+          "counterevidence": "애널리스트 전망이지 실측 가격 하락이 아니다. 엔비디아 HBM 탑재량 축소는 회사 미확인. 트렌드포스(국내 마감 뒤 보도)는 2027년 D램 부족 지속, 매출 +69%를 전망했다. 골드만 하향(11/23)은 이미 알려진 정보다.",
+          "source_ids": [
+            "MU_BNP_ADMIRALS",
+            "KR_NEWSPIM",
+            "KR_KDF",
+            "KR_GS_FN"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "low",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-25T06:00:00+09:00",
+          "new_or_repeated": "지속",
+          "reason": "HPE 전망발 데이터센터 투자 우려, 앤트로픽 공모가 하회에 따른 AI 자금조달 우려, 젠슨 황 의회 청문회·엔비디아 회계 조사 보도(헤럴드·KDF)가 AI 수요 불확실성으로 해석됐다.",
+          "counterevidence": "F01과 중복 경로. 하이퍼스케일러 투자 축소는 확인되지 않았고 엔비디아 회계 조사는 시작 시점·쟁점이 미확인이다.",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "KR_HERALD",
+            "KR_KDF"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "low",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "지속(10거래일째 순매도 가능성, 미확인)",
+          "reason": "외국인 하이닉스 약 -5596억원(연합). 시장 전체 외국인도 약 -1조8994억원으로 삼성과 같은 방향.",
+          "counterevidence": "단일 출처·문장 불명확. 전날에는 외국인 순매도에도 +6.73% 올라 수급과 주가 방향이 매일 같지 않다.",
+          "source_ids": [
+            "KR_YNA_SEGYE",
+            "KR_HERALD"
+          ]
+        },
+        {
+          "factor_id": "F14_POSITIONING",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "low",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "신규",
+          "reason": "하이닉스 공매도 거래대금 1097억2700만원, 전일 대비 +63.9%(톱스타).",
+          "counterevidence": "단일 출처, 거래대금이지 잔고가 아니다.",
+          "source_ids": [
+            "KR_TOPSTAR_SHORT"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "KR_000660_RETURN",
+          "value": -11.053541,
+          "unit": "percent",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_GUKJE",
+            "KR_YNA_SEGYE",
+            "KR_HERALD"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_000660_EXCESS_VS_KOSPI",
+          "value": -4.890541,
+          "unit": "percentage_points",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "derived",
+          "source_ids": [
+            "KR_GUKJE",
+            "KR_HERALD"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_000660_FOREIGN_NET",
+          "value": -5596,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:31:00+09:00",
+          "status": "reported_unclear",
+          "source_ids": [
+            "KR_YNA_SEGYE"
+          ],
+          "predetermined": false,
+          "note": "연합 기사 문장이 어색해 단일·불확실 값"
+        },
+        {
+          "id": "KR_000660_INSTITUTION_NET",
+          "value": null,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": false,
+          "missing_reason": "마감 기준 종목별 기관 순매수 금액 미확보"
+        },
+        {
+          "id": "KR_000660_SHORT_VALUE",
+          "value": 1097.27,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T17:54:00+09:00",
+          "status": "reported",
+          "source_ids": [
+            "KR_TOPSTAR_SHORT"
+          ],
+          "predetermined": false,
+          "note": "전일 대비 +63.9%, 단일 출처"
+        },
+        {
+          "id": "KR_000660_MARKET_CAP",
+          "value": 7280031,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:42:21+09:00",
+          "status": "reported",
+          "source_ids": [
+            "KR_GUKJE"
+          ],
+          "predetermined": false
+        }
+      ],
+      "next_checks": [
+        "11/25 미국장 MU(장중 -11.2%)·ADR 종가와 11/26 시초가",
+        "외국인 연속 순매도 10거래일째 여부·확정 금액",
+        "트렌드포스 2027 전망(D램 상승폭 축소·낸드 하락 전환)에 대한 국내 반응",
+        "USTR 301조 관세안 반도체 포함 여부"
+      ],
+      "report_date": "2026-11-26",
+      "research_as_of": "2026-11-26T03:06:35+09:00",
+      "market_context": [
+        {
+          "id": "US_SOX_RETURN",
+          "value": -7.88,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_NGLOBE",
+            "KR_YNA_SEGYE",
+            "KR_KDF"
+          ],
+          "predetermined": true,
+          "level": 8832.5,
+          "note": "전일 9,588.05(The Company Chronicle) 대비 계산과 일치. Admirals(재경일보 인용)는 8,849.56(-7.70%)로 다름. SOXX -8.27%"
+        },
+        {
+          "id": "US_NASDAQ_RETURN",
+          "value": -1.48,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 23733.54
+        },
+        {
+          "id": "US_SP500_RETURN",
+          "value": -0.5,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 7201.09,
+          "note": "다우 +0.85%(50,018.70)로 반대 방향"
+        },
+        {
+          "id": "US_NVDA_RETURN",
+          "value": -5.86,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 155.38,
+          "level_unit": "USD"
+        },
+        {
+          "id": "US_MU_RETURN",
+          "value": -11.01,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "MU_BNP_ADMIRALS",
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 629.79,
+          "level_unit": "USD",
+          "note": "BNP파리바 Neutral 하향·목표가 1700→775달러"
+        },
+        {
+          "id": "US_AMD_RETURN",
+          "value": -8.86,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AVGO_RETURN",
+          "value": -3.98,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_TSM_RETURN",
+          "value": -3.96,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "note": "ADR"
+        },
+        {
+          "id": "SKHY_ADR_RETURN",
+          "value": -9.9,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_ETODAY",
+            "US_CLOSE24_NGLOBE"
+          ],
+          "predetermined": true,
+          "level": 111.98,
+          "level_unit": "USD",
+          "note": "레벨은 Admirals(재경일보 인용). 1 ADS=보통주 1/10"
+        },
+        {
+          "id": "US_10Y_TREASURY",
+          "value": 4.9,
+          "unit": "percent_yield",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "약 -1bp"
+        },
+        {
+          "id": "US_2Y_TREASURY",
+          "value": 4.63,
+          "unit": "percent_yield",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "보합"
+        },
+        {
+          "id": "US_VIX_CLOSE",
+          "value": 26.36,
+          "unit": "index_level",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "-0.98%"
+        },
+        {
+          "id": "WTI_CLOSE",
+          "value": 82.05,
+          "unit": "USD_per_barrel",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "+2.35%, 호르무즈 선박 공격. 브렌트 91.40(+2.27%)"
+        },
+        {
+          "id": "DXY",
+          "value": 103.83,
+          "unit": "index_level",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "-0.47%"
+        },
+        {
+          "id": "FED_DEC_HIKE_PROB",
+          "value": 95,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "reported",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "CME FedWatch 12월 25bp 인상 약 95~96%. 윌리엄스 뉴욕연은 총재 12월 인상 지지 신호"
+        },
+        {
+          "id": "KOSPI200_NIGHT_FUTURES_CLOSE",
+          "value": null,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": true,
+          "missing_reason": "11/24 야간선물 종가 기사 미확보"
+        },
+        {
+          "id": "KOSPI_RETURN",
+          "value": -6.163,
+          "unit": "percent",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_SEGYE_CLOSE",
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "level": 4697.51,
+          "note": "-308.52p. 시가 4809.00(-3.94%), 장중 저가 4672.55(-6.66%). 종가 기준 1/13(4692.64) 이후 최저. 뉴스핌은 4697.49"
+        },
+        {
+          "id": "KOSDAQ_RETURN",
+          "value": -2.29,
+          "unit": "percent",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF",
+            "KR_GUKJE"
+          ],
+          "predetermined": false,
+          "level": 650.64
+        },
+        {
+          "id": "KOSPI_FOREIGN_NET",
+          "value": -18994,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:50:00+09:00",
+          "status": "reported_conflicting",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "6일(-2조6892억원) 이후 최대 순매도. 넥스트레이드 포함 -2조2817억원(KDF). 뉴스핌은 -2조3203억원"
+        },
+        {
+          "id": "KOSPI_INSTITUTION_NET",
+          "value": -8,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:50:00+09:00",
+          "status": "reported_conflicting",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "뉴스핌 -17억원"
+        },
+        {
+          "id": "KOSPI_INDIVIDUAL_NET",
+          "value": 14232,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:50:00+09:00",
+          "status": "reported_conflicting",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "기타법인 +4769억원. 뉴스핌 개인 +1조8354억원"
+        },
+        {
+          "id": "USDKRW_DAY_CLOSE",
+          "value": 1343.2,
+          "unit": "KRW_per_USD",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:02:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_NEWSPIM",
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "+0.8원. 증시 폭락에도 환율은 거의 보합"
+        },
+        {
+          "id": "KOSPI_SELL_SIDECAR",
+          "value": 1,
+          "unit": "event_flag",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T09:08:32+09:00",
+          "available_at": "2026-11-25T09:08:32+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_ETODAY",
+            "KR_HERALD"
+          ],
+          "predetermined": false,
+          "note": "코스피200 선물 738.20(-5.12%). 전날 매수 사이드카에 이어 4거래일 연속 사이드카, 올해 102회(헤럴드)"
+        },
+        {
+          "id": "KOSPI_SHORT_VALUE",
+          "value": 8776,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T17:54:00+09:00",
+          "status": "reported",
+          "source_ids": [
+            "KR_TOPSTAR_SHORT"
+          ],
+          "predetermined": false,
+          "note": "+18.4%, 단일 출처"
+        }
+      ],
+      "sources": [
+        {
+          "id": "KR_NEWSPIM",
+          "title": "[마감시황] 코스피, 6%대 급락에 4600선 마감…삼성전자 10%·SK하이닉스11%↓",
+          "publisher": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261125001078",
+          "published_at": "2026-11-25T16:02:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_GUKJE",
+          "title": "코스피 6%대 폭락 마감… 삼성전자 9.87%·SK하이닉스 11.05% 급락",
+          "publisher": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762847",
+          "published_at": "2026-11-25T15:42:21+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_SEGYE_CLOSE",
+          "title": "코스피 6%대 급락, 4700선 아래로…삼성전자·SK하이닉스 9~11%대 ‘털썩’",
+          "publisher": "세계일보",
+          "url": "https://www.segye.com/newsView/20261125513222",
+          "published_at": "2026-11-25T15:53:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_YNA_SEGYE",
+          "title": "삼전닉스 9∼11% 급락…삼전, 시총 1천조원 하회",
+          "publisher": "세계일보(연합뉴스)",
+          "url": "https://www.segye.com/newsView/20261125514095",
+          "published_at": "2026-11-25T16:31:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_HERALD",
+          "title": "코스피 6% 폭락에 고점 대비 '반토막'…올해 사이드카 102회 [투자360]",
+          "publisher": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10949291",
+          "published_at": "2026-11-25T16:50:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_KDF",
+          "title": "[KDF 시황] 코스피, 반등 하루 만에 4700선 아래로…반도체 급락에 관세 부담까지",
+          "publisher": "한국면세뉴스",
+          "url": "https://www.kdfnews.com/news/articleView.html?idxno=191442",
+          "published_at": "2026-11-25T16:51:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_ETODAY",
+          "title": "코스피, 전날 6% 급등 하루 만에 4%대 급락…매도 사이드카",
+          "publisher": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2652609",
+          "published_at": "2026-11-25T09:22:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_JKN",
+          "title": "코스피 6% 폭락해 4,697선…하루 만에 급등분 반납",
+          "publisher": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1122161",
+          "published_at": "2026-11-25T17:57:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_NEWSTNT",
+          "title": "[특징주] 외국인 에스텍·기관 다올투자증권 순매수 1위…삼성전자 동반 순매도",
+          "publisher": "뉴스티앤티",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=730441",
+          "published_at": "2026-11-25T11:33:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_ASIAE_INTRA",
+          "title": "코스피, 4700선도 깨졌다…낙폭 확대",
+          "publisher": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026112514392457675",
+          "published_at": "2026-11-25T14:39:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_TOPSTAR_SHORT",
+          "title": "삼성전자 공매도 105% 급증…SK하이닉스도 64% 증가",
+          "publisher": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16286124",
+          "published_at": "2026-11-25T17:54:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_HERALD_TRENDFORCE",
+          "title": "내년 메모리 성장세 둔화 전망…“D램 상승폭 축소·낸드는 하락세 전환”",
+          "publisher": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10949409",
+          "published_at": "2026-11-25T17:58:05+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_GS_FN",
+          "title": "\"350만원 간다더니\" 골드만삭스, '삼전닉스' 목표주가 또 내렸다",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611240643441453",
+          "published_at": null,
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CLOSE24_CAPP",
+          "title": "Closing Look — Tuesday, November 24, 2026",
+          "publisher": "CappNotes",
+          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24",
+          "published_at": "2026-11-24T22:34:00+00:00",
+          "source_type": "market_newsletter"
+        },
+        {
+          "id": "US_CLOSE24_LB",
+          "title": "Morning Brief: Philadelphia Semiconductor Index plunges nearly 8%, NVIDIA drops 5.86%, Dow Jones reclaims the 50,000-point level; US PCE data to be released tonight",
+          "publisher": "Longbridge",
+          "url": "https://longbridge.com/en/topics/45353208",
+          "published_at": "2026-11-24T23:44:12+00:00",
+          "source_type": "market_newsletter"
+        },
+        {
+          "id": "US_INTRA24_CC",
+          "title": "Chip stocks give back Nvidia's jump: semiconductor index falls 5.6% and the Nasdaq slips 1.2%",
+          "publisher": "The Company Chronicle",
+          "url": "https://thecompanychronicle.com/story/chip-stocks-tumble-nasdaq-falls-1-2-percent-semiconductor-index-down-5-6-percent-november-24-2026",
+          "published_at": "2026-11-24T09:55:00-05:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CLOSE24_NGLOBE",
+          "title": "Memory Chip Stocks Plunge: Micron Drops 11% as Selloff Spreads to Asia and Seoul Trips a Circuit Breaker",
+          "publisher": "N Globe",
+          "url": "https://nglobenews.com/en/article/us-memory-chip-selloff-micron-11-percent-asia-rout-2026-11-25",
+          "published_at": "2026-11-25T13:10:00+00:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "MU_BNP_ADMIRALS",
+          "title": "Micron Stock Drops 11% After BNP Paribas Cuts Target to $775 From $1,700",
+          "publisher": "Admirals",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/micron-stock-downgrade-bnp-paribas-775-target",
+          "published_at": null,
+          "source_type": "news_analysis"
+        },
+        {
+          "id": "US_LIVE25_YAHOO",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+          "published_at": null,
+          "source_type": "news_live_blog"
+        },
+        {
+          "id": "US_LIVE25_STOCKTITAN",
+          "title": "Stock Market Today, November 25, 2026: Chip Stocks Lead the Market Lower as the Sell-Off Deepens",
+          "publisher": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026",
+          "published_at": "2026-11-25T06:58:00-05:00",
+          "source_type": "news_live_blog"
+        },
+        {
+          "id": "US_PRE25_MTC",
+          "title": "Premarket Brief (Wed Nov 25): Chip Selling Deepens Before PCE and Thanksgiving",
+          "publisher": "Meta Trading Club",
+          "url": "https://www.metatradingclub.com/premarket-brief-nov-25-2026-chip-selling-deepens/",
+          "published_at": "2026-11-25T12:55:52+00:00",
+          "source_type": "market_newsletter"
+        },
+        {
+          "id": "US_25_INVESTOPEDIA",
+          "title": "Stock Market Today: Major Indexes Sink as AI Rout Gains Momentum; Nvidia Leads Chip Stock Sell-Off, Anthropic Drops Further Below IPO Price",
+          "publisher": "Investopedia(Yahoo Finance 전재)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-plunge-133240343.html",
+          "published_at": "2026-11-25T05:32:00-08:00",
+          "source_type": "news_live_blog"
+        },
+        {
+          "id": "US_CALENDAR",
+          "title": "Holidays & Trading Hours",
+          "publisher": "NYSE",
+          "url": "https://www.nyse.com/trade/hours-calendars",
+          "published_at": null,
+          "source_type": "official_calendar"
+        }
+      ]
+    },
+    {
+      "ticker": "005930",
+      "company": "삼성전자",
+      "kr_trade_date": "2026-11-25",
+      "price": {
+        "venue": "KRX",
+        "session": "regular_close",
+        "currency": "KRW",
+        "previous_close": 189400,
+        "open": null,
+        "close": 170700,
+        "return_pct": -9.873284,
+        "gap_return_pct": null,
+        "intraday_return_pct": null,
+        "volume": null,
+        "volume_status": "unavailable",
+        "intraday_high": null,
+        "intraday_low": 170000,
+        "missing_reason": "KRX 원표 미접근. 종가·등락률은 다수 매체 일치(-1만8700원). 시가는 확보한 기사에 없어 갭·장중 수익률 null. 장중 저가 17만원(-10.24%)은 연합뉴스 단일 출처. 아시아경제 시세 위젯(15:30 표기)은 17만600원·거래량 1983만주로 다른 출처와 달라 미채택",
+        "source_ids": [
+          "KR_GUKJE",
+          "KR_YNA_SEGYE",
+          "KR_HERALD",
+          "KR_NEWSPIM"
+        ]
+      },
+      "summary": "KRX 정규장 18만9400원→17만700원(-9.87%), 코스피(-6.16%) 대비 -3.71%p. 전날 +6.70%를 하루 만에 모두 반납했고 3월 31일 이후 최저 종가, 시가총액 997조9598억원으로 1000조원 아래. 개장 전 확정된 11/24 미국 반도체 급락(SOX -7.88%, MU -11.01%, NVDA -5.86%)과 BNP파리바의 마이크론 하향(메모리 수급 균형 시점 2027년 중반으로 앞당김)이 1·2순위 후보. 외국인은 코스피 전체 약 -1조8994억원, 삼성 약 -1조80억원(연합 단일·문장 불명확) 순매도했고 공매도 거래대금은 전일 대비 +105%였다.",
+      "top_driver_ids": [
+        "F01_US_SEMI",
+        "F07_MEMORY_CYCLE",
+        "F09_AI_CAPEX"
+      ],
+      "factor_assessments": [
+        {
+          "factor_id": "F01_US_SEMI",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "high",
+          "evidence_type": "observed",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-25T06:00:00+09:00",
+          "new_or_repeated": "신규 반전(11/23 급등 뒤 하루 만의 급락)",
+          "reason": "11/24 미국 정규장 SOX -7.88%(8832.50), MU -11.01%, AMD -8.86%, NVDA -5.86%, AVGO -3.98%, TSM -3.96%, SK하이닉스 ADR -9.90%가 11/25 국내 개장 전(06:00 KST) 확정됐다. 코스피는 -3.94%로 출발해 09:08 매도 사이드카(코스피200 선물 -5.12%)가 났고, 마감 기사들이 미국 AI·반도체 급락을 첫 이유로 꼽았다.",
+          "counterevidence": "삼성 하락(-9.87%)이 SOX(-7.88%)보다 크다. 전날에는 SOX +14%의 절반만 따라 올랐는데 이날은 그 이상 빠져 미국 변동만으로 크기를 설명하기 어렵다. 관세 우려·외국인 대량 매도·공매도 증가가 겹쳤다. 시가를 확보하지 못해 갭과 장중 하락을 나누지 못했다.",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB",
+            "US_CLOSE24_NGLOBE",
+            "KR_YNA_SEGYE",
+            "KR_KDF",
+            "KR_ETODAY"
+          ]
+        },
+        {
+          "factor_id": "F07_MEMORY_CYCLE",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "medium",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "재부각(11/16 이후 처음 상위 후보, 11/23 골드만 목표가 하향의 연장)",
+          "reason": "BNP파리바가 11/24(미국 시간) 마이크론을 Neutral로 낮추고 목표가를 1700→775달러로 깎았다. D램·낸드 수급 균형 시점을 2028년 중반에서 2027년 중반으로 앞당기고 전년비 가격 상승률이 2026년 8월 정점이라고 봤다. 국내 마감 기사(뉴스핌·KDF·톱스타 인용 하나증권)는 '메모리 공급 과잉 우려'를 하락 이유로 들었다.",
+          "counterevidence": "증권사 전망이며 실제 계약가 하락 관측은 아니다. 트렌드포스도 2027년 D램 공급 부족 지속을 전망했다(국내 마감 뒤 보도). 삼성은 비메모리 비중이 있는데도 하이닉스와 비슷하게 빠졌다. 정확한 하향 발표 시각 미확인.",
+          "source_ids": [
+            "MU_BNP_ADMIRALS",
+            "KR_NEWSPIM",
+            "KR_KDF",
+            "KR_TOPSTAR_SHORT"
+          ]
+        },
+        {
+          "factor_id": "F09_AI_CAPEX",
+          "direction": "negative",
+          "relation": "candidate_driver",
+          "confidence": "low",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": "2026-11-25T06:00:00+09:00",
+          "new_or_repeated": "지속(11/20·11/23 상위 후보의 연장)",
+          "reason": "11/24 미국장에서 HPE 실적 전망이 데이터센터 투자 우려를 되살렸고 앤트로픽이 공모가(83달러) 아래로 마감해 AI 자금조달 우려가 커졌다(CappNotes). 국내 기사(재경일보·연합)는 AI 투자 수익성 의구심을 이유로 들었다.",
+          "counterevidence": "F01과 같은 경로라 별도 기여로 나눌 수 없다. 하이퍼스케일러 CAPEX 축소 발표는 확인하지 못했다. Dell은 장 마감 뒤 매출 +103%를 발표했다.",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "KR_JKN",
+            "KR_YNA_SEGYE"
+          ]
+        },
+        {
+          "factor_id": "F12_POLICY",
+          "direction": "negative",
+          "relation": "background",
+          "confidence": "low",
+          "evidence_type": "reported_interpretation",
+          "event_window": "before_kr_open",
+          "event_at": null,
+          "new_or_repeated": "신규 우려",
+          "reason": "로이터(11/24 보도, KDF 인용)는 USTR이 한국 등 16개국 산업 과잉생산 조사 결과와 301조 추가 관세를 곧 제시할 것이라고 전했다. 이투데이 09:22 기사도 경계 요인으로 들었다.",
+          "counterevidence": "국내장 중에는 세율·반도체 포함 여부가 미확정이었다. 실제 발표(한국 최대 15%)는 11/25 08:19 ET(22:19 KST)로 국내 마감 뒤라 원인에 쓰지 않는다.",
+          "source_ids": [
+            "KR_KDF",
+            "KR_ETODAY"
+          ]
+        },
+        {
+          "factor_id": "F05_FOREIGN_FLOW",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "medium",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "전날 순매수(약 +4223억원)에서 반전",
+          "reason": "코스피 외국인 약 -1조8994억원(6일 이후 최대). 삼성 외국인 약 -1조80억원(연합, 문장 불명확·단일 출처). 11:28 기준 외국인·기관 동반 순매도 1위(뉴스티앤티).",
+          "counterevidence": "수급은 매매 결과이며 원인으로 단정하지 않는다. 종목별 금액은 한 매체의 문장이 어색해 확정하지 못했다. 개인은 코스피 +1조4232억원 순매수.",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF",
+            "KR_YNA_SEGYE",
+            "KR_NEWSTNT"
+          ]
+        },
+        {
+          "factor_id": "F14_POSITIONING",
+          "direction": "negative",
+          "relation": "confirmation",
+          "confidence": "low",
+          "evidence_type": "observed",
+          "event_window": "during_kr",
+          "event_at": null,
+          "new_or_repeated": "신규",
+          "reason": "11/25 삼성 공매도 거래대금 803억원으로 전일 대비 +105.5%. 삼성·하이닉스가 코스피 공매도 증가분의 93%(톱스타).",
+          "counterevidence": "단일 출처. 공매도 거래대금은 잔고가 아니며 하락 원인인지 결과인지 구분할 수 없다.",
+          "source_ids": [
+            "KR_TOPSTAR_SHORT"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "KR_005930_RETURN",
+          "value": -9.873284,
+          "unit": "percent",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_GUKJE",
+            "KR_YNA_SEGYE",
+            "KR_HERALD"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_005930_EXCESS_VS_KOSPI",
+          "value": -3.710284,
+          "unit": "percentage_points",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "derived",
+          "source_ids": [
+            "KR_GUKJE",
+            "KR_HERALD"
+          ],
+          "predetermined": false
+        },
+        {
+          "id": "KR_005930_FOREIGN_NET",
+          "value": -10080,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:31:00+09:00",
+          "status": "reported_unclear",
+          "source_ids": [
+            "KR_YNA_SEGYE"
+          ],
+          "predetermined": false,
+          "note": "연합 기사 문장('각각 1조80억원, SK하이닉스는 각각 5천596억원')이 어색해 단일·불확실 값"
+        },
+        {
+          "id": "KR_005930_INSTITUTION_NET",
+          "value": null,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": false,
+          "missing_reason": "마감 기준 종목별 기관 순매수 금액을 확보한 기사에서 찾지 못함(11:28 기준 기관 순매도 1위만 확인)"
+        },
+        {
+          "id": "KR_005930_SHORT_VALUE",
+          "value": 803.04,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T17:54:00+09:00",
+          "status": "reported",
+          "source_ids": [
+            "KR_TOPSTAR_SHORT"
+          ],
+          "predetermined": false,
+          "note": "전일 대비 +105.5%, 단일 출처"
+        },
+        {
+          "id": "KR_005930_MARKET_CAP",
+          "value": 9979598,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:42:21+09:00",
+          "status": "reported",
+          "source_ids": [
+            "KR_GUKJE",
+            "KR_YNA_SEGYE"
+          ],
+          "predetermined": false,
+          "note": "3월 31일 이후 처음 1000조원 하회"
+        }
+      ],
+      "next_checks": [
+        "11/25 미국장 종가(장중 NVDA -7.2%, MU -11.2%, 나스닥 -2.2%)와 11/26 시초가",
+        "11/25 22:19 KST USTR 301조 관세안(한국 최대 15%)의 반도체 포함 여부",
+        "외국인 삼성 순매도 지속 여부와 종목별 확정 금액",
+        "11/26 미국 휴장 → 11/27 국내장은 선행 미국장 없음, 12/1·12/3 젠슨 황 의회 출석"
+      ],
+      "report_date": "2026-11-26",
+      "research_as_of": "2026-11-26T03:06:35+09:00",
+      "market_context": [
+        {
+          "id": "US_SOX_RETURN",
+          "value": -7.88,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_NGLOBE",
+            "KR_YNA_SEGYE",
+            "KR_KDF"
+          ],
+          "predetermined": true,
+          "level": 8832.5,
+          "note": "전일 9,588.05(The Company Chronicle) 대비 계산과 일치. Admirals(재경일보 인용)는 8,849.56(-7.70%)로 다름. SOXX -8.27%"
+        },
+        {
+          "id": "US_NASDAQ_RETURN",
+          "value": -1.48,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 23733.54
+        },
+        {
+          "id": "US_SP500_RETURN",
+          "value": -0.5,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 7201.09,
+          "note": "다우 +0.85%(50,018.70)로 반대 방향"
+        },
+        {
+          "id": "US_NVDA_RETURN",
+          "value": -5.86,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 155.38,
+          "level_unit": "USD"
+        },
+        {
+          "id": "US_MU_RETURN",
+          "value": -11.01,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "MU_BNP_ADMIRALS",
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "level": 629.79,
+          "level_unit": "USD",
+          "note": "BNP파리바 Neutral 하향·목표가 1700→775달러"
+        },
+        {
+          "id": "US_AMD_RETURN",
+          "value": -8.86,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_AVGO_RETURN",
+          "value": -3.98,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true
+        },
+        {
+          "id": "US_TSM_RETURN",
+          "value": -3.96,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP",
+            "US_CLOSE24_LB"
+          ],
+          "predetermined": true,
+          "note": "ADR"
+        },
+        {
+          "id": "SKHY_ADR_RETURN",
+          "value": -9.9,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_ETODAY",
+            "US_CLOSE24_NGLOBE"
+          ],
+          "predetermined": true,
+          "level": 111.98,
+          "level_unit": "USD",
+          "note": "레벨은 Admirals(재경일보 인용). 1 ADS=보통주 1/10"
+        },
+        {
+          "id": "US_10Y_TREASURY",
+          "value": 4.9,
+          "unit": "percent_yield",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "약 -1bp"
+        },
+        {
+          "id": "US_2Y_TREASURY",
+          "value": 4.63,
+          "unit": "percent_yield",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "보합"
+        },
+        {
+          "id": "US_VIX_CLOSE",
+          "value": 26.36,
+          "unit": "index_level",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "-0.98%"
+        },
+        {
+          "id": "WTI_CLOSE",
+          "value": 82.05,
+          "unit": "USD_per_barrel",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "+2.35%, 호르무즈 선박 공격. 브렌트 91.40(+2.27%)"
+        },
+        {
+          "id": "DXY",
+          "value": 103.83,
+          "unit": "index_level",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "-0.47%"
+        },
+        {
+          "id": "FED_DEC_HIKE_PROB",
+          "value": 95,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": "2026-11-25T06:00:00+09:00",
+          "status": "reported",
+          "source_ids": [
+            "US_CLOSE24_CAPP"
+          ],
+          "predetermined": true,
+          "note": "CME FedWatch 12월 25bp 인상 약 95~96%. 윌리엄스 뉴욕연은 총재 12월 인상 지지 신호"
+        },
+        {
+          "id": "KOSPI200_NIGHT_FUTURES_CLOSE",
+          "value": null,
+          "unit": "percent",
+          "session_date": "2026-11-24",
+          "observed_at": "2026-11-25T06:00:00+09:00",
+          "available_at": null,
+          "status": "unavailable",
+          "source_ids": [],
+          "predetermined": true,
+          "missing_reason": "11/24 야간선물 종가 기사 미확보"
+        },
+        {
+          "id": "KOSPI_RETURN",
+          "value": -6.163,
+          "unit": "percent",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_SEGYE_CLOSE",
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "level": 4697.51,
+          "note": "-308.52p. 시가 4809.00(-3.94%), 장중 저가 4672.55(-6.66%). 종가 기준 1/13(4692.64) 이후 최저. 뉴스핌은 4697.49"
+        },
+        {
+          "id": "KOSDAQ_RETURN",
+          "value": -2.29,
+          "unit": "percent",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T15:30:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF",
+            "KR_GUKJE"
+          ],
+          "predetermined": false,
+          "level": 650.64
+        },
+        {
+          "id": "KOSPI_FOREIGN_NET",
+          "value": -18994,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:50:00+09:00",
+          "status": "reported_conflicting",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "6일(-2조6892억원) 이후 최대 순매도. 넥스트레이드 포함 -2조2817억원(KDF). 뉴스핌은 -2조3203억원"
+        },
+        {
+          "id": "KOSPI_INSTITUTION_NET",
+          "value": -8,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:50:00+09:00",
+          "status": "reported_conflicting",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "뉴스핌 -17억원"
+        },
+        {
+          "id": "KOSPI_INDIVIDUAL_NET",
+          "value": 14232,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:50:00+09:00",
+          "status": "reported_conflicting",
+          "source_ids": [
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "기타법인 +4769억원. 뉴스핌 개인 +1조8354억원"
+        },
+        {
+          "id": "USDKRW_DAY_CLOSE",
+          "value": 1343.2,
+          "unit": "KRW_per_USD",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T16:02:00+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_NEWSPIM",
+            "KR_HERALD",
+            "KR_KDF"
+          ],
+          "predetermined": false,
+          "note": "+0.8원. 증시 폭락에도 환율은 거의 보합"
+        },
+        {
+          "id": "KOSPI_SELL_SIDECAR",
+          "value": 1,
+          "unit": "event_flag",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T09:08:32+09:00",
+          "available_at": "2026-11-25T09:08:32+09:00",
+          "status": "final",
+          "source_ids": [
+            "KR_ETODAY",
+            "KR_HERALD"
+          ],
+          "predetermined": false,
+          "note": "코스피200 선물 738.20(-5.12%). 전날 매수 사이드카에 이어 4거래일 연속 사이드카, 올해 102회(헤럴드)"
+        },
+        {
+          "id": "KOSPI_SHORT_VALUE",
+          "value": 8776,
+          "unit": "KRW_100m",
+          "session_date": "2026-11-25",
+          "observed_at": "2026-11-25T15:30:00+09:00",
+          "available_at": "2026-11-25T17:54:00+09:00",
+          "status": "reported",
+          "source_ids": [
+            "KR_TOPSTAR_SHORT"
+          ],
+          "predetermined": false,
+          "note": "+18.4%, 단일 출처"
+        }
+      ],
+      "sources": [
+        {
+          "id": "KR_NEWSPIM",
+          "title": "[마감시황] 코스피, 6%대 급락에 4600선 마감…삼성전자 10%·SK하이닉스11%↓",
+          "publisher": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261125001078",
+          "published_at": "2026-11-25T16:02:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_GUKJE",
+          "title": "코스피 6%대 폭락 마감… 삼성전자 9.87%·SK하이닉스 11.05% 급락",
+          "publisher": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762847",
+          "published_at": "2026-11-25T15:42:21+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_SEGYE_CLOSE",
+          "title": "코스피 6%대 급락, 4700선 아래로…삼성전자·SK하이닉스 9~11%대 ‘털썩’",
+          "publisher": "세계일보",
+          "url": "https://www.segye.com/newsView/20261125513222",
+          "published_at": "2026-11-25T15:53:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_YNA_SEGYE",
+          "title": "삼전닉스 9∼11% 급락…삼전, 시총 1천조원 하회",
+          "publisher": "세계일보(연합뉴스)",
+          "url": "https://www.segye.com/newsView/20261125514095",
+          "published_at": "2026-11-25T16:31:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_HERALD",
+          "title": "코스피 6% 폭락에 고점 대비 '반토막'…올해 사이드카 102회 [투자360]",
+          "publisher": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10949291",
+          "published_at": "2026-11-25T16:50:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_KDF",
+          "title": "[KDF 시황] 코스피, 반등 하루 만에 4700선 아래로…반도체 급락에 관세 부담까지",
+          "publisher": "한국면세뉴스",
+          "url": "https://www.kdfnews.com/news/articleView.html?idxno=191442",
+          "published_at": "2026-11-25T16:51:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_ETODAY",
+          "title": "코스피, 전날 6% 급등 하루 만에 4%대 급락…매도 사이드카",
+          "publisher": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2652609",
+          "published_at": "2026-11-25T09:22:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_JKN",
+          "title": "코스피 6% 폭락해 4,697선…하루 만에 급등분 반납",
+          "publisher": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1122161",
+          "published_at": "2026-11-25T17:57:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_NEWSTNT",
+          "title": "[특징주] 외국인 에스텍·기관 다올투자증권 순매수 1위…삼성전자 동반 순매도",
+          "publisher": "뉴스티앤티",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=730441",
+          "published_at": "2026-11-25T11:33:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_ASIAE_INTRA",
+          "title": "코스피, 4700선도 깨졌다…낙폭 확대",
+          "publisher": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026112514392457675",
+          "published_at": "2026-11-25T14:39:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_TOPSTAR_SHORT",
+          "title": "삼성전자 공매도 105% 급증…SK하이닉스도 64% 증가",
+          "publisher": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16286124",
+          "published_at": "2026-11-25T17:54:00+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_HERALD_TRENDFORCE",
+          "title": "내년 메모리 성장세 둔화 전망…“D램 상승폭 축소·낸드는 하락세 전환”",
+          "publisher": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10949409",
+          "published_at": "2026-11-25T17:58:05+09:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "KR_GS_FN",
+          "title": "\"350만원 간다더니\" 골드만삭스, '삼전닉스' 목표주가 또 내렸다",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611240643441453",
+          "published_at": null,
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CLOSE24_CAPP",
+          "title": "Closing Look — Tuesday, November 24, 2026",
+          "publisher": "CappNotes",
+          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24",
+          "published_at": "2026-11-24T22:34:00+00:00",
+          "source_type": "market_newsletter"
+        },
+        {
+          "id": "US_CLOSE24_LB",
+          "title": "Morning Brief: Philadelphia Semiconductor Index plunges nearly 8%, NVIDIA drops 5.86%, Dow Jones reclaims the 50,000-point level; US PCE data to be released tonight",
+          "publisher": "Longbridge",
+          "url": "https://longbridge.com/en/topics/45353208",
+          "published_at": "2026-11-24T23:44:12+00:00",
+          "source_type": "market_newsletter"
+        },
+        {
+          "id": "US_INTRA24_CC",
+          "title": "Chip stocks give back Nvidia's jump: semiconductor index falls 5.6% and the Nasdaq slips 1.2%",
+          "publisher": "The Company Chronicle",
+          "url": "https://thecompanychronicle.com/story/chip-stocks-tumble-nasdaq-falls-1-2-percent-semiconductor-index-down-5-6-percent-november-24-2026",
+          "published_at": "2026-11-24T09:55:00-05:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "US_CLOSE24_NGLOBE",
+          "title": "Memory Chip Stocks Plunge: Micron Drops 11% as Selloff Spreads to Asia and Seoul Trips a Circuit Breaker",
+          "publisher": "N Globe",
+          "url": "https://nglobenews.com/en/article/us-memory-chip-selloff-micron-11-percent-asia-rout-2026-11-25",
+          "published_at": "2026-11-25T13:10:00+00:00",
+          "source_type": "news_reporting"
+        },
+        {
+          "id": "MU_BNP_ADMIRALS",
+          "title": "Micron Stock Drops 11% After BNP Paribas Cuts Target to $775 From $1,700",
+          "publisher": "Admirals",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/micron-stock-downgrade-bnp-paribas-775-target",
+          "published_at": null,
+          "source_type": "news_analysis"
+        },
+        {
+          "id": "US_LIVE25_YAHOO",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+          "published_at": null,
+          "source_type": "news_live_blog"
+        },
+        {
+          "id": "US_LIVE25_STOCKTITAN",
+          "title": "Stock Market Today, November 25, 2026: Chip Stocks Lead the Market Lower as the Sell-Off Deepens",
+          "publisher": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026",
+          "published_at": "2026-11-25T06:58:00-05:00",
+          "source_type": "news_live_blog"
+        },
+        {
+          "id": "US_PRE25_MTC",
+          "title": "Premarket Brief (Wed Nov 25): Chip Selling Deepens Before PCE and Thanksgiving",
+          "publisher": "Meta Trading Club",
+          "url": "https://www.metatradingclub.com/premarket-brief-nov-25-2026-chip-selling-deepens/",
+          "published_at": "2026-11-25T12:55:52+00:00",
+          "source_type": "market_newsletter"
+        },
+        {
+          "id": "US_25_INVESTOPEDIA",
+          "title": "Stock Market Today: Major Indexes Sink as AI Rout Gains Momentum; Nvidia Leads Chip Stock Sell-Off, Anthropic Drops Further Below IPO Price",
+          "publisher": "Investopedia(Yahoo Finance 전재)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-plunge-133240343.html",
+          "published_at": "2026-11-25T05:32:00-08:00",
+          "source_type": "news_live_blog"
+        },
+        {
+          "id": "US_CALENDAR",
+          "title": "Holidays & Trading Hours",
+          "publisher": "NYSE",
           "url": "https://www.nyse.com/trade/hours-calendars",
           "published_at": null,
           "source_type": "official_calendar"
