@@ -6,9 +6,9 @@
   },
   "timezone": "Asia/Seoul",
   "scheduled_time": "03:00",
-  "latest_report_date": "2026-11-27",
-  "latest_kr_trade_date": "2026-11-26",
-  "report_count": 18,
+  "latest_report_date": "2026-11-28",
+  "latest_kr_trade_date": "2026-11-27",
+  "report_count": 19,
   "report_dates": [
     "2026-11-10",
     "2026-11-11",
@@ -27,7 +27,8 @@
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
-    "2026-11-27"
+    "2026-11-27",
+    "2026-11-28"
   ],
   "reports": [
     {
@@ -173,6 +174,14 @@
       "status": "partial",
       "json": "daily/2026-11-27.json",
       "markdown": "daily/2026-11-27.md"
+    },
+    {
+      "report_date": "2026-11-28",
+      "as_of": "2026-11-28T03:03:55+09:00",
+      "kr_trade_date": "2026-11-27",
+      "status": "partial",
+      "json": "daily/2026-11-28.json",
+      "markdown": "daily/2026-11-28.md"
     }
   ],
   "resources": {
